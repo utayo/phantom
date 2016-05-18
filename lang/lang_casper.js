@@ -30,15 +30,8 @@ casper.start('http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_3.html',functio
 
 
 casper.then(function(){
-	
-	
-	this.echo('Get Syllabus');
-	//requre('utils').dump(arr);
-	/*
-	this.evaluate(function(){
-		arr = document.querySelectorAll('div.course_title > a', 'href');
+	casper.start(arr[0], function(){
+		this.capture('asdf.png');
 	});
-	*/
 });
-
 casper.run();
