@@ -1,5 +1,19 @@
 var casper = require('casper').create({clientScripts: ['./jquery.js']});
 var arr = [];
+var url_num = 0;
+
+casper.on('get_syllabus', function(){
+	var url = arr[url_num];
+
+	this.open(url).then(function(){
+		url_num++;
+		this.capture('./pics/syllabus' + url_num + '.png');
+
+		if(url_num<arr.length&&url_num<10){
+			casper.emit('get_syllabus');
+		}
+	});
+});
 
 casper.start('http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_3.html',function(){
 	this.echo("Language Home Window");
@@ -24,14 +38,20 @@ casper.start('http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_3.html',functio
 			});
 		});
 		require('utils').dump(arr);
+
 	//});
 	//require('utils').dump(arr);
 });
 
 
 casper.then(function(){
-	casper.start(arr[0], function(){
-		this.capture('asdf.png');
-	});
+	if(arr.length > 0){
+		casper.emit('get_syllabus');
+	}else{
+		console.log('Not find');
+	}
 });
+
+
+
 casper.run();
