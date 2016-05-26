@@ -7,9 +7,20 @@ casper.on('get_syllabus', function(){
 
 	this.open(url).then(function(){
 		url_num++;
-		this.capture('./pics/syllabus' + url_num + '.png');
+		casper.viewport(800, 800);
+		this.capture('./syllabus/' + url_num + '/ss.png');
+		var data = [];
+		var fs = require('fs');
 
-		if(url_num<arr.length&&url_num<10){
+		data = this.evaluate(function(){
+			arr = Array.prototype.slice.call(document.querySelectorAll('table'));
+			return arr.map(function(a){
+				return a.innerHTML;
+			});
+		});
+		fs.write('./syllabus/' + url_num + '/table.txt', data, 'a');
+
+		if(url_num<arr.length&&url_num<3){
 			casper.emit('get_syllabus');
 		}
 	});

@@ -1,0 +1,120 @@
+<tbody><tr><td align="left">
+<h1>
+<img src="https://vu.sfc.keio.ac.jp/course2014/img/keio_logo.jpg" align="left" hspace="20">
+慶應義塾大学湘南藤沢キャンパス<br>
+総合政策学部・環境情報学部<br>
+2016年度　シラバス<br>
+</h1>
+</td>
+<td align="right">
+
+</td></tr>
+</tbody>,
+<tbody><tr>
+<td class="ctitle14"><span class="sm">14_B2001</span><br>ＳＦＣ実践英語入門(Gateway A)【１４】</td>
+<td width="25%" class="casp">基盤科目-言語コミュニケーション科目<br><b>登録番号：10790</b>　　4単位</td>
+<td width="40%" class="casp">アスペクト：指定なし</td></tr>
+<tr>
+<td class="ctitle14"><span class="sm">07_02010</span><br>英語基礎１(Gateway A)【０７】</td>
+<td width="25%" class="casp">リフレッシャー科目<br><b>登録番号：29612</b>　　4単位</td>
+<td width="40%" class="casp"></td></tr>
+
+</tbody>,
+<tbody><tr>
+<th>開講日程</th><td>2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限</td>
+<th>担当教員</th><td><a href="https://vu.sfc.keio.ac.jp/faculty_profile//cgi/f_profile.cgi?id=5a7dc81aece4f81d" target="_blank">ゲートウェイ　プログラム</a></td></tr>
+
+<tr>
+<th>関連科目</th><td colspan="1"><br></td>
+
+</tr>
+
+
+
+<tr><th>開講場所</th>
+<td>SFC</td>
+<th>授業形態</th><td>講義、実習・演習</td></tr>
+
+<tr><th>履修者制限</th><td>＊履修希望者は、TOEFLスコアの提出（学事担当窓口）と「英語事前予約システム」から事前エントリーが必要です（新入生を除く）。詳細は、https://vu5.sfc.keio.ac.jp/english-reg/login.php を確認してください。</td>
+<th>履修条件</th><td><br>※TOEFLスコア424点以下の学生対象 <p><br>TOEFLスコアのコピーの提出（学事担当窓口）と「英語事前予約システム」からの事前エントリーが必要です（新入生除く）。選抜結果は英語事前予約システムで確認できます。　https://vu5.sfc.keio.ac.jp/english-reg/login.php <br></p><p><br>英語の履修を希望する場合は、英語セクションWEBサイト（http://english.sfc.keio.ac.jp/）を確認し、英語ガイダンスに出席してください。<br><br></p><p><br>Students must have submitted the TOEFL score in advance (to Gakuji) before pre-registering online (except new students). The result will be announced on the same system. <br><br>[English Pre-regiatration System]<br><br> https://vu5.sfc.keio.ac.jp/english-reg/login.php<br></p><p><br>Please check the English Section website before classes start. Make sure to pre-register and take part in the English Guidance. <br><br>[English Section website]<br><br>http://english.sfc.keio.ac.jp/?lang=en<br></p><div class="eng_txt"></div></td></tr>
+
+<tr><th>使用言語</th><td>英語</td>
+<td></td></tr>
+
+<tr><th>連絡先</th><td></td>
+<th>授業ホームページ</th><td><a href="http://english.sfc.keio.ac.jp/ES/" target="_blank">http://english.sfc.keio.ac.jp/ES/</a></td></tr>
+
+
+
+
+</tbody>,
+<tbody><tr><th class="sub_title1">科目概要</th></tr>
+<tr><td>
+TOEFLスコア424点以下の学生を対象とするコースで、英語基礎力（特にプレゼンテーション能力、コミュニケーション能力）を集中的に習得することを目的としている。このコースは、プロジェクト英語の前提となる英語力強化を目的として設置されたものであり、学期中に行うTOEFL-ITPのスコアがプロジェクト英語履修の際のレベル決定に使われる。なお、このコースは1学期で完結する。 
+
+【参照】SFC GUIDE Vol.3、英語セクションWEBサイト( http://english.sfc.keio.ac.jp/ )
+<div class="eng_txt">
+This gateway course is designed for those students who would like to build the foundations of basic English skills, focusing on presentation skills and communication skills. Those students whose TOEFL score is below 424 are highly encouraged to take this course as a prerequisite for Project English courses, the placement for which will be made on the basis of TOEFL-ITP which will be administered during the term. Please note that this course will completed in one semester.
+
+cf. SFC GUIDE Vol.3、English Section ( http://english.sfc.keio.ac.jp/?lang=en )
+</div></td></tr>
+</tbody>,
+<tbody><tr><th class="sub_title1">授業シラバス</th></tr>
+
+<tr><th class="sub_title2">主題と目標／授業の手法など</th></tr>
+<tr><td>Do you want to use English? Do you want to become more comfortable communicating in English? Do you want to improve your presentation skills?
+<br>Do you want to learn common idioms and useful expressions? Do you want to brush up your grammar? Do you want to improve your TOEFL score and prepare for Project A classes?  Do you want to enjoy speaking English?  If you say “YES!” to any of these questions, GATEWAY is the perfect class for you!
+<br>
+<br>You will meet twice a week. This means you will spend 6 hours using English. You will focus more on fluency rather than accuracy which means you will be able to speak naturally rather than worrying about making mistakes. So JOIN GATEWAY and let’s have fun!!
+<br>
+<br>Learning Outcome:
+<br>By taking 4 periods (koma) a week you will be able to;
+<br>1.	Overcome your shyness and fear.
+<br>2.	Ask questions and answer in full sentences.
+<br>3.	Write logical and accurate sentences.
+<br>4.	Make short presentations.
+<br>5.	Practice REAL English
+<br>6.	Make new friends and become a good team player.
+<br>
+<br><div class="eng_txt"></div></td></tr>
+
+<tr><th class="sub_title2">教材・参考文献</th></tr>
+<tr><td>We will use Developing TOEFL Skills, second Edition text.</td></tr>
+
+<tr><th class="sub_title2">提出課題・試験・成績評価の方法など</th></tr>
+<tr><td>Attendance   30%
+<br>Participation 20%
+<br>Midterm Presentation 20%
+<br>Final Presentation 20%
+<br>Homework and Quizzes 10%
+<br><div class="eng_txt"></div></td></tr>
+
+<tr><th class="sub_title2">履修上の注意</th></tr>
+<tr><td><div class="eng_txt"></div></td></tr>
+
+<tr><th class="sub_title2">授業計画</th></tr>
+<tr><td><p><u>第1回 Selection / </u><br>
+Intro to class / Communication ‘Non-verbal “</p><div class="eng_txt"></div><p><u>第2回 TOEFL Unit 1&amp; 2 /</u><br>
+Communication: Group work and Presentation</p><div class="eng_txt"></div><p><u>第3回 TOEFL Unit 3 &amp; 4 /</u><br>
+Communication:  “Pet Peeves”</p><div class="eng_txt"></div><p><u>第4回 TOEFL Unit 5 &amp; 6 /</u><br>
+Discussion and Presentation</p><div class="eng_txt"></div><p><u>第5回 TOEFL Unit 7 &amp; 8 /</u><br>
+Communication “Cell Phones”
+<br>
+
+<br>
+</p><div class="eng_txt"></div><p><u>第6回 TOEFL Unit 9 &amp; 10 /</u><br>
+Communication “Harmony for International Community”</p><div class="eng_txt"></div><p><u>第7回 TOEFL Unit 11 &amp; 12 /</u><br>
+Communication “How much sleep “
+<br>
+
+<br>
+</p><div class="eng_txt"></div><p><u>第8回  Midterm Presentation</u><br>
+</p><div class="eng_txt"></div><p><u>第9回 TOEFL Unit 13 &amp; 14 /</u><br>
+Communication “Stressed Out?”</p><div class="eng_txt"></div><p><u>第10回 TOEFL Unit 15 &amp; 16 /</u><br>
+Communication “Why Reading is Important.”</p><div class="eng_txt"></div><p><u>第11回 TOEFL Unit 17 &amp; 18 /</u><br>
+Communication “What makes a Hero?”</p><div class="eng_txt"></div><p><u>第12回 TOEFL Review / </u><br>
+Communication “Personal Qualities”</p><div class="eng_txt"></div><p><u>第13回  TOEFL Final Test</u><br>
+</p><div class="eng_txt"></div><p><u>第14回 Final Presentation</u><br>
+</p><div class="eng_txt"></div><p><u>その他</u><br>Review</p><div class="eng_txt"></div>
+</td></tr>
+</tbody>
