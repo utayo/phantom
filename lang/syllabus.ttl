@@ -1,0 +1,8 @@
+@prefix sylb:	<http://example.com/syllabus_vocabulary:> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/syllabus#1>
+	lecb:lecture_id "14_B2001";
+	sylb:summary "英語やります。";
+	sylb:method "げいとうぇい";
+	sylb:schedule "よしなに。".

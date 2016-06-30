@@ -1,0 +1,14 @@
+@prefix sylbank:	<http://example.com/syllabus#> .
+@prefix lecb:	<http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "SFC実践言語入門"@ja;
+	lecb:name "SFC GATEWAY ENGLISH (Gateway A)"@en;
+	lecb:lecture_id "14_B2001";
+	lecb:course_type "Lecture";
+	lecb:course_type "Workshop";
+	lecb:used_language "English";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:syllabus sylbank:1.
+
+
