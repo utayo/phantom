@@ -33,18 +33,6 @@ casper.start(
 						obj["test"].push(t.querySelector('th').innerText);
 					}
 
-
-					/*
-					var txt = t.querySelector('th').innerText;
-					switch(txt){
-						case 'hoge':
-							obj["place"] = t.querySelector('td').innerText;
-							break;
-						default:
-							obj["test"].push(t.querySelector('td').innerText);
-							break;
-					}
-					*/
 				}
 			
 			
