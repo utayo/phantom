@@ -1,0 +1,3 @@
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
