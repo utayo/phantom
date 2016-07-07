@@ -2,7 +2,6 @@ var casper = require('casper').create({
 	clientScripts: ['./jquery.js']
 });
 
-var data = [];
 var fs = require('fs');
 
 casper.start(
@@ -18,19 +17,52 @@ casper.start(
 			a.querySelector('br').remove();
 			obj["ja_name"] = a.innerText;
 			
+			obj["test"] = [];
 			//	table要素から取得したい
+			
+			table_list = document.querySelectorAll('table');
+			
+			t_list = Array.prototype.slice.call(table_list[2].querySelectorAll('tbody tr'));
+			t_list.map(function(t){
+				if(t.querySelector('th')!=null){
+					var th = t.querySelector('th').innerText;
+					//obj["test"].push(th);
+					if(th=='開講日程'){
+						obj["schedule"] = t.querySelector('td').innerText;
+					}else{
+						obj["test"].push(t.querySelector('th').innerText);
+					}
 
+
+					/*
+					var txt = t.querySelector('th').innerText;
+					switch(txt){
+						case 'hoge':
+							obj["place"] = t.querySelector('td').innerText;
+							break;
+						default:
+							obj["test"].push(t.querySelector('td').innerText);
+							break;
+					}
+					*/
+				}
+			
+			
+			});
 			return obj;	//	返却
 		});
+
 		//console.log(data);
 		//require('utils').dump(data);
 		var rdf = "<http://example.com/lecture#1>\n";
 		rdf += '\tlecb:name "' + data["ja_name"] + '"@ja;\n';
 		rdf += '\tlecb:lecture_id "' + data["lecture_id"] + '";\n';
+		rdf += '\tlecb:schedule "' + data["schedule"] + '";\n';
 		console.log(rdf);
 		fs.write('title.txt', rdf, 'a');
-		
-		
+		fs.write('hoge.txt', data["test"], 'a');
+		//console.log(data["test"]);	
+		console.log(data["schedule"]);
 });
 
 casper.run();
