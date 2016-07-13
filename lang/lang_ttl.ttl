@@ -1,0 +1,410 @@
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:schedule "第1回 Selection / 
+Intro to class / Communication ‘Non-verbal “
+
+第2回 TOEFL Unit 1& 2 /
+Communication: Group work and Presentation
+
+第3回 TOEFL Unit 3 & 4 /
+Communication: “Pet Peeves”
+
+第4回 TOEFL Unit 5 & 6 /
+Discussion and Presentation
+
+第5回 TOEFL Unit 7 & 8 /
+Communication “Cell Phones” 
+
+第6回 TOEFL Unit 9 & 10 /
+Communication “Harmony for International Community”
+
+第7回 TOEFL Unit 11 & 12 /
+Communication “How much sleep “ 
+
+第8回 Midterm Presentation
+第9回 TOEFL Unit 13 & 14 /
+Communication “Stressed Out?”
+
+第10回 TOEFL Unit 15 & 16 /
+Communication “Why Reading is Important.”
+
+第11回 TOEFL Unit 17 & 18 /
+Communication “What makes a Hero?”
+
+第12回 TOEFL Review / 
+Communication “Personal Qualities”
+
+第13回 TOEFL Final Test
+第14回 Final Presentation
+その他
+Review
+
+";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:time "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+@prefix sylbank: <http://example.com/syllabus#> .
+@prefix lecb: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lecb:lecture_id "14_B2001";
+	lecb:time "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lecb:teacher "ゲートウェイ　プログラム";
+	lecb:campas "undefined";
+	lecb:course_type "講義、実習・演習";
+	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
