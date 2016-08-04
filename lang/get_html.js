@@ -4,6 +4,7 @@ var casper = require('casper').create({
 
 var fs = require('fs');
 
+
 casper.start(
 	'https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2016_25037&ks=B2001', 
 	function(){
@@ -69,7 +70,25 @@ casper.start(
 
 			return obj;	//	返却
 		});
+		
 
+		fs.exists('./lang_ttl.ttl', function(ex){
+			if(ex){
+				fs.unlink('./lang_ttl.ttl', function(err){
+					if(err) throw err;
+					console.log('Deleted lang_ttl.ttl');
+				});
+			}else{
+				console.log('Not exist ttl file');
+			}
+		});
+
+
+		/*
+		fs.unlink('./lang_ttl.ttl', function(err){
+			console.log('Delete');
+		});
+		*/
 		//console.log(data);
 		//require('utils').dump(data);
 		var rdf = "";
@@ -84,7 +103,8 @@ casper.start(
 		rdf += '\tlecb:course_type "' + data["course_type"] + '";\n';
 		rdf += '\tlecb:homepage "' + data["homepage"] + '";\n';
 		console.log(rdf);
-		fs.write('lang_ttl.ttl', rdf, 'a');
+		var ttl = 'lang_ttl.ttl';
+		fs.write(ttl, rdf, 'w');
 		fs.write('hoge.txt', data["test"], 'a');
 		console.log(data["test"]);
 		console.log(data["schedule"]);
