@@ -6,6 +6,6 @@
 	lecb:lecture_id "14_B2001";
 	lecb:time "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
 	lecb:teacher "ゲートウェイ　プログラム";
-	lecb:campas "undefined";
+	lecb:campas "SFC";
 	lecb:course_type "講義、実習・演習";
 	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";

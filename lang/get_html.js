@@ -38,7 +38,7 @@ casper.start(
 							obj["teacher"] = th.nextSibling.innerText;
 							break;
 						case '開講場所':
-							obj["campas"] = th.nextSibling.innerText;
+							obj["campas"] = th.nextElementSibling.innerText;
 							break;
 						case '授業形態':
 							obj["course_type"] = th.nextSibling.innerText;
