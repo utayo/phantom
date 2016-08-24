@@ -4,9 +4,10 @@ var casper = require('casper').create({
 
 var fs = require('fs');
 
+var get_html_func = function(addr){
 
 casper.start(
-	'https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2016_25037&ks=B2001', 
+	addr,
 	function(){
 		data = this.evaluate(function(){
 			var obj = {};	//	結果出力用
@@ -111,3 +112,7 @@ casper.start(
 });
 
 casper.run();
+
+}
+
+get_html_func('https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2016_25037&ks=B2001');
