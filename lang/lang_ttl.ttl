@@ -1,11 +1,11 @@
-@prefix sylbank: <http://example.com/syllabus#> .
-@prefix lecb: <http://example.com/lecture_vocabulary:> .
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
 
 <http://example.com/lecture#1>
-	lecb:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
-	lecb:lecture_id "14_B2001";
-	lecb:time "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
-	lecb:teacher "ゲートウェイ　プログラム";
-	lecb:campas "SFC";
-	lecb:course_type "講義、実習・演習";
-	lecb:homepage "http://english.sfc.keio.ac.jp/ES/";
+	lect:name "ＳＦＣ実践英語入門(Gateway A)【１４】"@ja;
+	lect:lecture_id "14_B2001";
+	lect:time "2016年度 春学期 水曜日１時限,水曜日２時限,金曜日１時限,金曜日２時限";
+	lect:teacher "ゲートウェイ　プログラム";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";

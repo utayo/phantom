@@ -93,22 +93,31 @@ casper.start(
 		//console.log(data);
 		//require('utils').dump(data);
 		var rdf = "";
-		rdf += "@prefix sylbank: <http://example.com/syllabus#> .\n";
-		rdf += "@prefix lecb: <http://example.com/lecture_vocabulary:> .\n\n";
+		rdf += "@prefix sylbank: <http://example.com/syllabus:> .\n";
+		rdf += "@prefix lect: <http://example.com/lecture_vocabulary:> .\n\n";
 		rdf += "<http://example.com/lecture#1>\n";
-		rdf += '\tlecb:name "' + data["ja_name"] + '"@ja;\n';
-		rdf += '\tlecb:lecture_id "' + data["lecture_id"] + '";\n';
-		rdf += '\tlecb:time "' + data["time"] + '";\n';
-		rdf += '\tlecb:teacher "' + data["teacher"] + '";\n';
-		rdf += '\tlecb:campas "' + data["campas"] + '";\n';
-		rdf += '\tlecb:course_type "' + data["course_type"] + '";\n';
-		rdf += '\tlecb:homepage "' + data["homepage"] + '";\n';
+		rdf += '\tlect:name "' + data["ja_name"] + '"@ja;\n';
+		rdf += '\tlect:lecture_id "' + data["lecture_id"] + '";\n';
+		rdf += '\tlect:time "' + data["time"] + '";\n';
+		rdf += '\tlect:teacher "' + data["teacher"] + '";\n';
+		rdf += '\tlect:campas "' + data["campas"] + '";\n';
+		rdf += '\tlect:course_type "' + data["course_type"] + '";\n';
+		rdf += '\tlect:homepage "' + data["homepage"] + '";\n';
 		console.log(rdf);
 		var ttl = 'lang_ttl.ttl';
 		fs.write(ttl, rdf, 'w');
-		fs.write('hoge.txt', data["test"], 'a');
+		
+		var sylb_rdf = "";
+		sylb_rdf += "@prefix sylbank: <http://example.com/syllabus:> .\n";
+		sylb_rdf += "@prefix lect: <http://example.com/lecture_vocabulary:> .\n\n";
+		sylb_rdf += '\tlect:lecture_id"' + data["lecture_id"] + '"@ja;\n';
+		sylb_rdf += '\tsylb:summary "' + data["summary"] + '";\n';
+		sylb_rdf += '\tsylb:method "' + data["method"] + '";\n';
+		sylb_rdf += '\tsylb:schedule "' + data["schedule"] + '";\n';
+
+		console.log(sylb_rdf);
+
 		console.log(data["test"]);
-		console.log(data["schedule"]);
 });
 
 casper.run();
