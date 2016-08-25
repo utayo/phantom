@@ -60,9 +60,6 @@ Communication “Personal Qualities”
 Review
 
 ";
-@prefix sylbank: <http://example.com/syllabus:> .
-@prefix lect: <http://example.com/lecture_vocabulary:> .
-
 	lect:lecture_id"14_B2001"@ja;
 	sylb:summary "TOEFLスコア424点以下の学生を対象とするコースで、英語基礎力（特にプレゼンテーション能力、コミュニケーション能力）を集中的に習得することを目的としている。このコースは、プロジェクト英語の前提となる英語力強化を目的として設置されたものであり、学期中に行うTOEFL-ITPのスコアがプロジェクト英語履修の際のレベル決定に使われる。なお、このコースは1学期で完結する。 【参照】SFC GUIDE Vol.3、英語セクションWEBサイト( http://english.sfc.keio.ac.jp/ )
 This gateway course is designed for those students who would like to build the foundations of basic English skills, focusing on presentation skills and communication skills. Those students whose TOEFL score is below 424 are highly encouraged to take this course as a prerequisite for Project English courses, the placement for which will be made on the basis of TOEFL-ITP which will be administered during the term. Please note that this course will completed in one semester. cf. SFC GUIDE Vol.3、English Section ( http://english.sfc.keio.ac.jp/?lang=en )
@@ -122,9 +119,6 @@ Communication “Personal Qualities”
 Review
 
 ";
-@prefix sylbank: <http://example.com/syllabus:> .
-@prefix lect: <http://example.com/lecture_vocabulary:> .
-
 	lect:lecture_id"14_B2001"@ja;
 	sylb:summary "TOEFLスコア424点以下の学生を対象とするコースで、英語基礎力（特にプレゼンテーション能力、コミュニケーション能力）を集中的に習得することを目的としている。このコースは、プロジェクト英語の前提となる英語力強化を目的として設置されたものであり、学期中に行うTOEFL-ITPのスコアがプロジェクト英語履修の際のレベル決定に使われる。なお、このコースは1学期で完結する。 【参照】SFC GUIDE Vol.3、英語セクションWEBサイト( http://english.sfc.keio.ac.jp/ )
 This gateway course is designed for those students who would like to build the foundations of basic English skills, focusing on presentation skills and communication skills. Those students whose TOEFL score is below 424 are highly encouraged to take this course as a prerequisite for Project English courses, the placement for which will be made on the basis of TOEFL-ITP which will be administered during the term. Please note that this course will completed in one semester. cf. SFC GUIDE Vol.3、English Section ( http://english.sfc.keio.ac.jp/?lang=en )

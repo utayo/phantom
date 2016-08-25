@@ -89,9 +89,8 @@ casper.on('hoge', function(addr, num){
 		//console.log(rdf);
 		var lec = 'syllabus/' + data["lecture_id"] + '/lecture.ttl';
 		
+		var sylb_rdf_header = "@prefix sylbank: <http://example.com/syllabus:> .\n@prefix lect: <http://example.com/lecture_vocabulary:> .\n\n"
 		var sylb_rdf = "";
-		sylb_rdf += "@prefix sylbank: <http://example.com/syllabus:> .\n";
-		sylb_rdf += "@prefix lect: <http://example.com/lecture_vocabulary:> .\n\n";
 		sylb_rdf += '\tlect:lecture_id"' + data["lecture_id"] + '"@ja;\n';
 		sylb_rdf += '\tsylb:summary "' + data["summary"] + '";\n';
 		sylb_rdf += '\tsylb:method "' + data["method"] + '";\n';
@@ -103,14 +102,12 @@ casper.on('hoge', function(addr, num){
 		console.log(list[data["lecture_id"]]);
 		if(!list[data["lecture_id"]]){
 			fs.write(lec, rdf_header + rdf, 'w');
-			fs.write(syl, sylb_rdf, 'w');
+			fs.write(syl, sylb_rdf_header + sylb_rdf, 'w');
 			list[data["lecture_id"]] = true;
-			
 		}else{
 			fs.write(lec, rdf, 'a');
 			fs.write(syl, sylb_rdf, 'a');
 		}
-
 });
 
 casper.on('get_syllabus', function(){
