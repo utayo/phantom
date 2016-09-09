@@ -1,0 +1,53 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B1002"@ja;
+	sylb:summary "本講義では、環境情報系（環境デザイン、人間環境科学、先端生命科学、先端情報システム、先端領域デザイン）の各領域における問題発見・解決、関係変革のパラダイムについての基本的な考え方に触れる。
+
+As a required subject, “Environment and Information Studies” is aimed to serve as an introduction to SFC, and to the Faculty of Environment and Information Studies. The course consists of lectures, workshops and group presentations. Through the workshops, students are expected to develop the ideas about the ways in which we approach various issues and problems regarding our environment.
+
+";
+	sylb:method "本講義では、環境情報系（環境デザイン、人間環境科学、先端生命科学、先端情報システム、先端領域デザイン）の各領域における問題発見・解決、関係変革のパラダイムについての基本的な考え方に触れる。
+
+As a required subject, “Environment and Information Studies” is aimed to serve as an introduction to SFC, and to the Faculty of Environment and Information Studies. The course consists of lectures, workshops and group presentations. Through the workshops, students are expected to develop the ideas about the ways in which we approach various issues and problems regarding our environment.
+
+";
+	sylb:schedule "第1回 オリエンテーション[ Introduction ]（担当：村井　純、筧　康明、萩野　達也）
+授業概要の説明 
+講義概要・スケジュールの説明 
+第2回の準備 
+A keynote lecture by Dean Jun Murai will set a tone to explore environment and information studies at SFC. The lecture illustrates current research issues and on-going activities around us. A general introduction to the course will also be provided through sharing the basic ideas and future visions of the Faculty.
+第2回 学びかたを学ぶ（ラーニングパターンワークショップ）[ Learning Pattern Workshop ]（担当：村井　純、筧　康明、萩野　達也）
+ラーニングパターンワークショップ）によって学び方を学ぶ. 
+［話題提供＋ワークショップ］井庭 崇
+
+Learning pattern workshop: basic ideas behind the learning style at SFC will be explored and discussed.
+第3回 環境デザインの世界[ Introduction to Environmental Desgin ]（担当：村井　純、筧　康明、萩野　達也）
+環境デザインでは，地球レベルから都市・農村・建築レベルまでの幅広い領域を対象に，持続可能な環境のデザインとガバナンスに関する実践的な教育・研究に取り組んでいます． 
+［話題提供］小林 博人，石川 初
+
+In the field of environmental design, students receive practical education and conduct research related to sustainable environmental design and governance in broad areas such as global environment, architecture and urban/rural environment.
+第4回 先端領域デザインの世界[ Introduction to Design Engineering and Medai Art ]（担当：村井　純、筧　康明、萩野　達也）
+先端領域デザインでは，21世紀に求められている新しいデザインやアートについて研究を進め，デザインに関わる分析・ビジョン構築・作成・評価・マーケティングまでの一連のプロセスをすべて取り扱います． 
+［話題提供］筧 康明，オオニシ タクヤ
+
+In Design Engineering and Media Art field, students study new designs and arts demanded by the twenty-first century. This field deals with the processes relating to media design such as analysis, vision structure, creation, assessment and marketing.
+第5回 先端生命科学の世界[ Introduction to Advanced Biosciences ]（担当：村井　純、筧　康明、萩野　達也）
+先端生命科学では，最先端のバイオテクノロジーと情報技術を融合して生命の仕組みを解き明かし，医療・食品・環境など諸分野への応用を通して国際社会の発展に貢献します． 
+［話題提供］黒田 裕樹，佐野 ひとみ
+
+The study in advanced biosciences aims to contribute to the development of international society by understanding the mechanism of life through integration of most-advanced biotechnology and information technology, and then applying the results of the research to various fields such as medicine, food and environment.
+第6回 先端情報システムの世界[ Introduction to Novel Computing and Communication Systems ]（担当：村井　純、筧　康明、萩野　達也）
+先端情報システムでは，コンピュータやネットワークはその存在を主張せず，情報システムは水や空気のように日常に溶け込み，我々の生活を様々な形で支援する，そのような先端情報システムを創造し，諸問題に挑みます． 
+［話題提供］植原 啓介, 中澤 仁
+
+The novel computing and communication systems addresses various issues in society by creating an advanced information system that merges into everyday life to support human activities in various ways without making computers and networks obtrusive.
+第7回 人間環境科学の世界[ Introduction to Human Environment ]（担当：村井　純、筧　康明、萩野　達也）
+人間環境科学では，人間の構造・機能の理解を目的に，人間が外から情報を取り込み，それを知識・記憶と照合しながら処理し，その結果に基づき行動を起こすまでのプロセスを個人および社会レベルで考えます． 
+［話題提供］仰木 祐嗣，諏訪 正樹
+
+The study of human environment field aims to provide better understanding of human structures and functions by analyzing the process, which human beings assimilate information, verifying information based on previous knowledge and memory, both on a personal and social level.
+その他
+ワークショップ，グループ議論
+
+Workshop, Group discussion";

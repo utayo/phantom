@@ -1,0 +1,19 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "総合政策学【学期前半】【１４】"@ja;
+	lect:lecture_id "14_B1001";
+	lect:time "2016年度 春学期 金曜日３時限";
+	lect:teacher "河添　健、國枝　孝弘、琴坂　将広";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "undefined";
+<http://example.com/lecture#1>
+	lect:name "総合政策学【学期前半】(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B1001";
+	lect:time "2016年度 秋学期 火曜日１時限";
+	lect:teacher "河添　健、井庭　崇、琴坂　将広";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";
+	lect:homepage "undefined";

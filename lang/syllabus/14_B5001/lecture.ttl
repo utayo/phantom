@@ -1,0 +1,35 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "心身ウェルネス【学期前半】(【14】クラス01～13,27)【１４】"@ja;
+	lect:lecture_id "14_B5001";
+	lect:time "2016年度 春学期 月曜日２時限";
+	lect:teacher "濱田　庸子、山内　慶太、貞安　元、平野　学、松本　智子、横山　裕一";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "undefined";
+<http://example.com/lecture#1>
+	lect:name "心身ウェルネス【学期後半】(【14】クラス14～26,28,29)【１４】"@ja;
+	lect:lecture_id "14_B5001";
+	lect:time "2016年度 春学期 月曜日２時限";
+	lect:teacher "濱田　庸子、山内　慶太、貞安　元、平野　学、松本　智子、横山　裕一";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "undefined";
+<http://example.com/lecture#1>
+	lect:name "心身ウェルネス【学期前半】【１４】"@ja;
+	lect:lecture_id "14_B5001";
+	lect:time "2016年度 秋学期 月曜日２時限";
+	lect:teacher "濱田　庸子、山内　慶太、貞安　元、松本　智子、横山　裕一";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "undefined";
+<http://example.com/lecture#1>
+	lect:name "心身ウェルネス【学期前半】(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B5001";
+	lect:time "2016年度 秋学期 月曜日２時限";
+	lect:teacher "濱田　庸子、山本　薫、横山　裕一";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "undefined";

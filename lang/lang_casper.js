@@ -2,6 +2,12 @@ var casper = require('casper').create({clientScripts: ['./jquery.js']});
 var arr = [];
 var url_num = 0;
 
+var addr_list = [
+
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_2.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_7.html'
+];
+
 var fs = require('fs');
 var list = {};
 
@@ -27,6 +33,7 @@ casper.on('hoge', function(addr, num){
 					var th_list = Array.prototype.slice.call(t.querySelectorAll('th'));
 					//obj["test"].push(th);
 					th_list.map(function(th){
+					if(th.nextElementSibling.innerText!=""){
 					switch(th.innerText){
 						case '開講日程':
 							//obj["schedule"] = t.querySelector('td').innerText;
@@ -46,10 +53,11 @@ casper.on('hoge', function(addr, num){
 							break;
 						case '授業ホームページ':
 							obj["homepage"] = th.nextSibling.innerText;
-							break;
+						break;
 						default:
 							obj["test"].push(th.innerText);
 							break;
+					}
 					}
 					});
 				}			
@@ -112,9 +120,8 @@ casper.on('hoge', function(addr, num){
 
 casper.on('get_syllabus', function(){
 	var url = arr[url_num];
-
+	this.echo(url_num);
 	this.open(url).then(function(){
-		url_num++;
 		/*
 		url_num++;
 		casper.viewport(800, 800);
@@ -135,16 +142,29 @@ casper.on('get_syllabus', function(){
 		}
 		*/
 		casper.emit('hoge', url, url_num);
-		if(url_num<arr.length&&url_num<6){
+
+		casper.then(function(){
+		this.echo('次'+(url_num+1));
+		url_num++;
+		if(url_num<arr.length&&url_num<10000){
 			casper.emit('get_syllabus');
 		}else{
 			console.log(Object.keys(list));
 			console.log(Object.keys(list).length);
+			casper.emit('aaa');
 		}
+		});
 	});
 });
 
-casper.start('http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_3.html',function(){
+casper.on('aaa', function(){
+	console.log(Object.keys(list));
+});
+
+casper.on('get_addr', function(n){
+casper.start(addr_list[n],
+	function(){
+	this.echo(addr_list[n]);
 	this.echo("Language Home Window");
 	//	くっそ重いので作らない
 	//this.capture('lang_home_window.png');
@@ -160,24 +180,34 @@ casper.start('http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_3.html',functio
 	this.echo(arr);
 	*/
 	//this.evaluate(function(){
-		arr = this.evaluate(function(){
+		var new_arr = this.evaluate(function(){
 			al = Array.prototype.slice.call(document.querySelectorAll('.course_title > a'));
 			return  al.map(function(a){
 				return a.getAttribute('href');
 			});
 		});
-		require('utils').dump(arr);
-
+		require('utils').dump(new_arr);
+		
+		arr = arr.concat(new_arr);
+		if(n+1<addr_list.length){
+			casper.emit('get_addr', n+1);
+		}else{
+			casper.emit('get_syllabus');
+		}
+		this.echo(arr.length);
 	//});
 	//require('utils').dump(arr);
 });
+});
 
+casper.emit('get_addr', 0);
 
 casper.then(function(){
 	if(arr.length > 0){
+		this.echo('hogehoge');
 		casper.emit('get_syllabus');
 	}else{
-		console.log('Not find');
+		this.echo('Not find');
 	}
 });
 
