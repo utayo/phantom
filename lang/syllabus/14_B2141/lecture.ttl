@@ -1,0 +1,31 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "朝鮮語ベーシック１A【１４】"@ja;
+	lect:lecture_id "14_B2141";
+	lect:time "2016年度 春学期 火曜日３時限,木曜日３時限";
+	lect:teacher "金　泰仁、金　秀美";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "朝鮮語ベーシック１B【１４】"@ja;
+	lect:lecture_id "14_B2141";
+	lect:time "2016年度 春学期 月曜日３時限,火曜日４時限";
+	lect:teacher "金　泰仁、金　秀美";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "朝鮮語ベーシック１A【１４】"@ja;
+	lect:lecture_id "14_B2141";
+	lect:time "2016年度 秋学期 月曜日３時限,木曜日３時限";
+	lect:teacher "金　泰仁";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "朝鮮語ベーシック１B【１４】"@ja;
+	lect:lecture_id "14_B2141";
+	lect:time "2016年度 秋学期 火曜日３時限,金曜日３時限";
+	lect:teacher "金　秀美、富所　明秀";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "企業の社会的責任と社会・経済の活性化【１４】"@ja;
+	lect:lecture_id "14_C1046";
+	lect:time "2016年度 秋学期 水曜日３時限";
+	lect:teacher "村上　恭一";
+	lect:campas "SFC";
+	lect:course_type "講義";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "国際企業論【学期前半】【１４】"@ja;
+	lect:lecture_id "14_C1096";
+	lect:time "2016年度 秋学期 水曜日１時限,水曜日２時限";
+	lect:teacher "琴坂　将広";
+	lect:campas "SFC";
+	lect:course_type "講義";

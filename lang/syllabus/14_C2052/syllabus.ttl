@@ -1,0 +1,76 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2052";
+	sylb:summary "スポーツバイオメカニクスは，身体運動のメカニズムを力学的な視点から観察し分析する学問であるといえる．ここで言う観察とは映像やモーションキャプチュアなどによって得られた位置情報や関節角度情報などによる運動学と，フォースプレートや圧力センサなどによって得られた力やトルクなどによる運動力学の2つのアプローチがある．また身体運動は脳の指令によって筋肉が動かされることから，神経生理学・筋生理学の知見が運動パフォーマンスの理解には不可欠である．いかにしてスポーツパフォーマンスを向上させるのか？という観点で様々な競技スポーツ，運動に関するバイオメカニクスを論じる
+
+Sports biomechanics focuses on the human movement in our sports activity from the view point of the mechanics. Sports biomechanics has mainly two approaches, Kinematics and Kinetics. Kinematics is focusing on the displacement, velocity, acceleration and their angular alternatives, namely the result of the movement. Kinetics is focusing on the force/ moment, power and energy, namely, the source of the movement. I addition to these approaches, since our human motion is caused by the signal from our brain. A neuro physical approach is necessary for sports biomechanics. In this lecture, we will study how sports biomechanics enhance the athletes performance and prevent injury.
+
+";
+	sylb:method "スポーツバイオメカニクスは，身体運動のなかでも高度に洗練されたパフォーマンスであるスポーツの運動原理、メカニズムを力学的な視点から観察し分析する学問である． ここで言う観察とは映像やモー ションキャプチュアなどによって得られた位置情報や関節角度情報などによる運動学と，フォースプレートや圧力センサなどによって得られた力やトルクなどに よる運動力学の2つのアプローチがある．また身体運動は脳の指令によって筋肉が動かされることから，神経生理学・筋生理学の知見が運動パフォーマンスの理解には不可欠である．いかにしてスポーツパフォーマンスを向上させるのか？という観点で様々な競技スポーツ，運動に関するバイオメカニクスを論じる。 競技スポーツのパフォーマンスにとどまらず、歩行や垂直跳びといったヒトの基本的動作についての知識も学習する
+
+Sports biomechanics focuses on the human movement in our sports activity from the view point of the mechanics. Sports biomechanics has mainly two approaches, Kinematics and Kinetics. Kinematics is focusing on the displacement, velocity, acceleration and their angular alternatives, namely the result of the movement. Kinetics is focusing on the force/ moment, power and energy, namely, the source of the movement. I addition to these approaches, since our human motion is caused by the signal from our brain. A neuro physical approach is necessary for sports biomechanics. In this lecture, we will study how sports biomechanics enhance the athletes performance and prevent injury.
+
+Here, we are studying on the basic human motion, such as walking, running and so on. Then, we are studying on the wide topics in our sports activities.
+
+";
+	sylb:schedule "第1回 Chapter 1 : 動作分析への招待．Chapter 2 : 力学および動作分析におけるスカラー量とベクトル量[ Chapter 1 and Chapter 2: Mechanics and motion analysis ]
+スポーツバイオメカニクス説明，前提知識の確認，ヒトの解剖学的構造・筋生理学の基礎．座標系，変位・速度・加速度，ベクトルによる運動表現，重心
+
+Introduction of the sports biomechanics. Confirmation of the prerequisites for this lecture. (Chapter 1) Fundamental anatomical and physiological issues on the sports biomechanics. (Chapter 2) Coordination system, vector, etc.
+第2回 Motion Captureで運動学データを取得する[ Motion capture workshop ]
+モーションキャプチャーデータデータの取得
+
+Motion capture data acquisition
+第3回 Chapter 3 : 並進運動学[ Chapter 3 Linear Kinematics ]
+慣性の法則の理解
+
+Newton's law
+第4回 Chapter 4: つりあい[ Chapter 4 Equiliblium ]
+モーメントのつりあいの理解
+
+Equiliblium
+第5回 Chapter 5 : 力学I[ Chapter 5 Mechanics I ]
+ニュートンの運動法則を使ったスポーツ運動の分析 
+
+Newton's Law applications on the sports activity.
+第6回 Chapter 6 : 力学II[ Chapter 6 Mechanics II ]
+エネルギ，パワー，仕事の理解
+
+Energy, power and work
+第7回 Chapter 7 :角運動学[ Chapter 7 Angular Kinematics ]
+角度・角速度・角加速度
+
+Energy, power and work
+第8回 Chapter 8 : 回転力学[ Chapter 8 Moment of inertia ]
+慣性モーメント
+
+Moment of inertia and conecpt understandings on the sports motion
+第9回 Chapter 9 : データのフィルタリング，平滑化，トレンド．Chapter 10 : スプレッドシートを用いたモーションデータの調査[ Chapter 9 and Chapter 10 ; Data analysis on the expeerimental data set ]
+実験データの処理方法．実験データの処理方法．ただし，スプレッドシートは用いずに，Wolfram社の，数式処理アプリケーションである，Mathematicaを用いる．
+
+Data analysis on the sports biomechanics using mathematical analytical software, Mathematica
+第10回 Chapter 12 : 歩行分析とバイオメカニクス[ Chapter 12 Gait analysis and biomechanics ]
+モーションキャプチャーデータの分析
+
+Analysis of the motion capture data
+第11回 Chapter 13: 歩行分析とバイオメカニクス[ Chapter 13 Gait analysis and biomechanics ]
+モーションキャプチャーデータの分析
+
+Analysis of the motion capture data
+第12回 Chapter 13: 歩行分析とバイオメカニクス[ Chapter 13 Gait analysis and biomechanics ]
+モーションキャプチャーデータの分析
+
+Analysis of the motion capture data
+第13回 Chapter 11 : 飛行中のボールと流体力学[ Chapter 11 Sports fluid Dynamics ]
+流体力学の基本．抵抗，抗力，揚力，
+
+Sports fluid dynamics, swimming, ski, etc
+第14回 総括[ Conclusion : Sports skill assessment ]
+オリンピックアスリートのスキル分析
+
+Skill assessment of the top athletes.
+その他
+スポーツバイオメカニクスの計測方法
+
+Measurement in sports biomechanics.";

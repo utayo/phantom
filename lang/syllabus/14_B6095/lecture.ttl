@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "建築生産とデザイン【１４】"@ja;
+	lect:lecture_id "14_B6095";
+	lect:time "2016年度 秋学期 月曜日３時限";
+	lect:teacher "オオニシ　タクヤ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

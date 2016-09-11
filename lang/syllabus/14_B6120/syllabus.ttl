@@ -1,0 +1,82 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6120";
+	sylb:summary "「対話による学び」や「つくることによる学び」の場をどのようにつくればよいのでしょうか？ 本講義では、その場のひとつのかたちとして「ワークショップ」（workshop）の可能性を考えます。 現在、いろいろな種類のワークショップが開かれていますが、それらのワークショップの背後にはどのような設計意図や工夫があるのでしょうか？ また、自分たちがワークショップをつくるときには、何をどのように考えればよいのでしょうか？ そして、ワークショップのファシリテーションにおいては、何に気をつければよいのでしょうか？ これらのことを考え・学ぶために、授業と並行して、ワークショップを考案・設計するグループワークを行います。授業の後半では、他の履修者を対象に、自分たちの考案・設計したワークショップを実施します。これにより、「ワークショップデザイン」の感覚・スキルを実践的に高めたいと思います。最終的には、履修者ひとりひとりがつかんだワークショップ・デザインの秘訣を、パターン・ランゲージの形式でまとめ、自分たちの実践につなげる準備を行うことにします。
+
+In this course, we will share how to create workshops. Participants will create a workshop in a group, and facilitate it for other students. We will hold refection & discussion session for understanding and improving our skills to design workshops.
+
+Based on the experience in this class, you will write pattern language for designing workshops, where patter language is a method to scribe out the practical knowledge related to a certain field of knowledge.
+
+";
+	sylb:method "「対話による学び」や「つくることによる学び」の場をどのようにつくればよいのでしょうか？ 本講義では、その場のひとつのかたちとして「ワークショップ」（workshop）の可能性を考えます。
+
+現在、いろいろな種類のワークショップが開かれていますが、それらのワークショップの背後にはどのような設計意図や工夫があるのでしょうか？ また、自分たちがワークショップをつくるときには、何をどのように考えればよいのでしょうか？ そして、ワークショップのファシリテーションにおいては、何に気をつければよいのでしょうか？
+
+これらのことを考え・学ぶために、授業と並行して、ワークショップを考案・設計するグループワークを行います。授業の後半では、他の履修者を対象に、自分たちの考案・設計したワークショップを実施します。これにより、「ワークショップデザイン」の感覚・スキルを実践的に高めたいと思います。最終的には、履修者ひとりひとりがつかんだワークショップ・デザインの秘訣を、パターン・ランゲージの形式でまとめ、自分たちの実践につなげる準備を行うことにします。
+
+In this course, we will share how to create workshops. Participants will create a workshop in a group, and facilitate it for other students. We will hold refection & discussion session for understanding and improving our skills to design workshops.
+
+Based on the experience in this class, you will write pattern language for designing workshops, where patter language is a method to scribe out the practical knowledge related to a certain field of knowledge.
+
+";
+	sylb:schedule "第1回 イントロダクション[ Introduction ]
+授業の内容、進め方について理解します。
+
+The overview and requirements for this course will be provided.
+第2回 ワークショプ体験と設計意図[ Workshop and its design ]
+ワークショップを実際に体験し、その設計意図について考えます。
+
+You will experience a workshop and discuss about the design of it.
+第3回 ワークショップ・デザイン論 #1[ Workshop Design #1 ]
+ワークショップのつくり方について学びます。
+
+You will learn how to create a workshop.
+第4回 ワークショップ・デザイン論 #2[ Workshop Design #2 ]
+ワークショップをより効果的にするための考え方について学びます。
+
+You will learn how to improve the workshop.
+第5回 秘訣の言語化（パターン・ランゲージの形式と書き方） #1[ How to write practical knowledge in pattern language form #1 ]
+ワークショップ・デザインの秘訣をまとめる最終レポートのための言語化方法について学びます。
+
+You will learn how to write practical knowledge of designing workshops as a pattern language.
+第6回 秘訣の言語化（パターン・ランゲージの形式と書き方） #2[ How to write practical knowledge in pattern language form #1 ]
+ワークショップ・デザインの秘訣をまとめる最終レポートのための言語化方法について学びます。
+
+You will learn how to write practical knowledge of designing workshops as a pattern language.
+第7回 ワークショップ実践 #1[ Workshop Practice #1 ]
+グループで考案・設計したワークショップを、他の履修者を対象に実施します。
+
+Some groups facilitate their original workshop for other students.
+第8回 振り返り・ディスカッション #1[ Reflection & Discussion #1 ]
+実施したワークショップについて振り返り、議論します。
+
+We will reflect and discuss the workshops.
+第9回 ワークショップ実践 #1[ Workshop Practice #2 ]
+グループで考案・設計したワークショップを、他の履修者を対象に実施します。
+
+Some groups facilitate their original workshop for other students.
+第10回 振り返り・ディスカッション #1[ Reflection & Discussion #2 ]
+実施したワークショップについて振り返り、議論します。
+
+We will reflect and discuss the workshops.
+第11回 ワークショップ実践 #1[ Workshop Practice #3 ]
+グループで考案・設計したワークショップを、他の履修者を対象に実施します。
+
+Some groups facilitate their original workshop for other students.
+第12回 振り返り・ディスカッション #1[ Reflection & Discussion #3 ]
+実施したワークショップについて振り返り、議論します。
+
+We will reflect and discuss the workshops.
+第13回 ワークショップ実践 #1[ Workshop Practice #4 ]
+グループで考案・設計したワークショップを、他の履修者を対象に実施します。
+
+Some groups facilitate their original workshop for other students.
+第14回 振り返り・ディスカッション #1[ Reflection & Discussion #4 ]
+実施したワークショップについて振り返り、議論します。
+
+We will reflect and discuss the workshops.
+その他
+グループワーク, 宿題, レポート
+
+group work, homework, report";

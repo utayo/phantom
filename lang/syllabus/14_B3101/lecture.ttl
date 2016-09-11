@@ -1,0 +1,45 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "統計基礎[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3101";
+	lect:time "2016年度 春学期 火曜日２時限";
+	lect:teacher "小暮　厚之";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "統計基礎[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3101";
+	lect:time "2016年度 春学期 月曜日１時限";
+	lect:teacher "馬場　国博";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "統計基礎[DS1](GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B3101";
+	lect:time "2016年度 春学期 月曜日３時限";
+	lect:teacher "竹内　円雅";
+	lect:campas "SFC";
+<http://example.com/lecture#1>
+	lect:name "統計基礎[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3101";
+	lect:time "2016年度 秋学期 金曜日１時限";
+	lect:teacher "猪狩　良介";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "統計基礎[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3101";
+	lect:time "2016年度 秋学期 木曜日３時限";
+	lect:teacher "片岡　正昭";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "統計基礎[DS1](GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B3101";
+	lect:time "2016年度 秋学期 金曜日１時限";
+	lect:teacher "バティ，　アーロン";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";
+	lect:homepage "http://enserver.sfc.keio.ac.jp/moodle/course/view.php?id=40";

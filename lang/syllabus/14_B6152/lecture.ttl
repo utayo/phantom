@@ -1,0 +1,11 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "生命現象と現実社会の比較論【１４】"@ja;
+	lect:lecture_id "14_B6152";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "黒田　裕樹";
+	lect:campas "SFC";
+	lect:course_type "講義";
+	lect:homepage "kerolab.jp";

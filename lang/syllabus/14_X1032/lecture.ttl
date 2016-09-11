@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "スチューデントビルドキャンパス（ＳＢＣ）実践【１４】"@ja;
+	lect:lecture_id "14_X1032";
+	lect:time "2016年度 秋学期 火曜日２時限";
+	lect:teacher "小林　博人、井庭　崇、連　勇太朗";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

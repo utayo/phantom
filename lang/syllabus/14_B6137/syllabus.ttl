@@ -1,0 +1,100 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6137";
+	sylb:summary "The Internet becomes a social infrastructure in the last 20 years. On the other hand, only specialists know the details of the Internet technology. The goal of this class is that you learn the concept of Internet, how to work using the Internet. The architecture of the Internet is very simple. The simplicity is the most important point to be base of various system. インターネットはここ20年余で急速な成長を遂げ、情報化時代に欠かせない社会基盤となった。現在では、インターネットは一般の人にも身近なものとなり、その技術は専門家のみが知るところとなっている。本授業では、インターネットの技術と哲学を解説し、今後、インターネットを使って活動するための基礎的な力を養うことを目的とする。 インターネットのアーキテクチャは極めてシンプルであり、そのシンプルさゆえに、様々なシステムの基盤と成り得ている。本講義では、コンピュータネットワークの基本をインターネットを事例として学ぶ。
+";
+	sylb:method "The Internet becomes a social infrastructure in the last 20 years. On the other hand, only specialists know the details of the Internet technology. The goal of this class is that you learn the concept of Internet, how to work using the Internet. 
+
+The architecture of the Internet is very simple. The simplicity is the most important point to be base of various system. 
+
+Students who take this class are assumed that he or she understand the concept and the mechanisms of the Internet, can point out the point of failure when he or she got a problems. 
+
+This class is formed as the traditional lecture using slides. There's no textbook. However some books or materials are introduced in the class. 
+
+インターネットはここ20年余で急速な成長を遂げ、情報化時代に欠かせない社会基盤となった。現在では、インターネットは一般の人にも身近なものとなり、その技術は専門家のみが知るところとなっている。本授業では、インターネットの技術と哲学を解説し、今後、インターネットを使って活動するための基礎的な力を養うことを目的とする。 
+インターネットのアーキテクチャは極めてシンプルであり、そのシンプルさゆえに、様々なシステムの基盤と成り得ている。本講義では、コンピュータネットワークの基本をインターネットを事例として学ぶ。 
+
+本講義を履修した者は、インターネットのコンセプトと仕組みを理解し、接続に問題がある場合などにその原因を特定できるようなスキルを身につけることを目標とする。 
+
+本授業は講義を中心として進められる。教科書は用いないがスライドは授業終了後に配布される。
+";
+	sylb:schedule "第1回 Introduction & Guidance
+- Introduction to Computer networking 
+- Application and Computer networks 
+- Guidance
+
+第2回 Overview of Networking
+- Layering Model (OSI 7 Layer model) 
+- Network topologies (Star, Bus, Tree, P2P, Ring) 
+- Link and Node 
+- WAN and LAN 
+- Standardization (IEEE802, RFC)
+
+第3回 Physical Layer
+- Multiplexing (FDM/CDM/TDM/SDM) 
+- Coding (Manchester/NRZ/4B5B) 
+- Modulation (PAM/QAM) 
+- Collision detection
+
+第4回 Datalink Layer
+- MAC (Aloha, Slotted Aloha, Persistent CSMA, Non-persistent CSMA, CSMA/CD, CSMA/CA) 
+- Spanning tree 
+- CRC
+
+第5回 Network Layer
+- Internet Protocol 
+- Addressing 
+- DHCP 
+- ARP 
+- Forwarding Table 
+- ICMP
+
+第6回 Routing and Switching
+- Routing and Forwarding 
+- Routing Algorithm (Distance Vector, Link State) 
+- Autonomous System
+
+第7回 Transport Layer
+- TCP and UDP 
+- Socket, Port number, PCB (Protocol Control Block)
+
+第8回 Theories of Communication
+- Shannon’s low 
+- Data compression 
+- Error detection and correction code
+
+第9回 Error control
+- Stop-and-Wait ARQ 
+- GBN ARQ 
+- Selective-repeat ARQ
+
+第10回 Theory of TCP
+- Flow control 
+- Congestion control 
+- Retransmission control
+
+第11回 Domain Name System
+- Domain Name and IP address 
+- DNS and Application
+
+第12回 Application Layer
+- Mail system 
+- Web system 
+- other applications
+
+第13回 Security
+- Cryptography 
+- Secure protocols (IPsec, SSL) 
+- Public Key Infrastructure 
+- Firewalls, IDS, IPS, DMZ
+
+第14回 Design and Management
+- Load balancing 
+- MIB 
+- Simple Network Management Protocol
+
+その他
+課題
+Assignment
+";

@@ -1,0 +1,141 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1116";
+	sylb:summary "Die Geschichte Europas des 20. Jahrhunderts ist eng mit dem Schicksal Oesterreichs verknuepft: Der Erste Weltkrieg nahm mit einem Konflikt zwischen Oesterreich und Serbien seinen Anfang und der Nationalsozialismus, der Zweite Weltkrieg, sowie der Holocaust wurden massgeblich von Oesterreichern mitverantwortet. Auf der anderen Seite hat Oesterreich wesentlich zur europaeischen Kultur- und Sozialgeschichte des vergangenen Jahrhunderts beigetragen: Die Psychoanalyse Sigmund Freuds, die Wiener Moderne (Klimt, Schiele, Wagner, etc.) und die Oesterreichische Schule der Nationaloekonomie (Boehm-Bawerk, Mises, Hayek) zaehlen zu den wichtigsten Leistungen des Jahrhunderts. Das Nachkriegs-Oesterreich hat als Standort vieler internationaler Institutionen (UNO, OPEC, OSZE) und mit einer aktiven Neutralitaetspolitik einen wertvollen Beitrag zur Entwicklung eines friedlichen Europas geleistet. Diese Spannungen und Widersprueche sollen im vorliegenden Kurs thematisiert werden.
+
+The lecture is taught in German
+
+";
+	sylb:method "Der Kurs besteht aus Vortraegen des Dozenten und aktiven Beitraegen der Studierenden wie Referate, Gruppendiskussionen, Forschungsauftraege (z.b. im Internet) und vieles mehr. Die Teilnehmer und Teilnehmerinnen sollten bereit sein, eigenstaendig Themen zu bearbeiten und gemeinsam zu diskutieren.
+
+";
+	sylb:schedule "第1回 Einführung
+Oesterreich. Eine kurze Vorstellung. 
+Was wissen Sie über Oesterreich? Was wollen Sie wissen? 
+Kennenlernen der Teilnehmer- und Teilnehmerinnen, bzw. des Dozenten 
+第2回 Überblick – Themen des Kurses
+Erlaeuterung der Themen des Kurses; Vergabe von Referaten und Themen 
+Oesterreich-Klischees (ステレオタイプ): Was stimmt, was ist falsch? 
+Unterschiede Oesterreich und Deutschland in Kultur, Gesellschaft und Sprache 
+
+第3回 Geografie 
+Natur- und Kulturlandschaft; Staedte und Bundeslaender; Umwelt- und Umweltschutz 
+Die besondere Beziehung der Österreicher zu ihrer Landschaft (z.b: in der Nationalhymne,1. Zeile: „Land der Berge, Land am Strome, Land der Aecker, Land der Dome…“) 
+第4回 Geschichte Teil 1: Das Habsburger Reich
+Die oesterreichisch‐ungarische Monarchie wird haeufig als Modell fuer das 
+geeinte Europa genannt. Gleichzeitig wurde es von vielen Kronlaendern als 
+"Voelkerkerker" emfpunden. Schliesslich gilt es auch als Wiege des Antisemitismus in Mitteleuropa. 
+
+第5回 Geschichte Teil 2: Zwei Weltkriege mit Ausgangspunkt Oesterreich
+Die beiden Weltkriege sind eng mit der Geschichte Oesterreichs verbunden. Diese 
+Seminareinheit soll die Mitverantwortung des Landes und der Bevoelkerung an den 
+Katastrophen des 20. Jahrhunderts klaeren. 
+第6回 Oesterreich heute (Zeitgeschichte und Politik)
+Das moderne Oesterreich seit 1945 
+Neutralitaet (1955), Modernisierung (1970er), EU-Beitritt (1995), Wirtschaftskrise (2008) 
+Konflikte, Probleme und Chancen 
+第7回 Wirtschaft
+Tourismus, Dienstleistungen, Industrie und Landwirtschaft 
+Entwicklung von der Agrarwirtschaft zur Industrie- und Dienstleistungswirtschaft 
+Unternehmen und Produkte aus Oesterreich, Kostproben oesterreichischer Lebensmittel 
+第8回 Bildung
+Das oesterreichische Schul- und Universitätssystem 
+Beruehmte Unis und bekannte Wissenschaftler (Nobelpreisträger, Erfinder, etc.) 
+Deutschkurse und Angebote für internationale Studierende
+
+第9回 Psychoanalyse
+Das Werk Sigmund Freuds und seine Bedeutung fuer die europaeische Kulturgeschichte. 
+
+第10回 Musik
+Klassische Musik 
+Bedeutung der Musik für das Oesterreichbild und den Tourismus (Mozart vs. „Rock me Amadeus“) 
+Pop-Musik (inkl. Hip Hop, Rock, Techno, etc.), deutsche Songtexte 
+第11回 Malerei und Bildende Kunst
+Epochen der Kunstgeschichte 
+Bekannte Maler und Bildhauer 
+Kulturkaempfe 
+第12回 Architektur
+Wichtige Gebäude in Wien, Salzburg und den Bundesländern 
+Stile und Epochen der Architektur 
+Entwicklungen in der Gegenwart 
+第13回 Film
+Filme und Regisseure 
+Oscar-Preisträger (z.b. Michael Haneke/2013, Christoph Waltz/2010 und 2013, Billy Wilder /1988, Maximilian Schell /1962, Max Steiner/1935, etc.) 
+Österreichbilder und Japanbilder im österreichischen und japanischen Film; 
+第14回 Österreich und Japan
+Wiener Weltausstellung 1873 (insb. der japanische Pavillon), Japonismus (z.b. Klimt), kulturelle und wirtschaftliche Beziehungen 
+Berühmter Japaner in Oesterreich, bzw. Oesterreicher in Japan 
+Was wissen Japaner über Österreich, Österreicher über Japan und was nicht? 
+その他
+* Kursreflexion - Ausblick
+";
+	lect:lecture_id"14_C1116";
+	sylb:summary "Die Geschichte Europas des 20. Jahrhunderts ist eng mit dem Schicksal Oesterreichs verknuepft: Der Erste Weltkrieg nahm mit einem Konflikt zwischen Oesterreich und Serbien seinen Anfang und der Nationalsozialismus, der Zweite Weltkrieg, sowie der Holocaust wurden massgeblich von Oesterreichern mitverantwortet. Auf der anderen Seite hat Oesterreich wesentlich zur europaeischen Kultur- und Sozialgeschichte des vergangenen Jahrhunderts beigetragen: Die Psychoanalyse Sigmund Freuds, die Wiener Moderne (Klimt, Schiele, Wagner, etc.) und die Oesterreichische Schule der Nationaloekonomie (Boehm-Bawerk, Mises, Hayek) zaehlen zu den wichtigsten Leistungen des Jahrhunderts. Das Nachkriegs-Oesterreich hat als Standort vieler internationaler Institutionen (UNO, OPEC, OSZE) und mit einer aktiven Neutralitaetspolitik einen wertvollen Beitrag zur Entwicklung eines friedlichen Europas geleistet. Diese Spannungen und Widersprueche sollen im vorliegenden Kurs thematisiert werden.
+
+The lecture is taught in German
+
+";
+	sylb:method "Der Kurs besteht aus Vortraegen des Dozenten und aktiven Beitraegen der Studierenden wie Referate, Gruppendiskussionen, Forschungsauftraege (z.b. im Internet) und vieles mehr. Die Teilnehmer und Teilnehmerinnen sollten bereit sein, eigenstaendig Themen zu bearbeiten und gemeinsam zu diskutieren.
+
+";
+	sylb:schedule "第1回 Einführung
+Oesterreich. Eine kurze Vorstellung. 
+Was wissen Sie über Oesterreich? Was wollen Sie wissen? 
+Kennenlernen der Teilnehmer- und Teilnehmerinnen, bzw. des Dozenten 
+第2回 Überblick – Themen des Kurses
+Erlaeuterung der Themen des Kurses; Vergabe von Referaten und Themen 
+Oesterreich-Klischees (ステレオタイプ): Was stimmt, was ist falsch? 
+Unterschiede Oesterreich und Deutschland in Kultur, Gesellschaft und Sprache 
+
+第3回 Geografie 
+Natur- und Kulturlandschaft; Staedte und Bundeslaender; Umwelt- und Umweltschutz 
+Die besondere Beziehung der Österreicher zu ihrer Landschaft (z.b: in der Nationalhymne,1. Zeile: „Land der Berge, Land am Strome, Land der Aecker, Land der Dome…“) 
+第4回 Geschichte Teil 1: Das Habsburger Reich
+Die oesterreichisch‐ungarische Monarchie wird haeufig als Modell fuer das 
+geeinte Europa genannt. Gleichzeitig wurde es von vielen Kronlaendern als 
+"Voelkerkerker" emfpunden. Schliesslich gilt es auch als Wiege des Antisemitismus in Mitteleuropa. 
+
+第5回 Geschichte Teil 2: Zwei Weltkriege mit Ausgangspunkt Oesterreich
+Die beiden Weltkriege sind eng mit der Geschichte Oesterreichs verbunden. Diese 
+Seminareinheit soll die Mitverantwortung des Landes und der Bevoelkerung an den 
+Katastrophen des 20. Jahrhunderts klaeren. 
+第6回 Oesterreich heute (Zeitgeschichte und Politik)
+Das moderne Oesterreich seit 1945 
+Neutralitaet (1955), Modernisierung (1970er), EU-Beitritt (1995), Wirtschaftskrise (2008) 
+Konflikte, Probleme und Chancen 
+第7回 Wirtschaft
+Tourismus, Dienstleistungen, Industrie und Landwirtschaft 
+Entwicklung von der Agrarwirtschaft zur Industrie- und Dienstleistungswirtschaft 
+Unternehmen und Produkte aus Oesterreich, Kostproben oesterreichischer Lebensmittel 
+第8回 Bildung
+Das oesterreichische Schul- und Universitätssystem 
+Beruehmte Unis und bekannte Wissenschaftler (Nobelpreisträger, Erfinder, etc.) 
+Deutschkurse und Angebote für internationale Studierende
+
+第9回 Psychoanalyse
+Das Werk Sigmund Freuds und seine Bedeutung fuer die europaeische Kulturgeschichte. 
+
+第10回 Musik
+Klassische Musik 
+Bedeutung der Musik für das Oesterreichbild und den Tourismus (Mozart vs. „Rock me Amadeus“) 
+Pop-Musik (inkl. Hip Hop, Rock, Techno, etc.), deutsche Songtexte 
+第11回 Malerei und Bildende Kunst
+Epochen der Kunstgeschichte 
+Bekannte Maler und Bildhauer 
+Kulturkaempfe 
+第12回 Architektur
+Wichtige Gebäude in Wien, Salzburg und den Bundesländern 
+Stile und Epochen der Architektur 
+Entwicklungen in der Gegenwart 
+第13回 Film
+Filme und Regisseure 
+Oscar-Preisträger (z.b. Michael Haneke/2013, Christoph Waltz/2010 und 2013, Billy Wilder /1988, Maximilian Schell /1962, Max Steiner/1935, etc.) 
+Österreichbilder und Japanbilder im österreichischen und japanischen Film; 
+第14回 Österreich und Japan
+Wiener Weltausstellung 1873 (insb. der japanische Pavillon), Japonismus (z.b. Klimt), kulturelle und wirtschaftliche Beziehungen 
+Berühmter Japaner in Oesterreich, bzw. Oesterreicher in Japan 
+Was wissen Japaner über Österreich, Österreicher über Japan und was nicht? 
+その他
+* Kursreflexion - Ausblick
+";

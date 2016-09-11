@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "極限環境デザイン【学期後半】(GIGA/GI)【１４】"@ja;
+	lect:lecture_id "14_C2118";
+	lect:time "2016年度 春学期 火曜日１時限,火曜日２時限";
+	lect:teacher "オオニシ　タクヤ";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";

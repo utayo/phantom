@@ -1,0 +1,19 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "スマートデバイスプログラミング【１４】"@ja;
+	lect:lecture_id "14_C2073";
+	lect:time "2016年度 春学期 月曜日５時限";
+	lect:teacher "和田　理彦、杉山　雄一";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://web.sfc.keio.ac.jp/~wadari/sdp/";
+<http://example.com/lecture#1>
+	lect:name "スマートデバイスプログラミング【１４】"@ja;
+	lect:lecture_id "14_C2073";
+	lect:time "2016年度 秋学期 月曜日５時限";
+	lect:teacher "和田　理彦、杉山　雄一";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://web.sfc.keio.ac.jp/~wadari/sdp/";

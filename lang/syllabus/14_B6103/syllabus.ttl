@@ -1,0 +1,167 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6103";
+	sylb:summary "観察の技法は、特定の企業や現場だけがもつ固有のものではなく、あらゆる現場に敷衍できる汎用的なものといえます。本授業では、既にデザインされたものを一意的に観察するのではなく、観察対象との関わり方を思索し、観察の手立てを自らでつくり出し、得られた知見を他者に伝えるための素材を即興で創る/描く技術を修得することを目指します。 演習課題を通じて、“デザイン”のプロセスに潜む関係性や構造への理解を深め、現代の技術とデザインが抱える諸問題の所在を問い直し、発想のあり方や社会との関わり方、モノのつくり方を探究していきます。
+
+";
+	sylb:method "観察から発見した内容や自分自身が発明したアイデアなどの、目に見えないものやことなどのメッセージを、適切に人に伝えるために必要な材料を判断し、即興で絵を描く技術を身につけます。 単に「上手に描く」ということではなく、あらゆるものごとの本質をいかに描くかをいうことを主題に授業を進めます。
+
+The class is for learning the set of skills to quickly observe and draw, and present what you see with your eyes or your ideas. This class is not a typical art class but gain the techniques to capture the images and create the blue prints for such as new designs, ideas or creating new objects.
+
+";
+	sylb:schedule "第1回 序/イントロダクション[ introduction ]
+＊この授業は学期前半２コマ連続セッションx 7回で行われるため，２セッションに同内容を記載しています。 
+*One session of this class is three hours and given in the first half period of the semester. Therefore same contents are written in every two blocks.
+第2回 序/イントロダクション/演習[ introduction/skech ]
+第3回 模写スケッチ－１[ trace-1 ]
+第4回 模写スケッチ－２[ trace-2 ]
+第5回 模写スケッチ－３[ trace-3 ]
+第6回 模写スケッチ－４[ trace-4 ]
+第7回 講義/レイアウトについて[ lecture/layout ]
+第8回 実習/レイアウトを考えながらストーリーを記述する[ skech/layout ]
+第9回 フィールドサーベイ[ field survey ]
+第10回 フィールドサーベイ[ field survey ]
+第11回 実践/観察からスケッチへ[ training/field survey→drawing ]
+第12回 実践/観察からスケッチへ[ training/field survey→drawing ]
+第13回 まとめ－１[ review ]
+第14回 まとめ－２[ review ]
+その他
+毎週授業後に、授業内容を参照した4コマ漫画の制作課題を出します。
+
+";
+	lect:lecture_id"14_B6103";
+	sylb:summary "この授業ではデザインを観察する基本技法であるデッサン力を身につけます．さらに透視図法（遠近法）という一般的な絵の描き方を学ぶ事で，立体物の寸法やプロポーションをおおまかに測って絵に描く事ができる技法を身につけます．
+
+近年コンピュータによるプレゼンテーションが一般化し，「完成予想図」などに用いられるコンピュータグラフィックスの新鮮味がなくなってきています。私がデザイン業務を通して実感する限り，手書きによる描写力はいま重要性を増している，と感じています．また実務において施主との打ち合わせでは手書きでアイデアを絵にして伝える事が効果的であるというのも事実です．
+
+この授業では透視図の基本的な原理を歴史と絡めながら説明し、デッサン（透視図）が空間を観察＆表現する為の言語である事を理解してもらい，ハンドドローイングで描く透視図を修得してもらいます。
+
+This class gives you a series of drawing lessons for a skill to observe and describe objects on paper. Specifically the class focuses on perspective drawing. Perspective drawing is a standard method of "how to draw three dimensional objects and space such as buildings and product designs on two dimensional plane." You can roughly measure the sizes and proportions of what you draw by learning perspective drawing.
+
+Computer drawing has been so popular for the last two decades. And it is difficult to attract your clients by presenting your idea with only computer graphics. I have practiced my carrier in design and fine art field. And as long as I understand through my carrier, more the computer graphics become popular, a simple pencil drawing get bigger power to attract people.
+
+I regards freehand drawing as a design language to observe and describe what you can not describe by text. The purpose of the class is to provide you a chance to get a skill of hand drawing so that you can use the design language. In the first lecture, the class gives you a short lecture on the history of the perspective as well.
+
+";
+	sylb:method "フリーハンドにより短時間で透視図を描く技術を修得してもらう。定規やコンパスを用い正確な理論のもと透視図を描くことは目的ではない．具体的な課題と目的は以下：
+
+１　幾何学的なブロックを作成してもらい、これを立体構成する。絵を描く構図を手を動かしながら構成する技術を身につける。
+
+２　自分が立体構成したものを一般的な絵を描く作法である透視図を用いて描く。
+
+３　上記透視図を習得する事で，立体的なものの寸法やプロポーションを把握しながら描画する事ができる．このような基本的な技法を用いて，身の回りのもの，デザインプロダクトや自然の造形，人物を描いてもらう。
+
+４　上記の透視図法を逆手に取って，視覚的に独創的な表現方法に挑戦してもらう。
+
+以上の演習の目的 精度よりも視点や消失点などの性質を最低限ふまえて透視図による立体や空間の観察を行えるようになること。 さらに踏み込んで，絵を描く技法を自由に使いこなし，自分独自の表現を行う事ができるようになる事．
+
+<what to aquire>
+
+skill to draw by hand without ruler.
+
+<what to do in the class>
+
+You make a cubic blocks for exercising spatial composition.
+
+You make a composition with the blocks. And you draw it by perspective while capturing relational sizes and proportions of cubes.
+
+With the skill you draw objects, product, nature, and person.
+
+You make a unique drawing by taking advantage of the perspectives rules. For instant, you make wide angle perspective to modify and emphasis your object/subjects.
+
+<purpose>
+
+The purpose of the class is to observe and capture your object in a short moment and represent it while keeping fundamental rules of perspective. It is not a purpose to aquire a skill to represent object with a scientific accuracy. Further purpose is to acquire a skill to develop a unique drawing by manipulating perspective.
+
+";
+	sylb:schedule "第1回 イントロダクション：透視図法の歴史[ Introduction: The history of perspective ]
+＊この授業は学期前半２コマ連続セッションx 7回で行われるため，２セッションに同内容を記載しています． 
+
+関連作品（ジオデシックカメラ，全方位透視図，平行カメラ）紹介，透視図法の歴史の講義 
+
+宿題：デッサン用空間ブロックの製作 
+
+*One session of this class is three hours and is given in the first half period of the semester. Therefore same contents are written in every two blocks. Related works: Geodesic Camera, omnidirectional Perspective Drawing, Parallel Camera Homework: Blocks for composition
+第2回 イントロダクション：透視図法の歴史[ Introduction: The history of perspective ]
+関連作品（ジオデシックカメラ，全方位透視図，平行カメラ）紹介，透視図法の歴史の講義 
+
+宿題：デッサン用空間ブロックの製作
+
+Related works: Geodesic Camera, Omnidirectional Perspective Drawing, Parallel Camera Homework: Blocks for composition
+第3回 鉛筆画　1点透視図法[ Pencil drawing by one-point perspective ]
+空間ブロックの立体構成／立体構成を描く／クロッキー／デッサン本番，輪郭を取る。 
+
+宿題：陰影をつけ１点透視図を仕上げる
+
+spacial composition with the blocks drawing the composition according to one point perspective cockiest for minuite to outline objects Homework: complete the drawing by adding shadow and shades
+第4回 鉛筆画　1点透視図法[ Pencil drawing by one-point perspective ]
+空間ブロックの立体構成／立体構成を描く／クロッキー／デッサン本番，輪郭を取る。 
+
+宿題：陰影をつけ１点透視図を仕上げる
+
+spacial composition with the blocks drawing the composition according to one point perspective cockiest for minuite to outline objects Homework: complete the drawing by adding shadow and shades
+第5回 鉛筆画とパステル着彩　2点透視図法[ pencil drawing and coloring ]
+空間ブロックの立体構成／立体構成を描く／デッサン，輪郭を取る，パステルの使い方 
+
+宿題：パステルによる陰影，色鉛筆等で着彩し2点透視図を仕上げる
+
+spacial composition with the blocks drawing the composition according to one point perspective coloring with pastel and color pencil Homework: complete the drawing by adding shadow and shades and coloring
+第6回 鉛筆画とパステル着彩　2点透視図法[ pencil drawing and coloring ]
+空間ブロックの立体構成／立体構成を描く／デッサン，輪郭を取る，パステルの使い方 
+
+宿題：パステルによる陰影，色鉛筆等で着彩し2点透視図を仕上げる
+
+spacial composition with the blocks drawing the composition according to one point perspective coloring with pastel and color pencil Homework: complete the drawing by adding shadow and shades and coloring
+第7回 建築物のデッサン[ drawing of an architecture ]
+現実世界の四角形の組合せの描画。大きさの表現 
+
+宿題：建築物の描画を仕上げる
+
+drawing building, complex composition with rectangles in real world Homework: complete the drawing by adding shadow and shade
+第8回 建築物のデッサン[ drawing of an architecture ]
+現実世界の四角形の組合せの描画。大きさの表現 
+
+宿題：建築物の描画を仕上げる
+
+drawing building, complex composition with rectangles in real world Homework: complete the drawing by adding shadow and shade
+第9回 日常の世界の描画[ drawing everyday life ]
+人物，車，花など日常にあるもの，日用品を描く。 
+
+宿題：上記デッサンを仕上げる
+
+drawing car, flower, chairs stairs, person and everyday life Homework: complete the drawing by adding shadow and shade
+第10回 日常の世界の描画[ drawing everyday life ]
+人物，車，花など日常にあるもの，日用品を描く。 
+
+宿題：上記デッサンを仕上げる
+
+drawing car, flower, chairs stairs, person and everyday life Homework: complete the drawing by adding shadow and shade
+第11回 応用課題（１）[ advanced drawing(1) ]
+それまでの課題の成果より判断し課題を提出します． 
+
+＊「例えば，日常品や風景をあえて超広角で風景を描く」など
+
+an advanced drawing by applying the knowledge on perspective. e.g. representing a design product according to perspective from unusual angle and/or with very wide angle of view.
+第12回 応用課題（１）[ advanced drawing(1) ]
+それまでの課題の成果より判断し課題を提出します． 
+
+＊「例えば，日常品や風景をあえて超広角で風景を描く」など
+
+an advanced drawing by applying the knowledge on perspective. e.g. representing a design product according to perspective from unusual angle and/or with very wide angle of view.
+第13回 応用課題（２）[ advanced drawing(2) ]
+それまでの課題の成果より判断し課題を提出します． 
+
+＊「例えば，日常品や風景をあえて超広角で風景を描く」など
+
+an advanced drawing by applying the knowledge on perspective. e.g. representing a design product according to perspective from unusual angle and/or with very wide angle of view.
+第14回 応用課題（２）[ advanced drawing(2) ]
+それまでの課題の成果より判断し課題を提出します． 
+
+＊「例えば，日常品や風景をあえて超広角で風景を描く」など
+
+an advanced drawing by applying the knowledge on perspective. e.g. representing a design product according to perspective from unusual angle and/or with very wide angle of view.
+その他
+課題（透視図ブロック，デッサンなど）
+
+assignments in every class, the blocks and drawings";

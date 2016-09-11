@@ -1,0 +1,105 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B3206";
+	sylb:summary "バイオインフォマティクスは、ゲノム配列など複雑で大規模な生物学的データの解析に利用されている。バイオインフォマティクスに必要な基本的な手法とツールは、多くのプロジェクトに共通している。この科目では、バイオインフォマティクス・データの管理と解析に利用されるツール（R言語など）を学び、それらを組み合わせてバイオインフォマティクスの課題に取り組む。
+Bioinformatics is useful for handling large and complex biological data such as genome sequences. The basic methodology and core tools needed to tackle bioinformatics problems is common to many projects. This course will provide the introduction to the main tools used in the management and analysis of bioinformatics data (e.g. R) and explains how these can be used together to tackle the bioinformatics problems.
+";
+	sylb:method "この授業では、コンピュータ実習を通して、バイオインフォマティクスの基本的な知識と実践的な技術を習得する。Unix系OS（Mac OS X や Linux）を用いて、参考書の例題を実行し、バイオインフォマティクスの課題をすすめる。
+This computer laboratory course will provide students basic knowledge and practical skills needed for bioinformatics. The students will test some examples in the textbooks and tackle their own bioinformatics problems on Unix-based operating systems (e.g. Mac OS X and Linux). 
+";
+	sylb:schedule "第1回 イントロダクション[ Introduction ]
+授業の概要
+
+The overview of this class
+第2回 生物学的データ[ Biological data ]
+第3回 R言語を用いたデータ解析[ Numerical data analysis using R ]
+R入門 
+Introduction to R
+第4回 R言語を用いたデータ解析[ Numerical data analysis using R ]
+多変量解析
+
+Multivariate data analysis
+第5回 R言語を用いたデータ解析[ Numerical data analysis using R ]
+Rパッケージ
+
+R packages
+第6回 Perlプログラミング[ Beginning programming in Perl ]
+Perl入門
+
+Basic Perl syntax and logic
+第7回 Perlプログラミング[ Beginning programming in Perl ]
+Perlを用いた配列解析
+
+Sequence analysis using Perl
+第8回 バイオインフォマティクス・プロジェクト [ Bioinformatics project ]
+第9回 バイオインフォマティクス・プロジェクト [ Bioinformatics project ]
+第10回 バイオインフォマティクス・プロジェクト [ Bioinformatics project ]
+第11回 バイオインフォマティクス・プロジェクト[ Bioinformatics project ]
+第12回 バイオインフォマティクス・プロジェクト[ Bioinformatics project ]
+第13回 バイオインフォマティクス・プロジェクト[ Bioinformatics project ]
+第14回 最終発表[ Oral presentation ]
+その他
+最終発表
+
+Oral presentation";
+	lect:lecture_id"14_B3206";
+	sylb:summary "Human brain consists of more than 100 billion cells called “neurons.” Each neuron in the brain translates genetic information from chromosomes in nucleus through a process called “transcription” and the transcribed information is then “translated” into amino acid chain which is folded up into proteins. Most of the produced proteins have specific functions in neurons. The massive amount of information regarding function of the protein is accumulated in public databases and literatures. Genome informatics and systems biology are relatively new fields in biology, both of which are powerful approaches to integrate the massive amount of information and understand biological phenomena, often in quantitative manner. Genome informatics provides a computational method to analyze genetic information and systems biology, on the other hand, integrates physiological information regarding the function of the proteins into a mathematical model to represent dynamic behavior of the cells including neurons for simulation and prediction.
+";
+	sylb:method "This course provides the basic concepts of genome informatics and the systems biology through analysis of various biological phenomena in neuroscience. Students are expected to read textbooks and/or selected research papers every week to learn basics of neuroscience in the first half. In the second half, students will learn computational methods to analyze neural genes and also conduct simulation of neurons via E-Cell System.
+";
+	sylb:schedule "第1回 Introduction to Genome Informatics and Systems Biology
+The instructor will provide an overview of the course, and introduces basic concepts 
+and application of genome informatics and systems biology. The instructor will also 
+briefly review “Cellular Components of Nervous Tissue” (Chapter 1) and “Regulation of 
+Neuronal Gene Expression and Protein Synthesis” (Chapter 13).
+
+第2回 Subcellular Organization of the Nervous System: Organelles and Their Functions
+Chapter 2 lecture and short quiz.
+
+第3回 Brain Energy Metabolism
+Chapter 3 lecture and short quiz.
+
+第4回 Electronic Properties of Axons and Dendrites
+Chapter 4 lecture and short quiz.
+
+第5回 Membrane Potential and Action Potential
+Chapter 5 lecture and short quiz.
+
+第6回 Molecular Properties of Ion Channels
+Chapter 6 lecture and short quiz.
+
+第7回 Pharmacology and Biochemistry of Synaptic Transmission: Classic Transmitters
+Chapter 9 lecture and analyze genes that are related to synaptic transmission on the 
+basis of research papers.
+
+第8回 Intracellular Signaling
+Chapter 12 lecture and analyze genes that are related to synaptic transmission on the 
+basis of selected research papers.
+
+第9回 Introduction to E-Cell System
+The instructor will introduce you to basic concepts of E-Cell System and mathematical 
+modeling. 
+第10回 Simulation of neurons with E-Cell System
+In class workshop to conduct simulation of neurons with E-Cell System.
+
+第11回 Review
+The instructor will suggest several topics that students will be able to work on for 
+their final assignment.
+
+第12回 Sequence analysis of neural genes (tentative)
+Based on what you learned so far, please select specific neural gene that you are 
+interested in. Read research papers on the neural gene, and analyze with various 
+bioinformatics tools available online.
+
+第13回 Simulation of neurons with E-Cell System (tentative)
+In class workshop to conduct simulation of neurons with E-Cell System.
+
+第14回 Presentation of final assignment
+Presentations of final assignment by the students who wished to have presentation in 
+class. For grade evaluation, please see “Examination & Grade Eval.”
+
+その他
+Attendance of IAB Faculty Workshop
+
+";

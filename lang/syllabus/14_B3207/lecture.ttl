@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "スポーツのデータサイエンス[DS2]【１４】"@ja;
+	lect:lecture_id "14_B3207";
+	lect:time "2016年度 秋学期 木曜日１時限";
+	lect:teacher "古谷　知之、永野　智久";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

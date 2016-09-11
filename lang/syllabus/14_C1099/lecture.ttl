@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "日本研究概論２【１４】"@ja;
+	lect:lecture_id "14_C1099";
+	lect:time "2016年度 春学期 水曜日２時限";
+	lect:teacher "土屋　大洋、加茂　具樹、中山　俊宏、清水　唯一朗";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

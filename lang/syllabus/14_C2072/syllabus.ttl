@@ -1,0 +1,79 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2072";
+	sylb:summary "本講義では、UNIXオペレーティングシステムの機能を紹介します。 UNIXは、Linux 、 MacOSの、多くのサービサー側オペレーティングシステムの共通の基本的なオペレーティングシステムです。 UNIXオペレーティング・システムを理解することは、現在のコンピュータシステムのために役立ちます。オペレーティングシステムの機能は、ファイルシステム、デバイスであるI / O 、プロセス管理、メモリ管理、プロセス間通信、シグナリング/割り込み処理とネットワーク機能（ TCP / IPプロトコルスタックを含みます） 。
+
+この講義では、 C言語でシステム・プログラムを書くことにより、オペレーティングシステムの機能を理解します
+
+This lecture introduces the functions of UNIX operating system. UNIX is common and basic operating system of Linux, MacOS and many servicer side operating systems. Understanding the UNIX operating system helps for current computer system. The functions of the operating system are File System, Device I/O, Process management, Memory management, Inter Process Communications, Signaling/Interrupt handling and Network functions (includes TCP/IP protocol stack).
+
+In this lecture, understanding those operating system functions by writing system programs in language C.
+
+";
+	sylb:method "この授業では、オペレーティングシステムUNIXのシステムコールの使い方をとおして、 オペレーティングシステムの機能を理解します。
+
+The system calls are API (Application Programming Interface) of the operating system. For example, read/write system call is the interface to File System, and the Socket Interface is an API for the network functions. In this lecture, the half of the each lecture period, I introduce the concept of the each operating system functions and how to use the system calls. And another half period, you should write sample programs using the system calls.
+
+";
+	sylb:schedule "第1回 授業紹介[ Introduction ]
+基本的な授業の流れや、システムプログラミングの導入を話します。
+
+I introduce the course. And discussing on how to evaluate of final score.
+第2回 システムコールとライブラリ関数[ System calls and Library Functions. ]
+UNIXのシステムコールとライブラリの関係などを紹介します。
+
+System call is API of the operating system and library functions is more useful function call provided by the system. In this session, I introduce the software architecture of UNIX system.
+第3回 ファイル操作とファイルディスクリプタ[ File descriptor and File I/O ]
+プロセスの概念とファイルディスクリプタとの関係 
+ファイルディスクリプタによるファイル操作
+
+Understanding the concept of the process. The file descriptor is very important concept of UNIX operating system to communicate with the files, devices and networks.
+第4回 ファイルシステム[ File System ]
+ファイルシステムの構造と、ディレクトリの操作
+
+UNIX file system is a tree structure, consists with files and directories. In this section, I introduce how to manipulate the files and directories.
+第5回 プロセス[ Process ]
+プロセスの生成や停止
+
+Every user programs are running as the process in the system. In this section, I introduce how to create and delete the process.
+第6回 プロセス間通信[ Inter Process Communication ]
+IPC, Pipe, Forkシステムコール
+
+Pipe and shared memory are basic inter process communication mechanisms.
+第7回 ネットワークプログラミング　#1[ Network programming #1 ]
+この授業の後半では、ネットワークプログラム、特にTCP/IPを用いたネットワークプログラミングにつして解説する。
+
+Half of the lecture course, I lecture a network programming with socket API. Introduce TCP/IP protocol families which is current protocols of the Internet. Network programming #1
+第8回 ネットワークプログラミング　#2[ Network Programming #2 ]
+Getaddrinfo関数を中心に、ホスト名やIPアドレスについて理解する
+
+Getaddrinfo function that is basic functions for manipulating the hostname and IP addresses.
+第9回 ネットワークプログラミング　#3[ Network Programming #3 ]
+UDPを用いたデータグラム通信
+
+Introduce a data transfer using datagram transport, UDP.
+第10回 ネットワークプログラミング　#4[ Network Programming #4 ]
+TCPを用いた通信
+
+Introduce a data transfer using virtual circuit transport, TCP
+第11回 ネットワークプログラミング　#5[ Network Programming #5 ]
+ファイル転送プログラムをサンプルとして
+
+Writing file transfer program over the Internet
+第12回 ネットワークプログラミング　#6[ Netwrok Programming #6 ]
+簡単なWebサーバ
+
+Writing Web server
+第13回 ネットワークプログラミング　#7[ Summary ]
+全体的なラップアップ
+
+wrap up the lecture
+第14回 最終課題発表[ Final Presentation ]
+各受講者が作成した最終プログラムの発表会
+
+Final presentation of the program which is written by each students.
+その他
+総括
+
+This lecture course is learning the system programming. This means that you should write a program using C language at each classroom. I will request you to send the program as report.";

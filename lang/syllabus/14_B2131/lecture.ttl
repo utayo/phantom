@@ -1,0 +1,38 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "中国語ベーシック１A【１４】"@ja;
+	lect:lecture_id "14_B2131";
+	lect:time "2016年度 春学期 月曜日３時限,水曜日３時限";
+	lect:teacher "上野　正弥、王　慧琴";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語ベーシック１B【１４】"@ja;
+	lect:lecture_id "14_B2131";
+	lect:time "2016年度 春学期 月曜日３時限,火曜日３時限";
+	lect:teacher "有澤　雄毅、蘇　明";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語ベーシック１C【１４】"@ja;
+	lect:lecture_id "14_B2131";
+	lect:time "2016年度 春学期 月曜日３時限,水曜日３時限";
+	lect:teacher "山影　統、菅野　智博";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語ベーシック１A【１４】"@ja;
+	lect:lecture_id "14_B2131";
+	lect:time "2016年度 秋学期 月曜日３時限,火曜日３時限";
+	lect:teacher "有澤　雄毅、蘇　明";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語ベーシック１B【１４】"@ja;
+	lect:lecture_id "14_B2131";
+	lect:time "2016年度 秋学期 月曜日３時限,水曜日３時限";
+	lect:teacher "菅野　智博、山影　統";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

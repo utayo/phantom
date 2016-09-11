@@ -1,0 +1,282 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6067";
+	sylb:summary "この授業では、以下のような能力の向上を目的に構成されています。
+
+(1)　自己概念を分析し、自分らしい表現の仕方を理解する (2)　他者の行動の特性を知り、相手に合ったプレゼンテーションのストーリー創りが出来る (3)　聞き手の反応を観察し、受け入れ、臨機応変で柔軟且つ双方向なコミュニケーションを 　　 とりながらプレゼンテーションを行うことができる (4)　言葉以外の技法（バーバル＆ノンバーバルスキル）を活かして共感を呼ぶ（聴き手を動か 　　 す）プレゼンテーションを行うことができる (5)　印象深く、長く記憶に残すことが出来るための視覚資料が作成できるようになる
+
+上記のスキルを向上させることによって、メッセージを明確に聴き手と共有することができるプレゼンテーションを行えるようになるのを目指します。
+
+Objectives of this program ;
+
+To analyze yourself and learn and understand your own expression and presentation
+To be able to make and tell stories for him/her/them by learn about psychological behaviors of others
+To be able to make flexible and creative presentations by two way communication through observing others behaviors.
+To be able to make compassionate presentation by non-verbal communication
+";
+	sylb:method "【主題】 　プレゼンテーション技法の向上
+
+【目標】 　自分らしい表現方法を知り、双方向な本質的プレゼンテーションを行えるようになる
+
+【授業の手法】 　自己概念を知るための個人ワーク＆ペアまたはグループワーク 　バーバル・ノンバーバル表現を実習するためのグループワーク 　多勢の前でプレゼンテーションすることを経験するための個人実習
+
+Theme: Presentation Technique
+
+Objectives ; to be able to make essential compassionate presentation by learning self and social awareness and developing self and social skills.
+
+workshop discussion and practice by individual and group
+
+";
+	sylb:schedule "第1回 プレゼンテーションとは [ What is Presentation ]
+（目的） 
+１）プレゼンテーションとスピーチの違いについて理解する 
+２）傾聴力をつけるとプレゼンスキルが向上することを理解する 
+
+グループディスカッションと発表 
+　－プレゼンテーションスキルを身につける必要性について 
+　－良いプレゼンテーション VS 悪いプレゼンテーション 
+　－日本語で・・と英語で・・　のプレゼンテーションの違い
+
+Objectives: 1) find out the difference between presentation and speech 2) understand how active listening help to develop presentation skills Group discussion Presentation
+第2回 自己概念について[ Self Awareness ]
+（目的）１）自己概念のプレゼンテーションのむすびつきを理解する 
+　　　　２）自己概念の探求をはじめる 
+　　　　３）クラスメイトと知り合う 
+
+肯定的な自己概念をもつことは、より良いコミュニケーションにおいて必要なことです。 
+各人の「自己概念」を探り、自分自身をより深く知ることによって、人間関係においてもよりスムーズでストレスの少ないコミュニケーションをとることができ、聴き手によって話し方を変える必要性もより深く理解できます。この回は自己概念を様々なゲームを通して探求します。 
+Objectives: 1) understand the connection between learning the importance of self awareness and the essential presentation 2) start exploring Self-concept 3) meet and learn class members In order to be able to have essential communication, the most important thing is to learn positive self concept. In this classroom, you will explore your self concept though all different kinds of games in order to deep finding and learning yourself.
+第3回 アクティブコミュニケーションメソッドで自己の特徴を知る（１）[ Deeper finding and learning yourself by applied improvisation (1) ]
+（目的）１）コミュニケーション能力の向上の糸口をつかむ 
+　　　　２）チームの結束をより深める 
+　　　　３）効果的なフィードバックとはを理解する 
+
+引き続き、下記の能力を、インプロヴィゼーションの様々なゲームを通して、体験し 
+ながら自分自身で自分の行動や思考の特徴を知る体験型ワークショップです。 
+
+●察する力（洞察する力） 
+●傾聴する力 
+●伝える力 
+●表現する力 
+Objectives: 1) find the tips to develop his or her own way of communication skills 2) encounter and connect with each member of his/her team members 3) understand effective feedback followed the prior programs, you will develop the following competencies by exploring your self concept though all different kinds of games in order to deep finding and learning yourself. competencies: personal insights active listening presentation expression
+第4回 アクティブコミュニケーションメソッドで自己の特徴を知る　（２）[ Deeper finding and learning yourself by applied improvisation (2) ]
+（目的）１）コミュニケーション能力の向上の糸口をつかむ 
+　　　　２）チームの結束を深める 
+
+コミュニケーション能力・・　といっても一概に表示できないくらいたくさんの要素があります。 
+●察する力（洞察する力） 
+●傾聴する力 
+●伝える力 
+●表現する力 
+
+上記の能力を、インプロヴィゼーションの様々なゲームを通して、体験しながら自分自身で自分の行動や思考の特徴を知る体験型ワークショップです。 
+Objectives: 1) find the tips to develop his or her own way of communication skills 2) encounter and connect with each member of his/her team members 3) understand effective feedback followed the prior programs, you will develop the following competencies by exploring your self concept though all different kinds of games in order to deep finding and learning yourself. competencies: personal insights active listening presentation expression
+第5回 聞き手を聴き手に変えるプレゼン技法[ Presentation techniques in order to involve audience ]
+聞き手を動かすためには、聞き手を聴き手に変えるという意識を持って伝えること。 
+共感を得るためのプレゼンテーションをいくつかの演習を通して模索、習得します。
+
+Objectives: 1) practice communicative presentation
+第6回 ココロのクセを学ぶ[ Behavioral Psychology ]
+（目的）１）自己の行動特性を潜在意識レベルから理解する 
+　　　　２）他の行動特性を潜在意識レベルから理解し対応の仕方を学ぶ 
+
+人間の思考や行動は 　主導、感化、安定、分析 という４つの要素の強弱バランスで考えることができます。 
+この４つの各要素の特性を知り、自分自身にあてはめて自己の行動の特性を知り、強みを強みとして発揮できるコミュニケーション能力を向上させます。また、新しくチーム編成を行い新しい仲間と出逢い知り合います。
+
+Objectives: 1) to understand self subconscious behaviors 2) to understand and learn others subconscious behaviors based on disc theory
+第7回 ココロのクセを学ぶ ２[ Behavioral Psychology 2 ]
+（目的）１）自己の行動特性を潜在意識レベルから理解する 
+　　　　２）他の行動特性を潜在意識レベルから理解し対応の仕方を学ぶ 
+
+人間の思考や行動は 　主導、感化、安定、分析 という４つの要素の強弱バランスで考えることができます。 
+この４つの各要素の特性を知り、自分自身にあてはめて自己の行動の特性を知り、強みを強みとして発揮できるコミュニケーション能力を向上させます。また、新しくチーム編成を行い新しい仲間と出逢い知り合います。
+
+Objectives: 1) to understand self subconscious behaviors 2) to understand and learn others subconscious behaviors based on disc theory
+第8回 ストーリーテリング[ Story telling ]
+（目的）１）聴き手を巻き込み論理的で分かりやすいストーリーの創り方を理解する 
+　　　　２）聴き手にあわせて臨機応変にストーリーを展開できる引出しをつくれる 
+
+短い時間で聴き手を説得するには、明確な目的を明瞭に伝える必要があります。 
+この回では、明確に相手にポイントを伝えるためのストーリーの作り方を学び、簡単な演習を行います。
+
+Objectives: 1) understand that storytelling is a powerful tool to persuade or compassionate others 2) to be able to change and present stories according to audience group discussion and practice
+第9回 バーバル表現／ノンバーバル[ verbal and non-verbal expressions ]
+（目的）１）話し方をテクニックとして聴き手に合わせて意識して変えることができる 
+　　　　２）話し方で聴き手を魅了する方法を体験する 
+　　　　３）話し方以外の要素が聴き手に大きな影響を与えていることを理解する 
+　　　　４）話し方以外で聴き手に意図を伝える方法をみつける 
+　　　　５）自分の存在そのものが聴き手にどんな影響を与えているか分析する　　　　　 
+
+聴き手を動かすには、ただ「話す」のではなく、聴き手が聴きたくなるような話し方を自分自身が意識することが大切です。 
+より聴き手を巻き込むことができるようになるための、前半は話し方にポイントをおいた講義と演習を行います。 
+チーム内でそれぞれが選んだ詩や絵本を朗読する。（聴き手は目を閉じて聴く） 
+
+また、聴き手を動かすには、自分自身のノンバーバル（態度、表情、アイコンタクト、ジェスチャー）な聴き手へのメッセージを意識する必要があります。 
+後半はより聴き手を巻き込むことができるようになるための、ノンバーバルなポイントを中心に講義と演習を行います。 
+objectives: 1) to be able to change expressions according to audience 2) to learn that postures change others 3) to understand non-verbal expressions deeply and largely affect others 4) to find some other ways to express what you insist to present except telling 5) to analyze and learn how your presence affect others
+第10回 プレゼンテーション実践にむけてのまとめ[ summaries ]
+（目的）１）全体で学んだことを振り返り、理解を深める 
+　　　　２）実践に臨める自信をつける 
+　　　　３）聴き手を動かすプレゼンテーションのストーリーが明確になっている 
+　　　　４）聴き手を動かすために伝え方の工夫が明確になっている 
+
+1回～9回の授業で学んだ要素を活かした90秒で聴き手を動かす説得力のあるプレゼンテーションを実践するためにふりかえりとポイントの復習、総合的なまとめを行います。
+
+objectives: 1) to deeper understanding by reflecting what we learned through the whole program 2) to gain confidence for making presentation in front of the whole class 3) to be clear about what is presentation and why presentation is needed 4) to be able to make creative presentation group discussion and practice
+第11回 プレゼンテーション実践1[ Practice 1 ]
+（目的）１）全体で学んだことを実行できている 
+　　　　２）良き聴き手、良きフィードバックを与えれるようになっている 
+この講座で学んだ要素を活かして、３分間で聴き手を動かす説得力のあるプレゼンテーションを実践します。クラスの構成上、４回に分けて行います。（10名／１授業） 
+Objectives: 1) to be able to make creative presentation by using techniques you learned though the program 2) being a good active listener and giving good and effective feedback approximately 12 Presenter per 1 class
+第12回 プレゼンテーション実践2[ Practice 2 ]
+（目的）１）全体で学んだことを実行できている 
+　　　　２）良き聴き手、良きフィードバックを与えれるようになっている 
+この講座で学んだ要素を活かして、３分間で聴き手を動かす説得力のあるプレゼンテーションを実践します。クラスの構成上、４回に分けて行います。（10名／１授業） 
+Objectives: 1) to be able to make creative presentation by using techniques you learned though the program 2) being a good active listener and giving good and effective feedback approximately 12 Presenter per 1 class
+第13回 プレゼンテーション実践3[ Practice 3 ]
+（目的）１）全体で学んだことを実行できている 
+　　　　２）良き聴き手、良きフィードバックを与えれるようになっている 
+この講座で学んだ要素を活かして、３分間で聴き手を動かす説得力のあるプレゼンテーションを実践します。クラスの構成上、４回に分けて行います。（10名／１授業） 
+Objectives: 1) to be able to make creative presentation by using techniques you learned though the program 2) being a good active listener and giving good and effective feedback approximately 12 Presenter per 1 class
+第14回 プレゼンテーション実践4[ Practice 4 & Review ]
+（目的）１）全体で学んだことを実行できている 
+　　　　２）良き聴き手、良きフィードバックを与えれるようになっている 
+　　　　３）様々な状況や相手に対しての臨機応変なプレゼンテーションの方法を理解する 
+　　　　４）プレゼンテーションを日常生活に活かす 
+
+この講座で学んだ要素を活かして、３分間で聴き手を動かす説得力のあるプレゼンテーションを実践します。クラスの構成上、４回に分けて行います。（10名／１授業） 
+
+最終授業として、総合的な学びのふりかえりとこれからの自分自身のプレゼンスの在り方などを共有し合いお互いにフィードバックを行います 
+Objectives: 1) to be able to make creative presentation by using techniques you learned though the program 2) being a good active listener and giving good and effective feedback approximately 12 Presenter per 1 class Review
+その他
+* 補講日2016/5/14 13:00 - 16:00 アプライドインプロメソッドで自己の特徴を知る／対人対応を深める 
+
+（目的）１）前半で学んだことを振り返り、理解を深める
+　　　　２）個人プレゼンテーション、グループプレゼンテーションの効果的な方法を体感する
+　　　　３）聴き手を分析しストーリーへの活かし方を理解する
+　　　　４）効果的なフィードバックが出来る
+第３回目＆５回目で行ったゲームを繰り返し行うことで、新たなる自分自身の行動・思考の特徴を発見します。
+
+●察する力（洞察する力）
+●傾聴する力
+●伝える力
+●表現する力
+●想像力
+●創造力
+
+上記の能力を、インプロヴィゼーションで使用されている様々なゲームを通して、体験しながら自分自身で自分の行動や思考の特徴を知る体験型ワークショップです。
+ゲームを通して感じたことをチーム内の他のメンバーが理解出来るようにリフレクションしながらフィードバックを効果的に出来るようになりましょう。
+Make-up class 2016/5/14 13:00 - 16:00 Learning yourself and others by Applied Improvisation Method";
+	lect:lecture_id"14_B6067";
+	sylb:summary "14回で一生通用する「表現力＝想いを言葉で表し人や社会に通じさせていくチカラ」を身につけます。プレゼンの根幹となる表現力を、実際に自分で表現して、根本から鍛え伸ばします。まず、自分の中から最も伝えたいことを導き出し、表現してみることから始めます（自己表現力）。想いが表せるとスッキリし、歓びがあります。次に、伝えたいことを相手側から観て、信頼・共感を得ながら「相手に響くように伝えるチカラ」を磨きます（自分のメディア力を高めながら伝える）。さらに、就活で採用される表現力へ、実社会で人を動かし目指す結果を切り拓ける表現力へ、と鍛え上げます（外・他者・社会に通じる表現力）。最終課題では、学生一人一人が最も伝えたいテーマでプレゼンし、あなた自身と他の学生たちの多彩な独創性が花咲きます。他の学生の表現に触れ、感動し、響き合い磨き合えるのも、この授業の大きな魅力です。表現できるようになる歓び、表現して通じ合う歓びを、ぜひこの授業で手にしてください。あなたには表現するチカラがある。
+
+";
+	sylb:method "プレゼンテーションの根幹となる「表現力」を、実習を通して、あなたが実際に数多く表現して伸ばしていける授業です。まず自分の想いを言葉に表すことからはじめます（自己表現力）。次に、自分の想いを「相手に響くように伝えるチカラ」を磨きます。さらに、「外・他者・社会に通じる表現力」へと鍛え上げます。就活の自己表現に直結で役立つのはもちろんのこと、社会に出てからも通用し、望む状況を切り拓いていける、一生ものの表現力が身につきます。講師山田ズーニーは、編集長として16年間、全国５万人の会員を持つ小論文通信教育の企画・編集・プロデュースに携わり、表現が苦手な高校生たちも、「考える｣作業を積み重ねれば、見違えるほど伝わる・実感ある表現をすることを発見します。表現力をより広い層へと志し、2000年にフリーランスのインストラクターとなってからは、北は北海道から南は九州まで全国各地で表現力育成のワークショップをひらき、また多数企業で研修講師として仕事場でつかいものになる表現力を育成しています。ワークショップでは、高校・大学生から社会人、主婦、プロライターまで、言葉にできなかった想いを、生き生き表現できるようになっていく姿は、まるで腹から言葉を生みあげるかのような感動があることから、講師は「言葉の産婆」と呼ばれています。この授業では、講師が、一般の人を表現できるように導いてきた経験、および、編集者としてマスコミで鍛え抜かれた伝える技術を生かし、あなた自身が表現できるようサポートします。プレゼンにおいて「いかに伝えるか」ももちろん大事ですが、この授業ではさらに原点に戻って、「何を伝えたいか」、「最も伝えたいことを自分の中から導き出す」ことを大切にやっていきます。ラストには、より自由度の高いテーマでプレゼンテーションをすることができ、学生一人一人の独創性が咲きます。自分が本当に伝えたいことを存分に表現できる歓び、人に理解されて通じ合う歓び、他の学生たちの多彩な表現に触れ、感動し、ともに磨き合う歓びを、ぜひつかみに来てください。あなたには表現力がある。
+
+";
+	sylb:schedule "第1回 スタート特別講義　あなたの話はなぜ「通じない」のか　
+自分の言っていることがうまく相手に通じない、そんな歯がゆさを感じたことはありませんか。状況の中でコミュニケーションが機能しないとき、立ち戻るべき「７つの要件」があります。具体例を示してのわかりやすい講義で、話が通じる基礎を押さえます。 
+★この回のみ講義形式ですが、２回目からは「実習」になります。
+
+第2回 ワークショップステージⅠ想いを言葉にするチカラ―１．考える方法をつかむ
+表現力への最初の一歩として、自分のなかにある「伝えたいもの」を引き出し、言葉に表すことをやってみます。ポイントは「考える方法」。考える方法が、実習で、楽しみながら身につきます。考える方法をつかめば、表現力は気持ちよいほど伸びていきます。
+
+第3回 ワークショップステージⅠ想いを言葉にするチカラ―２．自己理解・自己表現
+実際に表現してみます。ささやかでも想いが表現できたとき、すっきりし、歓びがあります。他の学生たちの多様な表現に触れることができるのも、この授業の大きな魅力です。同世代の多様な表現に、共感したり触発されたりしながら、自分を磨いていくことができます。 
+第4回 ステージⅡ相手に響くように伝える―１．７つの要件で関係に気づく
+「言いたいこと」を言っても「伝えたいこと」は伝わりません。自分の言いたいことを、いかに相手に響くように伝えられるか。自分と相手の関係をとらえ、まずは自分の言いたいことを引き出すことからはじめます。
+
+第5回 ステージⅡ相手に響くように伝える―２．人をわかるチカラ
+相手をどれだけ深く正しく理解しているかが、相手に伝わる表現の肝です。実は相手のことをよくわかっていなかった、自己投影で相手を見ていた、という相手不在のケースもあります。ここでは、具体的な相手理解のためのワークを段階を追って積み重ねていくことで、プレゼンの受け手である「相手」を理解する技法を習得します。
+
+第6回 ステージⅡ相手に響くように伝える―３．メッセージを発見する
+自分を知り、相手を知り、さらに相手から観た自分のメディア力をとらえて、関係性の中で「意味あるメッセージ」を発見します。家族に、友人に、先生に、後輩に、この授業で考えたメッセージが伝わった！　という歓びの声も、これまで多数届いています。
+
+第7回 最終課題へのナビゲーションワークショップ―メインテーマを発見する
+最終課題は、かなり自由度の高い条件から学生自身でテーマを決め、プレゼンテーションをしてもらいます。この回では、自分の中から伝えたいテーマを引き出し、絞り込んでいくワークショップをします。最終発表までに準備期間を置く意味で、このタイミングでやります。
+
+第8回 ステージⅢ：外・他者・社会と通じ合う―１．関係づけて表現する
+伝えたいことを社会に通用するように発信する回です。テーマについて必要な情報をどんな視野から持ってくるか。複数の視野の情報をどう関係づけ、自分の伝えたいことを表現していくのか。就活の自己表現に直結したステージです。内定が出た人にも職場で伝わる表現方法が身につきます。テーマと自分と社会を関係づけて表現する方法をつかみます。
+
+第9回 ステージⅢ：外・他者・社会と通じ合う―２．社会的説得力のある表現
+自分が将来やりたい仕事についてプレゼンするなら、自己理解・仕事理解・業界をめぐる社会背景への理解など、少なくとも３つの視野の情報を関係づけてかつ、伝えたいことを表現する必要があります。複数の情報を関係づけて、なお、実感と説得力を持った表現をするための、「掘り下げる力」を身につけます。
+
+第10回 ステージⅢ：外・他者・社会と通じ合う―３．成果発表
+正直で実感ある自分の想いを、社会に説得力を持って通用するように表現して、表現の基礎を完成します。やりたいことが見つかった！　進路がひらけた！　という履修者も多数出た授業です。他の学生の表現に一気に触れられる感動の回でもあります。
+
+第11回 ワークショップ最終ステージ　最終課題発表会１
+学生による最終課題のプレゼンテーションの発表会１日目です。履修者一人ひとりの独創性が咲きます。他の学生の多様な表現に触れることに感動があり、そのなかで表現することで自分への新たな発見があります。
+
+第12回 ワークショップ最終ステージ　最終課題発表会２
+学生による最終課題のプレゼンテーションの発表会２日目です。
+
+第13回 ワークショップ最終ステージ　最終課題発表会３
+学生による最終課題のプレゼンテーションの発表会３日目です。
+
+第14回 　ワークショップ最終ステージ　最終課題発表会４
+学生による最終課題のプレゼンテーション発表会の４日目です。
+
+その他
+最終課題として４分間のプレゼンテーションを考えます。（主題を絞り込んでいくところまでは授業内でやりますが、最終的にテーマを決め、４分の内容を作るところは、各自持ち帰っての作業となります。）
+
+";
+	lect:lecture_id"14_B6067";
+	sylb:summary "この授業では､ プレゼンテーション、特に、ビジネス・プレゼンテーションについての考え方と技法を習得することに主眼が置かれる｡の そのため､授業履修者によるプレゼンテーションの実習が主体となる｡ そのため、20名という履修制限が設けられる。実習は､ 個人で､ 課題を設定し､ それについてのプレゼンテーションを行うことになる｡プレゼンテーションは､ 課題についての情報収集をした後､ プレゼンテーションに使用する資料づくり (ドキュメンテーション) と実際にそれを発表・伝達をするプレゼンテーションに分けることができる｡ そのため､ プレゼンテーションを行う前には､かなりの作業時間を要することになる｡ 履修者は､ それを理解して､ 履修して欲しい｡ 　プレゼンテーションは､ パワーポイントなどのソフトを利用するので､ 履修者は､ PC とソフトの用意が必要である｡ また､ 画像編集などのソフトが必要な場合がある｡
+
+";
+	sylb:method "この授業では、プレゼンテーションとインフォメーション・グラフィックスを学ぶ。授業の進め方は、履修者が自由なテーマで５分間のプレゼンテーションを行う演習が主体である。プレゼンテーションは、ＶＴＲで録画をして、５分終了後、レビューをしながら、改善点を示唆されることになる。プレゼンテーションしている担当以外の履修者は、その評価者となり、評価をすることになるので、毎回の出席が必要である。 また、インフォメーション・グラフィックスとは、情報を視覚化するものであり、量的な情報や質的な情報を提示するので、それを自分のアイデアで視覚化することになる。
+
+";
+	sylb:schedule "第1回 第1回 オリエンテーションおよびインフォメーション・グラフィクスとは
+授業の内容 
+授業の進め方 
+プレゼンテーション演習の日程割振り 
+インフォメーショングラフィックス１回目課題
+
+第2回 第2回 プレゼンテーションとは
+プレゼンテーションとは 
+プレゼンテーションの方法 
+インフォメーショングラフィックス１回目課題提出
+
+第3回 第３回　第１回目プレゼンテーション（１）
+第１回目プレゼンテーション（１） 
+１番から５番までの履修者によるプレゼンテーション
+
+第4回 第４回 第１回目プレゼンテーション（２）
+６番から１０番までの履修者によるプレゼンテーション
+
+第5回 第５回 第１回目プレゼンテーション（３）
+１１番から１５番までの履修者によるプレゼンテーション
+
+第6回 第６回 第１回目プレゼンテーション（４）
+１６番から２０番までの履修者によるプレゼンテーション
+
+第7回 第７回 １回目のプレゼンテーション予備日
+病気や用意不足のために、プレゼンテーションをできなかった履修者のための予備日。いない場合は、講義になります。２回目のインフォメーション・グラフィックス課題
+
+第8回 第８回 デジタル・メディア素材づくり
+プレゼンテーションにおけるデジタル画像の扱い方など 
+インフォメーショングラフィックス２回目課題提出 
+第9回 第９回 第２回目プレゼンテーション（１）
+１番から５番までの履修者による２回目のプレゼンテーション
+
+第10回 第１０回 第２回目プレゼンテーション（２）
+６番から１０番までの履修者による２回目のプレゼンテーション
+
+第11回 第１１回 第２回目プレゼンテーション（３）
+１１番から１５番までの履修者による２回目のプレゼンテーション
+
+第12回 第１２回 第２回目プレゼンテーション（４）
+１６番から２０番までの履修者による２回目のプレゼンテーション
+
+第13回 第1３回 ２回目のプレゼンテーション予備日
+病気や用意不足のために、プレゼンテーションをできなかった履修者のための予備日。いない場合は、講義になります
+
+第14回 第14回 ２回目のプレゼンテーション予備日
+病気や用意不足のために、プレゼンテーションをできなかった履修者のための予備日。いない場合は、講義になります
+
+その他
+課題として、インフォメーション・グラフィックスの提出が２回求められる。提出の前の週に、課題が出され、それを授業中に提出する。
+
+";

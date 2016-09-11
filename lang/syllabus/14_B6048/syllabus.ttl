@@ -1,0 +1,62 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6048";
+	sylb:summary "身体知，および感性に関する“新しい科学の模索”を議論する授業である．従来は、身体運動の客観的計測（動きの計測、生化学データの計測等）に基づいて、身体を客観的に描写・記述・可視化することを目的とする“科学”が主流であった．しかし、その方法論では扱うことができない重要側面がひとつある．身体と、本人の意識・思考・言葉の関係である．本講義では、身体と言葉の関係を研究の俎上に載せる方法論として、認知科学的な方法論―メタ認知―を紹介し、身体知を科学する学問のあり方を模索的に議論する．これは、広い意味でいえば、人工知能が長年試みては未だ達成できていない“暗黙知”にメスを入れる研究的試みでもある．学生各自が身体の探究に関する例題を持ち、実践的に身体と言葉の関係を探究・分析・議論する形式で授業を行いたい．
+
+The main topic is embodied intelligence. Students will learn and discuss how embodied intelligence is created through interactions between doing by body, feeling bodily sensations, verbalizing how body feels and think by words.
+
+";
+	sylb:method "身体知や感性を学問の俎上に挙げる（それも学問になるということを実体験を基に学ばせる）ことを目標とする．人間の知能に関する研究は自然科学的な方法論だけでは立ち行かないことも議論する．つまり人間科学なる方法論を模索することが重要であり、その導入的位置づけの授業としたい．
+
+より具体的に言うと以下のことを主題とする．従来は、身体運動の客観的計測（動きの計測、生化学データの計測等）に基づいて、身体を客観的に描写・記述・可視化することを目的とする研究のみが存在していた．しかし、人間が意識をもち、思考し、言葉で考える生き物である以上、意識・思考・言葉と身体の関係を扱う研究がなければならない．本講義では、身体と言葉の関係を研究の俎上に載せる方法論として、認知科学的な方法論である”メタ認知”を紹介し、身体を科学する学問のあり方を模索的に議論する．これは、広い意味でいえば、人工知能が長年試みては未だ達成できていない“暗黙知”にメスを入れる研究的試みでもある．
+
+学生各自が身体の探究に関する例題を持ち、実践的に身体と言葉の関係を探究・分析・議論する形式で授業を行う．議論および発表はグループを結成して協調的に行う．そのやり方は認知科学的な意味での協調的な学習の考え方を取り入れる．また議論においては諏訪が運営するSNSも使用する．
+
+The main topic is embodied intelligence. The important idea is that embodied intelligence is created through interactions between doing by body, feeling bodily sensations, verbalizing how body feels and think by words.
+
+Discussions and group works will be actively employed for understanding the main ideas by body.
+
+";
+	sylb:schedule "第1回 暗黙知、メタ認知[ tacit knowledge, meta-cogniton ]
+身体知は暗黙知であること、身体と言葉の関係を模索する学問としてメタ認知という手法が昨今注目されていることを紹介し、本講義の導入とする． 
+第2回 身体をみつめるとは．．[ What is "thinking on your own body"? ]
+身体をみつめるとは，どういうことであるかを論じる．体感を得ること，ことばとして表出してみることの関連を議論する
+
+第3回 メタ認知をするとどうなるか[ What does meta-cognition bring about? ]
+メタ認知に関するケーススタディを紹介し，言葉と身体の興味深い関連に関して更に深く議論する．更にアフォーダンスの概念も紹介する．情報は受動的に受け取るのではなく，能動的につかみとるのであることを論じる．感性を磨くという行為とアフォーダンスの関係も論じる．
+
+第4回 議論成果の発表[ discussion of lecture #2 and 3 ]
+第三回の議論を受けて、各グループが発表を行う
+
+第5回 身体をみつめるワークショップ第一回[ workshop on thinking on your body #1 ]
+ペットボトルを頭に乗せて歩く（以下ペットボトル歩き）という、今やsfc春学期の風物詩になりつつあるワークショップを行う。からだをメタ認知するに格好の例題であり、このワークショップを通して、ことばとからだの関係を身をもって学ぶ
+
+第6回 身体をみつめるワークショップ第二回[ workshop on thinking on your body #2 ]
+ペットボトル歩きのプロセスでからだに関して感じたことをことばで表し、互いに共有する。そのプロセスを通じて更に新たな着眼点を得る 
+第7回 身体をみつめるワークショップ第三回[ workshop on thinking on your body #3 ]
+ペットボトル歩きの成果発表会を行う
+
+presentation and discussion
+第8回 原初音韻論遊び：ことばに成り立ちについて考える[ relation of words and body ]
+ことばは音からなる．あることばを構成する音はなぜそういう「音」が選ばれたのかを議論することを通して，ことばと身体の関係を議論する．暗黙知を言語化する困難さを緩和し促進するための手法も導入する．
+
+第9回 暗黙知的体感の外化手法としてのオノマトペ[ onomatopoeia as a means for verbalizing what body feels ]
+オノマトペを利用した体感の表出手法も学ぶ
+
+第10回 触覚を中心とする空間体験実践その１[ Experience a space based on tactile senses #1 ]
+視覚だけではなく，聴覚，触覚，嗅覚も駆使して，キャンパス空間を体感し，ことばにする実践を行う．
+
+第11回 触覚を中心とする空間体験実践その2[ Experience a space based on tactile senses #2 ]
+１０回目の実践を通して得られた体感を，五感地図としてまとめる．
+
+第12回 からだとことばの関係に関する発表会前半[ presentation and discussion on the relation between words and body #1 ]
+この回までの様々な実践を念頭に置き、からだとことばの関係性に関する発表を行う 
+第13回 からだとことばの関係に関する発表会後半[ presentation and discussion on the relation between words and body #2 ]
+この回までの様々な実践を念頭に置き、からだとことばの関係性に関する発表を行う 
+第14回 まとめの議論その１[ final discussion ]
+からだをみつめ，言葉に表出し，体感と進化させるという営みが意味する事柄を議論する
+
+その他
+* まとめの議論その２* 第１４回の議論を更に深める討論会を行う．
+";

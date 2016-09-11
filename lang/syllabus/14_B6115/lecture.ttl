@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "データ獲得法(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6115";
+	lect:time "2016年度 秋学期 火曜日４時限";
+	lect:teacher "中澤　仁";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

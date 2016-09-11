@@ -1,0 +1,18 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "コンピュータミュージック１【１４】"@ja;
+	lect:lecture_id "14_B6096";
+	lect:time "2016年度 春学期 水曜日２時限";
+	lect:teacher "魚住　勇太";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "コンピュータミュージック１【１４】"@ja;
+	lect:lecture_id "14_B6096";
+	lect:time "2016年度 秋学期 水曜日２時限";
+	lect:teacher "魚住　勇太";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://sonilab.org/cm1/";

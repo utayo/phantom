@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "文化論（ドイツ語圏）【１４】"@ja;
+	lect:lecture_id "14_C1134";
+	lect:time "2016年度 秋学期 月曜日２時限";
+	lect:teacher "ホイサーマン，　ペーター";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "文化論（ドイツ語圏）【１４】"@ja;
+	lect:lecture_id "14_C1134";
+	lect:time "2016年度 秋学期 月曜日２時限";
+	lect:teacher "ホイサーマン，　ペーター";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";

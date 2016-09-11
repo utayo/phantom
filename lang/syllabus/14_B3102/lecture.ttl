@@ -1,0 +1,38 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "確率[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3102";
+	lect:time "2016年度 春学期 水曜日１時限";
+	lect:teacher "尾上　義和";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "確率[DS1]【学期前半】【１４】"@ja;
+	lect:lecture_id "14_B3102";
+	lect:time "2016年度 春学期 火曜日１時限,火曜日２時限";
+	lect:teacher "古谷　知之";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "確率[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3102";
+	lect:time "2016年度 秋学期 水曜日２時限";
+	lect:teacher "尾上　義和";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "確率[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3102";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "林　邦彦";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "確率[DS1](GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B3102";
+	lect:time "2016年度 秋学期 火曜日５時限";
+	lect:teacher "西岡　啓二";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

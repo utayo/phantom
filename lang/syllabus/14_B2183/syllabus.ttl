@@ -1,0 +1,118 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B2183";
+	sylb:summary "このクラスは、初級（しょきゅう）後半（こうはん）の学生（がくせい）のためのクラスです。自分（じぶん）について話したり、日本語を使（つか）って簡単（かんたん）なコミュニケーションができることを目指（めざ）します。自分の経験（けいけん）や考（かんが）えを日本語（にほんご）で話（はな）したり、書（か）いたりする練習（れんしゅう）をしながら、初級レベルのことばや文法（ぶんぽう）、漢字（かんじ）や会話表現（かいわひょうげん）も勉強します。
+
+This course is for students in upper elementary level of Japanese. The purpose of this course is to enable students to be able to explain about oneself or have simple communication in Japanese. This course provides students with the knowledge of vocabularies, grammatical items, Kanji, and conversational expressions in basic level through speaking and writing about own experiences and thoughts.
+
+";
+	sylb:method "このクラスは、初級（しょきゅう）後半（こうはん）の学生（がくせい）のためのクラスです。このクラスでは、以下（いか）のことを（目標）にします。
+
+身近（みぢか）なコミュニティーの中で、よく使（つか）われる簡単（かんたん）な文や表現（ひょうげん）が理解（りかい）でき、自分の意見（いけん）や考（かんが）えを表現（ひょうげん）できる。
+自分の周（まわ）りの環境（かんきょう）、例えば、毎日の生活（せいかつ）、自分の経験（けいけん）、希望（きぼう）などについて、少（すこ）し長（なが）い文を使って説明（せつめい）できる。
+自分にとって必要（ひつよう）な言葉（ことば）や表現を意識（いしき）し、知らない言葉（ことば）でも調（しら）べたり人に聞いたりして、目的（もくてき）に合（あ）った学習（がくしゅう）をすることができる。
+授業（じゅぎょう）では、テキストを使（つか）って、読む練習（れんしゅう）をするほかに、自分についてや自分の経験（けいけん）を書いて、発表したり、クラスメートからの質問に答えたりします。それぞれの課で、語彙、漢字、文法の勉強もします。
+
+This course is designed for students at the upper elementary level of Japanese. The goals of this course are listed below.
+
+To be able to understand frequently used vocabularies and expressions on familiar topics[ and express one's own opinions and thoughts in simple Japanese.
+To be able to describe familiar topics such as everyday life, one’s own experiences or wishes by using complex sentences in Japanese .
+To be able to understand essential vocabularies or expressions frequently used in one’s own life and learn them in a proactive manner.
+In this class, students will be required to do exercises of reading a textbook, writing essays on their own experiences followed by a presentation practice (Q&A session is also included in this practice). They will also have a chance to build up vocabularies or Kanji as well as to learn grammatical items in each chapter of the textbook.
+
+";
+	sylb:schedule "第1回 コース説明とふくしゅう(Course Orientation and Review)
+じゅぎょうのせつめい（course orientation)、ふくしゅう（Review）
+
+第2回 ふくしゅう(Review)
+Unit 8-9
+
+第3回 ふくしゅう(Review)
+Unit 10-11
+
+第4回 ふくしゅう(Review)
+Unit 12
+
+第5回 Unit 13
+「まいにちのせいかつ」"My Daily Life"
+
+第6回 Unit 13
+ぶんぽう(grammar) 
+～たら、～てから、～とき、～ながら
+
+第7回 Unit 13
+「まいにちのせいかつ」"My Daily Life"
+
+第8回 Unit 14
+「わたしのたのしみ」"My Recreation"
+
+第9回 Unit 14
+ぶんぽう（grammar） 
+～（する）こと/～（する）の
+
+第10回 Unit 14
+「わたしのたのしみ」"My Recreation"
+
+第11回 かいわ(Conversation)
+かいわ
+
+第12回 Unit 15
+「わたしのしょうらい」"My Future"
+
+第13回 Unit 15
+ぶんぽう(grammar) 
+～つもりです、～とおもいます、～だろうとおもいます、～かもしれません、～かどうか（まだわかりません）、～かどうか（まだ）きめていません
+
+第14回 Unit 15
+「わたしのしょうらい」"My Future"
+
+第15回 ふくしゅう(Review)
+ふくしゅう
+
+第16回 テスト(Test)
+テスト（Unit 13-15)
+
+第17回 Unit 16
+「できること・できないこと」"Abilities and Special Talents"
+
+第18回 Unit 16
+ぶんぽう(grammar) 
+可能表現（かのうひょうげん）Potential expression
+
+第19回 Unit 16
+「できること・できないこと」"Abilities and Special Talents"
+
+第20回 かいわ(Conversation)
+かいわ
+
+第21回 Unit 17
+「プレゼント」"Gifts"
+
+第22回 Unit 17
+ぶんぽう(grammar) 
+授受表現（じゅじゅひょうげん）（あげる、もらう、くれる）Giving and Receiving
+
+第23回 Unit 17
+「プレゼント」"Gifts"
+
+第24回 かいわ(Conversation)
+かいわ
+
+第25回 Unit 18
+「しんせつ・てだすけ」"Support, Assistance, and Kindness"
+
+第26回 Unit 18
+ぶんぽう(grammar) 
+Vてもらう、Vてくれる
+
+第27回 Unit 18
+「しんせつ・てだすけ」"Support, Assistance, and Kindness"
+
+第28回 テスト(Test)
+きまつテストFinal Examination（Unit 13-18)
+
+その他
+フィードバック、個別（こべつ）コンサルテーション
+
+Test result and Feedback / consultation";

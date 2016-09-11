@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "近代史(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_C1002";
+	lect:time "2016年度 秋学期 木曜日２時限";
+	lect:teacher "小熊　英二";
+	lect:campas "SFC";
+	lect:course_type "講義";

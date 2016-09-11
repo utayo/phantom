@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "最適化の数理[DS2](GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B3213";
+	lect:time "2016年度 秋学期 火曜日５時限";
+	lect:teacher "バンミーター，　ロドニー";
+	lect:campas "SFC";
+	lect:course_type "講義";

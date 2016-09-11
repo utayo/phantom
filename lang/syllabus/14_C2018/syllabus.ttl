@@ -1,0 +1,88 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2018";
+	sylb:summary "本スタジオは、建築設計の初歩段階の履修者を対象とする。近代建築で名作と呼ばれる住宅の分析を行い、その分析手法を用いながら実際の敷地で住宅設計を行う。 課題は以下の通り、 １）名作と呼ばれる住宅を一つ選んで分析を行う 空間の幾何学的分析、設計プロセスの中心となるコンセプトなどを抽出する ２）実際の敷地を対象にして行う住宅設計課題 第一課題で明らかになった設計のコンセプトを用いながら住宅設計を行う。
+
+This studio aims to teach the basic architectural designing process dealing with the so-called architectural masterpieces of modern architecture. Firstly, students will make an analysis of a masterpiece house and secondly, they will be designing a house using the analysis result in an actual site. Description of the assignment: 1) Choose a masterpiece house and make an analysis Making a geometrical analysis of space, finding the core concept of the designing process and etc. 2) Design for an actual site Students will use the result of their analysis from the first assignment and design a house for an actual site
+
+";
+	sylb:method "【目標】 建築設計を目指す初歩段階の学生に対し、名作とよばれる住宅作品の分析を課し、その住宅の設計コンセプトや幾何学的構成について理解する。次に、実際の敷地で分析によって得られたコンセプトを援用しながら設計を行う。これにより、一貫したコンセプトに基づく設計手法を習得することができる。
+
+【課題】 第一課題 近代建築で名作と呼ばれる4つの住宅の中から一つを選び、その住宅空間の幾何学的分析、建築家の設計プロセスを決定づけるコンセプトといった分析を行い、その発表を行う。ダイアグラム・図面・模型を用いたプレゼンテーションが求められる。
+
+分析は下記の4つの作品から一つを選んで行う ①ル・コルビュジエ　『サヴォア邸』 ②フランク・ロイド・ライト　『落水荘』 ③ミース・ファン・デル・ローエ　『ファンズワース邸』 ④アルヴァ・アールト　『マイレア邸』
+
+第二課題 第一課題の分析で用いた手法を用いて住宅を設計する。敷地は藤沢市内で用意する。 詳細は分析課題の最終発表時に説明する。
+
+<OBJECTIVE> This studio is designed for students who are beginning to learn architectural design. Students will make analysis of masterpiece houses and understand the concept and the geometrical composition. The excercise will enable students to experience the concept-based designing process.
+
+<ASSIGNMENTS>
+
+FIRST ASSIGNMENT Students will choose one out of the four chosen masterpiece house, make analysis of its geometrical spatial form and concepts, and present the result of the analysis using diagrams, drawings, and models.
+
+Choose one masterpiece house from the following to make an analysis: ① Le Corbusier, Villa Savoye ② Frank Loyd Wright, Fallingwater ③ Mies van der Rohe, Farnsworth House ④ Alvar Aalto, Villa Mairea
+
+SECOND ASSINGMENT In the second half of the course, students will design a house using their analysis result. A site will be chosen in Fujisawa city. Details will be announced during class.
+
+";
+	sylb:schedule "第1回 ガイダンス、第一課題説明　[ Guidance, Exercise 1 ]（担当：坂・原野・城所 　Ban, Harano, Kidokoro）
+住宅説明、分析例説明、住宅分析の開始
+
+Overview of masterpiece houses, example of analysis, begin analyzing
+第2回 課題1-01[ Exercise 1-01 ]（担当：原野・城所 Harano, Kidokoro）
+住宅分析のエスキース1
+
+Desk critique of housing analysis I
+第3回 課題1-02[ Exercise 1-02 ]（担当：坂・原野 Ban, Harano）
+住宅分析のエスキース2
+
+Desk critique of housing analysis II
+第4回 課題1-03[ Exercise 1-03 ]（担当：原野・城所 Harano, Kidokoro）
+住宅分析のエスキース3
+
+Desk critique of housing analysis III
+第5回 課題1-04[ Exercise 1-04 ]（担当：坂・原野・城所 Ban, Harano, Kidokoro）
+第一課題発表、第二課題説明
+
+Presentation of first Assignment, instruction of second assignment
+第6回 課題2-01[ Exercise 2-01 ]（担当：坂・原野 Ban, Harano）
+住宅設計のエスキース1
+
+House design desk critique I
+第7回 課題2-02[ Exercise 2-02 ]（担当：坂・原野 Ban, Harano）
+住宅設計のエスキース2
+
+House design desk critique II
+第8回 課題2-03[ Exercise 2-03 ]（担当：原野・城所 Harano, Kidokoro）
+住宅設計のエスキース3
+
+House design desk critique III
+第9回 課題2-04[ Exercise 2-04 ]（担当：坂・原野・城所 Ban, Harano, Kidokoro）
+中間発表
+
+Mid-term presentation
+第10回 課題2-05[ Exercise 2-05 ]（担当：原野・城所 Harano, Kidokoro）
+住宅設計のエスキース4
+
+House design desk critique IV
+第11回 課題2-06[ Exercise 2-06 ]（担当：坂・原野 Ban, Harano）
+住宅設計のエスキース5
+
+House design desk critique V
+第12回 課題2-07[ Exercise 2-07 ]（担当：原野・城所 Harano, Kidokoro）
+住宅設計のエスキース6
+
+House design desk critique VI
+第13回 課題2-08[ Exercise 2-08 ]（担当：原野・城所 Harano, Kidokoro）
+住宅設計のエスキース7
+
+House design desk critique VII
+第14回 課題2-09[ Exercise 2-09 ]（担当：坂・原野・城所 Ban, Harano, Kidokoro）
+最終発表
+
+Final presentation
+その他
+課題・レポート
+
+";

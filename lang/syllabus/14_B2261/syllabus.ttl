@@ -1,0 +1,202 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B2261";
+	sylb:summary "スペイン語の初修者を対象として、週4回の授業を通じてこの言語の土台を身につける速習コースです。スペイン語は世界規模で話者の多い言語です。スペイン語とスペイン語圏の社会に関心をもつ学生に限らず、スペイン語を通じて将来の自分のキャリアの幅と奥行きを広げようとする希望をもった学生の受講を歓迎します。 教材として用いるViaje al Espanol は、スペインで作成された映像教材で、スペイン語圏の文化、社会事情を紹介しながら、スペイン語をとりまく基礎的な情報を導入することを目的としたものです。授業では、日常生活の場面を提示したり、依頼、断りなどの会話の機能を提示したり、生きたスペイン語を使うための場面や会話機能を教えます。全部を理解するというよりは、スペイン語の概要を学び、簡単なコミュニケーションができるようにすることを目指します。 ハイペースの授業になりますので、十分に復習と課題に取り組む時間を確保したうえでの履修が望ましく、また欠席が多くなりそうな学生には向きません。なお、各週の授業内容、及び課題・試験・評価に細かい変更がある可能性があります。詳しいシラバスを初回の授業で改めて配布し、説明をします。
+";
+	sylb:method "授業では、日常生活の場面を提示したり、依頼、断りなどの会話の機能を提示したり、生きたスペイン語を使うための場面や会話機能を教えます。文法は、その学習項目に合わせて導入していきます。日本人講師による文法説明や文化導入、ネイテイブ講師による会話の実践や発音矯正、作文など、週４回の授業を課題設定して分担しながら進めていきます。授業では、毎週、復習テストを行い、作文練習など学生の自主的な授業参加が要求されます。コース修了時には、簡単なスペイン語会話ができるようになりますが、そのために、日々の努力が要求される授業です。
+";
+	sylb:schedule "第1回 第１週
+4月8日（金）	A.Aroz	 イントロダクション：挨拶と授業中の便利なスペイン語表現 
+4月8日（金）	M.Fujita	イントロダクション：文字と発音、アクセントの規則 
+4月12日（火）	P.Rosales	Viaje al Español 1課　前半 
+4月13日（水）	B.Prieto　	Viaje al Español 1課　後半 
+第2回 第２週
+4月15日（金）	A.Aroz	 Viaje al Español 2課　前半 
+4月15日（金）	M.Fujita	性数の一致、主語の人称代名詞、冠詞、直説法現在の規則活用 
+4月19日（火）	P.Rosales	Viaje al Español 2課　後半 
+4月20日（水）	B.Prieto　	Viaje al Español 3課　前半 
+第3回 第３週
+4月22日（金）	A.Aroz	 Viaje al Español 3課　後半 
+4月22日（金）	M.Fujita	mini examen①(1～2課)、serとestar、再帰動詞、所有詞と指示詞 
+4月26日（火）	P.Rosales	Viaje al Español 4課　前半 
+4月27日（水）	B.Prieto　	Viaje al Español 4課　後半 
+第4回 第４週
+5月6日（金）	A.Aroz	 Viaje al Español 5課　前半 
+5月6日（金）	M.Fujita	mini examen②(3～4課)、現在形の規則活用、助動詞（poder, querer）、現在分詞と現在進行形
+5月10日（火）	P.Rosales	Viaje al Español 5課　後半 
+5月11日（水）	B.Prieto　	Viaje al Español 6課　前半　　 
+第5回 第５週
+5月13日（金）	A.Aroz	 Viaje al Español 6課　後半 
+5月13日（金）	M.Fujita	　	mini examen③(5課)、現在形の不規則活用（２）、助動詞（ir a） 
+命令形（１） 
+5月15日（日）	 WEB文法　U1-5　締切日 
+5月17日（火）	P.Rosales	Viaje al Español 7課　前半 
+※作文第一課題提出 
+5月18日（水）	B.Prieto　	Viaje al Español 7課　後半　 　　 
+第6回 第６週
+5月20日（金）	A.Aroz	 Viaje al Español 8課 前半 
+5月20日（金）	M.Fujita	mini examen④(6～7課)、命令形（２）、疑問詞と指示詞 
+5月24日（火）	P.Rosales	Viaje al Español 8課 後半 
+5月25日（水）	B.Prieto　	Viaje al Español 9課 前半 
+第7回 第７週
+5月27日（金）	A.Aroz	 Viaje al Español 9課 後半 
+5月27日（金）	M.Fujita	中間テスト１（Viaje１～8）、時刻と日付の表現、現在形を勧誘や命令に使う 
+5月31日（火）	P.Rosales	Viaje al Español 10課 前半 
+5月31日（火）	 WEB文法　U6-9　締切日 
+6月1日（水）	B.Prieto　	Viaje al Español 10課 後半　	
+第8回 第８週
+6月3日（金）	A.Aroz	 Viaje al Español 11課 前半 
+6月3日（金）	M.Fujita	mini examen⑤(9～10課)、再帰動詞（２）、現在形の不規則活用（３） 
+6月7日（火）	P.Rosales	Viaje al Español 11課 後半 
+6月8日（水）	B.Prieto　	Viaje al Español 12課 前半
+
+第9回 第９週
+6月10日（金）	A.Aroz	 Viaje al Español 12課 後半 
+6月10日（金）	M.Fujita	mini examen⑥(11課)　現在形の活用の復習、目的語の人称代名詞（２） 
+6月14日（火）	P.Rosales	Viaje al Español 13課 前半 
+※作文第二課題の提出 
+6月15日（水）	B.Prieto　	Viaje al Español 13課 後半
+
+第10回 第１０週
+6月17日（金）	A.Aroz	 REPASO GENERAL 
+6月17日（金）	M.Fujita	mini examen⑦(12～13課)、目的語の人称代名詞（２） 
+6月21日（火）	P.Rosales	Viaje al Español 14課 
+6月22日（水）	B.Prieto　	Viaje al Español 15課 前半
+
+第11回 第１１週
+6月24日（金）	A.Aroz	 Viaje al Español 15課 後半 
+6月24日（金）	M.Fujita	mini examen⑧(14課)、再帰動詞（３）、前置詞 
+6月28日（火）	P.Rosales	Viaje al Español 16課 前半 
+6月29日（水）	B.Prieto　	Viaje al Español 16課 後半 
+6月30日（水）	 WEB文法　U10－15　締切日 
+第12回 第１２週
+7月1日（金）	A.Aroz	 Viaje al Español 17課 前半 
+7月1日（金）	M.Fujita	小テスト⑨(15～16課)、動詞hacerとtenerの多様な表現、現在完了（１） 
+7月5日（火）	P.Rosales	Viaje al Español 17課 後半 
+7月6日（水）	B.Prieto　	Viaje al Español 18課 前半
+
+第13回 第１３週
+7月8日（金）	A.Aroz	 Viaje al Español 18課 後半 
+7月8日（金）	M.Fujita	　	小テスト⑩(17課)、現在完了（２） 
+7月12日（火）	P.Rosales	Viaje al Español 19課 前半 
+※作文第三課題提出 
+7月13日（水）	B.Prieto　	Viaje al Español 19課 後半 
+7月15日（金）	 WEB文法　U16－19　締切日 
+第14回 第14週
+7月15日（金）	A.Aroz	 REPASO GENERAL 
+7月15日（金）	M.Fujita	期末試験 
+7月19日（火）	P.Rosales	期末試験 
+7月20日（水）	B.Prieto　	期末試験 
+その他
+第15週 
+（金）	会話復習	
+（金）	Viaje の復習
+（火）	プレゼン　復習
+（水）	作文復習 repaso
+
+";
+	lect:lecture_id"14_B2261";
+	sylb:summary "SFCのスペイン語は、コミュニケーションに重点を置きつつ、比較的少人数の授業での教員との密接なかかわりを通じて、学生が最終的に高い水準のスペイン語能力を身につけられることを目標としています。秋学期には新入生に加えて在学生を受け入れる余裕が比較的あるので、スペイン語を学びたい強い意欲のある学生を歓迎します。インテンシブ１は、スペイン語の初修者を対象として、週4回の授業を通じてスペイン語の土台を身につける速習コースです。授業では、日常生活の場面の中で、依頼・提案・断りなどの会話の機能を提示しつつ、具体的な活動（アクティビティ）を通じて練習していきます。それぞれの文法項目は、コミュニケーションの文脈の中に位置付けて、学んでいくことになります。
+Spanish courses at the Keio-SFC emphasise communicative competence, and aim to build a solid and high-level base of language ability, within a relatively small-sized class environment. In the Autumn semester, in addition to the new students coming in, we are possible to accept already-existing students who desire to start learning this language. Intensive 1 is a course that aims to build basic question and answer abilities on topics about yourself, and descriptive abilities of your daily routine activities, with four classes per week with different instructors but with common teaching material.
+";
+	sylb:method "SFCのスペイン語は、コミュニケーションに重点を置きつつ、学生が最終的に高い水準のスペイン語能力を身につけられることを目標としています。それは大学の授業をスペイン語で受けることができ、ビジネスや調査・研究をスペイン語で行う実力を身につけるということです。秋学期には在学生を受け入れる余裕が比較的あるので、スペイン語を学びたい強い意欲のある学生を歓迎します。 
+
+インテンシブ１は、スペイン語の初修者を対象として、週4回の授業を通じてスペイン語の土台を身につける速習コースです。授業では、日常生活の場面の中で、依頼・提案・断りなどの会話の機能を提示しつつ、具体的な活動（アクティビティ）を通じて練習していきます。文法は、コミュニケーションの文脈の中に位置付けて、学んでいくことになります。文法項目としては、冠詞・名詞・形容詞と性・数の区別、所有や指示表現、動詞の直接法現在・直接法現在完了・命令形の活用、再帰動詞、直接・間接目的語の人称代名詞といったテーマを扱います。今学期のインテンシブ１の教材として用いるViaje al españolは、スペインで作成された映像教材で、スペインの文化、社会事情を紹介しながら、具体的なコミュニケーションの文脈を想定したスペイン語を学ぶことを可能にしてくれる教材です。リスニング能力と発信能力の向上に特に力を入れ、実際に簡単なコミュニケーションがスペイン語でとれるようになることを目指します。 
+
+スペイン語は世界規模で話者の多い言語です。スペイン語とスペイン語圏の社会（スペイン、ラテンアメリカ、アメリカ合衆国）に関心をもつ学生に限らず、スペイン語を通じて将来の自分のキャリアの幅と奥行きを広げようとする熱意をもった学生の受講を歓迎します。また、言語の学習には熱意に加えて何よりも時間が必要です。一回の授業につき同じくらいの時間またはそれ以上の自分での学習を行うことが期待されています。復習と課題に取り組む十分な時間を確保した上で履修するよう心掛けてください。 
+
+各週の授業内容、及び課題・試験・評価に細かい変更がある可能性があります。詳しいシラバスを初回の授業で改めて配布し、説明をします。
+Spanish courses at the Keio-SFC emphasise communicative competence, and aim to build a solid and high-level base of language ability through a three-year course structure, within a relatively small-sized class environment. In the Autumn semester, in addition to the new students coming in, we are possible to accept already-existing students who desire to start learning this language. 
+
+Intensive 1 is a course that aims to build basic question-and-answer abilities on topics about yourself, and descriptive abilities of your daily activities, with four classes per week with different instructors, but with common teaching material. In grammatical terms, we will be learning: articles, nouns, and adjectives with their distinctions of gender and number, posessive and indicative expressions, verb conjugations in present, present-perfect, imperatives (and henceforth subjunctive present), reflexive verbs, direct and indirect objective pronouns, among others. The material we use this term in Intensive 1, Viaje al español, is an audiovisual material elaborated in Spain, which introduces you to regions and culture of Spain through TV-drama structure, and enables you to learn Spanish in a concrete communicative context. We emphasise the building of listening and speaking abilities, and the aim of the students is to be able to manage simple conversations at the end of the course.
+
+Spanish is a global language. We hope to work with students who are interested in Spanish-speaking world (Latin America, United States, and Spain), and also who wish to widen and deepen their career possibilities through learning of this language.
+";
+	sylb:schedule "第1回 第１週
+9月23日（金）	A.Aroz	 イントロダクション：挨拶と授業中の便利なスペイン語表現 
+9月23日（金）	M.Fujita	イントロダクション：文字と発音、アクセントの規則、文法導入 
+9月27日（火）	P.Rosales	Viaje al Español 1課　前半 
+9月28日（水）	B.Prieto　	Viaje al Español 1課　後半 
+第2回 第２週
+9月30日（金）	A.Aroz	 文法・アクティビティ 
+9月30日（金）	M.Fujita	Viaje al Español 2課　前半 
+10月4日（火）	P.Rosales	Viaje al Español 2課　後半 
+10月5日（水）	B.Prieto　	Viaje al Español 3課　前半 
+第3回 第３週
+10月7日（金）	A.Aroz	 mini examen試行版(1～2課)、文法・アクティビティ 
+10月7日（金）	M.Fujita	Viaje al Español 3課　後半 
+10月11日（火）	P.Rosales	Viaje al Español 4課　前半 
+10月12日（水）	B.Prieto　	Viaje al Español 4課　後半 
+第4回 第４週
+10月14日（金）	A.Aroz	 mini examen①(3～4課) 、文法・アクティビティ 
+
+10月14日（金）	M.Fujita	Viaje al Español 5課　前半 
+10月18日（火）	P.Rosales	Viaje al Español 5課　後半 
+10月19日（水）	B.Prieto　	Viaje al Español 6課　前半　　
+
+第5回 第５週
+10月21日（金）	A.Aroz	 mini examen②(5課)、文法・アクティビティ 
+10月21日（金）	M.Fujita	Viaje al Español 6課　後半 
+10月25日（火）	P.Rosales	Viaje al Español 7課　前半 
+※作文第一課題提出 
+10月26日（水）	B.Prieto　	Viaje al Español 7課　後半　 　　 
+第6回 第６週
+10月28日（金）	A.Aroz	 Viaje al Español 8課 前半 
+10月28日（金）	M.Fujita	mini examen③(6～7課)、文法・アクティビティ 
+10月30日（日）	 WEB文法　U1-5　締切日 
+11月1日（火）	P.Rosales	Viaje al Español 8課 後半 
+11月2日（水）	B.Prieto　	Viaje al Español 9課 前半 
+第7回 第７週
+11月4日（金）	A.Aroz	 中間テスト１（Viaje１～8） 
+11月4日（金）	M.Fujita	Viaje al Español 9課 後半 
+11月8日（火）	P.Rosales	Viaje al Español 10課 前半 
+11月9日（水）	B.Prieto　	Viaje al Español 10課 後半　	
+11月15日（火）	 WEB文法　U6-10　締切日
+
+第8回 第８週
+11月22日（火）	P.Rosales	Viaje al Español 11課 前半 
+11月23日（水）	B.Prieto　	Viaje al Español 11課 後半 
+11月25日（金）	A.Aroz	 mini examen④(9～10課)、文法・アクティビティ 
+11月25日（金）	M.Fujita	Viaje al Español 12課 前半 
+第9回 第９週
+11月29日（火）	P.Rosales	Viaje al Español12課 後半 
+※作文第二課題の提出 
+11月30日（水）	B.Prieto　	Viaje al Español 13課 前半 
+12月2日（金）	A.Aroz	 mini examen⑤(11～12課)、文法・アクティビティ 
+12月2日（金）	M.Fujita	Viaje al Español 13課 後半 
+第10回 第１０週
+12月6日（火）	P.Rosales	Viaje al Español 14課 
+12月7日（水）	B.Prieto　	Viaje al Español 15課 前半 
+12月9日（金）	A.Aroz	 mini examen⑥(13～14課)、文法・アクティビティ 
+12月9日（金）	M.Fujita	REPASO GENERAL（Viaje第1巻巻末） 
+第11回 第１１週
+12月13日（火）	P.Rosales	Viaje al Español 15課 後半 
+12月14日（水）	B.Prieto　	Viaje al Español 16課 前半 
+12月15日（木）	 WEB文法　U11－15　締切日 
+12月16日（金）	A.Aroz	 小テスト⑦(15課)、文法・アクティビティ 
+12月16日（金）	M.Fujita	Viaje al Español 16課 後半
+
+第12回 第１２週
+12月20日（火）	P.Rosales	Viaje al Español 17課 前半 
+12月21日（水）	B.Prieto　	Viaje al Español 17課 後半
+
+第13回 第１３週
+12月27日（火）	P.Rosales	Viaje al Español 18課 前半 
+1月6日（金）	A.Aroz	 小テスト⑧(15～16課)、文法・アクティビティ	※本来は第12週 
+1月6日（金）	M.Fujita	　	Viaje al Español 18課 後半	 ※本来は第12週 
+1月11日（水）	B.Prieto　	Viaje al Español 19課 前半 
+1月13日（金）	A.Aroz	 小テスト⑨(17課)、現在完了（２） 
+1月13日（金）	M.Fujita	Viaje al Español 19課 後半 
+※作文第三課題提出 
+1月15日（日）	 WEB文法　U16－19　締切日 
+第14回 第14週
+1月17日（火）	P.Rosales	Examen final 
+1月18日（水）	B.Prieto　	Examen final 
+1月20日（金）	A.Aroz	 Examen final 
+1月20日（金）	M.Fujita	第3回の作文課題の修正と提出（授業内）
+
+その他
+作文課題、Web上のe-learning教材の自習、ビデオ教材の自習など
+
+";

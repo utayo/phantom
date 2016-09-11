@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "経営工学（TTCK）【１４】"@ja;
+	lect:lecture_id "14_W1002";
+	lect:time "2016年度 春学期";
+	lect:teacher "鶴岡工業高等専門学校　 、佐野　ひとみ";
+	lect:campas "TTCK";
+	lect:course_type "講義";

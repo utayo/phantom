@@ -1,0 +1,112 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6155";
+	sylb:summary "この授業では，人体の構造（解剖学）と機能（生理学）を関連づけて学びます。これまで，医学・生物学的観点からヒトについて一度も学んだことのない履修者を対象に，細胞，組織などヒトのからだを構成する要素，それらが組み合わさった器官（臓器），器官系について階層的に学び，それぞれの構造が，どういった機能をどういったメカニズムで発揮しているかの基本的な知識を習得します．ヒトという生物を科学的に捉える基礎的な視点を得ることで，社会的「人間」，生物学的「ヒト」を対象に含むあらゆる学術領域での，学修，研究に資することをめざします．
+
+Structure and function are inseparably related in biological systems, including the human body. Structure and Function of the Human Body is an introductory course in which students learn the foundations of anatomy and physiology simultaneously, from the begininng.
+
+";
+	sylb:method "目標
+教科書「トートラ 人体解剖生理学」に沿って授業を進め，教科書の内容を修得することを目標とします．この教科書は「トートラ 人体の構造と機能」という1300ページ以上ある教科書のダイジェスト版です．ダイジェスト版といえども約700ページの大部ですが，その内容は厳選されており，隅々まで学修する価値があります．
+
+解剖学は人体の形態と構造に関する記述の学問ですから，とにかく「覚えるしかない」ことがらがたくさんあります．私も学生時代，数千に及ぶ人体の部位とその名称を，英語，ラテン語，日本語でひたすら暗記しました．当時は，暗記させられた，という感覚でしたが，一度，自分の脳内に人体解剖の「地図」を叩き込んだことは，個別の名称の何割かを忘れてしまった現在も大きな財産になっています．
+
+方法
+13回のクイズセッションと，１回のファイナル，１回の定期試験を行います．
+教科書の全24章を，13に分けて，クイズセッションの各回の出題範囲にします．
+履修者は，クイズセッションの前に教科書を自習し，クイズを作成して締切までにSFC-SFSに提出します．また，講義中に解説を希望する部分があれば提出します．
+クイズセッションは３つのパートで構成されます．最初のパートは，履修者は数名のグループに分かれて，提出されたクイズをお互いに解きあいます．
+次のパートでは，今回のクイズからいくつかをピックアップして解説します．また，講義の希望が多かった部分を解説します．
+最後に，次回の範囲を簡単に紹介します．
+ファイナルでは，学期を通してのクイズのチャンピオンを出題者，解答者からそれぞれ決定します．
+Goals
+Students will...
+explain the relationship between structure and function, and define anatomy and physiology.
+explain the hierarchical structure of the human body and list all systems those comprise the human body.
+define homeostasis and explain how is homeostatic balance maintained in each organ system from physiological viewpoint.
+describe some deseases from pathophysiological perspective.
+Organization
+The course comprises 13 quiz sessions, 1 championship final, and final exam.
+Student should submit a multiple choice question before each quiz session.
+At the quiz chapmionship final, both of the best creater and the best contestant will be finalized.
+";
+	sylb:schedule "第1回 ガイダンス／クイズセッション（１）[ Quiz session 1 ]
+1.	人体の成り立ち
+
+1 Organization of the Human Body
+第2回 クイズセッション（２）[ Quiz session 2 ]
+2.	化学概説 
+
+3.	細胞
+
+2 Introductory Chemistry / 3 Cells
+第3回 クイズセッション（３）[ Quiz session 3 ]
+4.	組織 
+
+5.	外皮系
+
+4 Tissues / 5 The Integumentary System
+第4回 クイズセッション（４）[ Quiz session 4 ]
+6.	骨格系 
+
+7.	骨の連結
+
+6 The Skeletal System / 7 Joints
+第5回 クイズセッション（５）[ Quiz session 5 ]
+8.	筋系
+
+8 The Muscular System
+第6回 クイズセッション（６）[ Quiz session 6 ]
+9.	神経組織 
+
+10.	中枢神経系、脊髄神経と脳神経
+
+9 Nervous Tissue / 10 Central Nervous System, Spinal Nerves, and Cranial Nerves
+第7回 クイズセッション（７）[ Quiz session 7 ]
+11.	自律神経系 
+
+12.	体性感覚と特殊感覚
+
+11 Autonomic Nervous System / 12 Somatic Senses and Special Senses
+第8回 クイズセッション（８）[ Quiz session 8 ]
+13.	内分泌系 
+
+14.	心臓血管系：血液
+
+13 The Endocrine System / 14 The Cardiovascular System: Blood
+第9回 クイズセッション（９）[ Quiz session 9 ]
+15.	心臓血管系：心臓 
+
+16.	心臓血管系：血管と循環
+
+15 The Cardiovascular System: Heart / 16 The Cardiovascular System: Blood Vessels and Circulation
+第10回 クイズセッション（10）[ Quiz session 10 ]
+17.	リンパ系と免疫 
+
+18.	呼吸器系
+
+17 The Lymphatic System and Immunity / 18 The Respiratory System
+第11回 クイズセッション（11）[ Quiz session 11 ]
+19.	消化器系 
+
+20.	栄養と代謝
+
+19 The Digestive System / 20 Nutrition and Metabolism
+第12回 クイズセッション（12）[ Quiz session 12 ]
+21.	泌尿器系 
+
+22.	体液、電解質と酸塩基平衡
+
+21 The Urinary System / 22 Fluid, Electrolyte, and Acid-Base Balance
+第13回 クイズセッション（13）[ Quiz session 13 ]
+23.	生殖器系 
+
+24.	発生と遺伝
+
+23 The Reproductive Systems / 24 Development and Inheritance
+第14回 ファイナル[ Quiz championship final ]
+その他
+質疑応答
+
+Question-and-answer session";

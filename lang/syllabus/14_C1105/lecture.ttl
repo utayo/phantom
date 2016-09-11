@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "地域と文化（欧州・ＣＩＳ）【１４】"@ja;
+	lect:lecture_id "14_C1105";
+	lect:time "2016年度 春学期 金曜日３時限";
+	lect:teacher "藁谷　郁美、國枝　孝弘、白井　宏美";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "地域と文化（欧州・ＣＩＳ）(GIGA/GG)【１４】"@ja;
+	lect:lecture_id "14_C1105";
+	lect:time "2016年度 秋学期 水曜日４時限";
+	lect:teacher "シュレンドルフ，　レオポルト";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";

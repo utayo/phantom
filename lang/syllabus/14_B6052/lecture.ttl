@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ベンチャー経営論(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6052";
+	lect:time "2016年度 秋学期 水曜日２時限";
+	lect:teacher "國領　二郎、梅嶋　真樹";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、遠隔あり";

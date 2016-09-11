@@ -1,0 +1,31 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "スペイン語スキル(A)【１４】"@ja;
+	lect:lecture_id "14_B2361";
+	lect:time "2016年度 春学期 金曜日３時限";
+	lect:teacher "アロツ・ラファエル　アインゲル";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "スペイン語スキル(B)【１４】"@ja;
+	lect:lecture_id "14_B2361";
+	lect:time "2016年度 春学期 木曜日２時限";
+	lect:teacher "高木　和子";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "スペイン語スキル(A)【１４】"@ja;
+	lect:lecture_id "14_B2361";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "アロツ・ラファエル　アインゲル";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "スペイン語スキル(B)【１４】"@ja;
+	lect:lecture_id "14_B2361";
+	lect:time "2016年度 秋学期 木曜日２時限";
+	lect:teacher "高木　和子";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

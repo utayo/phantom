@@ -1,0 +1,19 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ベイズ統計[DS2]【１４】"@ja;
+	lect:lecture_id "14_B3211";
+	lect:time "2016年度 春学期 木曜日１時限";
+	lect:teacher "古谷　知之";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://web.sfc.keio.ac.jp/~maunz/wiki/";
+<http://example.com/lecture#1>
+	lect:name "ベイズ統計[DS2]【１４】"@ja;
+	lect:lecture_id "14_B3211";
+	lect:time "2016年度 秋学期 金曜日２時限";
+	lect:teacher "猪狩　良介";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://igariryosuke.wix.com/lecture";

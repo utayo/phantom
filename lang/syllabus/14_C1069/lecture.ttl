@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "計量経済学【学期後半】(GIGA/GG)【１４】"@ja;
+	lect:lecture_id "14_C1069";
+	lect:time "2016年度 秋学期 火曜日２時限,木曜日４時限";
+	lect:teacher "和田　龍磨";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

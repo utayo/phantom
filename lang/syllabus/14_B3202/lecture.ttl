@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "情報と社会のデータサイエンス[DS2]【１４】"@ja;
+	lect:lecture_id "14_B3202";
+	lect:time "2016年度 春学期 月曜日５時限";
+	lect:teacher "田代　光輝";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

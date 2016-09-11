@@ -1,0 +1,60 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6111";
+	sylb:summary "当クラスでは、デジタルサウンドデザインのための基礎的な理論とプログラミングを学びながら、作品の制作を行います。基礎的な理論には、初歩的な物理学、数学、心理音響学、サウンドデザインの基礎が含まれ、プログラム言語としては主にPureDataを使います。実際に多くのプログラミングの演習を行い、ボトムアップに作品制作を行って行きます。
+
+In this class, basics of digital sound composition will be presented and discussed. Students are expected to compose their own pieces and present them at the final class.
+
+";
+	sylb:method "「デジタルサウンドコンポジション１」では、パソコンを使って音そのものを良く理解する所から出発します。そのための方法としてPureData言語を使い、音の基本的な操作とコントロールを学び、リアルタイムで可能な音響アートの可能性を追求して行きます。当科目の履修は後期に予定されている「デジタルサウンドコンポジション２」への準備として必要になります。
+
+授業は、教員によるレクチャーと履修者による自作品のプレゼンテーションを隔週で行います。つまり教員が一方的に講義をするのではなく、履修者自身が自分のアイディアを提供してクラス全員で批評を行い、可能なアドバイスを出し合って知を共有し、先へ進みます。
+
+This class will be beneficial to those students who are already creatively involved in some musical activities. In this “digital sound composition 1” class, students will learn the basics of “PureData” which is a realtime sound generation and processing language. But it is the students themselves who make creative use of it.
+
+";
+	sylb:schedule "第1回 導入とオリエンテーション
+クラス全体のパースペクティヴ、使用ソフトのテスト、各種の参考サイト、文献、テキストの紹介など
+
+第2回 プレゼンテーション１
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第3回 Pdの基本オブジェクト
+ホット／コールド、計算順序、float、int、list、packとunpack、メトロノーム、カウンター、delayなど。送受信オブジェクト、メッセージボックス、アレイなど。
+
+第4回 プレゼンテーション２
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第5回 サウンドの録音と再生、ウエーヴテーブル合成
+サウンドの録音と再生、ウエーヴテーブル合成
+
+第6回 プレゼンテーション３
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第7回 オシレータ、エンヴェロープ、サブパッチ
+"tabosc4~ " 、”tabread4~ " などサウンドエディタ、エンヴェロープ・ジェネレータ、サブパッチの作り方と利用法
+
+第8回 プレゼンテーション４
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第9回 ディレイラインとその応用
+delwrite~、delread~、伝達関数、コームフィルタ、Karplus - Strong アルゴリズム、ピッチシフト、ビブラート、コーラス、ハーモナイザー、リバーブ
+
+第10回 プレゼンテーション５
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第11回 デジタルフィルタ入門
+FIRフィルタ、伝達関数と周波数応答、振幅特性と位相特性、ポール・ゼロフィルタ
+
+第12回 プレゼンテーション６
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第13回 フーリエ分析合成入門
+周波数スペクトラムとフーリエ級数、分析サイズと倍音（bin）の分析、F”FT オブジェクト、rfft~ " / "rifft~ “、 "fft~ " / "ifft~ "　など。
+
+第14回 先品発表
+先品発表と講評 
+その他
+作品制作・発表
+";

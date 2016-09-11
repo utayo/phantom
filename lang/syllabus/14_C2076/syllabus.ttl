@@ -1,0 +1,91 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2076";
+	sylb:summary "写真やビデオは、スマートフォンやコンピュータを通したコミュニケーションのツールとして欠かせないものになっています。 また、カメラは、ロボットの目や監視など多様なセンサとして、我々の生活を支えています。
+
+この講義では、デジタル画像処理の基本的な原理、手法、そしてプログラミングを通した画像処理実装スキルの獲得を目標とします。 具体的には、以下のことに取り組みます。 (1) デジタル画像の構造や画像処理の原理を理解します。 (2) プログラミングを通じて入力画像を素材とした画像の生成、加工・情報抽出の方法を学習します。 (3) 静止画からはじめ、動画像処理についても学習します。 (4) 画像をベースとしたインタラクションデザインの実践を行います。 (5) 距離画像カメラを用いた発展的な画像処理の応用についても取り組みます。
+
+In our daily lives, photos and videos are essential tools for our communication through smartphone devices and computers. In addition, cameras and image processing technologies support our lives in various situations, including applications for robot manipulation and security sensors.
+
+In this class, we learn about basic principles and methods of digital image processing. We also learn about skills for image processing programming.
+
+Concretely, we set several goals for this class: (1) Understand about principles and structures of digital images, (2) Learn about methods for image creation, processing and data extraction from input images, (3) Learn about time-varying image processing, (4) Practice Interaction Design using image processing, (5) Practice advanced image processing programming using a depth camera.
+
+";
+	sylb:method "写真やビデオは、スマートフォンやコンピュータを通したコミュニケーションのツールとして欠かせないものになっています。 また、カメラは、ロボットの目や監視など多様なセンサとして、我々の生活を支えています。
+
+この講義では、デジタル画像処理の基本的な原理、手法、そしてプログラミングを通した画像処理実装スキルの獲得を目標とします。 具体的には、以下のことに取り組みます。 (1) デジタル画像の構造や画像処理の原理を理解します。 (2) プログラミングを通じて入力画像を素材とした画像の生成、加工・情報抽出の方法を学習します。 (3) 静止画からはじめ、動画像処理についても学習します。 (4) 画像をベースとしたインタラクションデザインの実践を行います。 (5) 距離画像カメラを用いた発展的な画像処理の応用についても取り組みます。
+
+In our daily lives, photos and videos are essential tools for our communication through smartphone devices and computers. In addition, cameras and image processing technologies support our lives in various situations, including applications for robot manipulation and security sensors.
+
+In this class, we learn about basic principles and methods of digital image processing. We also learn about skills for image processing programming.
+
+Concretely, we set several goals for this class: (1) Understand about principles and structures of digital images, (2) Learn about methods for image creation, processing and data extraction from input images, (3) Learn about time-varying image processing, (4) Practice Interaction Design using image processing, (5) Practice advanced image processing programming using a depth camera.
+
+";
+	sylb:schedule "第1回 Introduction[ Introduction ]
+・画像処理とは？ 
+・画像処理技術を用いた研究やアート作品、製品の概説 
+- What is image processing? - Introduction of researches, artwork and products using image processing
+第2回 デジタル画像の構造[ Structure of Digital Image ]
+・デジタル画像の仕組み 
+・プログラミング環境の整備 
+・画像の読み込み
+
+- Structure of Digital Image - Preparation for Image Processing Programming - Input digital images
+第3回 静止画像の入力と変換[ Geometric transformation of input image ]
+・入力画像の変換（反転処理、拡大／縮小処理、ポジネガ変換など）
+
+Geometric transformation of input image (Flip, Scale changing, Positive-Negative etc.)
+第4回 画像フィルタリング[ Filtering ]
+・フィルタリングの考え方 
+・平滑化、エッジ抽出など
+
+- What is filtering? - smoothing, outline extraction
+第5回 動画像の入力と変換[ Video Input ]
+・動画像の入力 
+・動画像の仕組み
+
+- Video input - Structure of video data
+第6回 リアルタイム動画像処理[ Realtime Video Processing ]
+・動画像の変換処理の実装
+
+- Basic programming for realtime video processing
+第7回 差分画像の取得[ Acqurinig difference images ]
+・画像間演算の基礎 
+・背景差分、フレーム間差分など差分処理を用いた画像合成プログラム実装
+
+- Operation algorithm using multiple images - Image subtraction methods
+第8回 画像解析(1)[ Image Analysis (1) ]
+・画像解析に関する先端研究の紹介 
+・差分処理を用いたインタラクションの実装
+
+- Introduction of image analysis - Interactions using an image subtraction method
+第9回 画像解析(2)[ Image Analysis (2) ]
+・形状認識・パターン認識などの基礎 
+・マーカを利用したインタラクションの実装
+
+- Shape / Pattern recognition - Interactions with marker recognition methods
+第10回 中間発表[ Presentation ]
+画像解析を利用したインタラクティブアプリケーションを実装し、発表する 
+- Student Presentation (interactive application with image processing)
+第11回 距離画像カメラ入門[ Depth camera ]
+距離画像カメラの紹介と利用方法の概説 
+- Introduction of depth camera
+第12回 距離画像カメラ入門[ Depth camera ]
+距離画像カメラを用いたアプリケーション
+
+- Applications of depth camera
+第13回 最終課題制作[ Application Development ]
+最終発表に向けた課題制作を行う
+
+- Developing applications for the final presentation
+第14回 最終発表[ Final presentation and feedback ]
+最終発表およびフィードバック
+
+Final presentation and feedback
+その他
+課題・レポート
+
+Assignments in each class";

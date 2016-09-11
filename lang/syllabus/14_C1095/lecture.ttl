@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "国際金融論【学期後半】(GIGA/GG)【１４】"@ja;
+	lect:lecture_id "14_C1095";
+	lect:time "2016年度 秋学期 火曜日３時限,木曜日２時限";
+	lect:teacher "和田　龍磨";
+	lect:campas "SFC";
+	lect:course_type "講義";

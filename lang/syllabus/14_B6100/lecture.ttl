@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "モノ創り実験工房【１４】"@ja;
+	lect:lecture_id "14_B6100";
+	lect:time "2016年度 春学期 月曜日４時限,月曜日５時限";
+	lect:teacher "高汐　一紀、大前　学、神成　淳司";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "モノ創り実験工房(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6100";
+	lect:time "2016年度 秋学期 月曜日４時限,月曜日５時限";
+	lect:teacher "高汐　一紀、大前　学、神成　淳司";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

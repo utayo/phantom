@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ロシア語ベーシック２【１４】"@ja;
+	lect:lecture_id "14_B2192";
+	lect:time "2016年度 春学期 火曜日５時限,木曜日５時限";
+	lect:teacher "八島　雅彦";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

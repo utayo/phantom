@@ -1,0 +1,34 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "アカデミックライティング(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6069";
+	lect:time "2016年度 春学期 金曜日１時限";
+	lect:teacher "バティ，　アーロン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/moodle/course/view.php?id=10";
+<http://example.com/lecture#1>
+	lect:name "アカデミックライティング(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6069";
+	lect:time "2016年度 春学期 金曜日１時限";
+	lect:teacher "バティ，　アーロン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/moodle/course/view.php?id=10";
+<http://example.com/lecture#1>
+	lect:name "アカデミックライティング【１４】"@ja;
+	lect:lecture_id "14_B6069";
+	lect:time "2016年度 秋学期 水曜日１時限";
+	lect:teacher "ベ　ユン";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "アカデミックライティング【１４】"@ja;
+	lect:lecture_id "14_B6069";
+	lect:time "2016年度 秋学期 木曜日４時限";
+	lect:teacher "小熊　英二";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/moodle/course/view.php?id=10";

@@ -1,7 +1,7 @@
 @prefix sylbank: <http://example.com/syllabus:> .
 @prefix lect: <http://example.com/lecture_vocabulary:> .
 
-	lect:lecture_id"14_B1002"@ja;
+	lect:lecture_id"14_B1002";
 	sylb:summary "本講義では、環境情報系（環境デザイン、人間環境科学、先端生命科学、先端情報システム、先端領域デザイン）の各領域における問題発見・解決、関係変革のパラダイムについての基本的な考え方に触れる。
 
 As a required subject, “Environment and Information Studies” is aimed to serve as an introduction to SFC, and to the Faculty of Environment and Information Studies. The course consists of lectures, workshops and group presentations. Through the workshops, students are expected to develop the ideas about the ways in which we approach various issues and problems regarding our environment.

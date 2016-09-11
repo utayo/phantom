@@ -1,0 +1,74 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2049";
+	sylb:summary "“内的な心の世界”は、さまざまな表現形態を介して現れます.その中でもイメージ体験を中心に置き、その体験世界に精神分析的観点から光をあて、イメージをどれだけ豊かに言語化できるか、探求していきます.内的な心の世界に通ずるイメージをいかに“豊かに深く体験的に”理解するか、それは読み取る側の体験領域の広がりと深さにかかわってきます.そこで、読み取る主体そのものを理解すること、つまりさまざまなイメージ体験を話し合うプロセスそのものを通して得られる、“自己分析”がまず重要な課題となります.
+
+The internal world of the mind is manifested through diverse forms of expression. Of these, I will explore, in particular, the experiential world surrounding “images” from a psychoanalytic perspective. How a person can understand “images” richly and deeply depends on the spread and depth of the area of experiences possessed by the reader of such images. Therefore, to understand the entity that reads the images itself, I will place emphasis on the process of discussing a wide range of image experiences.
+
+";
+	sylb:method "“イメージ”として現れる心の世界を読み取り、理解し、さらに言葉にしていくには、その主体となる自分を知ることが求められます。そこで、グループワークを通して自分自身についての気づきを得る作業を共にした上で、さまざまな素材をもとに、“イメージ”をめぐる考察を深めていきます。
+
+To be able to read, understand, and put into words the world of the mind that appears in the form of an image, the person who becomes the subject of such acts is called on to know more about himself/herself. Therefore, students will work with others to obtain an awareness of themselves through group work, and will use all forms of study materials to deepen their analyses concerning images.
+
+";
+	sylb:schedule "第1回 総論 [ General comments: ]
+導入として、「心」は、さまざまな表現形態を介してどのように映し出されるか、さらにそれらをどのように読み取るかについて概説します。
+
+In my introduction to the course, I will give an outline about how the mind is expresses itself in diverse ways, and how these ways should be read and interpreted.
+第2回 心の投影 [ Projection of the mind ]
+心がどのように象徴的に表現されるか、体験的試みを行います。
+
+Students will try to experience how the mind is expressed symbolically.
+第3回 フィンガーペインティング　その１ [ Finger painting, Part 1 ]
+言葉を用いないファンタジーグループの体験を共にします。（指で絵を描きますので、汚れてもよい服装で臨んでください。）
+
+Students will share the experience of being in a “fantasy group” that uses no language. (Wear clothes you don’t mind getting paint on.)
+第4回 フィンガーペインティング　その２[ Finger painting, Part 2: ]
+フィンガーペインティングによってできあがった作品をめぐって、グループごとに完成までのプロセスを話し合い、発表します。
+
+Each group will examine the works created by finger painting, discuss the process up to their completion, and present their findings.
+第5回 フィンガーペインティング　その３[ Finger painting, Part 3 ]
+フィンガーペインティングによってでき上がった作品を、再び言葉を用いず、はさみと糊を使って切り貼りし新たな作品を創ります。
+
+The groups will take the works created by finger painting, and, again without using any words, use scissors and glue to cut and paste the pieces to create an entirely new piece of work.
+第6回 フィンガーペインティング　その４[ Finger painting, Part 4 ]
+新たに創られた作品をめぐって、グループごとに完成までのプロセスを話し合います。
+
+Concerning the newly-created works, each group will discuss the process up to their completion.
+第7回 ファンタジーグループ体験のまとめ[ Summary of the fantasy group experiences ]
+４回にわたるフィンガーペインティング体験をまとめ、グループごとに発表を行います。
+
+Students will summarize their four finger painting experiences. Each group will jointly present their findings.
+第8回 絵本をめぐって　その１[ Children’s picture books, No. 1 ]
+さまざまな心のテーマを扱っている絵本を素材にして、絵本から触発されることをグループで自由に話し合います。
+
+Students will use, as study materials, picture books that deal with all types of themes on the mind, and freely discuss, in a group, the thoughts and ideas that these books inspire.
+第9回 絵本をめぐって　その２[ Children’s picture books, No. 2 ]
+絵本について話し合われた内容をグループごとに発表します。
+
+Each group will give a joint presentation on the things they have discussed about a particular picture book.
+第10回 絵本をめぐって　その３[ Children’s picture books, No. 3 ]
+ 第９回に続き、絵本をめぐって話し合われた内容をグループごとに発表します。
+
+Following Session #9, each group will give a presentation on the things they have discussed about a particular picture book.
+第11回 様々な表現形態をめぐって　その１ [ Diverse forms of expression, Part 1 ]
+心理療法プロセスの中で変遷した絵の表現をめぐって、考察を深めます。
+
+Students will extend their study of the expressions used in pictures that have changed in the process of psychotherapy.
+第12回 様々な表現形態をめぐって　その２ [ Diverse forms of expression, Part 2 ]
+遊び、および夢に現れる心の世界を考察します。
+
+Students will study the world of the mind that appears in play and in dreams.
+第13回 様々な表現形態をめぐって　その3[ Diverse forms of expressions, Part 3 ]
+「心を動かされた体験」について、それぞれの体験に応じた表現形態を用いて、ひとりずつ発表します。
+
+Regarding experiences that have moved them emotionally, students will use a form of expression that is matched to their experiences, and give individual presentations.
+第14回 様々な表現形態をめぐって　その4[ Diverse forms of expression, Part 4 ]
+第１３回に続き、「心を動かされた体験」について、それぞれの体験に応じた表現形態を用いて、ひとりずつ発表します。
+
+Following Session #13, regarding experiences that had moved them emotionally, students will use a form of expression that is matched to their experiences, and give individual presentations.
+その他
+まとめ；１４回にわたる講義全体をふりかえり、本講義のまとめを行います。
+
+Others: Summary: We will look back on and review the entire 14-lesson course.";

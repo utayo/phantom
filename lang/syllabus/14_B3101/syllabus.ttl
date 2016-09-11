@@ -1,0 +1,394 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B3101";
+	sylb:summary "　この授業では，データサイエンスの入門科目として，実際のデータの分析をしながら統計学の基礎とその応用を学んでいきます． データの収集や整理，統計分析，プレゼンテーションに至るまでの入門的技法を実践的に習得します．
+
+　具体的には，データの平均，分散，相関といった記述統計，母集団と標本，確率分布と標本分布，大数の法則などの確率統計の基礎，それらに基づく推定や検定といった統計的推測，そして分散分析や回帰分析のような統計モデルの手法までを扱います．
+
+　利用する統計ソフトに応じて，RクラスとJMPクラスが開講されます．このうち，Rは無償ソフト，JMPはSFCキャンパスライセンスソフトです．担当者によって利用する統計ソフトが異なるので注意して下さい．今年度は以下のように開講される予定です：
+
+Rクラス：春学期 月曜日１時限（担当：馬場国博），春学期 火曜日２時限（担当：小暮厚之）
+JMPクラス：秋学期開講予定（担当：片岡正昭）
+This course introduces you to the basics of statistics as a data science. You will learn how to collect and summarize data, how to analyze data and how to make inferences and predictions about real world phenomena by using a statistical software.
+
+";
+	sylb:method "　この授業では，データサイエンスの入門科目として，実際のデータの分析をしながら統計学の基礎とその応用を学んでいきます． データの収集や整理，統計分析，プレゼンテーションに至るまでの入門的技法を実践的に習得します．
+
+　具体的には，データの平均，分散，相関といった記述統計，母集団と標本，確率分布と標本分布，大数の法則などの確率統計の基礎，それらに基づく推定や検定といった統計的推測，そして分散分析や回帰分析のような統計モデルの手法までを扱います．
+
+　利用する統計ソフトに応じて，RクラスとJMPクラスが開講されます．このうち，Rは無償ソフト，JMPはSFCキャンパスライセンスソフトです．担当者によって利用する統計ソフトが異なるので注意して下さい．今年度は以下のように開講される予定です：
+
+Rクラス：春学期 月曜日1時限（担当：馬場国博），春学期 火曜日2時限（担当：小暮厚之）
+JMPクラス：秋学期開講予定（担当：片岡正昭）
+This course introduces you to the basics of statistics as a data science. You will learn how to collect and summarize data, how to analyze data and how to make inferences and predictions about real world phenomena by using a statistical software.
+
+";
+	sylb:schedule "第1回 イントロダクション
+この授業のイントロダクションとして，統計学の目的や意義，授業の進め方や成績評価の仕方について説明します．また，授業で使うパソコンやソフトウェアなどについても説明します．
+
+第2回 データの収集と整理
+様々なデータ，データの収集，度数分布，データの分散と標準偏差，データの標準化，偏差値
+
+第3回 R事始
+Rを用いたパソコン演習
+
+第4回 確率
+確率とは何か，条件付確率，ベイズの定理
+
+第5回 確率と確率分布
+モンティホールの問題，独立性，メレの逆説
+
+第6回 確率と確率分布
+確率変数と確率分布, 二項分布と地震
+
+第7回 確率モデル
+二項分布，連続型確率変数と密度関数，正規規分布
+
+第8回 母集団と標本（１）
+無作為抽出，パラメータと推定値，視聴率調査
+
+第9回 母集団と標本（２）
+大数の法則と中心極限定理，世論調査
+
+第10回 区間推定と仮説検定
+区間推定，帰無仮説と対立仮説，有意水準，P値
+
+第11回 回帰分析（１）
+被説明変数と説明変数，回帰モデル，回帰モデルの推定
+
+第12回 回帰分析（２）
+重回帰分析，F検定
+
+第13回 回帰分析（３）
+回帰診断，異常値，変数選択
+
+第14回 履修者プレゼンテーション
+その他
+データ分析のレポーティング，プレゼンテーション，質疑応答など
+
+";
+	lect:lecture_id"14_B3101";
+	sylb:summary "　この授業では，データサイエンスの入門科目として，実際のデータの分析をしながら統計学の基礎とその応用を学んでいきます． データの収集や整理，統計分析，プレゼンテーションに至るまでの入門的技法を実践的に習得します．
+
+　具体的には，データの平均，分散，相関といった記述統計，母集団と標本，確率分布と標本分布，大数の法則などの確率統計の基礎，それらに基づく推定や検定といった統計的推測，そして分散分析や回帰分析のような統計モデルの手法までを扱います．
+
+　利用する統計ソフトに応じて，RクラスとJMPクラスが開講されます．このうち，Rは無償ソフト，JMPはSFCキャンパスライセンスソフトです．担当者によって利用する統計ソフトが異なるので注意して下さい．今年度は以下のように開講される予定です：
+
+Rクラス：春学期 月曜日１時限（担当：馬場国博），春学期 火曜日２時限（担当：小暮厚之）
+JMPクラス：秋学期開講予定（担当：片岡正昭）
+";
+	sylb:method "　この授業では，データサイエンスの入門科目として，実際のデータの分析をしながら統計学の基礎とその応用を学んでいきます． データの収集や整理，統計分析，プレゼンテーションに至るまでの入門的技法を実践的に習得します．
+
+　具体的には，データの平均，分散，相関といった記述統計，母集団と標本，確率分布と標本分布，大数の法則などの確率統計の基礎，それらに基づく推定や検定といった統計的推測，そして分散分析や回帰分析のような統計モデルの手法までを扱います．
+
+　利用する統計ソフトに応じて，RクラスとJMPクラスが開講されます．このうち，Rは無償ソフト，JMPはSFCキャンパスライセンスソフトです．担当者によって利用する統計ソフトが異なるので注意して下さい．今年度は以下のように開講される予定です：
+
+Rクラス：春学期 月曜日1時限（担当：馬場国博），春学期 火曜日２時限（担当：小暮厚之）
+JMPクラス：秋学期開講予定（担当：片岡正昭）
+";
+	sylb:schedule "第1回 イントロダクション
+この授業のイントロダクションとして，統計学の目的や意義，授業の進め方や成績評価の仕方について説明します．また，授業で使うパソコンやソフトウェアなどについても説明します．
+
+第2回 データの収集と整理
+様々なデータ，データの収集，度数分布，データの要約
+
+第3回 データのばらつき
+データの分散と標準偏差，データの標準化，偏差値
+
+第4回 統計ソフトウエアの基本操作
+この週から，RあるいはJMPを用いたパソコン演習を行います．統計ソフトをインストールし，統計ソフトの基本操作を習得します．
+
+第5回 散布図と相関係数
+２次元のデータ，散布図，相関係数，相関と因果
+
+第6回 確率と確率分布
+確率，条件付き確率と独立性，確率変数と確率分布
+
+第7回 確率モデル
+二項分布，連続型確率変数と密度関数，正規規分布
+
+第8回 母集団と標本
+無作為抽出，標本調査，大数の法則と中心極限定理
+
+第9回 推定の考え方
+パラメータと推定値，標本分布，区間推定
+
+第10回 仮説検定の考え方
+帰無仮説と対立仮説，有意水準，P値
+
+第11回 平均値の差の検定と分散分析
+平均値の差の検定，分散分析，t検定とF検定
+
+第12回 二元配置の分散分析
+複数の要因，二元配置の分散分析，分散分析の利用上の注意
+
+第13回 回帰分析（１）
+被説明変数と説明変数，回帰モデル，回帰モデルの推定
+
+第14回 回帰分析（２）
+回帰モデルの検定，回帰診断，回帰分析の利用上の注意
+
+その他
+データ分析のレポーティング，プレゼンテーション，質疑応答など
+
+";
+	lect:lecture_id"14_B3101";
+	sylb:summary "This class will teach the fundamentals of working with and interpreting data. It assumes no knowledge of statistics. We will focus on concepts, procedures, and best practices, with an eye toward real-world use of these methods in your research and/or career.
+
+Specific topics we will cover are: Types of data, data gathering, data description/summary, analyses of relationships, probability, hypothesis testing, and analyses of differences.
+
+この授業で、データの操作と解釈の基礎を習得します。統計学を勉強したことのない学生を対象としています。学生の研究やキャリアに活用出来ることを目的として、統計学の概念・手法・ 最良の実践を中心に授業を展開していきます。
+
+具体的に、データの種類・データ収集・データの記述・関係の分析・確率・仮説検定・相違の分析を扱います。
+
+";
+	sylb:method "We are surrounded by data and statistics in the modern world. The media bombards us with numbers and facts and figures that we think we understand. But do we? This class will teach you how to think about data, how to make it easier to understand, and how to decide what is important in it.
+
+Software that we will use is spreadsheet software (Excel preferred, but not required), and statistics software (R with the RKWard GUI/IDE). Moodle will also be used extensively in homework, class discussion, and testing.
+
+This course will employ the peer instruction approach to math & science instruction. Readings will be required, and class will be highly interactive.
+
+";
+	sylb:schedule "第1回 Overview & Introduction
+Overview of the topic and the course; Software installation
+
+第2回 Gathering and Understanding Data (1)
+Randomness, surveys, and experiments.
+
+第3回 Gathering and Understanding Data (2)
+Randomness, surveys, and experiments.
+
+第4回 Gathering and Understanding Data (3)
+Distributions, the standard deviation, and the normal model
+
+第5回 Analyzing Relationships (1)
+Correlation (what it is and what it ISN'T!)
+
+第6回 Analyzing Relationships (2)
+Predicting unknown values from known values with linear regression, and the problems therein.
+
+第7回 Probability (1)
+What is probability, really? Independence and conditional probability.
+
+第8回 Probability (2)
+Even more probability, PLUS binomials!
+
+第9回 Hypothesis Testing (1)
+Sampling distribution models.
+
+第10回 Hypothesis Testing (2)
+Determining the confidence intervals for proportions and testing hypotheses for proportions.
+
+第11回 Hypothesis Testing (3)
+How to think about hypothesis testing (or, how NOT to think about it!)
+
+第12回 Analyzing Differences (1)
+Comparing averages (t-tests)
+
+第13回 Analyzing Differences (2)
+Comparing counts (cross-tabs and chi-square).
+
+第14回 Analyzing Differences (3)
+Comparing means when you have more than 2 groups (ANOVA).
+
+その他
+Extra study session for the final.
+Your day to ask me anything you still don't understand for the final exam.
+
+";
+	lect:lecture_id"14_B3101";
+	sylb:summary "　この授業では，データサイエンスの入門科目として，実際のデータの分析をしながら統計学の基礎とその応用を学んでいきます． データの収集や整理，統計分析，プレゼンテーションに至るまでの入門的技法を実践的に習得します．
+
+　具体的には，データの平均，分散，相関といった記述統計，母集団と標本，確率分布と標本分布，大数の法則などの確率統計の基礎，それらに基づく推定や検定といった統計的推測，そして分散分析や回帰分析のような統計モデルの手法までを扱います．
+
+　利用する統計ソフトに応じて，RクラスとJMPクラスが開講されます．このうち，Rは無償ソフト，JMPはSFCキャンパスライセンスソフトです．担当者によって利用する統計ソフトが異なるので注意して下さい．今年度は以下のように開講される予定です： • Rクラス：春学期 月曜日１時限（担当：馬場国博），春学期 火曜日２時限（担当：小暮厚之） 秋学期　金曜日１時限（担当：猪狩良介）
+
+• JMPクラス：秋学期開講予定（担当：片岡正昭）
+
+This course introduces you to the basics of statistics as a data science. You will learn how to collect and summarize data, how to analyze data and how to make inferences and predictions about real world phenomena by using a statistical software.
+
+";
+	sylb:method "　この授業では，データサイエンスの入門科目として，実際のデータの分析をしながら統計学の基礎とその応用を学んでいきます． データの収集や整理，統計分析，プレゼンテーションに至るまでの入門的技法を実践的に習得します．
+
+　具体的には，データの平均，分散，相関といった記述統計，母集団と標本，確率分布と標本分布，大数の法則などの確率統計の基礎，それらに基づく推定や検定といった統計的推測，そして分散分析や回帰分析のような統計モデルの手法までを扱います．
+
+　利用する統計ソフトに応じて，RクラスとJMPクラスが開講されます．このうち，Rは無償ソフト，JMPはSFCキャンパスライセンスソフトです．担当者によって利用する統計ソフトが異なるので注意して下さい．今年度は以下のように開講される予定です： • Rクラス：春学期 月曜日1時限（担当：馬場国博），春学期 火曜日2時限（担当：小暮厚之） 秋学期　金曜日１時限（担当：猪狩良介）
+
+• JMPクラス：秋学期開講予定（担当：片岡正昭）
+
+This course introduces you to the basics of statistics as a data science. You will learn how to collect and summarize data, how to analyze data and how to make inferences and predictions about real world phenomena by using a statistical software.
+
+";
+	sylb:schedule "第1回 イントロダクション
+この授業のイントロダクションとして，統計学の目的や意義，授業の進め方や成績評価の仕方について説明します．また，授業で使うパソコンやソフトウェアなどについても説明します．
+
+第2回 データの収集と整理
+様々なデータ，データの収集，度数分布，データの要約
+
+第3回 データのばらつき
+データの分散と標準偏差，データの標準化，偏差値
+
+第4回 統計ソフトウエアの基本操作
+この週から，RあるいはJMPを用いたパソコン演習を行います．統計ソフトをインストールし，統計ソフトの基本操作を習得します．
+
+第5回 散布図と相関係数
+２次元のデータ，散布図，相関係数，相関と因果
+
+第6回 確率と確率分布
+確率，条件付き確率と独立性，確率変数と確率分布
+
+第7回 確率モデル
+二項分布，連続型確率変数と密度関数，正規規分布
+
+第8回 母集団と標本
+無作為抽出，標本調査，大数の法則と中心極限定理
+
+第9回 推定の考え方
+パラメータと推定値，標本分布，区間推定
+
+第10回 仮説検定の考え方
+帰無仮説と対立仮説，有意水準，P値
+
+第11回 平均値の差の検定と分散分析
+平均値の差の検定，分散分析，t検定とF検定
+
+第12回 二元配置の分散分析
+複数の要因，二元配置の分散分析，分散分析の利用上の注意
+
+第13回 回帰分析（１）
+回帰モデルの検定，回帰診断，回帰分析の利用上の注意
+
+第14回 回帰分析（２）
+その他
+データ分析のレポーティング，プレゼンテーション，質疑応答など
+
+";
+	lect:lecture_id"14_B3101";
+	sylb:summary "　この授業では，データサイエンスの入門科目として，実際のデータの分析をしながら統計学の基礎とその応用を学んでいきます． データの収集や整理，統計分析，プレゼンテーションに至るまでの入門的技法を実践的に習得します．
+
+　具体的には，データの平均，分散，相関といった記述統計，母集団と標本，確率分布と標本分布，大数の法則などの確率統計の基礎，それらに基づく推定や検定といった統計的推測，そして分散分析や回帰分析のような統計モデルの手法までを扱います．
+
+　利用する統計ソフトに応じて，RクラスとJMPクラスが開講されます．このうち，Rは無償ソフト，JMPはSFCキャンパスライセンスソフトです．担当者によって利用する統計ソフトが異なるので注意して下さい．今年度は以下のように開講される予定です：
+
+Rクラス：春学期 月曜日１時限（担当：馬場国博），春学期 火曜日２時限（担当：小暮厚之）秋学期　金曜日１時限（担当：猪狩良介）
+JMPクラス：秋学期開講予定（担当：片岡正昭）
+";
+	sylb:method "　この授業では，データサイエンスの入門科目として，実際のデータの分析をしながら統計学の基礎とその応用を学んでいきます． データの収集や整理，統計分析，プレゼンテーションに至るまでの入門的技法を実践的に習得します．
+
+　具体的には，データの平均，分散，相関といった記述統計，母集団と標本，確率分布と標本分布，大数の法則などの確率統計の基礎，それらに基づく推定や検定といった統計的推測，そして分散分析や回帰分析のような統計モデルの手法までを扱います．
+
+　利用する統計ソフトに応じて，RクラスとJMPクラスが開講されます．このうち，Rは無償ソフト，JMPはSFCキャンパスライセンスソフトです．担当者によって利用する統計ソフトが異なるので注意して下さい．今年度は以下のように開講される予定です：
+
+Rクラス：春学期 月曜日1時限（担当：馬場国博），秋学期 火曜日２時限（担当：小暮厚之）秋学期　金曜日１時限（担当：猪狩良介）
+JMPクラス：春学期 木曜日3時限（担当：片岡正昭）
+";
+	sylb:schedule "第1回 イントロダクション
+この授業のイントロダクションとして，統計学の目的や意義，授業の進め方や成績評価の仕方について説明します．また，授業で使うパソコンやソフトウェアなどについても説明します．
+
+第2回 データの収集と整理
+様々なデータ，データの収集，度数分布，データの要約
+
+第3回 データのばらつき
+データの分散と標準偏差，データの標準化，偏差値
+
+第4回 統計ソフトウエアの基本操作
+この週から，RあるいはJMPを用いたパソコン演習を行います．統計ソフトをインストールし，統計ソフトの基本操作を習得します．
+
+第5回 散布図と相関係数
+２次元のデータ，散布図，相関係数，相関と因果
+
+第6回 確率と確率分布
+確率，条件付き確率と独立性，確率変数と確率分布
+
+第7回 確率モデル
+二項分布，連続型確率変数と密度関数，正規規分布
+
+第8回 母集団と標本
+無作為抽出，標本調査，大数の法則と中心極限定理
+
+第9回 推定の考え方
+パラメータと推定値，標本分布，区間推定
+
+第10回 仮説検定の考え方
+帰無仮説と対立仮説，有意水準，P値
+
+第11回 平均値の差の検定と分散分析
+平均値の差の検定，分散分析，t検定とF検定
+
+第12回 二元配置の分散分析
+複数の要因，二元配置の分散分析，分散分析の利用上の注意
+
+第13回 回帰分析（１）
+被説明変数と説明変数，回帰モデル，回帰モデルの推定
+
+第14回 回帰分析（２）
+回帰モデルの検定，回帰診断，回帰分析の利用上の注意
+
+その他
+データ分析のレポーティング，プレゼンテーション，質疑応答など
+
+";
+	lect:lecture_id"14_B3101";
+	sylb:summary "This class will teach the fundamentals of working with and interpreting data. It assumes no knowledge of statistics. We will focus on concepts, procedures, and best practices, with an eye toward real-world use of these methods in your research and/or career. This section is especially recommended for students who THINK they are bad at math.
+
+Specific topics we will cover are: Types of data, data gathering, data description/summary, analyses of relationships, probability, hypothesis testing, and analyses of differences.
+
+この授業で、データの操作と解釈の基礎を習得します。統計学を勉強したことのない学生を対象としています。学生の研究やキャリアに活用出来ることを目的として、統計学の概念・手法・ 最良の実践を中心に授業を展開していきます。「数学が苦手」と思っている学生に特に勧められます。
+
+具体的に、データの種類・データ収集・データの記述・関係の分析・確率・仮説検定・相違の分析を扱います。
+
+";
+	sylb:method "We are surrounded by data and statistics in the modern world. The media bombards us with numbers and facts and figures that we think we understand. But do we? This class will teach you how to think about data, how to make it easier to understand, and how to decide what is important in it.
+
+The statistics software that we will use is R with the RKWard GUI/IDE, which harnesses the power of R with the ease of use of SPSS. Moodle will also be used extensively in homework, class discussion, and testing.
+
+This course will employ the peer instruction approach to math & science instruction. Readings will be required, and class will be highly interactive.
+
+";
+	sylb:schedule "第1回 Overview & Introduction
+Overview of the topic and the course; Software installation
+
+第2回 Gathering and Understanding Data (1)
+Kinds of data and how to present and summarize them. 
+第3回 Gathering and Understanding Data (2)
+Randomness, surveys, and experiments.
+
+第4回 Gathering and Understanding Data (3)
+Distributions, the standard deviation, and the normal model
+
+第5回 Analyzing Relationships (1)
+Correlation (what it is and what it ISN'T!)
+
+第6回 Analyzing Relationships (2)
+Predicting unknown values from known values with linear regression, and the problems therein.
+
+第7回 Probability (1)
+What is probability, really? Independence and conditional probability.
+
+第8回 Probability (2)
+Even more probability, PLUS binomials!
+
+第9回 Hypothesis Testing (1)
+Sampling distribution models.
+
+第10回 Hypothesis Testing (2)
+Determining the confidence intervals for proportions and testing hypotheses for proportions.
+
+第11回 Hypothesis Testing (3)
+How to think about hypothesis testing (or, how NOT to think about it!)
+
+第12回 Analyzing Differences (1)
+Comparing averages (t-tests)
+
+第13回 Analyzing Differences (2)
+Comparing counts (cross-tabs and chi-square).
+
+第14回 Analyzing Differences (3)
+Comparing means when you have more than 2 groups (ANOVA).
+
+その他
+Extra study session for the final.
+Your day to ask me anything you still don't understand for the final exam.
+
+";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ネットワーク政策(GIGA/GG)【１４】"@ja;
+	lect:lecture_id "14_C1018";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "中越　一彰";
+	lect:campas "SFC";
+	lect:course_type "講義";

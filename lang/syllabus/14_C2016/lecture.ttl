@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "自然環境論【学期後半】【１４】"@ja;
+	lect:lecture_id "14_C2016";
+	lect:time "2016年度 春学期 金曜日３時限,金曜日４時限";
+	lect:teacher "樋口　広芳";
+	lect:campas "SFC";
+	lect:course_type "講義";

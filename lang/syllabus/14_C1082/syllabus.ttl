@@ -1,0 +1,106 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1082";
+	sylb:summary "経済分析は単に経済問題に留まらず、社会問題全般を考察する上でも極めて汎用性の高い分析用具である。公共選択論（政治の経済学）、法経済学（法律の経済学）、M.ポーターの『競争戦略論』（経済学の応用分野である産業組織論を下敷き）、松井彰彦の『慣習と規範の経済学』（社会学で扱ってきた問題を経済学的に解明）等、経済分析の汎用性を示す例は枚挙に暇が無い。
+
+本講座では標準的なミクロ経済理論を中心に、マクロ経済理論も射程に収めて、エッセンス中のエッセンスの講義と、簡単な演習の解説を行う。特に演習に関しては、経済理論を使いこなせるようになる為に計算問題の解法を解説するのみならず、現実の経済現象をどう読み解くかについても、時間の許す範囲で触れたいと考えている。
+
+";
+	sylb:method "経済分析は単に経済問題に留まらず、社会問題全般を考察する上でも極めて汎用性の高い分析用具である。公共選択論（政治の経済学）、法経済学（法律の経済学）、M.ポーターの『競争戦略論』（経済学の応用分野である産業組織論を下敷き）、松井彰彦の『慣習と規範の経済学』（社会学で扱ってきた問題を経済学的に解明）等、経済分析の汎用性を示す例は枚挙に暇が無い。
+
+本講座では標準的なミクロ経済理論を中心に、マクロ経済理論も射程に収めて、エッセンス中のエッセンスの講義と、簡単な演習の解説を行う。特に演習に関しては、経済理論を使いこなせるようになる為に計算問題の解法を解説するのみならず、現実の経済現象をどう読み解くかについても、時間の許す範囲で触れたいと考えている。
+
+";
+	sylb:schedule "第1回 ガイダンス
+経済学とは何か（内容・領域・特徴）
+
+第2回 消費者の理論
+予算制約の下での効用最大化 
+需要の決定
+
+第3回 生産者の理論
+与えられた生産技術の下での利潤最大化 
+供給の決定
+
+第4回 市場均衡と厚生経済学
+市場における価格決定 
+資源配分の効率性（余剰分析）
+
+第5回 ミクロ経済学総合演習Ⅰ
+(2)消費者の理論 
+(3)生産者の理論 
+(4)市場均衡と厚生経済学
+
+第6回 不完全競争
+独占 
+寡占 
+独占的競争
+
+第7回 市場の失敗
+外部性（ピグー税） 
+公共財（フリーライダー問題）
+
+第8回 ミクロ経済学総合演習Ⅱ
+(6)不完全競争 
+(7)市場の失敗
+
+第9回 国民所得の諸概念と財市場の分析Ⅰ
+三面等価の原則 
+国民所得の決定
+
+第10回 財市場の分析Ⅱと貨幣市場の需給
+乗数効果 
+利子率（金利）の決定
+
+第11回 マクロ経済学総合演習Ⅰ
+(9)国民所得の諸概念と財市場の分析Ⅰ 
+(10)財市場の分析Ⅱと貨幣市場の需給
+
+第12回 IS-LM分析と総需要管理政策
+金融政策の効果 
+財政政策の効果 
+マンデル＝フレミングの理論
+
+第13回 物価の変動と経済成長
+フィリップス曲線 
+短期消費関数と長期消費関数 
+経済成長論
+
+第14回 マクロ経済学総合演習Ⅱ
+(12)IS-LM分析と総需要管理政策 
+(13)物価の変動と経済成長
+
+その他
+オフィスアワー
+
+";
+	lect:lecture_id"14_C1082";
+	sylb:summary "時系列分析などの計量手法を主に用いることにより、国際金融論・国際マクロ経済学の演習を行う。為替レートや経常収支の変動の原因についての分析、および予測、国際景気循環などを扱う。データを用いての計量分析を多用することになるので、データの取得、時系列分析についても学ぶことになる。さらにプレゼンテーションの方法、論文の書き方についても学ぶ。
+
+We will study several topics in international finance/international macroeconomics, including exchange rate dynamics, current account fluctuations, forecasting, and international business cycles. We will use time-series econometrics for estimation and forecasting. We will then learn effective presentation and writing skills.
+
+";
+	sylb:method "演習科目であるので、学生による発表および討論を中心に行う。データを使った演習を行うことにより、モデルをよりよく理解するとともにモデルと現実との乖離についても学ぶ。論文による発表方法と、プレゼンテーションによる発表方法の両方についても実習を通じて学ぶ。
+
+Students must give presentations and participate in discussions. By using data, students will be able to understand the exchange rate and current account models more deeply. Also, they are expected to find the difference between model implications and the actual data on exchange rates or the current account balance.
+
+";
+	sylb:schedule "第1回 イントロダクション[ Introduction ]
+第2回 為替レートモデルとその推定１[ Exchange Rate Models and Estimation 1 ]
+第3回 為替レートモデルとその推定２[ Exchange Rate Models and Estimation 2 ]
+第4回 為替レートの予測１[ Forecasting Exchange Rates 1 ]
+第5回 為替レートの予測２[ Forecasting Exchange Rates 2 ]
+第6回 経常収支モデルと推定１[ Models of Current Account Dynamics and Estimation 1 ]
+第7回 経常収支モデルと推定２[ Models of Current Account Dynamics and Estimation 2 ]
+第8回 経常収支と為替レート１[ Current Account and Exchange Rates 1 ]
+第9回 経常収支と為替レート２[ Current Account and Exchange Rates 2 ]
+第10回 論文中間発表[ Presentation on Term paper ]
+第11回 国際景気循環モデル１[ International Business Cycles 1 ]
+第12回 国際景気循環モデル２[ International Business Cycles 2 ]
+第13回 時系列分析手法についての補論[ Special Topics in Time Series Econometrics ]
+第14回 まとめ[ Conclusion ]
+その他
+論文提出
+
+Term paper";

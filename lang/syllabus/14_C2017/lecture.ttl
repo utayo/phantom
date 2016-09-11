@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "地球システム設計論【１４】"@ja;
+	lect:lecture_id "14_C2017";
+	lect:time "2016年度 春学期 月曜日３時限";
+	lect:teacher "鳴川　肇";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "地球システム設計論【１４】"@ja;
+	lect:lecture_id "14_C2017";
+	lect:time "2016年度 秋学期 木曜日２時限";
+	lect:teacher "大木　聖子";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";

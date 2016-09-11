@@ -1,0 +1,109 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1129";
+	sylb:summary "In diesem Fachkurs lesen wir Texte verschiedener Themenbereiche und verschiedener Textsorten, wie z.B. literarische Texte oder auch Zeitungsartikel. Dabei werden wir versuchen, den beschriebenen Inhalt der jeweiligen Texte genau zu verstehen und kritisch zu betrachten. Erwartet wird dabei keine blosse Textuebersetzung, sondern aktive Praesentation, Teilnahme an der Diskussion und produktive Ueberlegungen zum Inhalt. Die Themen werden je nach Semester neu festgelegt. In diesem Semester lesen wir Texte aus der Bibel. Schwerpunkt der Lektuere ist dabei das Alte Testament und Apokalypse vom NT. Unser Augenmerk wird vor allem darauf liegen, wie die verschiedenen religioesen Elemente im Text dargestellt sind. Vor allem die Symbole, Metaphern, Vergleiche u.a., die in der Bibel vorkommen, werden im Unterricht analysiert und in ihrem Kontext interpretiert.
+
+";
+	sylb:method "In diesem Fachkurs lesen wir Texte verschiedener Themenbereiche und verschiedener Textsorten, wie z.B. literarische Texte oder auch Zeitungsartikel. Dabei werden wir versuchen, den beschriebenen Inhalt der jeweiligen Texte genau zu verstehen und kritisch zu betrachten. Erwartet wird dabei keine blosse Textuebersetzung, sondern aktive Praesentation, Teilnahme an der Diskussion und produktive Ueberlegungen zum Inhalt. Die Themen werden je nach Semester neu festgelegt. In diesem Semester lesen wir Texte aus der Bibel. Schwerpunkt der Lektuere ist dabei das Alte Testament und Apokalypse vom NT. Unser Augenmerk wird vor allem darauf liegen, wie die verschiedenen religioesen Elemente im Text dargestellt sind. Vor allem die Symbole, Metaphern, Vergleiche u.a., die in der Bibel vorkommen, werden im Unterricht analysiert und in ihrem Kontext interpretiert.（本講義「メディア論（ドイツ語）」では、ドイツ語で発信された様々な分野をメディアとして捉え、内容分析・考察・議論をおこなっていきます。取り上げるテーマは主に、文学作品や映画作品、絵画、音楽、報道等、開講年度によって異なります。 　今学期の講義では、前回に引き続き「聖書」をテーマに取り上げます。新約聖書の黙示録、旧約聖書を中心に、そこに浮上するメタファーやシンボル、比喩表現等に着目し、特定の色や数がどのような宗教的意味を持つのか、図像学の視点からどのようなアトリビュートが見えてくるのか、といった考察をおこないます。文献は、ルター聖書（ドイツ語現代語訳）を対象に講読します。資料はプリントで配布します。なお、本講義は、神学的解釈を対象にするものではありません。文学や美術、演劇などに関心のある方はぜひ履修をお勧めします。）
+
+";
+	sylb:schedule "第1回 導入
+本講義の今学期の概要を説明します。
+
+第2回 聖書概説（１）
+ルター聖書に関する概説を資料と共に捉えます。
+
+第3回 聖書概説（２）
+新約聖書について
+
+第4回 聖書概説（３）
+旧約聖書について
+
+第5回 テキスト講読と分析（１）
+資料の理解と分析を共同でおこないます。
+
+第6回 テキスト講読と分析（２）
+資料の理解と分析を共同でおこないます。
+
+第7回 テキスト講読と分析（３）
+資料の理解と分析を共同でおこないます。
+
+第8回 テキスト講読と分析（４）
+資料の理解と分析を共同でおこないます。
+
+第9回 テキスト講読と分析（５）
+資料の理解と分析を共同でおこないます。
+
+第10回 テキスト講読と分析（６）
+資料の理解と分析を共同でおこないます。
+
+第11回 テキスト講読と分析（７）
+資料の理解と分析を共同でおこないます。
+
+第12回 テキスト講読と分析（８）
+資料の理解と分析を共同でおこないます。
+
+第13回 最終発表とディスカッション（１）
+各自がテーマを決め、プレゼンテーションをおこないます。
+
+第14回 最終発表とディスカッション（２）
+各自がテーマを決め、プレゼンテーションをおこないます。
+
+その他
+授業と並行して、メディアセンターでの資料レファレンス手法を導入します。
+
+";
+	lect:lecture_id"14_C1129";
+	sylb:summary "In diesem Fachkurs lesen wir Texte verschiedener Themenbereiche und verschiedener Textsorten, wie z.B. literarische Texte oder auch Zeitungsartikel. Dabei werden wir versuchen, den beschriebenen Inhalt der jeweiligen Texte genau zu verstehen und kritisch zu betrachten. Erwartet wird dabei keine blosse Textuebersetzung, sondern aktive Praesentation, Teilnahme an der Diskussion und produktive Ueberlegungen zum Inhalt. Die Themen werden je nach Semester neu festgelegt. In diesem Semester lesen wir Texte aus der Bibel. Schwerpunkt der Lektuere ist dabei das Alte Testament und Apokalypse vom NT. Unser Augenmerk wird vor allem darauf liegen, wie die verschiedenen religioesen Elemente im Text dargestellt sind. Vor allem die Symbole, Metaphern, Vergleiche u.a., die in der Bibel vorkommen, werden im Unterricht analysiert und in ihrem Kontext interpretiert.
+
+";
+	sylb:method "In diesem Fachkurs lesen wir Texte verschiedener Themenbereiche und verschiedener Textsorten, wie z.B. literarische Texte oder auch Zeitungsartikel. Dabei werden wir versuchen, den beschriebenen Inhalt der jeweiligen Texte genau zu verstehen und kritisch zu betrachten. Erwartet wird dabei keine blosse Textuebersetzung, sondern aktive Praesentation, Teilnahme an der Diskussion und produktive Ueberlegungen zum Inhalt. Die Themen werden je nach Semester neu festgelegt. In diesem Semester lesen wir Texte aus der Bibel. Schwerpunkt der Lektuere ist dabei das Alte Testament und Apokalypse vom NT. Unser Augenmerk wird vor allem darauf liegen, wie die verschiedenen religioesen Elemente im Text dargestellt sind. Vor allem die Symbole, Metaphern, Vergleiche u.a., die in der Bibel vorkommen, werden im Unterricht analysiert und in ihrem Kontext interpretiert.（本講義「メディア論（ドイツ語）」では、ドイツ語で発信された様々な分野をメディアとして捉え、内容分析・考察・議論をおこなっていきます。取り上げるテーマは主に、文学作品や映画作品、絵画、音楽、報道等、開講年度によって異なります。 　今学期の講義では、前回に引き続き「聖書」をテーマに取り上げます。新約聖書の黙示録、旧約聖書を中心に、そこに浮上するメタファーやシンボル、比喩表現等に着目し、特定の色や数がどのような宗教的意味を持つのか、図像学の視点からどのようなアトリビュートが見えてくるのか、といった考察をおこないます。文献は、ルター聖書（ドイツ語現代語訳）を対象に講読します。資料はプリントで配布します。なお、本講義は、神学的解釈を対象にするものではありません。文学や美術、演劇などに関心のある方はぜひ履修をお勧めします。）
+
+";
+	sylb:schedule "第1回 導入
+本講義の今学期の概要を説明します。
+
+第2回 聖書概説（１）
+ルター聖書に関する概説を資料と共に捉えます。
+
+第3回 聖書概説（２）
+新約聖書について
+
+第4回 聖書概説（３）
+旧約聖書について
+
+第5回 テキスト講読と分析（１）
+資料の理解と分析を共同でおこないます。
+
+第6回 テキスト講読と分析（２）
+資料の理解と分析を共同でおこないます。
+
+第7回 テキスト講読と分析（３）
+資料の理解と分析を共同でおこないます。
+
+第8回 テキスト講読と分析（４）
+資料の理解と分析を共同でおこないます。
+
+第9回 テキスト講読と分析（５）
+資料の理解と分析を共同でおこないます。
+
+第10回 テキスト講読と分析（６）
+資料の理解と分析を共同でおこないます。
+
+第11回 テキスト講読と分析（７）
+資料の理解と分析を共同でおこないます。
+
+第12回 テキスト講読と分析（８）
+資料の理解と分析を共同でおこないます。
+
+第13回 最終発表とディスカッション（１）
+各自がテーマを決め、プレゼンテーションをおこないます。
+
+第14回 最終発表とディスカッション（２）
+各自がテーマを決め、プレゼンテーションをおこないます。
+
+その他
+授業と並行して、メディアセンターでの資料レファレンス手法を導入します。
+
+";

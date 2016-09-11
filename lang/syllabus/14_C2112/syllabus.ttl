@@ -1,0 +1,88 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2112";
+	sylb:summary "Master Course Level. For this year, we will deeply discuss the design strategy in "Open Source" era. "Open Source" culture started in Software field, and then "Open Content" appeared. Since just a few years ago, new movements has been rapidly growing- that is Open Source Design/ Open Source Hardware. The textbook is "Open Design Now" which was published in Netherland in 2011. Please note that you can download most of contents from the web- you don't need to buy one :-) http://opendesignnow.org/
+
+As a design practice, students will modify the existing design product with Digital Fabrication tools, and share/publish the process in the document format.
+
+大学院生レベルを想定し、「オープンソース時代のデザイン戦略」を「英語」で考え実践・製作する授業とする。テキストには「OPEN DESIGN NOW」を使用するが、この書籍は大半の内容が下記URLに公開されているため、必ずしも購入する必要はない。
+
+http://opendesignnow.org/
+
+製作実習としては、デジタルファブリケーション機器を用いて、既存のデザインプロダクトを「派生」させる実習を行い、その全過程をデザイン・ドキュメンテーションとしてまとめることとする。
+
+";
+	sylb:method "大学院生レベルを想定し、「オープンソース時代のデザイン戦略」を「英語」で考え実践・製作する授業とする。テキストには「OPEN DESIGN NOW」を使用するが、この書籍は大半の内容が下記URLに公開されているため、購入する必要はない。
+
+http://opendesignnow.org/
+
+製作実習としては、デジタルファブリケーション機器を用いて、既存のデザインプロダクトを「派生」させる実習を行い、その全過程をデザイン・ドキュメンテーションとしてまとめることとする。
+
+**Master Course Level**
+
+For this year, we will deeply discuss the design strategy in "Open Source" era. "Open Source" culture started in Software field, and then "Open Content" appeared. Since just a few years ago, new movements has been rapidly growing- that is Open Source Design/ Open Source Hardware. The textbook is "Open Design Now" which was published in Netherland in 2011. Please note that you can download most of contents from the web- you don't need to buy one :-) http://opendesignnow.org/
+
+As a design practice, students will modify the existing design product with Digital Fabrication tools, and share/publish the process in the document format.
+
+";
+	sylb:schedule "第1回 イントロダクション Introduction 
+オープンソースデザインについて概説する。 
+Open Source Design
+
+第2回 オープンソースデザイン（１） Open Source Design (1)
+デザインコンテンツのオープンソース化を実践する。 
+Open Source Design
+
+第3回 オープンソースデザイン（２） Open Source Design (2)
+デザインコンテンツのオープンソース化について、実践を通じて議論を行う。 
+Open Source Design
+
+第4回 オープンソースデザイン（３） Open Source Design (3)
+デザインコンテンツのオープンソース化について、実践を通じて議論を行う。 
+Open Source Design
+
+第5回 オープンソースデザイン（４） Open Source Design (4)
+クリエイティブコモンズについて議論する。 
+Creative Commons
+
+第6回 オープンソースデザイン（５） Open Source Design (5)
+クリエイティブコモンズの拡張系・今後の行く末について議論する。 
+Creative Commons
+
+第7回 オープンソースデザイン（６） Open Source Design (6)
+ライセンスデザインについて現状を調査する。 
+License Design
+
+第8回 オープンソースデザイン（７） Open Source Design (7)
+ライセンスデザインについて現状を調査する。 
+License Design
+
+第9回 オープンソースデザイン（８） Open Source Design (8)
+デジタルファブリケーション技術を学ぶ。 
+Digital Fabrication
+
+第10回 オープンソースデザイン（９） Open Source Design (9)
+デジタルファブリケーション技術を学ぶ。 
+Digital Fabrication
+
+第11回 オープンソースデザイン（１０） Open Source Design (10)
+中間講評会 
+Mid-term review
+
+第12回 オープンソースデザイン（１１） Open Source Design (11)
+デザインドキュメンテーションについて学ぶ。 
+Design Documentation
+
+第13回 オープンソースデザイン（１２） Open Source Design (12)
+デザインドキュメンテーションについて学ぶ。 
+Design Documentation
+
+第14回 オープンソースデザイン（１３） Open Source Design (13)
+最終発表会。まとめを行う。 
+Final Presentation
+
+その他
+* オープンソースデザイン（１4） Open Source Design (13)* 最終発表会。まとめを行う。
+Final Presentation2
+";

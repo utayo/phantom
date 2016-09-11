@@ -1,0 +1,18 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "マレー・インドネシア語インテンシブ３インドネシア研修【１４】"@ja;
+	lect:lecture_id "14_B2253";
+	lect:time "2016年度 春学期";
+	lect:teacher "ペトルス　アリ サントーソ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://maigo.sfc.keio.ac.jp/jp/index.html";
+<http://example.com/lecture#1>
+	lect:name "マレー・インドネシア語インテンシブ３インドネシア研修【１４】"@ja;
+	lect:lecture_id "14_B2253";
+	lect:time "2016年度 秋学期";
+	lect:teacher "ペトルス　アリ サントーソ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

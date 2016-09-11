@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ビジュアライゼーション【１４】"@ja;
+	lect:lecture_id "14_B6070";
+	lect:time "2016年度 秋学期 木曜日５時限";
+	lect:teacher "増井　俊之";
+	lect:campas "SFC";
+	lect:course_type "講義";

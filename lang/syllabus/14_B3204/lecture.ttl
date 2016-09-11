@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "医療・健康のデータサイエンス[DS2](GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B3204";
+	lect:time "2016年度 秋学期 月曜日３時限";
+	lect:teacher "竹内　円雅";
+	lect:campas "SFC";
+	lect:course_type "講義";

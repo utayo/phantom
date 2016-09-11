@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "朝鮮語海外研修Ａ【１４】"@ja;
+	lect:lecture_id "14_B2641";
+	lect:time "2016年度 春学期";
+	lect:teacher "柳町　功";
+	lect:campas "ソウル大学言語教育院(韓国)";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "朝鮮語海外研修Ａ【１４】"@ja;
+	lect:lecture_id "14_B2641";
+	lect:time "2016年度 秋学期";
+	lect:teacher "柳町　功";
+	lect:campas "ソウル大学言語教育院(韓国)";
+	lect:course_type "講義、実習・演習、グループワーク";

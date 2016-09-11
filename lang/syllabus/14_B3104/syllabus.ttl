@@ -1,0 +1,123 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B3104";
+	sylb:summary "行列とベクトルを学習します。連立一次方程式の解法、行列式、逆行列など行列やベクトルに関するいろいろな計算を習得すると共に、線形空間とその間の線形写像という抽象的な概念を理解します。行列は一次変換とみなされ、その固有値と固有ベクトル、行列の対角化はそのは一次変換を特徴付けます。統計学を含む多くの分野で現われる概念です。
+
+We study matrices and vectors, in particular, how to solve the simultaneous equation, how to calculate the determinant and the inverse matrices. Moreover, by abstracting these concepts, we study linear spaces and linear mapping. Then a matrix can be regarded as a linear mapping. Especially, eigenvalues and eigenvectors of the matrix, and the matrix diagonalization characterize the mapping.　We often encounter these concepts in other mathematical fields including statistics.
+
+";
+	sylb:method "この講義では行列に関して学びます。最初は2×2行列に注目します。一次変換としての行列、行列の計算、2元連立一次方程式の解法、基本変形など基礎を学びます。次にn×n行列にこれらを拡張します。n次元ベクトル空間上の一次変換になります。そして基本変形やn元連立方程式の解法を学びます。最後に行列の固有値と固有ベクトルについて学びます。固有値は数学の他の分野や、統計学などでも登場する重要な概念です。n次元ベクトルの話になると、とても抽象的になります。この抽象化も数学の大事な考え方です。でも苦手な人は常にn=3としてみて考えてください。
+
+We study matrices in this lecture. First we handle 2x2 matrices. We study a relation between matrices and linear mappings, how to solve two equations in two unknowns, how to calculate the determinant and the inverse matrix. Especially, we study the process to manipulate the system of equations and the matrix. Then we generalize these concepts to nxn matrices. Finally, we study eigenvalues and eigenvectors of the nxn matrix. We often encounter these concepts in other mathematical fields including statistics. When we treat n dimensional vectors, we have difficulty of imagination. At that time, let's consider the case of n=2 and 3.
+
+";
+	sylb:schedule "第1回 講義の概要[ Overview of Lecture ]
+第2回 平面と一次変換[ Plane and Linear Map ]
+第3回 行列の計算[ Basic Operation of Matrices ]
+第4回 連立1次方程式[ Simultaneous Linear Equation ]
+第5回 行列の基本変形[ Basic Manipulation of Matrices ]
+第6回 ベクトル空間[ Vector Spaces ]
+第7回 次元と基底[ Dimension and Base ]
+第8回 連立1次方程式の解法1[ Method to Solve Simultaneous Equations 1 ]
+第9回 連立1次方程式の解法2[ Method to Solve Simultaneous Equations 2 ]
+第10回 次元公式[ Dimension Formula ]
+第11回 行列式[ Determinant ]
+第12回 余因数展開と逆行列[ Minors and Inverse Matrix ]
+第13回 行列の固有値[ Eigenvalues ]
+第14回 対称行列の対角化[ Matrix Diagonalization ]
+第15回 質問・まとめ[ Wrap-Up ]
+その他
+質問・まとめ
+
+Q & A";
+	lect:lecture_id"14_B3104";
+	sylb:summary "行列とベクトルを学習します。連立一次方程式の解法、行列式、逆行列など行列やベクトルに関するいろいろな計算を習得すると共に、線形空間とその間の線形写像という抽象的な概念を理解します。行列は一次変換とみなされ、その固有値と固有ベクトル、行列の対角化はそのは一次変換を特徴付けます。統計学を含む多くの分野で現われる概念です。
+
+We study matrices and vectors, in particular, how to solve the simultaneous equation, how to calculate the determinant and the inverse matrices. Moreover, by abstracting these concepts, we study linear spaces and linear mapping. Then a matrix can be regarded as a linear mapping. Especially, eigenvalues and eigenvectors of the matrix, and the matrix diagonalization characterize the mapping.　We often encounter these concepts in other mathematical fields including statistics.
+
+";
+	sylb:method "この講義では行列に関して学びます。最初は2×2行列に注目します。一次変換としての行列、行列の計算、2元連立一次方程式の解法、基本変形など基礎を学びます。次にn×n行列にこれらを拡張します。n次元ベクトル空間上の一次変換になります。そして基本変形やn元連立方程式の解法を学びます。最後に行列の固有値と固有ベクトルについて学びます。固有値は数学の他の分野や、統計学などでも登場する重要な概念です。n次元ベクトルの話になると、とても抽象的になります。この抽象化も数学の大事な考え方です。でも苦手な人は常にn=3としてみて考えてください。
+
+We study matrices in this lecture. First we handle 2x2 matrices. We study a relation between matrices and linear mappings, how to solve two equations in two unknowns, how to calculate the determinant and the inverse matrix. Especially, we study the process to manipulate the system of equations and the matrix. Then we generalize these concepts to nxn matrices. Finally, we study eigenvalues and eigenvectors of the nxn matrix. We often encounter these concepts in other mathematical fields including statistics. When we treat n dimensional vectors, we have difficulty of imagination. At that time, let's consider the case of n=2 and 3.
+
+";
+	sylb:schedule "第1回 講義の概要[ Overview of Lecture ]
+第2回 平面と一次変換[ Plane and Linear Map ]
+第3回 行列の計算[ Basic Operation of Matrices ]
+第4回 連立1次方程式[ Simultaneous Linear Equation ]
+第5回 行列の基本変形[ Basic Manipulation of Matrices ]
+第6回 ベクトル空間[ Vector Spaces ]
+第7回 次元と基底[ Dimension and Base ]
+第8回 連立1次方程式の解法1[ Method to Solve Simultaneous Equations 1 ]
+第9回 連立1次方程式の解法2[ Method to Solve Simultaneous Equations 2 ]
+第10回 次元公式[ Dimension Formula ]
+第11回 行列式[ Determinant ]
+第12回 余因数展開と逆行列[ Minors and Inverse Matrix ]
+第13回 行列の固有値[ Eigenvalues ]
+第14回 対称行列の対角化[ Matrix Diagonalization ]
+第15回 質問・まとめ[ Wrap-Up ]
+その他
+質問・まとめ
+
+Q & A";
+	lect:lecture_id"14_B3104";
+	sylb:summary "行列とベクトルを学習します。連立一次方程式の解法、行列式、逆行列など行列やベクトルに関するいろいろな計算を習得すると共に、線形空間とその間の線形写像という抽象的な概念を理解します。行列は一次変換とみなされ、その固有値と固有ベクトル、行列の対角化はそのは一次変換を特徴付けます。統計学を含む多くの分野で現われる概念です。
+
+We study matrices and vectors, in particular, how to solve the simultaneous equation, how to calculate the determinant and the inverse matrices. Moreover, by abstracting these concepts, we study linear spaces and linear mapping. Then a matrix can be regarded as a linear mapping. Especially, eigenvalues and eigenvectors of the matrix, and the matrix diagonalization characterize the mapping.　We often encounter these concepts in other mathematical fields including statistics.
+
+";
+	sylb:method "この講義では行列に関して学びます。最初は2×2行列に注目します。一次変換としての行列、行列の計算、2元連立一次方程式の解法、基本変形など基礎を学びます。次にn×n行列にこれらを拡張します。n次元ベクトル空間上の一次変換になります。そして基本変形やn元連立方程式の解法を学びます。最後に行列の固有値と固有ベクトルについて学びます。固有値は数学の他の分野や、統計学などでも登場する重要な概念です。n次元ベクトルの話になると、とても抽象的になります。この抽象化も数学の大事な考え方です。でも苦手な人は常にn=3としてみて考えてください。
+
+We study matrices in this lecture. First we handle 2x2 matrices. We study a relation between matrices and linear mappings, how to solve two equations in two unknowns, how to calculate the determinant and the inverse matrix. Especially, we study the process to manipulate the system of equations and the matrix. Then we generalize these concepts to nxn matrices. Finally, we study eigenvalues and eigenvectors of the nxn matrix. We often encounter these concepts in other mathematical fields including statistics. When we treat n dimensional vectors, we have difficulty of imagination. At that time, let's consider the case of n=2 and 3.
+
+";
+	sylb:schedule "第1回 講義の概要
+第2回 行列の計算
+第3回 連立1次方程式
+第4回 行列の基本変形
+第5回 行列式
+第6回 余因数展開と逆行列
+第7回 連立1次方程式の解法1
+第8回 連立1次方程式の解法2
+第9回 ベクトル空間
+第10回 次元と基底
+第11回 平面と一次変換
+第12回 次元公式
+第13回 行列の固有値
+第14回 対称行列の対角化
+第15回 質問・まとめ
+その他
+質問・まとめ
+
+Q & A";
+	lect:lecture_id"14_B3104";
+	sylb:summary "行列とベクトルを学習します。連立一次方程式の解法、行列式、逆行列など行列やベクトルに関するいろいろな計算を習得すると共に、線形空間とその間の線形写像という抽象的な概念を理解します。行列は一次変換とみなされ、その固有値と固有ベクトル、行列の対角化はそのは一次変換を特徴付けます。統計学を含む多くの分野で現われる概念です。
+
+We study matrices and vectors, in particular, how to solve the simultaneous equation, how to calculate the determinant and the inverse matrices. Moreover, by abstracting these concepts, we study linear spaces and linear mapping. Then a matrix can be regarded as a linear mapping. Especially, eigenvalues and eigenvectors of the matrix, and the matrix diagonalization characterize the mapping.　We often encounter these concepts in other mathematical fields including statistics.
+
+";
+	sylb:method "この講義では行列に関して学びます。最初は2×2行列に注目します。一次変換としての行列、行列の計算、2元連立一次方程式の解法、基本変形など基礎を学びます。次にn×n行列にこれらを拡張します。n次元ベクトル空間上の一次変換になります。そして基本変形やn元連立方程式の解法を学びます。最後に行列の固有値と固有ベクトルについて学びます。固有値は数学の他の分野や、統計学などでも登場する重要な概念です。n次元ベクトルの話になると、とても抽象的になります。この抽象化も数学の大事な考え方です。でも苦手な人は常にn=3としてみて考えてください。
+
+We study matrices in this lecture. First we handle 2x2 matrices. We study a relation between matrices and linear mappings, how to solve two equations in two unknowns, how to calculate the determinant and the inverse matrix. Especially, we study the process to manipulate the system of equations and the matrix. Then we generalize these concepts to nxn matrices. Finally, we study eigenvalues and eigenvectors of the nxn matrix. We often encounter these concepts in other mathematical fields including statistics. When we treat n dimensional vectors, we have difficulty of imagination. At that time, let's consider the case of n=2 and 3.
+
+";
+	sylb:schedule "第1回 講義の概要[ Overview of Lecture ]
+第2回 平面と一次変換[ Plane and Linear Map ]
+第3回 行列の計算[ Basic Operation of Matrices ]
+第4回 連立1次方程式[ Simultaneous Linear Equation ]
+第5回 行列の基本変形[ Basic Manipulation of Matrices ]
+第6回 ベクトル空間[ Vector Spaces ]
+第7回 次元と基底[ Dimension and Base ]
+第8回 連立1次方程式の解法1[ Method to Solve Simultaneous Equations 1 ]
+第9回 連立1次方程式の解法2[ Method to Solve Simultaneous Equations 2 ]
+第10回 次元公式[ Dimension Formula ]
+第11回 行列式[ Determinant ]
+第12回 余因数展開と逆行列[ Minors and Inverse Matrix ]
+第13回 行列の固有値[ Eigenvalues ]
+第14回 対称行列の対角化[ Matrix Diagonalization ]
+第15回 質問・まとめ[ Wrap-Up ]
+その他
+質問・まとめ
+
+Q & A";

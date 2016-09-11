@@ -1,0 +1,76 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1043";
+	sylb:summary "持続的な経済成長や安心・安全な社会の構築等において新たな技術や知見の創出が不可欠であることから科学技術政策の重要性は高まり続けており、我が国のみならず諸外国においても重要政策の一つとして位置づけられている。本講義では、知の創造と活用を推進し、その適切な保護を行う環境の実現に向けた科学技術政策の動向や推進体制等について理解することを目的としている。
+
+また、創出された技術や知見の社会展開においては、官民連携による戦略的取組や他の公共政策と連携した取組が必要となる。このため、技術革新が著しい情報通信分野の事例を参考として、産業政策等の公共政策と科学技術政策の連関や産学官連携の在り方等について理解することを目的とする。
+
+Creation of new technologies or knowledges is essential for sustained economic growth and construction of safe and secure society. As the importance of science and technology policy keeps increasing, it has been recognized as one of most important national policies not only in Japan but also in other countries. One of purposes of this lecture is to understand circumstance and measures for promotion of science and technology policy that aims at creation, utilization and protection of new technologies or knowledge.
+
+On the other hand, strategic measures that include public-private partnership and collaboration with other public policies are required for the utilization of new technologies and knowledges in the real world. Thus, we will review some cases in telecommunication area in order to obtain a better understanding of linkage between science and technology policy and other public policies such as an industry policy, the way of industry-university-government cooperation, and etc.
+
+";
+	sylb:method "講義式の授業によって、新たな技術や知見の創出、それらの適切な保護と利活用等を推進するための様々な政策的取組について説明を行います。併せて、技術革新が著しい情報通信分野において、新たな技術を社会展開するための課題とその対応について説明を行います。
+
+This course will be lectured in a didactic manner. In a series of lectures, we will address various measures for creation of new technologies or knowledge, proper protection and utilization of them and etc.. In addition, we will deal with problems related to introduction of new technologies into the real world and measures to overcome them in telecommunication area.
+
+";
+	sylb:schedule "第1回 科学技術政策とは何か[ Concept of science and technology policy ]
+科学技術政策の基本的考え方や体系等について説明を行う。
+
+In the lecture, we will deal with basic idea, importance and policy system of science and technology policy.
+第2回 日本の科学技術政策の概要[ Overview of science and technology policy in Japan ]
+日本の科学技術政策の立案体制、推進体制について説明を行う。併せて、現在の科学技術基本計画の概要等について説明を行う。
+
+Structure for planning and promoting science and technology policy in Japan will be explained. In addition, we will deal with overview of current Basic Program for Science and Technology in Japan.
+第3回 知的財産権の概要[ Overview of policies for Intellectual Property Right ]
+知的財産権の概念及び発明に対して権利を与える特許権の概要について説明を行う。併せて、知的財産権を重視し、その強化を目的とするプロパテント政策について説明を行う。
+
+Concept of Intellectual Property Right (IPR) and overview of policy regarding patent will be explained. In addition, we will deal with pro-patent policy that emphasizes and protects IPR.
+第4回 産学官連携の推進[ Promotion of industry-university-government cooperation ]
+新たな技術の創出・展開において重要な役割を果たす産学官連携について、その推進に向けた取り組みについて説明を行う。
+
+Industry-University-Government cooperation plays an important role in creation and deployment of new technologies. Measures to promote industry-university-government cooperation will be explained in the lecture.
+第5回 公的研究機関の果たす役割[ The role of public research institution ]
+国による研究開発の実施主体である独立行政法人について、制度概要や研究開発力の強化に向けた取り組みについて説明を行う。
+
+In Japan, incorporated administrative agencies play main roles in R&D activities conducted by the government. Overview of incorporated administrative agency system and measures to strengthen their R&D abilities will be explained in the lecture.
+第6回 情報通信分野の標準化政策[ Policy for standardization in telecommunication area ]
+研究開発等によって創出される技術や知見の迅速かつ経済的な社会導入を行うためには、国際的に調和した標準化が必要となる。このため、情報通信分野における標準化政策について説明を行う。
+
+Standardization that realizes international harmonization is essential for the introduction of new technologies and knowledges into real world. In this lecture, we will deal with standardization policy in telecommunication as one of examples.
+第7回 標準化と知的財産権[ Standardization and IPR ]
+標準化における知的財産の取り扱いについて、パテントポリシーやパテントプールの概要について説明を行う。
+
+In this lecture, patent policy and patent pool will be explained from the viewpoint of handling of IPR that is incorporated into international standards.
+第8回 移動通信システムの展開[ Deployment of mobile telecommunication system ]
+第2世代、第3世代移動通信システムに関する国際標準化の取り組みについて説明を行うとともに、それぞれのサービス導入に向けて行われた官民の取り組みを説明する。
+
+We will discuss about the difference of standardization processes between second and third generation mobile telecommunication systems. We will also deal with measured taken by government and private sectors in order to launch new service by these systems smoothly.
+第9回 ゲストスピーカーによる講演[ Special lecture by guest speaker (TBD) ]
+産学官連携による研究開発及びその成果展開の具体的な事例について解説する。
+
+第10回 地上デジタルテレビ放送[ Digitalization of terrestrial television service ]
+地上デジタルテレビ放送のデジタル化に向けた官民の取り組みから、新たな技術の社会導入における課題について解説する。また、日本方式の国際展開に関する取組から、官民連携による技術普及に向けた重要性について説明する。
+
+In this lecture, we will discuss about challenge to introduce new technologies into the real world by reviewing measures for digitalization of terrestrial television service in Japan. In addition, the importance of prevailing new technology by public-private cooperation will be explained by reviewing efforts for globalizing of Japanese digital TV technology.
+第11回 2020年代に向けた取組[ Measures toward 2020s ]
+第5世代移動通信システムの実現に向けた国際的動向や我が国における取り組み、4K/8K超高精細画像に関する国際的動向や我が国における取り組みについて解説する。
+
+In this lecture, international trend for 5G mobile telecommunication system and 4K/8K ultra high definition image and measured for realization of these new systems in Japan will be explained.
+第12回 準天頂衛星に向けた政府・民間の取り組み[ Measures for quasi-zenith satellite by government and private sector ]
+我が国における衛星による測位システムの高度化に向けた官民連携の取り組みについて解説する。
+
+In this lecture, measures for realization of quasi-zenith satellite, that is satellite positioning system, taken by Japanese government and private sector will be explained.
+第13回 ゲストスピーカーによる講演（予定）[ Special lecture by guest speaker (TBD) ]
+研究開発成果を社会に展開する際に生じる課題等について解説する。（ゲストスピーカーによる講演を予定。）
+
+第14回 科学技術政策の役割[ Role of science and technology policy ]
+新たな科学知識の創造と社会への展開に際して科学技術政策が果たす役割について振り返り、まとめを行う。
+
+In this lecture, we will review the role of science and technology policy in order to create new knowledges and technologies and introduce them into the real world.
+その他
+*まとめ* これまでの授業内容の総括および補足説明を行います。
+
+As conclusions, topics addressed in whole lectures will be summarized and supplementary note will also be illustrated.";

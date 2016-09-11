@@ -1,0 +1,215 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6068";
+	sylb:summary "This course is about techniques for giving academic presentations. The language components of the course are speaking, listening and discussion. Students will improve on these skills through carefully designed projects and other weekly activities. At the end of the course, students will be able to communicate their thought in the form of power-point presentations with ease and confidence.
+
+This course is about techniques for giving academic presentations. The language components of the course are speaking, listening and discussion. Students will improve on these skills through carefully designed projects and other weekly activities. At the end of the course, students will be able to communicate their thought in the form of power-point presentations with ease and confidence.
+
+";
+	sylb:method "The aim of this course is to help students develop the ability to make presentations that are impressive and academically sound. Students will often work in small groups in order to maximize the opportunity for conveying their ideas. The course uses a step-by-step method.
+
+The aim of this course is to help students develop the ability to make presentations that are impressive and academically sound. Students will often work in small groups in order to maximize the opportunity for conveying their ideas. The course uses a step-by-step method.
+
+";
+	sylb:schedule "第1回 The Art of Preparing and Delivery an Informative Speech 
+Students learn the basics of speech-making. They learn the three main sections of a speech.
+
+第2回 Informative Speech Group #1 
+One group of students puts into use the technique practiced in the first week.
+
+第3回 Informative Speech Group #2 
+The remaining group of students makes a speech based on the technique of the first week.
+
+第4回 The Art of Arguing an Opinion 
+Students learn how to construct an opinion and support it with arguments.
+
+第5回 Opinion Speech Group #1 
+One group of students gives a speech utilizing the techniques learned in the fourth class session. Each presentation is followed by a brief Q&A.
+
+第6回 Opinion Speech Group #2 
+The remaining group of students make a speech based on the techniques of the fourth class session. Each presentation is followed by a brief Q&A.
+
+第7回 The Art of Debating
+Students learn how to debate.
+
+第8回 Debate Session 1
+Students in small groups debate each other. The debate is followed by a feedback from the audience.
+
+第9回 Debate Session 2
+Students in small groups debate each other. The debate is followed by a feedback from the audience.
+
+第10回 The Art of Conducting and Reporting a Survey 
+Students learn how to conduct a survey and incorporate the result in a speech.
+
+第11回 The Art of Power-point Presentations 
+Students learn all the facets of using visual aids in a speech.
+
+第12回 Final Presentation and Open Discussion (Group #1)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+第13回 Final Presentation and Open Discussion (Group #2)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+第14回 Final Presentation and Open Discussion (Group #3)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+その他
+Final Review and Course Feedback
+
+";
+	lect:lecture_id"14_B6068";
+	sylb:summary "This course is about techniques for giving academic presentations. The language components of the course are speaking, listening and discussion. Students will improve on these skills through carefully designed projects and other weekly activities. At the end of the course, students will be able to communicate their thought in the form of power-point presentations with ease and confidence.
+
+This course is about techniques for giving academic presentations. The language components of the course are speaking, listening and discussion. Students will improve on these skills through carefully designed projects and other weekly activities. At the end of the course, students will be able to communicate their thought in the form of power-point presentations with ease and confidence.
+
+";
+	sylb:method "The aim of this course is to help students develop the ability to make presentations that are impressive and academically sound. Students will often work in small groups in order to maximize the opportunity for conveying their ideas. The course uses a step-by-step method.
+
+The aim of this course is to help students develop the ability to make presentations that are impressive and academically sound. Students will often work in small groups in order to maximize the opportunity for conveying their ideas. The course uses a step-by-step method.
+
+";
+	sylb:schedule "第1回 The Art of Preparing and Delivery an Informative Speech
+Students learn the basics of speech-making. They learn the three main sections of a speech. 
+
+第2回 Informative Speech Group #1
+One group of students puts into use the technique practiced in the first week. 
+
+第3回 Informative Speech Group #2
+The remaining group of students makes a speech based on the technique of the first week. 
+第4回 The Art of Arguing an Opinion 
+Students learn how to construct an opinion and support it with arguments. 
+第5回 Opinion Speech Group #1 
+One group of students gives a speech utilizing the techniques learned in the fourth class session. Each presentation is followed by a brief Q&A. 
+第6回 Opinion Speech Group #2 
+The remaining group of students make a speech based on the techniques of the fourth class session. Each presentation is followed by a brief Q&A. 
+第7回 The Art of Debating
+Students learn how to debate. 
+第8回 Debate Session 1 
+Students in small groups debate each other. The debate is followed by a feedback from the audience.
+
+第9回 Debate Session 2 
+Students in small groups debate each other. The debate is followed by a feedback from the audience. 
+第10回 The Art of Conducting and Reporting a Survey 
+Students learn all the facets of using visual aids in a speech. 
+第11回 The Art of Power-point Presentations 
+Students learn all the facets of using visual aids in a speech.
+
+第12回 Final Presentation and Open Discussion (Group #1)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+第13回 Final Presentation and Open Discussion (Group #2) 
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+第14回 Final Presentation and Open Discussion (Group #3)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+その他
+* Overall Review and Course Feedback
+";
+	lect:lecture_id"14_B6068";
+	sylb:summary "This course is about techniques for giving academic presentations. The language components of the course are speaking, listening and discussion. Students will improve on these skills through carefully designed projects and other weekly activities. At the end of the course, students will be able to communicate their thought in the form of power-point presentations with ease and confidence.
+
+This course is about techniques for giving academic presentations. The language components of the course are speaking, listening and discussion. Students will improve on these skills through carefully designed projects and other weekly activities. At the end of the course, students will be able to communicate their thought in the form of power-point presentations with ease and confidence.
+
+";
+	sylb:method "The aim of this course is to help students develop the ability to make presentations that are impressive and academically sound. Students will often work in small groups in order to maximize the opportunity for conveying their ideas. The course uses a step-by-step method.
+
+The aim of this course is to help students develop the ability to make presentations that are impressive and academically sound. Students will often work in small groups in order to maximize the opportunity for conveying their ideas. The course uses a step-by-step method.
+
+";
+	sylb:schedule "第1回 The Art of Preparing and Delivery an Informative Speech 
+Students learn the basics of speech-making. They learn the three main sections of a speech.
+
+第2回 Informative Speech Group #1 
+One group of students puts into use the technique practiced in the first week.
+
+第3回 Informative Speech Group #2 
+The remaining group of students makes a speech based on the technique of the first week.
+
+第4回 The Art of Arguing an Opinion 
+Students learn how to construct an opinion and support it with arguments.
+
+第5回 Opinion Speech Group #1 
+One group of students gives a speech utilizing the techniques learned in the fourth class session. Each presentation is followed by a brief Q&A.
+
+第6回 Opinion Speech Group #2 
+The remaining group of students make a speech based on the techniques of the fourth class session. Each presentation is followed by a brief Q&A.
+
+第7回 The Art of Debating
+Students learn how to debate.
+
+第8回 Debate Session 1
+Students in small groups debate each other. The debate is followed by a feedback from the audience.
+
+第9回 Debate Session 2
+Students in small groups debate each other. The debate is followed by a feedback from the audience.
+
+第10回 The Art of Conducting and Reporting a Survey 
+Students learn how to conduct a survey and incorporate the result in a speech.
+
+第11回 The Art of Power-point Presentations 
+Students learn all the facets of using visual aids in a speech.
+
+第12回 Final Presentation and Open Discussion (Group #1)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+第13回 Final Presentation and Open Discussion (Group #2)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+第14回 Final Presentation and Open Discussion (Group #3)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+その他
+Final Review and Course Feedback
+
+";
+	lect:lecture_id"14_B6068";
+	sylb:summary "This course is about techniques for giving academic presentations. The language components of the course are speaking, listening and discussion. Students will improve on these skills through carefully designed projects and other weekly activities. At the end of the course, students will be able to communicate their thought in the form of power-point presentations with ease and confidence.
+
+This course is about techniques for giving academic presentations. The language components of the course are speaking, listening and discussion. Students will improve on these skills through carefully designed projects and other weekly activities. At the end of the course, students will be able to communicate their thought in the form of power-point presentations with ease and confidence.
+
+";
+	sylb:method "The aim of this course is to help students develop the ability to make presentations that are impressive and academically sound. Students will often work in small groups in order to maximize the opportunity for conveying their ideas. The course uses a step-by-step method.
+
+The aim of this course is to help students develop the ability to make presentations that are impressive and academically sound. Students will often work in small groups in order to maximize the opportunity for conveying their ideas. The course uses a step-by-step method.
+
+";
+	sylb:schedule "第1回 The Art of Preparing and Delivery an Informative Speech
+Students learn the basics of speech-making. They learn the three main sections of a speech. 
+
+第2回 Informative Speech Group #1
+One group of students puts into use the technique practiced in the first week. 
+
+第3回 Informative Speech Group #2
+The remaining group of students makes a speech based on the technique of the first week. 
+第4回 The Art of Arguing an Opinion 
+Students learn how to construct an opinion and support it with arguments. 
+第5回 Opinion Speech Group #1 
+One group of students gives a speech utilizing the techniques learned in the fourth class session. Each presentation is followed by a brief Q&A. 
+第6回 Opinion Speech Group #2 
+The remaining group of students make a speech based on the techniques of the fourth class session. Each presentation is followed by a brief Q&A. 
+第7回 The Art of Debating
+Students learn how to debate. 
+第8回 Debate Session 1 
+Students in small groups debate each other. The debate is followed by a feedback from the audience.
+
+第9回 Debate Session 2 
+Students in small groups debate each other. The debate is followed by a feedback from the audience. 
+第10回 The Art of Conducting and Reporting a Survey 
+Students learn all the facets of using visual aids in a speech. 
+第11回 The Art of Power-point Presentations 
+Students learn all the facets of using visual aids in a speech.
+
+第12回 Final Presentation and Open Discussion (Group #1)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+第13回 Final Presentation and Open Discussion (Group #2) 
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+第14回 Final Presentation and Open Discussion (Group #3)
+Students put it together by combining everything they have learned during the term. Each presentation is followed by feedback from the audience and a short discussion.
+
+その他
+* Overall Review and Course Feedback
+";

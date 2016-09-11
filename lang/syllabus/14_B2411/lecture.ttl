@@ -1,0 +1,195 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Grammar)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 金曜日２時限";
+	lect:teacher "佐藤　芳明";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Oral Listening)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 水曜日３時限";
+	lect:teacher "ヤナギ，　ルスワティ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Oral Listening)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 火曜日３時限";
+	lect:teacher "オオタ，　ミミ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Presentation)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 月曜日２時限";
+	lect:teacher "ハースト，チャールズ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Presentation)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 水曜日１時限";
+	lect:teacher "ヘミングトン，ティム";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Presentation)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 水曜日３時限";
+	lect:teacher "由井　ロバァト";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Project)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 金曜日２時限";
+	lect:teacher "スーター　ジリアン レイ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Reading)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 木曜日１時限";
+	lect:teacher "バティ，　アーロン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Reading)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 木曜日２時限";
+	lect:teacher "バティ，　アーロン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Reading)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 火曜日３時限";
+	lect:teacher "オルファーズ，　キース";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Speaking/Presentation)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 火曜日４時限";
+	lect:teacher "ルイス，　マーク";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語Ａ(Writing)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 木曜日２時限";
+	lect:teacher "トレース，　ジョナサン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA01(Reading)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 月曜日１時限";
+	lect:teacher "オドネル，　デイビッド";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA01(Writing)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 水曜日２時限";
+	lect:teacher "ホフスティー，スティーブン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA02(Oral Listening)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 木曜日２時限";
+	lect:teacher "ホフスティー，スティーブン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA02(Reading)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 月曜日１時限";
+	lect:teacher "バティ，　アーロン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA03(Presentation)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 月曜日３時限";
+	lect:teacher "オドネル，　デイビッド";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA03(Writing)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 木曜日３時限";
+	lect:teacher "ヤナギ，　ルスワティ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA04(Grammar)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 金曜日１時限";
+	lect:teacher "佐藤　芳明";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA04(Listening)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 火曜日２時限";
+	lect:teacher "トレース，　ジョナサン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA05(Discussion)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 金曜日１時限";
+	lect:teacher "ホフスティー，スティーブン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA05(Oral Listening)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 火曜日２時限";
+	lect:teacher "オオタ，　ミミ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA06(Oral Listening)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 火曜日２時限";
+	lect:teacher "オルファーズ，　キース";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";
+<http://example.com/lecture#1>
+	lect:name "プロジェクト英語ＡEA06(Project)【１４】"@ja;
+	lect:lecture_id "14_B2411";
+	lect:time "2016年度 春学期 木曜日２時限";
+	lect:teacher "長谷部　葉子";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://english.sfc.keio.ac.jp/ES/";

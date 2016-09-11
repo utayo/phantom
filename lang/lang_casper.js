@@ -1,11 +1,22 @@
 var casper = require('casper').create({clientScripts: ['./jquery.js']});
 var arr = [];
 var url_num = 0;
+var files = 0;
 
 var addr_list = [
-
 	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_2.html',
-	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_7.html'
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_3.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_4.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_5.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_6.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_7.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_8.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_9.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_10.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_11.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_12.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_13.html',
+	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_15.html'
 ];
 
 var fs = require('fs');
@@ -53,7 +64,7 @@ casper.on('hoge', function(addr, num){
 							break;
 						case '授業ホームページ':
 							obj["homepage"] = th.nextSibling.innerText;
-						break;
+							break;
 						default:
 							obj["test"].push(th.innerText);
 							break;
@@ -69,24 +80,37 @@ casper.on('hoge', function(addr, num){
 			obj["summary"] = summary.innerText;
 
 			//シラバスの他の要素
-			
+			if(table_list.length>4){
 			sylb_area = Array.prototype.slice.call(table_list[4].querySelectorAll('tbody tr'));
 			obj["method"] = sylb_area[2].innerText;
 			obj["schedule"] = sylb_area[10].innerText;
-
+			}
 			return obj;	//	返却
 		});
 		
-		/*
-		fs.unlink('./lang_ttl.ttl', function(err){
-			console.log('Delete');
-		});
-		*/
-		//console.log(data);
-		//require('utils').dump(data);
+		var rdf_elements = [
+			"ja_name",
+			"lecture_id",
+			"time",
+			"teacher",
+			"campas",
+			"course_type",
+			"homepage"
+		];
+
 		var rdf_header = "@prefix sylbank: <http://example.com/syllabus:> .\n @prefix lect: <http://example.com/lecture_vocabulary:> .\n\n";
 		var rdf = "";
 		rdf += "<http://example.com/lecture#1>\n";
+		rdf_elements.forEach(function(el){
+			if(data[el]){
+				if(el=="ja_name"){
+					rdf += '\tlect:name "' + data[el] + '"@ja;\n';
+				}else{
+					rdf += '\tlect:' + el + ' "' + data[el] + '";\n';
+				}
+			}
+		});
+		/*
 		rdf += '\tlect:name "' + data["ja_name"] + '"@ja;\n';
 		rdf += '\tlect:lecture_id "' + data["lecture_id"] + '";\n';
 		rdf += '\tlect:time "' + data["time"] + '";\n';
@@ -95,20 +119,34 @@ casper.on('hoge', function(addr, num){
 		rdf += '\tlect:course_type "' + data["course_type"] + '";\n';
 		rdf += '\tlect:homepage "' + data["homepage"] + '";\n';
 		//console.log(rdf);
+		*/
+		this.echo(Object.keys(data));
 		var lec = 'syllabus/' + data["lecture_id"] + '/lecture.ttl';
+	
+		var sylb_elements = [
+			"summary",
+			"method",
+			"schedule"
+		];
 		
 		var sylb_rdf_header = "@prefix sylbank: <http://example.com/syllabus:> .\n@prefix lect: <http://example.com/lecture_vocabulary:> .\n\n"
 		var sylb_rdf = "";
-		sylb_rdf += '\tlect:lecture_id"' + data["lecture_id"] + '"@ja;\n';
+		sylb_rdf += '\tlect:lecture_id"' + data["lecture_id"] + '";\n';
+		sylb_elements.forEach(function(el){
+			if(data[el])
+				sylb_rdf += '\tsylb:' + el + ' "' + data[el] + '";\n';
+		});
+		/*
+		sylb_rdf += '\tlect:lecture_id"' + data["lecture_id"] + '";\n';
 		sylb_rdf += '\tsylb:summary "' + data["summary"] + '";\n';
 		sylb_rdf += '\tsylb:method "' + data["method"] + '";\n';
 		sylb_rdf += '\tsylb:schedule "' + data["schedule"] + '";\n';
+		*/
 		var syl = 'syllabus/' + data["lecture_id"] + '/syllabus.ttl';
 		//console.log(sylb_rdf);
-
-
-		console.log(list[data["lecture_id"]]);
+		this.echo(sylb_rdf);
 		if(!list[data["lecture_id"]]){
+			files++;
 			fs.write(lec, rdf_header + rdf, 'w');
 			fs.write(syl, sylb_rdf_header + sylb_rdf, 'w');
 			list[data["lecture_id"]] = true;
@@ -116,6 +154,7 @@ casper.on('hoge', function(addr, num){
 			fs.write(lec, rdf, 'a');
 			fs.write(syl, sylb_rdf, 'a');
 		}
+		this.echo('aaa:'+files);
 });
 
 casper.on('get_syllabus', function(){
@@ -149,9 +188,9 @@ casper.on('get_syllabus', function(){
 		if(url_num<arr.length&&url_num<10000){
 			casper.emit('get_syllabus');
 		}else{
-			console.log(Object.keys(list));
-			console.log(Object.keys(list).length);
-			casper.emit('aaa');
+			//console.log(Object.keys(list));
+			//console.log(Object.keys(list).length);
+			//casper.emit('aaa');
 		}
 		});
 	});
@@ -159,6 +198,7 @@ casper.on('get_syllabus', function(){
 
 casper.on('aaa', function(){
 	console.log(Object.keys(list));
+	this.echo('総ファイル数: ' + files);
 });
 
 casper.on('get_addr', function(n){
@@ -201,16 +241,16 @@ casper.start(addr_list[n],
 });
 
 casper.emit('get_addr', 0);
-
+/*
 casper.then(function(){
 	if(arr.length > 0){
 		this.echo('hogehoge');
-		casper.emit('get_syllabus');
+		//casper.emit('get_syllabus');
 	}else{
 		this.echo('Not find');
 	}
 });
-
+*/
 
 
 casper.run();

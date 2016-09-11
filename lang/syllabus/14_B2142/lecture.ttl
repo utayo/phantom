@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "朝鮮語ベーシック２【１４】"@ja;
+	lect:lecture_id "14_B2142";
+	lect:time "2016年度 春学期 水曜日４時限,金曜日３時限";
+	lect:teacher "富所　明秀、中島　仁";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "朝鮮語ベーシック２【１４】"@ja;
+	lect:lecture_id "14_B2142";
+	lect:time "2016年度 秋学期 火曜日１時限,水曜日４時限";
+	lect:teacher "金　秀美、中島　仁";
+	lect:campas "SFC";
+	lect:course_type "講義";

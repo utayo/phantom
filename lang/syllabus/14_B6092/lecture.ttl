@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "シンキングプロセスデザイン【１４】"@ja;
+	lect:lecture_id "14_B6092";
+	lect:time "2016年度 秋学期 水曜日１時限";
+	lect:teacher "中西　泰人";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

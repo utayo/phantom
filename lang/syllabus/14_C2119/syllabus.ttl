@@ -1,0 +1,100 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2119";
+	sylb:summary "デザイナーは自分のデザインを図面に表現します．図面をみながらメーカーや工務店は家や椅子を作るため，これら図面表現は重要な役割を担っています．
+
+ここで一般的な図面は平面図，断面図のようにものを水平または垂直に切り取った姿を描くルールになっています． 建築デザインの場合，多くの建物は四角く，柱は水平，梁や壁は垂直なためこのような図面の描き方で問題ありませんでした．
+
+一方，最近，例えば新国立競技場の旧案のように，曲面を多用した建物の形が増えています．そんな曲面だらけの建物や家具を表現するには，このような平面図，断面図などの一般図面では情報が伝わらない弊害が指摘されています。例えば曲面の壁の面積はこのような図面から計算することはできません。
+
+このように図面には表現できる立体造形に制限があります。この表記方法に関する課題がデザイナーの立体的な創造力の幅を限定しているという問題があると言えます．
+
+この授業では，デザインの道具である図面表記の特長と欠点を把握し，それを活用した立体造形の表現方法を獲得させます。さらには表記方法を新たに考える事で立体造形力の幅を広げてゆきます．こうして新規性のあるアイデアを具現化する技術を身につけることができると考えます．
+
+We, designer use drawings to describe our design. Fabricators refer to the drawing for fabricating buildings and/or furnitures. In that sense, these drawings are important in communicating with your collaborators.
+
+General drawings, in this case typically architectural plan and section drawings describe a sectional image of your design subject. In architectural field, almost all buildings are framed by vertical column and horizontal beam and slab therefore there is no strong argument in such drawing format.
+
+On the other hand, there are new buildings which has a complicated configuration, such as three dimentional curved surface. I believe al of you can remember the previous winning work for Main stadium for Tokyo Olympic game design by Zaha Hadid. You can imagine that ordinary architectural drawings can hardly describe such building's design essence. You are unable to measure total square meter of its exterior building.
+
+Thus the ordinary drawing format is limited in solid geometry for describing its essence. And I believe the challenge limits designer's creativity.
+
+This class gives you an opportunity for you to, 1. understand the mechanism and challenges existing drawing method has. 2. utilize these drawing method for three dimensional design. 3. develop the ability for three dimensional way of design thinking. With these points, this class gives you an opportunity for you to acquire a skill to describe a unique design.
+
+";
+	sylb:method "第1に，上記のような既存の図面表記の特徴を学ぶ為に，この図法を逆手にとった造作物を作ります．つまり描かれているものが同じ図面からどれだけ多様な立体形状が制作可能かを探求することで，一般図面に一意性がないことを学びます．同時に図面から立体を創造する力を身につける事を目標とします．
+第２に，上記のような問題を解決する為に，制作現場で多用される割り付け図など，一般図面とは異なる表記方法を用いて立体情報を平面に表記する訓練を行います．このような図面表記を取得する事で，複雑な形状を用いた設計を精度良く行う技量を身につけます。設計過程の中で速やかに試作検証できる技量を習得する事を目標とします．
+第３に，モジュール（部分とか単位という意味）を設計し，それらを多数組み合わせる事で全体像が浮かびあがる，というアプローチとその表記方法を学びます．例えば一枚のタイルの図柄や形のデザインから，全体つまり，それらを敷きつめてでき上がる壁面の印象を推測する事は困難です。それゆえ驚きに満ちています．このようなモジュールの設計と全体像の関係を経験してもらいます．
+第４に，立体を平面に表記する試みを拡張し，時間軸を含んだ情報を描く表記方法を探求します．動画で記録・表現する以外方法がなかった時間性を持つ情報を，動画とは異なる表記方法によって表現観察する機会を提供します．
+第５に，製図道具そのもののデザインを行います。図面を描く際に用いる道具には定規やコンパスがありますが，これらの製図道具を用いる場合，円と直線しか描けない制約がありました．CADを用いる事でその制約はなくなったとも言えますが，CADによって図面に描かれる自由曲線も制作の段階では数式に基づいた根拠のある曲線に置き換える必要があります．例えば楕円やサイクロイドなどの数式に基づく曲線は，機械工学から天文学まで様々な分野で活用されてきましたがこれを作図するには大変な労力がかかりました。これらの有用な曲線を描くことのできる機械＝定規を設計・制作する事で製図・作図に必要な高度な幾何学も修得する事を目標としています．
+For understanding the existing drawing method, you generate a three dimensional object. From the work, you can understand that there are more than one output from the same drawing.
+For describing a three dimensional design, you learn a unique drawing method, development pattern drawing.
+For digning repetitive pattern design, you learn module design. For example, you design a graphic of a tile and then you design a pattern by assembling these tiles.
+For describing animation in three or two dimension, you seek for a unique notation method other than movie format.
+For developing line drawing skill, you propose a drawing equipment which may substitute for ordinary ruler and compass.
+";
+	sylb:schedule "第1回 授業イントロダクションと課題１：力とかたち[ Introduction ]
+関連作品の紹介 
+力の流れの図式を活用し，立体的な構造のかたちを作ります． 
+
+＊この授業は新規授業のため参加学生の習得度合いを探る理由から課題1→7の順で難易度を高く設定しています。難易度の低い課題から順次挑戦し学生のアウトプットを見極めます。それを踏まえ学習内容を無理なく習得できるよう進行を調整し，課題内容を変更，及び・または，後半の課題を減らす可能性があります． 
+＊この授業は学期後半２コマ連続セッションx 7回で行われるため，２セッションに同内容を記載しています．
+
+Lecture on related works by tutor
+第2回 課題１：力とかたち[ lesson 1 ]
+力の流れの図式を活用し，立体的な構造のかたちを作ります． 
+designing three dimensional structure for casting flow of load.
+第3回 課題２：構造のかたがみ[ lesson 2 ]
+前課題で作った立体的な構造の作り方を図面化します．展開図などを利用して平面に表記するなどの方法を用います． 
+＊この授業は学期前半２コマ連続セッションx 7回で行われるため，２セッションに同内容を記載しています．
+
+drawing your design done in lesson 1 *One session of this class is three hours and given in the first half period of the semester. Therefore same contents are written in every two blocks.
+第4回 課題２：構造のかたがみ[ lesson 2 ]
+前課題で作った立体的な構造の作り方を図面化します．展開図などを利用して平面に表記するなどの方法を用います．
+
+two dimenutionl drawing your design done in lesson 1
+第5回 課題３：モジュール表記と全体表現[ lesson3 ]
+図面では設計しづらい二重螺旋階段をデザインし，トポロジカルな立体サーキュレーションを設計します。
+
+designing a topological circulation by designing double helical stairs
+第6回 課題３：モジュール表記と全体表現[ lesson3 ]
+図面では設計しづらい二重螺旋階段をデザインし，トポロジカルな立体サーキュレーションを設計します。
+
+designing a topological circulation by designing double helical stairs
+第7回 課題４：２次元ノーテーションと３次元表現[ lesson4 ]
+家具に用いられる三面図（上面図，側面図，正面図）に記載される情報にどのくらい一意性が欠如しているかを検証します。
+
+researching on a set of ordinary drawing format
+第8回 課題４：２次元ノーテーションと３次元表現[ lesson4 ]
+家具に用いられる三面図（上面図，側面図，正面図）に記載される情報にどのくらい一意性が欠如しているかを検証します。
+
+researching on a set of ordinary drawing format
+第9回 課題５：時間の物質化[ lesson5 ]
+シークエンス・スカルプチュア：時刻歴のある映像のタイムフレームを断面図として時間を図面化する試みを行います。
+
+describing a animation, information with time code, sequence, on a two dimensional drawing
+第10回 課題５：時間の物質化[ lesson5 ]
+シークエンス・スカルプチュア：時刻歴のある映像のタイムフレームを断面図として時間を図面化する試みを行います。
+
+describing a animation, information with time code, sequence, on a two dimensional drawing
+第11回 課題６：数式の図式化[ lesson6 ]
+数式定規：１次元で表現される数式の意味を2次元で表すのがグラフですが，これを作図する道具自体をデザインします．
+
+designing ruler for drawing a line defined by a formula
+第12回 課題６：数式の図式化[ lesson6 ]
+数式定規：１次元で表現される数式の意味を2次元で表すのがグラフですが，これを作図する道具自体をデザインします．
+
+designing ruler for drawing a line defined by a formula
+第13回 課題７：触れる数式	 [ lesson 7 ]
+数理模型：高校時代に学んだ数式を一つ選び，その式から立ち上がる立体を実際に作りこみ，その形状の性質を学びます。
+
+designing a mathematical model which describes a mathematical formula you select from high school text book
+第14回 課題７：触れる数式	 [ lesson7 ]
+数理模型：高校時代に学んだ数式を一つ選び，その式から立ち上がる立体を実際に作りこみ，その形状の性質を学びます。
+
+designing a mathematical model which describes a mathematical formula you select from high school text book
+その他
+課題の達成度合い
+
+output of each assignment";

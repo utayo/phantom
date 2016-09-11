@@ -1,0 +1,70 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2004";
+	sylb:summary "There is common difficulties and challenge in design of artifact today.Product design, Architecture design and Environmental design have to be situated in a context and rational methodology to produce it. By means of investigation about relationship between design and information technologies, this subject will become more scientific and clear. Students of this class will learn cognitive, philosophical, tectonic, socio-cultural factor of influence in current information technologies to our attitude of creation. Natural phenomenons always give the greatest inspiration of design. More profound understandings and application of its self organizing system of morphology or biological adaptation enable us to explore comprehensive approach of design with computational methodologies.
+
+人間が物をデザインするという行為には共通の難しさが存在する。工業製品、建築、都市環境などのデザインにおいては求められる前提条件に合致させる合理的方法が問われるからだ。情報技術の発達が建築や都市空間のデザイン理念に与えた影響について考察する事によって、この課題は科学的に明快になる。本科目ではデザインにおける創造的態度の認知科学的側面、哲学的側面、工法技術的側面、文化文脈的側面等に対して現在の情報技術が与える影響について学習する。自然現象は人工物のデザインを導く最大の源泉である。計算理論な方法によって生命的な形態発生や生物的な適応などの生態的なシステムに通じる自己組織的な働きに対する理解を深める事で、デザインの総合的なアプローチの追求の可能性を学習する。
+
+";
+	sylb:method "The objective is to give general knowledge about computational aspect of architectural design, urbanism, and natural phenomenon.With the ongoing progress in digital communication media in architecture and urbanism, programmable 3D data has become a comprehensive tool for sharing ideas. Consequently it has a strong impact on the design, construction and utilization of the ideas.The theme of course is discussion about theoretical methodology of design by informatic analysis of urban space and architecture as interface technology. It aims to make students aware that there is an alternative methodology for design. Shifting from design as shape finding to the elaboration of complete algorithmic process for design. The teaching method is lecture with questions and open comments of the audience.
+
+この授業の目的は建築や空間などのデザインや都市社会的な構造、自然現象などにおける情報理論的側面について理解する事である。建築や都市のデザインを扱う環境の中で３次元の立体データが総合的で広範囲な情報ツールになったことが、結果としてデザインの思考方法から物質的構築の方法、そして完成後の利用の方法などの様々なプロセスに影響を与えつつある。この科目は「都市」を構成する「空間」や「建築」という人間とのインターフェース技術を情報科学的に分析して、デザインに応用可能な理論的方法論を主題にしている。その目的はデザインの新しい方法として「かたち 」の発見からアルゴリズミックな「しくみ」の創造を意識してもらう事にある。授業では講義に加えて履修者とのディスカッションを行う
+
+";
+	sylb:schedule "第1回 Design, information technology and environment. [ デザイン、情報技術、環境　 ]
+Introduction of course topic, theory of system design in archietecture and urbanism
+
+システムとデザイン、情報技術におけるシステム論、建築の社会的システム性、都市の階層的システム性、デザインにおける部分と全体、
+第2回 Urban space as information system[ 情報システムとしての都市空間　 ]
+A cognitive feature of space in social cominucation, Media mix of real and virtual urban spase
+
+空間の情報メディア性　認知構造の中の都市、コミニケーションデザインとしての都市空間設計、都市空間のメディミックス、リアルとバーチャル
+第3回 Human phsycal factor of space perception[ 空間認識の身体的感覚要因　 ]
+Human body to mesure our world
+
+スケールと身体的空間基準、縮尺と精度、距離で秩序化される空間、 身体という空間の基準
+第4回 Physiology of perception and the dimensions of space understanding [ 空間把握の次元と認知の生理 ]
+Interaction bitween visualization and conceptualizatin in our mind
+
+遠近法と絵画ー空間表現法の変遷、　透視図の発明とその限界、 空間の流動性、経路性、視点と行動によって形成される理解、インタラクティブな空間認知
+第5回 computational modeling of shape and space[ 空間と形態の数理モデル化　 ]
+Mathmatical methodology to oparate form
+
+形態の数学的性質と操作手法、空間のダイアグラム化と論理的演算、張力や流動がつくる曲面、柔軟性と形態、動的な力学解析
+第6回 From the mimic of natural shapes to the mimic of natural processes[ 自然形態の模倣から自然現象の模倣へ　 ]
+Simulating Natural Systems with comutational method
+
+人間、動物のモデリング、動態としての空間デザイン、地形・植物のフラクタル性、生物的な形態に潜む動的な数理性と多様性、複雑系による自然現象の理解、遺伝的アルゴリズム　カオス理論と非線形
+第7回 Progress of scientific method of design[ デザインを科学する理論の進化 ]
+Idea of optimaization and hulistics in design proccess
+
+デザインの科学的手法、論理学的空間記述、最適値の概念と探索的な計算手法、ヒューリスティクスの概念
+第8回 Guest lecture[ ゲスト講演 ]
+Kostas Terzidis
+
+コスタス　テルジディス
+第9回 Designing in Human Computer Interaction　 [ 人間とコンピューターの共同によるデザイン ]
+Roll of Artificial Intelligence in design
+
+デザイン行為における計算機と人間の関係、 人工知能
+第10回 Emergence and Adaptation with Algorithmic design[ アルゴリズミックデザインによる適応と創発 ]
+Creation and performance of self orgnization proccess
+
+自己組織的適応性、センシング技術による空間ユビキタス化、ロボティクスと建築技術、利用とデザインの融合
+第11回 Digtal design, digital fabricatio and Digital Construction[ デジタルファブリケーション技術と建築的工法生 ]
+相対化建築構成要素のモジュール化、建築部材の社会的な循環システム性、ロジスティクスと建築、建築のデジタルローカライゼーション、ラピッドプロトタイピング、許容性のデザイン
+第12回 From "from" to "System"[ 「かたち」から「しくみ」のデザインへ ]
+Age of smart production from mass production
+
+スマートプロダクション、鉄の時代と木の時代、デザイン情報学の４つの側面、「かたち」から「しくみ」へ
+第13回 Digtal desin, digital fabricatio and Digital Construction[ デジタル　コンストラクション ]
+Application ancn connectivity of Construction Robotics and BIM
+
+建設過程の情報化の影響　BIMによる施工
+第14回 Collaborative design proccess enhanced through the IT[ 協調的デザインプロセスにおける情報技術 ]
+空間の思考と記述メディア、デザインの自己対話的プロセス、協調メディアとしてのシミュレーション　ツールとデザインの不可分性、デザイン・コミュニケーションの変化、可視化技術としてのデジタルモデル、
+その他
+attendance for symposium of AIJ
+
+日本建築学会情報利用技術シンポジウム建築情報学セミナーへの参加";

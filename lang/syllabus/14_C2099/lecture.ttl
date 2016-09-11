@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "Ｗｅｂ情報システム構成法【１４】"@ja;
+	lect:lecture_id "14_C2099";
+	lect:time "2016年度 秋学期 火曜日５時限";
+	lect:teacher "萩野　達也";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";

@@ -1,0 +1,19 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "リーガルワークショップ【１４】"@ja;
+	lect:lecture_id "14_B6006";
+	lect:time "2016年度 秋学期 月曜日１時限";
+	lect:teacher "岡田　順太、柳瀬　昇";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://web.sfc.keio.ac.jp/~junta/";
+<http://example.com/lecture#1>
+	lect:name "リーガルワークショップ【学期後半】(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6006";
+	lect:time "2016年度 秋学期 火曜日４時限,火曜日５時限";
+	lect:teacher "マラケ，　カタリナ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "None";

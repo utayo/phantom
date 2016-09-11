@@ -1,0 +1,38 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1118";
+	sylb:summary "20世紀の中国の歴史は、日本と密接にかかわっていました。1949年に中華人民共和国が成立した背景には、日中戦争による影響がありました。そして1949年以降の社会主義建設運動や文化大革命などの展開は日本にも影響を及ぼしました。
+
+本科目は日本との関係を視野に入れつつ、20世紀の中国政治・社会の歴史をどのように捉えるのかを考えていきます。近現代中国の歴史を学ぶことによって、現在中国社会の諸問題をよく理解することができます。
+
+This course is designed for graduate students as an introduction to the history of Chinese politics and society in the 19th and 20th century. Today’s Chinese politics and social problems often have their roots in the 19th and 20th century. This course will help students to acquire the basic knowledge of Chinese modern history and deepen their understandings of today’s Chinese politics and society.
+
+";
+	sylb:method "近現代中国の歴史を知ることにより、アジア地域の秩序変動および中国の現状を歴史の視点から理解することができます。
+
+授業では、複数のキーワード（国家建設、日中戦争、農村革命、社会主義運動、改革・開放など）を通して、20世紀の中国の歴史をわかりやすく解説します。
+
+各キーワードに関しては、歴史的背景、流れだけでなく、歴史を分析する視点や最新の研究動向についても触れて解説します。
+
+What’s the relationship of the state and society? How did the forming of modern state change the society and how did the characteristics of society shape the way of national construction? Focusing on such questions, this course is divided into four parts: Imperial China, Republic of China, China in the Mao era, and China after Mao. With regard to each part, the general trend of history, new research perspectives, and recent research focus will be introduced.
+
+";
+	sylb:schedule "第1回 第１週　ガイダンス[ Guidance ]
+第2回 第2週　王朝中国[ The Society in Late Imperial China ]
+第3回 第3週　清朝の崩壊と民国社会[ The Fall of China's Qing dynasty ]
+第4回 第4週　清末民初の中国と日本[ China and Japan in early 20th century ]
+第5回 第5週　日中戦争[ The Second Sino-Japanese War ]
+第6回 第6週　銃後の中国社会[ Chinese society at war ]
+第7回 第7週　農村革命[ The Rural Revolution in China ]
+第8回 第8週　中華人民共和国の成立[ The Founding of the People's Republic of China ]
+第9回 第9週　社会主義運動の展開[ The Socialist Movement in China ]
+第10回 第10週　文化大革命[ The Cultural Revolution ]
+第11回 第11週　中国の社会主義をどう見るのか[ Revolution,Socialism in Chinese Society ]
+第12回 第12週　改革開放[ Chinese Economic Reform ]
+第13回 第13週　毛沢東時代以降の中国社会[ Chinese Society after Mao ]
+第14回 第14週　歴史からみる現代中国[ Chinese Society and Politics: A Historical Perspective ]
+その他
+総括
+
+Summary and Discussion";

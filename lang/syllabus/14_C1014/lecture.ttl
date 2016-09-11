@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "社会構造分析【学期後半】【１４】"@ja;
+	lect:lecture_id "14_C1014";
+	lect:time "2016年度 春学期 月曜日２時限,月曜日３時限";
+	lect:teacher "熊坂　賢次";
+	lect:campas "SFC";
+	lect:course_type "グループワーク";

@@ -1,0 +1,73 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1050";
+	sylb:summary "最近の国政選挙の低投票率を見ても、国民、特に若年層の政治への関心の低下は近年顕著になっています。このことは、政治の場で予算編成、税制改正、そして各種法律の制定・改変が行われることを考えると、多くの国民がそれらに白紙委任を行っていることにほかならず、深刻な問題です。
+
+本講座においては、官僚として中央省庁に18年（うち首相官邸2年）、参議院議員として2期12年（官房副長官として首相官邸に再度勤務）活動した教官の実体験を踏まえ、日本の政治の課題を、政と官、政治と産業界との関係、選挙の構造や運動論、政治と国民の間に横たわる距離、当事者意識の欠如などの諸点を通じ、検証し、解決策を探るものです。
+
+秋学期に開講する政策立案論において、統治機構（行政・立法）に主眼を置いて政策立案過程を解説するのに対し、本科目では、日本政治が抱える本質的な問題を解説するほか、主権者たる国民が代理人としての政治家を選ぶ選挙のプロセスと、代理人たる政治家と国民とのコミュニケーション機能の問題について詳説し、学生諸君と、今後の日本の政治をどのように変革すべきかを討議する予定です。 一般には政策立案論から履修することを勧めますが、現代政治論からの履修も可能です。
+
+This course examines the challenges of current Japanese politics,and explores solutions. We will consider some points, such as the relationship between politics and bureaucracy, politics and industry, electoral system and the reality of election campaign. At the same time, we will discuss how to shrink the distance that lies between the politics and the people.
+
+";
+	sylb:method "本科目では、我が国において政治（民主主義）がどのように機能し、或いは機能不全に陥っているのか、今後、民主政を機能させていくために、どのような制度的工夫や進化が必要と考えられるのかについて、学生諸君の積極的な参加を求めつつ考察を行っていく予定です。 具体的には、 ①政治家と官僚、政治家と産業界、政治家と有権者の関係 ②なぜ政治家は利権誘導を行うのか、国（中央）と地方の依存関係 ③わが国の選挙制度と選挙運動の実態、そして今後の課題 ④政治は日常的に国民に何をいかに訴えているのか、国民は政治にいかに参画できるのか を軸に概説します。
+
+学生諸君にはグループを編成して グループごとに ・日本の選挙制度（あるいは政治の仕組み）をいかに改革するのか ・国民と政治のコミュニケーションのありかた、国民の参画のあり方 ・政治家・官僚・産業界・国民との関係をいかに変えるべきか などのテーマでグループとしての政策提言を行い、それを踏まえた個人レポートの提出を求めます。
+
+各回の授業でも、講師が一歩的に講義を行うのではなく、テーマを決めてグループ討議とその結果の共有を行う工夫を行いたいと考えています。
+
+Subjects focused in this course will be -Relationship between politics and bureaucracy, politics and industry, - -Japanese electoral system and the reality of election campaign. -Current status and issues of political communication
+
+Teaching method will be a mix of lecture and group discussion.
+
+";
+	sylb:schedule "第1回 イントロダクション[ Introduction, ]
+第2回 政治体制について[ Japanese political system before and after WW2 ]
+主として戦前と戦後の日本の政治体制を比較しつつ、また現在日本の政治体制を論じます。 
+参考：野口悠紀雄「１９４０年体制」
+
+第3回 政治家・官僚・産業界の関係[ Triangular network among politicians,bureaucrats,and industry groups ]
+日本の政治家と官僚と経済界の関係を概括します。
+
+第4回 政党とは何か（意思決定における政府との関係）[ Political party ]
+橋本龍太郎内閣で省庁再編や官邸機能強化を提言した行政改革会議の事例などを踏まえて、日本の政党の現状と課題、政党と政府の関係などについて論じます。 
+参考：行政改革会議「最終報告」
+
+第5回 「日本のいちばん長い日」に見る日本の政治構造[ Political structure of ”Japan's Longest Day” ]
+「日本のいちばん長い日」についての解説を行います。
+
+第6回 現代日本の選挙制度[ Japanese electoral system ]
+日本の選挙制度、法制について、制度の詳細、現実の日本における選挙活動の実態について、教官が体験的に事例を紹介します。
+
+第7回 選挙制度改革と「マニフェスト」の導入[ Introduction of the ”Manifesto” ]
+政治改革の一環として行われた最近の選挙制度改革、特にマニフェストの導入についての狙いを紹介します。
+
+第8回 国民の政治評価・政治参加[ Political participation of Japanese citizen ]
+総理の演説の今昔 
+政治コミュニケーションのあり方 
+政治リーダーのコミュニケーション戦略 
+選挙以外で国民はいかに政治家の活動を評価しうるか、政治活動に参画しうるか。
+
+第9回 官邸・各省庁のコミュニケーション改革について[ Communication strategy of the Prime Minister's Office ]
+「国民と政治の距離を近づけるための民間WG」とは。 
+参考：佐藤尚之「明日のコミュニケーション」
+
+第10回 失敗の研究から学ぶ政治のあり方[ Essence of failure ]
+過去において組織はいかに「失敗」したか。 
+政治は今何を学ぶべきか 
+参考：戸部良一他「失敗の本質」 
+第11回 政策立案への国民の参画[ Information disclosure and public participation ]
+どこにどのような形で国民参画を求めるか 
+参考：國分功一郎「来るべき民主主義」 
+第12回 総括（政治の主役は誰か、その参画の方法について）[ Regaining leading role of politics in public ]
+グループディスカッションと解説
+
+第13回 最終グループ・プレゼン[ Final presentation ]
+プレゼンと質疑応答、講評
+
+第14回 試験・総括[ Final exam and review ]
+その他
+課題・レポート（上述）
+
+";

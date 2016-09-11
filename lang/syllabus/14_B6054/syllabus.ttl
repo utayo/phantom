@@ -1,0 +1,112 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6054";
+	sylb:summary "社会起業やソーシャルビジネスは、これまで政府や市場などが解決できていない社会課題（福祉、環境対策、教育、貧困、国際協力など）の解決を目指すビジネスです。 本授業では、社会起業を志す学生、NPO、企業、行政など幅広い組織で社会性の高い事業に取り組みたい学生を対象に、ソーシャルビジネスの発想と視点を学び、ソーシャルビジネスのプランニングを実際に行い、発表するプロセスを行います。 少しでもいい社会を創るために自ら動いていきたい学生の参画を待っています。
+
+Social entrepreneur and social business are the business that aims to solve social problems(Welfare, environmental measures, education, poverty, and international cooperation) such as the government and the market has not been able to solve so far.
+
+This class is designed for students who will start up social business and who will work in the government, social enterprise　and foundation. They will learn the ideas and perspectives of social business, actually do the planning of social business. Waiting for students who want to act themselves in order to create a good society.
+
+";
+	sylb:method "少しでもいい社会になって欲しい。そのために何かしたい。 でも、巨大で複雑な現代社会の中で、自分って何ができるだろう？
+
+そんな思いを持ち、それでも何かアクションを起こしたい学生のために、「ソーシャルビジネスプランニング」を開講します。
+
+あらゆるビジネスが社会と関わり、社会を動かしています。ただ、その中で特に、これまで政府や市場が十分に対応できていない社会課題（福祉、環境対策、教育、貧困、国際協力など）を扱うビジネスは、ソーシャルビジネスと呼ばれ、世界的に注目を集めています。
+
+ソーシャルビジネスの担い手は社会起業家を始め、ＮＰＯや企業、コミュニティ活動まで幅広い可能性があります。行政機関の中でも、ビジネス的手法を応用する事例も出てきています。 そこで、本講義では、将来、自分で社会起業をしたい学生、ＮＰＯや公的機関で新しい事業をおこしたい学生、企業で環境や福祉に役立つビジネスに携わりたい学生が、ソーシャルビジネスのデザイン手法を身につけることをゴールとしています。
+
+授業では、先ず、ソーシャルビジネスの発想と視点を社会起業家をモデルとして学びます。そして、自分自身のテーマを明確にした上で、テーマや方向性が共通する学生でチームを組み、ソーシャルビジネスのプロジェクトのプランニングを実際に行っていきます。プランニングの過程を通して、市場環境や先行事例の分析方法、ビジネス・モデルづくり、運営体制基盤づくりなどを学びます。 そして、学期末には、チームでのプロジェクト・プランを発表する機会を設けます。
+
+ほぼ毎回の授業で、グループワークや次回までの宿題があり、それをもとに次の授業が実施されるため、授業への参加や自ら調べ、考え、書くプロセスを多く求めます。
+
+SFCの学生は、数多くの可能性を持っています。社会は大きすぎると諦める前に、自分（たち）にできることを設計し、社会に伝えていくことに共に挑戦していきましょう！
+
+I hope this world to be better.I want to do something for that. But, in the huge and complex modern society, What can I do myself?
+
+This class "social business planning" is for the students who want to start a new action.
+
+Social entrepreneur and social business are the business that aims to solve social problems(Welfare, environmental measures, education, poverty, and international cooperation) such as the government and the market has not been able to solve so far.It's a worldwide movement.
+
+Actors of social business are diverse from social entrepreneurs to community activities. Even in companies and government agencies, the model of social business is applied.
+
+Therefore, this class is opened for the students who want to start their own social business, the students who want to work in the NPO and public institutions and the students who want to work in a business to help the environment and welfare.
+
+In the class, you will learn the ideas and perspectives of social business and social entrepreneurs.And you actually make the business plan of social business. Through the process of planning, you will learn analysis of the market environment and business model development.At the end of the semester, you make a presentation of your plan.
+
+In each class, there is group work and homework.
+
+Before you give up and society is too large,let's challenge to a new action!
+
+";
+	sylb:schedule "第1回 イントロダクション[ Introdutiction ]
+この講義の目指すことを伝え、ソーシャルビジネスのプランニング手法 
+を概観します。
+
+第2回 社会起業の発想と視点　～困難の中にある可能性を見つける[ The idea and perspective of social entrepreneurs ]
+ソーシャルビジネスの特徴、社会性の高いビジネスと営利中心のビジネ 
+スの違いを考えるために、社会起業の事例を取り上げ、社会的な事業を 
+つくるために必要な発想と視点を考えます。
+
+第3回 ソーシャル・アントレプレナーシップ　～小さな個人が市場を生み、社会を動かす[ What's social entrepreneurship ]
+ソーシャルビジネスは社会的課題の克服に周囲の人の力を活かし、人と 
+お金の集まる「市場」をつくることで、個の力を社会システムに結び付 
+けていきます。ソーシャルビジネスのビジネスの考え方を学びます。
+
+第4回 ソーシャルビジネスとコミュニティ[ Social business and community ]
+ソーシャルビジネスはコミュニティを基盤に生まれます。そして、ソー 
+シャルビジネスの展開を通してコミュニティは拡充していきます。ソー 
+シャルビジネスとコミュニティの良い相乗効果はどうやったら生まれる 
+かを考えます。
+
+第5回 プランニングの準備 ： 今、僕たちが取り組むべきことは？[ Clarification of the issue ]
+今、僕たちの生きる社会には、どんな問題があり、何が足りないので 
+しょうか？　ワールドカフェを通して、受講生の話し合いの中から考え 
+ていきます。
+
+第6回 プランニング・Sep１ ： テーマのデザイン[ Setting the main subject ]
+社会問題に対して何に取り組むべきか、チームをつくり、プロジェク 
+ト・テーマを設定します。
+
+第7回 プランニング・Ｓｔｅｐ２：先行事例調査[ Research for advanced model ]
+個人・チームのテーマについて、課題の背景、問題の現状、他の取組み 
+の効果が十分に出ていない理由を知るために、先行事例調査を行いま 
+す。効果的に先行事例を行うための調査・分析手法を学びます。
+
+第8回 プランニング・Ｓｔｅｐ３：顧客[ Identification of customer ]
+ソーシャルビジネスは、困難な状況にいる人の潜在的な力や可能性に注 
+目することから始まります。先行事例で明らかになった現状の課題を踏 
+まえ、どのような人が、どう変化すべきかを考え、プロジェクトの顧客 
+を考えます。
+
+第9回 プランニング・Ｓｔｅｐ４：Theory of Change[ Theory of change ]
+困難な状況にいる人がビジネスを通して、どう変化すると良いのか。困 
+難な状況にある人に与える変化を単発・偶然ではなく、再現性高く実現 
+していかないといけません。そのための「Theory of Change」を考えます。
+
+第10回 プランニング・・Ｓｔｅｐ５：社会資源を考える[ Social resources ]
+求められる事業を実現するために、社会にあるどのような社会資源をど 
+う活用すべきかを考えます。
+
+第11回 プランニング・Ｓｔｅｐ６：商品化を考える[ Setting price ]
+プロジェクトの生み出す付加価値を「商品」とするために、どんな資源 
+が必要で、どうしたら顧客にとって使いやすいカタチになるか、価格の 
+設定などを行います。
+
+第12回 プランニング・Step７：体制＆パートナー[ Design of team and partner ]
+プロジェクトの立ち上げには、どのような人や組織が、どのように関 
+わっていくべきかを考え、運営体制と支援者、協働のパートナーをデザ 
+インします。
+
+第13回 プレゼンテーション：マーケットプレイス（前半）[ Presentation of plan ]
+チームのプロジェクト・プランを発表します。受講者同士が相互評価す 
+る中で、プランの可能性を多面的に考えます。
+
+第14回 プレゼンテーション：マーケットプレイス（後半）[ Presentation of plan ]
+チームのプロジェクト・プランを発表します。受講者同士が相互評価する中で、プランの可能性を多面的に考えます。
+
+その他
+プランづくりを進めるにあたり、事例調査や対象者や既存サービス実施者へのインタビュー活動などフィールドワークを行うこととします。
+
+Field work is recommended";

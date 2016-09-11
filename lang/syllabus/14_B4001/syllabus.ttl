@@ -1,0 +1,2012 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "In SFC, all the students are expected to be capable of utilizing the web system as infrastructure for /study, research, production, and transmission/. Therefore, you need not only to see other people's web sites, but to /create/ something new using the web. In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages utilizing the knowledge and skills.
+SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。
+";
+	sylb:method "This is an introductory course for ICT (especially web and programming). 
+
+Its main goals are following points: 
+1. Review of high-school level fundamental concepts of information science (information quantity, encoding, structure and function of computers, etc.) 
+2. Basic skills of computers (touch typing, file operation, etc.) 
+3. Ability to transmit information using the web system, with copyright and digital ethics taken into consideration. 
+4. Elementary programming skills in JavaScript . 
+";
+	sylb:schedule "第1回 Orientation
+- Overview of the course 
+- How to use the computers in the class (login, logout, etc.) 
+- Points to watch in writing reports (on copying from the web) 
+- Typing exam (1st) 
+第2回 Mechanism of Web (1)
+- What is HTML 
+- Grammar of HTML 
+- Elements and Tags 
+- Indentation and Comments 
+- Input Elements 
+第3回 Mechanism of Web (2)
+- Hyperlinks 
+- File System 
+- Web Accessibility 
+- Copyrights and other Intellectual properties 
+第4回 Images and StyleSheet
+- Architecture of Web page 
+- Images 
+- Analog and Digital 
+- Style Sheet 
+- Syntax of CSS 
+- Binary and Hexadecimal numbers 
+- Color system
+
+第5回 JavaScript
+- Introduction to JavaScript 
+- Basic Syntax of JavaScript 
+- Formula 
+- Event 
+第6回 Funtions and Variables
+- Functions 
+- Variables 
+- Argument of a function 
+- Modifying the content of web page using JavaScript 
+- Timer Event 
+第7回 Conditional Statements
+- Inputting Data 
+- Accepting Numeric Values 
+- if Statement and conditional expressions 
+- Complex comparisons 
+- Logical Operators
+
+第8回 Quantity of Information
+- bits and bytes 
+- Encoding Images 
+- Text Encodings 
+- Data Compressions 
+- Types and size of Image files 
+第9回 Loop
+- How to use debugger 
+- Changing the elements of HTML 
+- Adding a content to a Page 
+- while statement 
+- do-while and for statement
+
+第10回 How a Computer Works
+- The Mechanism of a Computer 
+- Operating System 
+- Hardware 
+- Software 
+- Access Permissions and protect mode 
+- Reviewing if Statements and Loops
+
+第11回 Array Mid-Term Test
+- Definition of arrays 
+- Iterations and Array 
+
+Mid-Term Test will be held during the class.
+
+第12回 Final Assignment (1)
+- Designing web pages 
+第13回 Final Assignment (2)
+- Writing web pages 
+第14回 Final Assignment (3) Last class
+- Presentation 
+その他
+e-learning about HTML, CSS, JavaScript
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "In SFC, all the students are expected to be capable of utilizing the web system as infrastructure for /study, research, production, and transmission/. Therefore, you need not only to see other people's web sites, but to /create/ something new using the web. In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages utilizing the knowledge and skills.
+";
+	sylb:method "This is an introductory course for ICT (especially web and programming). 
+
+Its main goals are following points: 
+1. Review of high-school level fundamental concepts of information science (information quantity, encoding, structure and function of computers, etc.) 
+2. Basic skills of computers (touch typing, file operation, etc.) 
+3. Ability to transmit information using the web system, with copyright and digital ethics taken into consideration. 
+4. Elementary programming skills in JavaScript .
+";
+	sylb:schedule "第1回 Orientation（担当：Husni, Ucu）
+- Overview of the course 
+- How to use the computers in the class (login, logout, etc.) 
+- Points to watch in writing reports (on copying from the web) 
+- Typing exam (1st) 
+第2回 HTML（担当：Husni, Ucu）
+第3回 How the Web Works（担当：Husni, Ucu）
+第4回 Images and Style Sheets（担当：Husni, Ucu）
+第5回 Script（担当：Husni, Ucu）
+第6回 Functions and Variables（担当：Husni, Ucu）
+第7回 Conditional Statements（担当：Husni, Ucu）
+第8回 Quantity of Information（担当：Husni, Ucu）
+第9回 Loop（担当：Husni, Ucu）
+第10回 How a Computer Works（担当：Husni, Ucu）
+第11回 Array（担当：Husni, Ucu）
+第12回 Final Assignment (1)（担当：Husni, Ucu）
+第13回 Final Assignment (2)（担当：Husni, Ucu）
+第14回 Final Assignment (3) Last class（担当：Husni, Ucu）
+その他
+e-learning about HTML, CSS, JavaScript
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";
+	lect:lecture_id"14_B4001";
+	sylb:summary "SFCではウェブを全学生の知的共通基盤とし、ウェブを活用して学習・研究・制作・発信を行えるようにしたいと考えています。そのためには、単にウェブで他人の作ったものを「見る」だけでなく、ウェブを使って新しいものを「創る」能力が必要です。 この科目では、まず前提となるコンピュータの基本的な仕組みを学び、それと並行して、ウェブを使いこなすために必要となるプログラミングなどの技術を学びまず。そして、それらの知識と技術を応用してウェブページの制作を行います。 なお、「情報基礎２」では、この科目の内容を基礎としてウェブ、ネットワーク、プログラミングについてさらに進んだ内容を学びます。
+In SFC, all the students are expected to utilize the web system as infrastructure for /study, research, production, and transmission/. In order to do that, you need a capability not only to see other people's work but to /create/ original contents using the web, In this course, we first learn fundamental knowledge of computers, as well as programming skills which are necessary to the modern web system. After that, we make web pages by using the knowledge and skills learned. After this course, you will learn advanced topics about web, network and programming in /Fundamentals of Information Technology 2/.
+";
+	sylb:method "情報技術（特にウェブとプログラミング）の入門科目です．授業の目標は以下の4点です． 
+
+1. 高校「情報」で習う情報科学の基礎知識（情報量、符号化、コンピュータの基本的な構成と機能など）を復習する。 
+2. コンピュータの基礎的な操作技能（タッチタイピング、ファイル操作など）を身につける。 
+3. ウェブを用いた情報発信ができるようになる。その際に著作権や情報倫理についても配慮できるようになる。 
+4. Javascriptを用いて初歩的なプログラミングができるようになる。 
+";
+	sylb:schedule "第1回 オリエンテーション
+- 授業内容の説明 
+- CNSの使い方 
+- ターミナルとテキストエディタ 
+- タッチタイピング 
+第2回 ウェブの仕組み(1)
+- HTMLファイルとブラウザ 
+- ファイルシステム 
+- HTMLの文法 
+- リンク 
+第3回 文字と画像
+- アナログとデジタル 
+- 文字コード 
+- 画像ファイル 
+- 著作権 
+第4回 ウェブの仕組み(2)
+- スタイルシート 
+- Javascriptの基本 
+第5回 イベント
+- イベントモデル 
+- 関数の呼び出し 
+- 変数と代入文 
+第6回 場合分け
+- データの入力 
+- 条件式とif文の書き方 
+- 真理値表 
+第7回 情報量
+- 画像ファイルの編集 
+- 情報量の定義 
+- 文字や画像の持つ情報量 
+- 情報量とデータ量 
+第8回 繰り返し
+- while文とfor文の書き方 
+- 繰り返しと場合分けの組み合わせ 
+第9回 コンピュータの仕組み
+- コンピュータの構成要素 
+- ハードウェアの機能と性能 
+- オペレーティングシステム 
+第10回 配列
+- オブジェクトと配列 
+- for-in文の書き方 
+第11回 ウェブの仕組み(3)
+- CNSのウェブサーバでの公開 
+- セキュリティ 
+第12回 最終課題(1)
+- ウェブページの企画 
+第13回 最終課題(2)
+- ウェブページの制作 
+第14回 最終課題(3)
+- 作成したウェブページについて発表 
+その他
+HTML, CSS, Javascriptに関するe-learning
+
+";

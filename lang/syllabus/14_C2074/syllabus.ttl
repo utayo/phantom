@@ -1,0 +1,74 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2074";
+	sylb:summary "C言語やJavaなどほとんどのプログラミング言語は手続き型プログラミング言語であるが，この授業では手続き型とは全く異なった考え方を持って作られている関数型プログラミング言語について学ぶ．関数型プログラミング言語では，関数を組み合わせることでプログラムを書き，関数を評価することで計算を行う．関数自身を値と考えて取り扱うこともでき，複雑な処理を高階関数を使うことで簡単に書くことができる．
+
+Most of the programming languages including C and Java are procedural, but this class deals with functional programming languages which are built on top of totally different concept from procedural ones. In function programming languages, programs are constructed by combining functions. Functions are treated as ordinal values and higher order functions make programs simple for complicated problems.
+
+";
+	sylb:method "プログラミング言語には，C言語やJavaやBASICやFORTRANなどの使い慣れた手続き型以外の言語も多く存在します．この授業では関数型プログラミング言語であるHaskellについて学びます．Haskellは関数型であるだけなく，遅延評価やMonadを使うことで副作用を表すなど，面白い機能が色々あります．Haskellでプログラムを書くことはこれまでのプログラミングとは全く異なるかもしれません．
+
+It is very important to know there are programming languages of which principle is different from that of procedural programming languages like C, Java, BASIC, FORTRAN and so on. In this lecture, we will study Haskell. Haskell is a quite unique programming language not only because it is a functional programming language, but also its evaluation is lazy and it also use Monad to handle side effects. It may be totally new experience of writing programs in Haskell.
+
+";
+	sylb:schedule "第1回 Haskellの概要[ Introduction to Haskell ]
+Haskell PlatformをPCにインストールし，簡単なプログラムを書いてみます．
+
+Install Haskell Platform into your PC and write several simple first programs in Haskell.
+第2回 Hskellの基礎(1) 関数とリスト[ Basic(1) Function and List ]
+Haskellにおける関数とリストについて学びます．
+
+Study basic use of functions and lists in Haskell.
+第3回 Haskellの基礎(2) 型と高階関数[ Basic(2) Type and Higher Order Function ]
+型と関数について学びます．
+
+Understand type and study functions as values.
+第4回 Haskellの基礎(3) モジュールと総合演習[ Basic(3) Module and Exercise ]
+ここまでに学んだ内容について確認の総合演習をします．
+
+Study module and conduct general exercise to check what we have studied.
+第5回 遅延評価[ Lazy Evaluation ]
+Haskellの評価方法である遅延評価について学びます．
+
+Study evaluation mechanism of Haskell.
+第6回 基本的な値[ Basic Values ]
+真偽値，整数，文字，文字列，タプル，リストなどについて学びます．
+
+Study boolean, integer, character, string, tuple and list.
+第7回 基本的な構文[ Basic Syntax ]
+関数を書くための構文について学びます．
+
+Study syntax of writing functions in Haskell.
+第8回 関数[ Functions ]
+関数についてさらに深く学びます．
+
+Study functions more deeply.
+第9回 型と型クラス[ Type and Class ]
+新しい型の定義の仕方と，型クラスについて学びます．
+
+Define new type and introduce type class.
+第10回 モジュール[ Module ]
+モジュールの使い方，定義の仕方について学びます．
+
+Study module.
+第11回 モナド[ Monad ]
+Maybe, List, IOなどのモナドとその構文について学びます．
+
+Study Monad: Maybe, List, IO.
+第12回 演習(1)[ Exercise ]
+Haskellを使った演習を行います．
+
+Solve some problems using Haskell.
+第13回 演習(2)[ Exercise ]
+Haskellを使った演習を行います．
+
+Solve some problems using Haskell.
+第14回 授業内期末試験[ Examination ]
+期末試験は授業内で行います．
+
+The examination will be conducted in class.
+その他
+他の関数型言語について紹介します．
+
+Topic about functional programming languages.";

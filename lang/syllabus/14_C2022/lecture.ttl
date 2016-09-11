@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "建築構法論【１４】"@ja;
+	lect:lecture_id "14_C2022";
+	lect:time "2016年度 春学期 金曜日５時限";
+	lect:teacher "森田　芳朗、権藤　智之、前島　彩子";
+	lect:campas "三田東宝ビル(2016/4/7更新)";
+	lect:course_type "講義";

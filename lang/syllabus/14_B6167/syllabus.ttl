@@ -1,0 +1,32 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6167";
+	sylb:summary "近年の生物学的データの爆発的増加により、従来の仮説検証型の科学に加えて、データ駆動型（仮説生成型）の生命科学が可能になった。このような大規模で複雑な生物学的データの解析にはバイオインフォマティクスの技術が不可欠である。この科目では、大規模データから頑強で再現可能な知見を得るためのデータスキルを習得する。
+
+The recent drop of sequencing costs and exponential growth of biological data allow researchers to carry out data-driven (hypothesis-generating) analyses as well as hypothesis-driven analyses. Bioinformatics is essential for handling large and complex biological data. This course will provide the introduction to the data skills necessary for turning large biological datasets into reproducible and robust biological findings.
+
+";
+	sylb:method "この授業では、コンピュータ実習を通して、頑強で再現可能なバイオインフォマティクスのためのデータスキルを習得する。Unix系OS（Mac OS X や Linux）で、オープンソースのツール（UnixシェルやR言語）を用いて、バイオインフォマティクスの課題に取り組む。
+
+This computer laboratory course will provide students basic data skills for robust and reproducible bioinformatics. The students will learn how to tackle bioinformatics problems using freely available open source tools (i.e. Unix shell and R language) on Unix-based operating systems (e.g. Mac OS X and Linux).
+
+";
+	sylb:schedule "第1回 イントロダクション[ Introduction ]
+第2回 バイオインフォマティクスのプロジェクト管理[ Managing a Bioinformatics Project ]
+第3回 Unixシェル[ Unix Shell ]
+第4回 バイオインフォマティクス・データ[ Bioinformatics Data ]
+第5回 Unixデータツール[ Unix Data Tools ]
+第6回 Unixシェルスクリプト[ Shell Scripting ]
+第7回 R言語入門[ Introduction to the R Language ]
+第8回 バイオインフォマティクス・プロジェクト [ Bioinformatics project ]
+第9回 バイオインフォマティクス・プロジェクト[ Bioinformatics project ]
+第10回 バイオインフォマティクス・プロジェクト[ Bioinformatics project ]
+第11回 バイオインフォマティクス・プロジェクト[ Bioinformatics project ]
+第12回 バイオインフォマティクス・プロジェクト[ Bioinformatics project ]
+第13回 バイオインフォマティクス・プロジェクト[ Bioinformatics project ]
+第14回 最終発表[ Oral presentation ]
+その他
+最終発表
+
+Oral presentation";

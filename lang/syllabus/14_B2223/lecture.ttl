@@ -1,0 +1,24 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ３FA【１４】"@ja;
+	lect:lecture_id "14_B2223";
+	lect:time "2016年度 春学期 火曜日２時限,水曜日１時限,木曜日２時限,金曜日２時限";
+	lect:teacher "堀　茂樹、マレシャル，　ベアトリス、山根　祐佳、デュレンベルジェ　ヴァンサン";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ３FB【１４】"@ja;
+	lect:lecture_id "14_B2223";
+	lect:time "2016年度 春学期 火曜日３時限,水曜日２時限,木曜日２時限,金曜日２時限";
+	lect:teacher "ルロワ，　パトリス、ガイヤル，　ニコラ、塩田　明子、野澤　督";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ３FA【１４】"@ja;
+	lect:lecture_id "14_B2223";
+	lect:time "2016年度 秋学期 火曜日２時限,水曜日２時限,木曜日２時限,金曜日３時限";
+	lect:teacher "ヴェスィエール，　ジョルジュ、堀　茂樹、塩田　明子、デュレンベルジェ　ヴァンサン";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

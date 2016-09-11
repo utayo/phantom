@@ -1,0 +1,38 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "中国語インテンシブ１C1【１４】"@ja;
+	lect:lecture_id "14_B2231";
+	lect:time "2016年度 春学期 月曜日１時限,火曜日２時限,水曜日１時限,金曜日１時限";
+	lect:teacher "刘　 璐、上野　正弥、蘇　明、山影　統";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語インテンシブ１C2【１４】"@ja;
+	lect:lecture_id "14_B2231";
+	lect:time "2016年度 春学期 月曜日１時限,火曜日２時限,水曜日１時限,金曜日１時限";
+	lect:teacher "刘　 璐、厳　馥、費　燕、廉　舒";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語インテンシブ１C3【１４】"@ja;
+	lect:lecture_id "14_B2231";
+	lect:time "2016年度 春学期 月曜日１時限,火曜日２時限,水曜日１時限,金曜日１時限";
+	lect:teacher "刘　 璐、王　慧琴、厳　馥、廉　舒";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語インテンシブ１C4【１４】"@ja;
+	lect:lecture_id "14_B2231";
+	lect:time "2016年度 春学期 月曜日１時限,火曜日２時限,水曜日１時限,金曜日１時限";
+	lect:teacher "鄭　浩瀾、刘　 璐、上野　正弥、菅野　智博";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語インテンシブ１C5【１４】"@ja;
+	lect:lecture_id "14_B2231";
+	lect:time "2016年度 秋学期 月曜日１時限,火曜日２時限,水曜日１時限,金曜日２時限";
+	lect:teacher "鄭　浩瀾、刘　 璐、上野　正弥、厳　馥";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

@@ -1,0 +1,69 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1041";
+	sylb:summary "テキストの一語、一語、一字、一字まで微分化して、分析する試みをします。
+
+We analyze a text by making words differential calculus.
+
+";
+	sylb:method "大江健三郎の小説を分析します。
+
+We analyze the novel of Kenzaburo Ooe.
+
+";
+	sylb:schedule "第1回 ガイダンス[ guidance ]
+講義の進め方を説明します。
+
+I explain how to lead classes.
+第2回 講義[ lecture ]
+指定されたテクストを読みます。 
+We read the text appointed.
+第3回 講義[ lecture ]
+指定されたテクストを読みます。 
+
+We read the text appointed.
+第4回 講義[ lecture ]
+指定されたテクストを読みます。 
+
+We read the text appointed.
+第5回 講義[ lecture ]
+指定されたテクストを読みます。 
+
+We read the text appointed.
+第6回 講義[ lecture ]
+指定されたテクストを読みます。 
+
+We read the text appointed.
+第7回 講義[ lecture ]
+指定されたテクストを読みます。 
+
+We read the text appointed.
+第8回 講義[ lecture ]
+指定されたテクストを読みます。 
+
+We read the text appointed.
+第9回 講義[ lecture ]
+指定されたテクストを読みます。 
+We read the text appointed.
+第10回 講義[ lecture ]
+指定されたテクストを読みます。 
+We read the text appointed.
+第11回 講義[ lecture ]
+指定されたテクストを読みます。 
+
+We read the text appointed.
+第12回 講義[ lecture ]
+指定されたテクストを読みます。 
+We read the text appointed.
+第13回 講義[ lecture ]
+指定されたテクストを読みます。 
+
+We read the text appointed.
+第14回 講義[ lecture ]
+指定されたテクストを読みます。
+
+We read the text appointed.
+その他
+課題・レポート
+subject,report";

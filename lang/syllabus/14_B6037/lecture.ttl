@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "多言語社会コミュニケーション【１４】"@ja;
+	lect:lecture_id "14_B6037";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "平高　史也";
+	lect:campas "SFC";
+	lect:course_type "講義";

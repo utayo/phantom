@@ -1,0 +1,2244 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Explore The World of English Grammar
+
+
+Type:Grammar
+
+Keyword:Culture,Discussion,Extensive Reading,Grammar,Intensive Reading,Presentation,Web Activities,Chunking Grammar, Lexical Grammar, Learner Autonomy, Self-Assessment
+
+Course Description:
+
+This course is designed to help students learn grammar for communication. Not grammar for its own sake! To make this happen, Chunking Grammar and Lexical grammar will be introduced. Chunking Grammar is concerned with how to form chunks (information units) and how to combine them. Chunks are divided into three categories, which taken together comprise the world of English: nominal chunks corresponding to the world of things; verbal chunks representing the world of events; and adverbial chunks providing circumstantial information. Lexical Grammar explains grammatical structures, focusing on lexical items embedded there (e.g., Preposition to and to infinitive are the same in form, though different in function. Lexical grammar explains the relationship between the two). These new concepts of grammar will drastically change the way you understand and use the English language. In order to keep learner autonomy and motivation heightened, participants will select their own topics for their assignments and presentations.
+
+
+
+Learning outcomes:
+
+Those students who complete this course will have become able to:
+1)   grasp the whole picture of the world of English grammar;
+2) comprehend messages (mainly in the written mode) in English more clearly, with a heightened awareness of the correspondence between the linguistic form and its meaning;
+3)   monitor (and repair) your own production of the target language when necessary;
+4)   find topics for your own assignment and presentation.
+And these will pave way for further autonomous learning on the part of the language user.
+
+
+
+Teacher's comment:
+Make as many mistakes as possible in class! For it is just natural to do so when using a second language. It’s also a proof that you’re trying to make progress in acquiring the target language. With this in mind, let’s start exploring the world of English grammar together!
+
+";
+	sylb:schedule "第1回 #1
+Introduction --- Concept & Grading, Demonstration (Essay-writing)
+
+第2回 #2
+Prepositions --- spatial images
+ 
+
+第3回 #3
+WILL plus Tense & Aspect --- the sense of time in English
+
+第4回 #4
+Articles (A / THE) & Noun Forms --- How you view things
+ 
+
+第5回 #5
+Nominal Chunks & Post-modifiers --- how you differentiate things
+
+第6回 #6
+ING forms --- the motion picture image
+
+第7回 #7
+Construction Network: BE, HAVE, ING, DONE
+
+第8回 #8
+Adverbial Chunks --- how you add information about situations
+
+第9回 #9
+Modals --- the speaker's mental attitude (judgment and mood)
+
+第10回 #10
+Subjunctive Mood --- the world of imaginary scenarios
+
+第11回 #11
+Presentation Design Workshop (or Rehearsal)
+
+第12回 #12
+Presentation I
+
+第13回 #13
+Presentation II
+
+第14回 #14
+Presentation III
+
+第15回 #15
+Feedback & Further Analysis
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Expressing Opinions with Confidence
+
+
+Type:Oral
+
+Keyword:Culture,Presentation,Speaking,Vocabulary,Debate
+
+Course Description:
+
+Materials:      Selected Readings will be available from the instructor during the course.
+
+The Introduction to Argument course is designed to help students become proficient in basic skills for supporting and refuting opinion. The course will expose students to initial concepts and skills in forming opinions, developing refutations, and developing rebuttals. At the end of the course, students should be able to confidently express and defend their opinions in conversation or argument with another English speaker.
+
+This course is best suited for students who (a) have TOEFL scores between 425 and 4シ9; (b) who are reasonably comfortable taking instruction and participating in class in English, and (c) who have not previously taken a course in argument or debate
+
+Students pass the course when they successfully complete all assigned course work. Course final grades will be compiled from attendance, classroom participation, completed homework assignments, and a term-final debate. Students are reminded to pay particular attention to university attendance regulations.
+
+
+
+Learning outcomes:
+
+This course will focus on helping learners to develop and practice basic techniques for developing and defending arguments in informal situations. Other course objectives will include:
+
+Interacting effectively in small groups to complete assignments.
+Develop and practice planning and oral skills for presenting opinions.
+Practice and develop argument process skills.
+Demonstrate active listening skills in groups and individually.
+
+
+Teacher's comment:
+";
+	sylb:schedule "第1回 #1
+Orientation / Introduction to expressing opinion
+
+第2回 #2
+Types of opinion / Agree or disagree
+
+Topic: Some English or All English?
+
+第3回 #3
+Compare and contrast; Giving reasons
+
+Topic: Dining In or Out?
+
+第4回 #4
+Giving supporting details縲
+
+Topic: Cats or Dogs?
+
+第5回 #5
+Debate format / Delivering your debate　
+
+Topicシ哂 Place to Live
+
+第6回 #6
+First Informal Mini-debates
+
+第7回 #7
+Refutations  
+
+Topic: Love is Blind
+
+第8回 #8
+Testing supports: Asking questions 
+
+Topic:Summer or Winter?
+
+第9回 #9
+Group presentations of argument
+
+第10回 #10
+Responding to attacks: Rebuttal
+
+Topic: Working or Self Employed?
+
+第11回 #11
+Debate practice
+
+Topic: Alike or Different?
+
+第12回 #12
+Debate practice
+
+第13回 #13
+End-of-term debates
+
+第14回 #14
+End-of-term debates
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Developing Discussion and Presentation Skills
+
+
+Type:Oral
+
+Keyword:Business English,Culture,Discussion,Grammar,Listening,Presentation,Speaking,Vocabulary,Writing
+
+Course Description:
+
+In this class you will have the opportunity to brush up four basic skills in English.  Most of your class time will be spent on discussing and presenting your ideas in pairs or goups.  In order to engage in an active discussion you will be responsible for completing your reading assignment before class and submitting a written assignment after each presentation.
+
+
+
+Learning outcomes:
+
+Discussions will help you brainstorm and organize your ideas in English.
+Presentations will help you gain more confidence speaking in front of a large audience.
+Reading and writing assignments will help you brush up on your grammar and increase vocabulary.
+
+
+Teacher's comment:
+The most important thing is to have FUN!
+The more you enjoy the more you develop!
+
+";
+	sylb:schedule "第1回 #1
+Introduction to the class
+
+第2回 #2
+Brainstorming
+
+第3回 #3
+Presentation
+
+第4回 #4
+Discussion
+
+第5回 #5
+Presentation
+
+第6回 #6
+Discussion
+
+第7回 #7
+Presentation
+
+第8回 #8
+Mid-term Presentation
+
+第9回 #9
+Discussion
+
+第10回 #10
+Presentation
+
+第11回 #11
+Discussion 
+
+第12回 #12
+Presentation
+
+第13回 #13
+Group Work
+
+第14回 #14
+Final Presentation
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Invention and Licensing How to Successfully Bring a Product to Market
+
+
+Type:Writing/Presentation
+
+Keyword:Business English,Discussion,Presentation,Project,Speaking,Web Activities
+
+Course Description:
+
+This class is an active class. Your writing and presentation skills will improve while you learn all the skills to bring intellectual property (3D printed items) to market.. A focus of the class will be doing actual real world work of value using 3D printing based upon Project Daniel in Africa and learning how to get Waves to Water filters to those in need of safe drinking water.
+
+Below is a short video about Project Daniel.
+
+https://www.youtube.com/watch?v=SDYFMgrjeLg
+
+Below is a short video about Waves for Water
+
+https://www.youtube.com/watch?v=1zRmofkyVis&nohtml5=False
+
+You will learn about the following: market research, product creation, invention, licensing, intellectual property protection, and marketing.
+
+You will share ideas and experiences with your classmates and business people in the outside world. We will use the following technology to help us with our writing and presentations: 3D printers, digital video, and social networks.
+
+
+
+Learning outcomes:
+
+After completing this course, you will have improved your writing and presentation skills. You will know about many different skills needed to bring intellectual property (3D printed items) to market. You will also have shared ideas with your classmates and business people in the outside world using a variety of digital tools including 3D printers, video, and social networks.
+
+
+
+Teacher's comment:
+I'm very involved outside of the classroom with marketing and intellectual property. If you have any questions, I'm always happy to help! I look forward to seeing you in class.
+
+";
+	sylb:schedule "第1回 #1
+Class Introduction
+
+Charles' introduction
+Your introduction 
+Introduction to the class
+Learn writing/presentation skills.
+Setup technology for our class.
+第2回 #2
+Children With Physical Challenges In Japan
+
+Japanese children with physical challenges
+Learn about market research
+Learn presentation skills
+第3回 #3
+Project Daniel - 3D Printing Human Hands In Africa
+
+What is Project Daniel?
+How can you get involved? 
+Presentation
+Learn debate skills
+第4回 #4
+3D Printing - What Is Possible?
+
+Learn how to print objects in the Media Lab
+Presentation and debate on Project Daniel and printing human hands in Africa using 3D printers
+第5回 #5
+Creating a Successful e-Commerce Website
+
+Learn the basics to create a successful e-commerce website
+Presentation
+Explain the midterm project
+第6回 #6
+Learn About Invention and Licensing For Products and Services - Part 1
+
+第7回 #7
+ 
+
+Midterm Project - Project presentation
+
+ 
+
+第8回 #8
+Learn about Waves for Water filters
+
+Learn Video Sales Copywriting + How to Present on Video
+
+Write video sales copy and learn how to record and edit video for your website
+
+第9回 #9
+Creating a Successful e-Commerce Website
+
+Learn the basics to create a successful e-commerce website
+Presentation
+第10回 #10
+Learn How to Market Your e-Commerce Site
+
+第11回 #11
+Learn About Invention and Licensing For Products and Services - Part 2
+
+Presentation
+ 
+
+第12回 #12
+Protecting Your Intellectual Property
+
+Copyrights, Patents, and Trademarks
+Presentation
+第13回 #13
+Kickstarter.com - Using Crowd Funding To Find Money For Your Business
+
+Learn how to use crowd funding to find money for your business
+Presentation on what you made with 3D printing
+Explain midterm project
+第14回 #14
+ 
+
+Final Project - Project presentation
+
+ 
+
+第15回 #15
+Final Discussion 
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Presentation Techniques
+
+
+Type:Writing/Presentation
+
+Keyword:Culture,Discussion,Listening,Presentation,Speaking,Vocabulary,Writing
+
+Course Description:
+
+Students learn presentation strategies and techniques that will enable them to successfully deliver presentations to audiences in English.  Students learn about different established presentation formats including; object, process and problem & solutions. Students focus on presentation points such as; delivery, research, multimedia & persuasion.  Students are introduced to public speaking and learn how to address groups, use non-verbal communication, project the voice and logically structure presentations. With the lecturer’s guidance students choose their own topics. During the semester there are two group presentations and one individual presentation. At the end of the course, students should be able to give well structured, media assisted presentations in English.
+
+Presentation content can include:
+
+Self-introductions
+New technologies & concepts
+Current or historical issues (politics, science, mass media, etc)
+Sport
+Culture
+History
+etc
+ 
+
+This course is best suited for students who are reasonably comfortable taking instruction and participating in class in English, and who want to develop confidence when presenting in front of audiences.
+
+Students pass the course when they successfully complete all assigned course work. Final grades are compiled from attendance, classroom participation, completed homework assignments, and assigned presentations. Students are reminded to pay particular attention to university attendance regulations. Class Interaction via Moodle use is a mandatory course requirement and will be assessed in relation to the final grade. Plagiarism is totally unacceptable.
+
+ 
+
+
+
+Learning outcomes:
+
+Course Objectives:
+
+To practice & develop planning and oral skills to give prepared speeches.
+To practice & develop individual and group public speaking skills.
+To demonstrate & improve active listening skills for interaction.
+To interact effectively in small groups to complete assignments.
+To successfully learn and understand the criteria for giving a successful presentation to an audience.
+
+
+Teacher's comment:
+";
+	sylb:schedule "第1回 #1
+Orientation / Short introduction / Ice Breakers
+
+第2回 #2
+Voice & Body.  Effective Techniques for Communication
+
+第3回 #3
+Plannng & Structuring Presentations
+
+第4回 #4
+Object Presentations (Workshop)
+
+第5回 #5
+Presentation Development
+
+第6回 #6
+Group Presentation I (Objects)
+
+第7回 #7
+Presentation Feedback / Dealing with Nervousness & Distractions
+
+第8回 #8
+Process Presentations (Workshop)
+
+第9回 #9
+Presentation Development
+
+第10回 #10
+Group Presentations II (Process)
+
+第11回 #11
+Presentation Feedback / Problem & Solution Presentations (Workshop)
+
+第12回 #12
+Multimedia, Supporting Materials and Audience Questions
+
+第13回 #13
+Course Review / Presentation Development / Q & A
+
+第14回 #14
+Problem & Solution Presentations
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Cross-cultural Communication
+An Introduction to American Culture
+
+Type:Writing/Presentation
+
+Keyword:Culture,Discussion,Intensive Reading,Presentation,Research,Speaking,Vocabulary,Web Activities,American History
+
+Course Description:
+
+There are many definitions of culture.  Some would define it as the art, literature, and music of a people, their architecture, history, religion, their traditions.  Some others might focus more on the customs and specific behavior of the people.  The course chooses a sociological definition of culture as the way of life of a group of people, developed over time and passed down from generation to generation.  This broad definition includes every aspect of human life and interaction.  The course is chosen to make a values approach focusing on the traditional mainstream values that have attracted people to the states.  The course traces how values affect aspects of life.
+
+
+
+Learning outcomes:
+
+By studying the information about the traditional, basic American values, where they came from, and how these values affect various institutions and aspects of life in the United States,  the course is intended to increase students' awareness and understanding of the cultural values of the United States, their own country, and other countries.  The information the students get in class will help them get a composite picture of American beliefs and practices as they relate to education, business, government, sports, recreation and so on.
+
+
+
+Teacher's comment:
+The real goal of this course is to help students become more sensitive to cultural differences and more accepting of them.  However, there will always be things about another culture that we do not like no matter how much we understand it.  The objective of this course is not to persuade others to approve of all facets of life in the United States but rather to help students understand it more fully and be able to adapt whenever it is desirable to do so.  There are opportunities for exploiting one's foreign qualities but there are also times when being from a different culture can be a real liability.  The instructor hopes that this introduction will help students make more informed choices.  (Important* If a student misses 4 classes, he or she will automatically fail the course.)
+
+";
+	sylb:schedule "第1回 #1
+Introduction
+Life in the United States
+
+Reading:  1. A Nation of Immigrants  2.  Cultural Pluralism in the United States
+
+Activities:  Ask Yourself / Think, Pair, Share / Ask Americans
+
+第2回 #2
+Reading:  3.  Making Generalizations about American Beliefs  
+
+Activities:  Comprehension Check / Questions for Discussion / Summary
+
+第3回 #3
+Traditional American Values and Beliefs
+
+Reading:  1.  The Context of Traditional American Values  2.  Individual Freedom and Self Reliance
+Activities:  Ask Yourself / Ask Americans / Think, Pair, Share / Making Comparisons
+
+第4回 #4
+Reading:  3. Equality of Opportunity and Competition   4.  Material Wealth and Hard work
+Activities:   Comprehension Check / Questions for Discussion / Summary
+
+ 
+
+第5回 #5
+The American Religious Heritage
+
+Reading:  1. Freedom of Religion in the United States  2.  The Development of Protestantism  3. Protestantism in the United States  4.  The Protestant Heritage
+
+Activities:  Ask Americans  / Proverbs and Sayings / Ask Yourself
+
+第6回 #6
+ 
+
+Reading:  5.  Material Success, Hard Work, and Self-Dicipline  6. Volunteerism and Humanitarianism  7.Born-Again Christians and the Religious Right  8.  A National Religion
+
+Activities:  Comprehension Check/  Questions for Discussion  /Summary
+
+ 
+
+第7回 #7
+Mid-Term Presentation:  Topics for the presentation will be announced during the first few weeks of class.
+
+ 
+
+第8回 #8
+The Frontier Heritage
+Reading:  1. The Impact of the American Frontier   2. Self-Reliance and the Rugged Individualist
+Activities:  Think, Pair, Share /  Proverbs and Sayings / Ask Yourself  / People Watching / Observing the Media
+
+第9回 #9
+ 
+
+Reading:   3.  American Macho  4.  Inventiveness and the Can-Do Spirit  5.  Equality of Opportunity
+
+Activities:  Comprehension Check / Questions for Discussion / Summary
+
+第10回 #10
+The Heritage of Abundance
+
+Reading:  1. A History of Abundance
+Activities:  People Watching  /  Think, Pair, Share
+
+第11回 #11
+
+Reading:  2.  From Producers to Consumers  3.  Commercial Television Versus Public Television and the Internet
+
+Activities:  Ask Americans / Observing the Media
+
+ 
+
+第12回 #12
+Reading:  4.  What American Consumers Like  5. The Ever Expanding Pie
+
+Activities:  Proverbs and Sayings /  Small Group Discussion
+
+ 
+
+第13回 #13
+Reading:  6. The Decline of American Abundance  7. What of the future?
+
+Activities:  Comprehension Check  / Questions for Discussion / Summary 
+
+第14回 #14
+Final Presentation I
+
+Topics for the Final Presentation will be announced after the Mid-term
+
+第15回 #15
+Final Presentation II
+
+Final Report / Paper ( including the Mid-term) must be handed in on this day
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Sports Communication for 2020
+
+
+Type:Project
+
+Keyword:Culture,Presentation,Project,Vocabulary,Web Activities,Communication
+
+Course Description:
+
+Sports is global and communicating through sports is also universal. Athletes and fans alike communicate through the common language of doing. This course will focus on the language of sports and what it means for communication. Throughout the course, we will be brush up the history of some of the major world sports and sporting events. We will also be exploring the vocabulary necessary to talk about global sporting events, such as the Olympics. The final project will have the students develop an online communication guide usable for visitors during the 2020 Olympics.
+
+
+
+Learning outcomes:
+
+Students will learn about the globalization of sports. They will also learn how to effectively communicate about sporting topics as well as learn confidence building techniques and communication skills. Students will also build sports related vocabulary and create an online directory of what they have learned.
+
+
+
+Teacher's comment:
+Communication and effort are important in this class.
+
+";
+	sylb:schedule "第1回 #1
+Introduction
+
+We will go over the syllabus and expectations of the class.
+
+第2回 #2
+History of Sports and Global Competitions
+
+Lecture style class where we will explore the history of global sports.
+
+第3回 #3
+Current Resources
+
+Lecture style class where we will go over the options of communication for visitors of the 2020 Olympics.
+
+第4回 #4
+Presentation Skills
+
+Lecture style class where we go over the necessary skills to give a presentation.
+
+第5回 #5
+Mini Presentation 1
+
+ 
+
+第6回 #6
+Sports Analysis 1
+
+A group work class, where we explore a popular sport and it's history in depth.
+
+第7回 #7
+Sports Analysis 2
+
+A group work class, where we explore a popular sport and it's history in depth.
+
+第8回 #8
+Sports Analysis 3
+
+A group work class, where we explore a popular sport and it's history in depth.
+
+第9回 #9
+Mini Presentation 2
+
+第10回 #10
+Obscure Sports Research 1
+
+A group work class, where we explore a relatively unknown sport and it's history in depth.
+
+第11回 #11
+Obscure Sports Research
+
+A group work class, where we explore a relatively unknown sport and it's history in depth.
+
+第12回 #12
+Final Project Preparation Work
+
+第13回 #13
+Final Project Presentation
+
+第14回 #14
+Final Project Presentation
+
+第15回 #15
+Feedback
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Reading English for Entertainment I
+Louis Sachar's Holes (Low-Intermediate)
+
+Type:Reading
+
+Keyword:Culture,Discussion,Extensive Reading,Literature,Vocabulary
+
+Course Description:
+
+I offer two "Reading English for Entertainment" classes. Both are Level A, but Reading English for Entertainment I (this class) is a little easier than Reading English for Entertainment II. Please choose based on your level.
+
+Students will read Holes, a novel about a boy named Stanley who is innocent, but who is sent to a prison camp. The camp is called Camp Green Lake, but the lake has dried up and turned into a desert. He and the other "campers" have to dig holes all day. What are they looking for? What happened to the lake? How can Stanley prove his innocence?
+
+
+
+Learning outcomes:
+
+Students of this class will read large amounts of easy English text. This will...
+
+Improve English reading speed
+Reinforce existing vocabulary
+Reinforce existing grammar knowledge
+Aid in acquiring "nativelike" use of English (i.e. picking the words and phrases that make one sound "native")
+Expose students to new words
+Enable students to enjoy reading in English
+
+
+Teacher's comment:
+This class will push you to read more than you probably ever have in English, but because the level of the book will be appropriate to read comfortably, and because the story will be interesting (I hope!), you should be able to grow your English ability without even noticing!
+
+";
+	sylb:schedule "第1回 #1
+Overview
+I will introduce the concept of extensive reading, a kind of English reading study you may not be used to.
+
+第2回 #2
+Chapters 1-3
+Introduction to literature circles
+
+第3回 #3
+Chapter 4-8
+
+第4回 #4
+Chapters 9-13 / Vocabulary Test 1
+
+第5回 #5
+Chapters 14-18
+
+第6回 #6
+Chapters 19-24
+
+第7回 #7
+Chapters 25-28
+
+第8回 #8
+Part I Tests
+A test over the first half of the book and vocabulary test 2.
+
+第9回 #9
+Chapters 29-33
+
+第10回 #10
+Chapters 34-39
+
+第11回 #11
+Chapters 40-44 / Vocab Test 3
+
+第12回 #12
+Chapters 45-50
+
+第13回 #13
+Character Essay
+
+第14回 #14
+Final Test
+A test over Part II and vocabulary test 4.
+
+第15回 #15
+English in Action
+
+ 
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Reading English for Entertainment II
+Gary Paulsen's Hatchet (High-Intermediate)
+
+Type:Reading
+
+Keyword:Culture,Discussion,Extensive Reading,Literature
+
+Course Description:
+
+I offer two "Reading English for Entertainment" classes. Both are Level A, but Reading English for Entertainment I is a little easier than Reading English for Entertainment II (this class). Please choose based on your level.
+
+Students will read Hatchet, a novel about a 13-year-old boy stranded alone in the Canadian wilderness, as a class over the semester. Class activities will be centered on discussion of the novel in small groups and as a class.
+
+
+
+Learning outcomes:
+
+Students of this class will read large amounts of easy English text. This will...
+
+Improve English reading speed
+Reinforce existing vocabulary
+Reinforce existing grammar knowledge
+Aid in acquiring "nativelike" use of English (i.e. picking the words and phrases that make one sound "native")
+Expose students to new words
+Enable students to enjoy reading in English
+
+
+Teacher's comment:
+This class will push you to read more than you probably ever have in English, but because the level of the book will be appropriate to read comfortably, and because the story will be interesting (I hope!), you should be able to grow your English ability without even noticing!
+
+";
+	sylb:schedule "第1回 #1
+Overview
+I will introduce the concept of extensive reading, a kind of English reading study you may not be used to.
+
+第2回 #2
+Chapter 1
+Introduction to literature circles
+
+第3回 #3
+Chapter 2
+
+第4回 #4
+Chapters 3-4
+
+第5回 #5
+Chapters 5-6 / Vocabulary Test 1
+
+第6回 #6
+Chapters 7-8
+
+第7回 #7
+Chapters 9-10
+
+第8回 #8
+Midterm Tests
+A content test and vocabulary test 2.
+
+第9回 #9
+Chapters 11-12
+
+第10回 #10
+Chapters 13-14
+
+第11回 #11
+Chapters 15-16 / Vocabulary Test 3
+
+第12回 #12
+Chapters 17-18
+
+第13回 #13
+Chapters 19-20
+
+第14回 #14
+Final Test
+A test over the book and vocabulary test 4.
+
+第15回 #15
+English in Action
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "The Power of Names
+Reading: A Wizard of Earthsea
+
+Type:Reading
+
+Keyword:Culture,Discussion,Extensive Reading,Intensive Reading,Presentation,Speaking
+
+Course Description:
+
+In this class we will discuss the book, A Wizard of Earthsea. Students will read each chapter before class, and bring written notes regarding points that were difficult to understand, so that everyone can discuss them together. These will be handed in as a part of the participation grade. Students will be responsible for keeping up with the pace of reading: if they miss a class, they are still responsible for handing in their notes for that chapter. Because the events of each chapter build on the events of previous chapters, discussions will not be confined to only the pages read that week. There will be some consolidation each week, but we will not be reading the book in class.
+
+Discussion will cover mythic heroes and thems in stories from around the world and how the book shares some of these themes.  As a part of this course, students will create their own hero and myth.
+
+This is an active participation class: students will need to join in the discussion every day for participation credit. Use of PCs or smartphones is not allowed unless specific permission is given. Paper and electronic dictionaries are allowed, but smartphone-based dictionaries are prohibited.
+
+
+
+Learning outcomes:
+
+After this class, You will be able to discuss the book, A Wizard of Earthsea, and heroes from various cultures. You will gain a deeper understanding of mythic literature, and its effect on, and importance to us as an audience.
+
+
+
+Teacher's comment:
+";
+	sylb:schedule "第1回 #1
+What is a hero?
+
+Discussing the qualities that heroes share across stories from around the world.
+
+ 
+
+第2回 #2
+Warriors in the Mist
+
+Discussing chapter one.
+
+ 
+
+第3回 #3
+The Shadow
+
+Discussing chapter two.
+
+第4回 #4
+The School for Wizards
+
+Discussing chapter three.
+
+第5回 #5
+The Loosing of the Shadow
+
+Discussing chapter four.
+
+第6回 #6
+The Dragon of Pendor
+
+Discussing chapter five.
+
+第7回 #7
+Hunted
+
+Discussing chapter six.
+
+ 
+
+第8回 #8
+Midterm: A Mythic Origin
+
+Presentation: create and present your own mythic hero, and his or her origins.  What does your hero teach us about the meaning of being human?
+
+第9回 #9
+The Power of Names
+
+Discussing the three names of Ged, and the importance of names.  Would you be the same person if you had a different name?
+
+第10回 #10
+The Hawk’s Flight
+
+Discussing chapter seven.
+
+第11回 #11
+Hunting
+
+Discussing chapter eight.
+
+第12回 #12
+Iffish
+
+Discussing chapter nine.
+
+第13回 #13
+The Open Sea
+
+Discussing chapter ten.
+
+第14回 #14
+The Quest
+
+Presentation: create a quest to challenge and bring out the meaning of a hero.
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Conversation and Presentation Topics
+
+
+Type:Writing/Presentation
+
+Keyword:Culture,Discussion,Grammar,Listening,Presentation,Project,Speaking,Vocabulary,Writing
+
+Course Description:
+
+Each week in this course, students will practice a new conversational model as a starting point for more in-depth conversation.  Students will take part in activities designed to promote English fluency, including the presentation of a personal collage. We will be using the playbook Say What You Like 3.
+
+
+
+Learning outcomes:
+
+Students in this course will gain greater fluency in conversational English, and will learn to present cultural topics to classmates.  Students will work individually, in pairs, and in small groups.
+
+
+
+Teacher's comment:
+This class is for Level A students only.  Please come to class with a willingness to speak a lot of English, to ask a lot of questions.  It also helps to have an engaged sense of humor.  
+
+";
+	sylb:schedule "第1回 #1
+Class introduction
+
+第2回 #2
+Conversational model #1
+
+Presentations/Activities
+
+第3回 #3
+Conversational model #2
+
+Presentations/Activities
+
+第4回 #4
+Conversational model #3
+
+Presentations/Activities
+
+第5回 #5
+Conversational model #4
+
+Presentations/Activities
+
+第6回 #6
+Conversational model #5
+
+Presentations/Activities
+
+第7回 #7
+Conversational model #6
+
+Presentations/Activities
+
+第8回 #8
+Conversational model #7
+
+Presentations/Activities
+
+第9回 #9
+Conversational model #8
+
+Presentations/Activities
+
+第10回 #10
+Conversational model #9
+
+Presentations/Activities
+
+第11回 #11
+Conversational model #10
+
+Presentations/Activities
+
+第12回 #12
+Conversational model #11
+
+Presentations/Activities
+
+第13回 #13
+Conversational model #12
+
+Presentations/Activities
+
+第14回 #14
+Conversational model #13
+
+Presentations/Activities
+
+第15回 #15
+Final conversational evaluation
+
+Final presentations/activities
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Writing in Online Contexts
+
+
+Type:Composition
+
+Keyword:Web Activities,Writing,Pragmatics
+
+Course Description:
+
+This course focuses on online forms of written communication in English, from emails and text messages to content creation and contributing to online communities. The class will work on examining various registers and genres of written English used for different types of online communication purposes. Students will explore informal, creative, and critical styles of writing, and importantly explore how to match the appropriate register or tone of writing to a specific kind of audience. To that end, the class will be designed around tasks meant to give learners the opportunity to engage in different mediums of online, written communication through a process-based approach to writing. Because of the online-focus of this class, students will have the opportunity to communicate with other English users across the world in authentic contexts.
+
+
+
+Learning outcomes:
+
+By the end of the course, students will be able to:
+
+Recognize and incorporate appropriate registers of writing in English for online communication purposes
+Use various writing strategies to increase their writing fluency and improve the content and clarity of written messages in English online
+Respond to and engage in online discussions using written English in the form of asking/answering questions, providing clear descriptions, and reflecting on experiences
+Self-assess strengths and areas of improvement for effective writing in English in online contexts
+
+
+Teacher's comment:
+This class is different from most writing courses because we will be looking at writing from a strongly communication-based perspective. Unlike more formal writing classes, our focus will be on using written English for interactions with others online, and do so in a way that is fun, informative, and useful. Because of that, the activities and projects in the course will be designed around your interests in writing in English.
+
+";
+	sylb:schedule "第1回 #1
+Introduction to the Class
+Student Needs Analysis & Background Info
+Introduction to Digital Literacy (Netiquette)
+第2回 #2
+Writing to Comminicate: Transactions, Interactions, & Critical Actions
+第3回 #3
+Accessing & Presenting Information Online
+第4回 #4
+Transactive Online Communication: Emails
+第5回 #5
+Transactive Online Commication (con't)
+第6回 #6
+Interactive Online Communication: Texting and Instant Messaging
+第7回 #7
+Interactive Online Communication: Social Media
+第8回 #8
+Mid-term Interviews
+第9回 #9
+Interactive Online Communication: Forums & Message Boards
+第10回 #10
+Interactive Online Communication (con't)
+第11回 #11
+Critical Online Communication: Writing Reviews & Feedback
+第12回 #12
+Critical Online Communication: Content Creation
+第13回 #13
+Critical Online Communication (con't)
+第14回 #14
+Student-selected Topics in Online Writing
+第15回 #15
+Final Presentations of Wiki-Project
+Class Evaluations
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "What's important today?
+Reading and understanding the daily news.
+
+Type:Reading
+
+Keyword:Academic English,Discussion,Extensive Reading,Intensive Reading,Vocabulary
+
+Course Description:
+
+This class will expose students to a wide variety of news sources to improve language ability and intercultural knowledge. Each week we will focus on a common topic in the news and strive to understand and be able to speak and write intelligently on the issue.
+
+
+
+Learning outcomes:
+
+Students will improve all language skills (reading, writing, speaking, listening) and will develop more robust vocabularies.
+
+
+
+Teacher's comment:
+";
+	sylb:schedule "第1回 #1
+General topic: American Politics
+
+第2回 #2
+General topic: War
+
+第3回 #3
+General topic: the Environment
+
+第4回 #4
+General topic: Sports
+
+第5回 #5
+General topic: Crime & Punishment
+
+第6回 #6
+General topic: Celebrity Gossip
+
+第7回 #7
+General topic: Education
+
+第8回 #8
+General topic: Japanese Culture Abroad
+
+第9回 #9
+General topic: Local News
+
+第10回 #10
+General topic: Intercultural Conflict
+
+第11回 #11
+General topic: Art and Literature
+
+第12回 #12
+General topic: Keio News
+
+第13回 #13
+General topic: My Hometown
+
+第14回 #14
+General topic: Human Rights
+
+第15回 #15
+General topic: 
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Business Writing Essentials
+Basic E-mail and Letter Writng
+
+Type:Composition
+
+Keyword:Business English,Discussion,Grammar,Speaking,Vocabulary,Writing
+
+Course Description:
+
+This course is a combination writing and communication course suitable for students with a TOEFL score of up to 479, or students who have successfully completed the Gateway English course.  It is designed to equip students with the ability to compose different kinds of business correspondence.  Students are exposed to and practice various phrases, format and content usually found in standard business writing, both in class and for homework.  At the end of the course, students should have the ability to write standard business e-mails, letters, reports and memos.
+
+This course is for students who have a TOEFL score between 425 and 479, or have completed the Gateway Course.  Students in this course will need to be comfortable with taking instruction and participating in English and can read intermediate-level English texts.
+
+This course is designed as a product writing course, where students are encouraged to mimic a model text such as a formal letter and students' attention is drawn to the importance of  the language used.  This is followed by controlled practice of the highlighted features.  At the end of the learning process, students should be able to use the skills, structures and vocabulary they have been taught to produce the product.
+
+All homework, assignments and quizzes will be done online through Moodle.  All tasks, exercises and activities during class will be done on a keyboard, so students will be required to bring a computer to class every lesson.
+
+
+
+Learning outcomes:
+
+This course will focus on helping learners develop and practice techniques for writing business e-mails and letters in the right format, in the right tone and in the right register.  Other objectives include:
+
+increasing vocabulary
+improving grammar
+This course is best suited for students who:
+
+have TOEFL scores between 425 and 479
+are comfortable taking instruction and participating in English
+are happy to perform pair and group work
+are keen work hard to develop more native-like writing skills
+In the first class, students may be required to write a short essay.  During the essay, students will be called to conduct a short interview and asked a few questions to determine their English speaking proficiency.  Students can ask questions anytime during the first 90-minute class period.
+
+Successful students must complete all assignments, in addition to regular participation both in-class and on-line to pass the course.  Students must pay attention to University attendance regulations in this class.
+
+ 
+
+
+
+Teacher's comment:
+This is a writing course, so there will be a lot of writing, but I am sure that you will also have some fun.  There are pair-work and small group activities providing an opportunity to practice some of your speaking skills, too.
+
+";
+	sylb:schedule "第1回 #1
+Course Rules and Overview
+
+第2回 #2
+(For example) Business Letter Format & Structure
+
+ 
+
+第3回 #3
+(For example) E-mails & Nettiquette
+
+ 
+
+第4回 #4
+(For example) Effective Letter & E-mail Writing
+
+ 
+
+第5回 #5
+(For example) Inquiry Letters & E-mails
+
+ 
+
+第6回 #6
+(For example) Reply Letters & E-mails
+
+ 
+
+第7回 #7
+(For example) Suggestion, Opinion, Agreement and Disagreement Letters & E-mails
+
+ 
+
+第8回 #8
+(For example) Congratulatory and Appreciation Letters & E-mails
+
+ 
+
+第9回 #9
+(For example) Complaint Letters & E-mails
+
+ 
+
+ 
+
+第10回 #10
+(For example) Apology Letters & E-mails
+
+ 
+
+ 
+
+第11回 #11
+(For example) Chat, Facebook & Twitter English
+
+ 
+
+第12回 #12
+(For example) Formal Reports
+
+ 
+
+ 
+
+第13回 #13
+(For example) Proposals & Informal Reports
+
+ 
+
+第14回 #14
+Final Assessment
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Note-taking and Discussion
+
+
+Type:Oral
+
+Keyword:Academic English,Culture,Discussion,Listening,Speaking,Vocabulary,Note-taking
+
+Course Description:
+
+This course is a combination listening and communication course suitable for students with a TOEFL score of up to 479, or for students who have successfully completed the Gateway Course.  Students will be exposed to a lot of listening and will be given advice about how to improve listening habits, take notes effectively and retain more from lectures.  In each class, students will listen to and/or watch various stimulating lecture topics, and interact in pairs or small groups to discuss the content and issues related to the lectures.
+
+Throughout the course, students will be exposed to various methods and tips for listening and note-taking.  At the end of the course, students should have the ability to understand, evaluate and recall information heard in short lectures and then summarize the lecture on short, concise texts.
+
+All homework, summaries and assignments will be done through Moodle.
+
+
+
+Learning outcomes:
+
+This course will focus on helping learners to improve listening comprehension and developing and practicing techniques for better note-taking.  Students will also be given ample opportunity to improve their writing of summaries.  Main objectives include:
+
+listening for and identifying main points in a listening text
+improving and practicing note-taking
+Other objectives include:
+
+practicing written summaries
+increasing vocabulary
+developing communication skills in English
+This course is best suited for students who:
+
+have TOEFL scores between 425 and 479
+are comfortable taking instruction and participating in English
+are happy to perform pair and group work
+are keen work hard to develop their listening
+In the first class, students may be required to write a short essay.  During the essay, students will be called to conduct a short interview and asked a few questions to determine their English speaking proficiency.  Students can ask questions anytime during the first 90-minute class period.
+
+Successful students must complete all assignments, in addition to regular participation both in-class and on-line to pass the course.  Students must pay attention to University attendance regulations in this class.
+
+
+
+Teacher's comment:
+This course offers, not only a chance to work on your listening skills, but also gives ample opportunity to practice your speaking skills.  The topics are interesting and varied; I am sure you will find it interesting.  The course does require a bit of work outside the classroom, but all in all, quite a rewarding course.
+
+ 
+
+";
+	sylb:schedule "第1回 #1
+Course Rules and Overview
+
+第2回 #2
+Effective Note-taking
+
+ 
+
+第3回 #3
+PSYCHOLOGY: Happiness.  (Listening for Topic & Organization)
+
+ 
+
+第4回 #4
+LINGUISTICS: A time to learn.  Listening for Rhetorical Questions)
+
+ 
+
+第5回 #5
+HEALTH: Sleep.  (Listening for Signal Phrases)
+
+第6回 #6
+BUSINESS: The case of MTV.  (Listening for the Big Picture)
+
+ 
+
+第7回 #7
+ART: Modern art.  (Listening for Definitions)
+
+ 
+
+第8回 #8
+SCIENCE: How sleep affects thinking.  (Listening for Examples)
+
+ 
+
+第9回 #9
+MEDIA STUDIES: Video games.  (Listening for Points of View)
+
+ 
+
+第10回 #10
+BIOLOGY: Genetically modified food.  (Listening for Key Terms)
+
+ 
+
+第11回 #11
+HUMANITIES: Architecture; form or function?  (Listening for Definitions)
+
+ 
+
+ 
+
+第12回 #12
+HISTORY: Shackleton.  (Listening for Chronological Order)
+
+ 
+
+第13回 #13
+PHILOSOPHY: Ethics.  (Listening for Examples)
+
+ 
+
+第14回 #14
+Final Test
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Reading the News in English
+
+
+Type:Reading
+
+Keyword:Culture,Discussion,Intensive Reading,Speaking,Vocabulary,Web Activities,Writing
+
+Course Description:
+
+Students will read news articles with the goal of improving vocabulary and comprehension. Students will also discuss, summarize, and respond to articles in small groups and individually. Course materials will be a combination of textbook, handouts, and online news sites.
+
+Homework is reading articles and either answering questions about them or writing a summary and your opinion about the issue. In class we discuss the readings.
+
+
+
+Learning outcomes:
+
+In this course, students will:
+
+expand their English vocabulary
+acquire knowledge of the genre conventions of English news, aiding in comprehension
+gain insight into how the English-speaking world sees the world via a close look at their media
+
+
+Teacher's comment:
+In this class, we will vote on what textbook articles to read together, and you will be able to choose articles which interest you to read by yourself.
+
+";
+	sylb:schedule "第1回 #1
+Overview
+Introduction to Moodle
+
+第2回 #2
+Introduction (2)
+Introduction to Anki
+Headline Grammar & Article Structure
+
+第3回 #3
+Textbook Article 1
+Discuss "A Hunger for English Lessons"
+
+第4回 #4
+Summary/Response Practice
+Summary and Response Practice on "Dare to Err"
+
+第5回 #5
+Summary/Response 1
+Students will choose their own articles, write summaries and responses to them, and share them for class discussion.
+
+第6回 #6
+Textbook Article 2
+
+第7回 #7
+Summary/Response 2
+Vocabulary Test 1
+
+第8回 #8
+Textbook Article 3
+
+第9回 #9
+Summary/Response 3
+
+第10回 #10
+Textbook Article 4
+
+第11回 #11
+Summary/Response 4
+Vocabulary Test 2
+
+第12回 #12
+Textbook Article 5
+
+第13回 #13
+Summary/Response 5
+
+第14回 #14
+Final Vocabulary Test
+
+第15回 #15
+English in Action
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Short comedy for language learning: the sitcom
+
+
+Type:Writing/Presentation
+
+Keyword:
+
+Course Description:
+
+This course will teach English through the medium of American and British situation comedies. These 20 minute humorous programs offer many language and cultural lessons that will enable students to improve their overall language ability, and understanding of American and British cultural perspectives. 
+
+
+
+Learning outcomes:
+
+
+
+Teacher's comment:
+";
+	sylb:schedule "第1回 #1
+Today's sitcom: Friends
+
+     A comedy following the lives of 5 friends as they pursue love, friendship, and career in New York City. This is one of the most successful sitcoms of all time.
+
+ 
+
+第2回 #2
+Today's sitcom: Brooklyn Nine-Nine
+
+     A relatively new sitcom using big comic talent Andy Sandberg's broad sense of humor to spoof police programs. This sitcom has several common themes and character types found in many sitcoms throughout the years.
+
+第3回 #3
+Today's sitcom: The Simpsons
+
+     The longest running sitcom of all time, this program is also the first animated sitcom for us to study this semester. Many of the voice actors in this program have had long and lucrative careers due to their involvement with this program. The Simpson's is very famous for celebrity guest spots, and some of the most famous actors from Hollywood, and other celebrities such as scientists and writers have also appeared on this program.
+
+第4回 #4
+Today's sitcom: Modern Family
+
+     This program takes a very modern view of family life, and explores humor with characters that are multi-generational, multi-ethnic, gay, straight, biological, and adoptive.
+ 
+
+第5回 #5
+Today's sitcom: The Middle
+
+      This program takes a broad look on the concept of being "in the middle". If follows the life of a middle class family headed by middle-aged parents and are  living in middle America, the so called fly-over states. They have a middle child with middle child issues.
+
+第6回 #6
+Today's sitcom: Malcolm in the Middle is another sitcom that explores "middle-ness" but in a more satirical manner.
+
+第7回 #7
+Today's sitcom: The Wonder Years is a sitcom that explores the happiest days of a person's life. It was made in the 1980s and 1990s, but it explores the life of a middle class family in the 1960s and 1970s. It used a wistful voice-over format.
+
+第8回 #8
+Today's sitcom: Black Books is one of the funniest of British Situation Comedies (also called Britcoms). It follows the life of Bernard Black, the Irish owner of Black Books, a small independant book store. Bernard hates most people and social situations, and spends most of his time drinking, smoking and complaining.
+
+第9回 #9
+Today's sitcom: The IT Crowd is a comedy with a title with a double meaning and reading. It can be read the "it crowd", meaning the popular or well-liked group (which is ironic, because the group featured in the story are neither popular nor well-liked) or "The I T crowd, which means informationa technology crowd, or technical support for a group or organization.
+
+第10回 #10
+Today's sitcom: Bob's Burgers is the second animated sitcom that we will explore. Bob is the owner and proprietor of a small, largely unsuccessful diner. It is unique in its choice of voice talent, and the dryly humorous stories.
+
+第11回 #11
+Today's sitcom: Futurama is our third animated sitcom. It is from the same creator as the simpsons, and has a similar type of humor. It follows the life of a delivery boy who is accidentally frozen and wakes up in the distant future. It satirizes modern American culture by looking at weird ways that the world may develop.
+
+第12回 #12
+Today's sitcom: The Big Bang Theory is a comedy about genius.  Set in California, near CalTech university, it follows the lives of the scientific and nerdy protagonists as they attempt to understand and succeed in the world.
+
+第13回 #13
+Today's sitcom: I Love Lucy is one of the greats of American comedy history. Lucille Ball, a former model, and a comic legend plays a fictionalized version of herself with her then real-life husband. This program influenced generations of comedians.
+
+第14回 #14
+Today's sitcom: The Andy Griffith Show is another classic of American television. Andy Griffith was a native North Carolinian, who made a program about small-town American life.
+
+第15回 #15
+Today's sitcom: M*A*S*H is one of the most famous and complex of sitcoms ever created.
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Building Analytical Writing Skills through Reading Fiction
+
+
+Type:Composition
+
+Keyword:Culture,Discussion,Intensive Reading,Literature,Vocabulary,Writing
+
+Course Description:
+
+This class is suitable for students (with TOEFL scores between  450-500) who enjoy reading and feel challenged to analyze the stories. The selections chosen for this class are taken from the work of famous writers of the 20th century. Students will read short fictions ranging from 500 to 3,000 words that are appropriate in content and vocabulary, engaging and relatively easy to comprehend. Selections include variety of male and female authors with diverse cultural and ethnic background, and protagonists with variety of moods, styles, and subjects, and themes.
+
+
+
+Learning outcomes:
+
+Main Objectives:
+
+Build a larger & stronger vocabulary
+Explore, comprehend, and analyze short fictions
+Formulate and support interpretation of the readings
+Build analytical writing skills in response to the readings
+Other Objectives:
+
+Expose students to diverse cultural perspectives
+Develop figurative language skills (imagery, metaphor, simile, irony, etc.)
+Exercise critical thinking in analyzing & interpreting short stories
+Interact and communicate in small groups when going through step-by-step analysis of the stories
+How to achieve the objectives?
+
+Following are the activities cycle that will be repeated for each lesson (from 3rd week onward)
+
+Vocabulary Building
+Author Profile.  The selections are intended to reflect diversity in ethnic and cultural of the writers on the American experience. Before reading the story, students will get to know the author by reading the profile. This will help students to understand the story better.
+Pre-Reading.  This activity will allow the students to discuss and anticipate the contents and set expectations together with classmates.
+Reading Comprehension & Analyzing Further.  By going through step-by-step analysis, students are challenged to think critically, formulate and support their interpretations of the readings.
+Identifying literature elements (characterization, plot, setting , theme, language style)
+Putting It In Writing (writing about your impressions, making a sequel, etc.)
+ 
+
+
+
+Teacher's comment:
+";
+	sylb:schedule "第1回 #1
+Understanding Literary Terms / Elements of a Fiction
+
+第2回 #2
+Figurative Language
+
+第3回 #3
+Fable: The Unicorn in the Garden by James Thurber
+
+第4回 #4
+The House on Mango Street by Sandra Cisneros
+
+第5回 #5
+No Speak English by Sandra Cisneros
+
+第6回 #6
+No Speak English by Sandra Cisneros (cont.)
+
+第7回 #7
+Love by Jesse Stuart
+
+第8回 #8
+Love by Jesse Stuart (cont.)
+
+第9回 #9
+Gaston by William Saroyan
+
+第10回 #10
+Gaston by William Saroyan  (cont.)
+
+第11回 #11
+Satire: How I’ll Become an American by Miklos Vamos  (61 – 70)
+
+第12回 #12
+Satire : How I’ll Become an American by Miklos Vamos  (71 – 80)
+
+第13回 #13
+Review
+
+第14回 #14
+Assessment
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Input Enhancement Through Song Lyrics
+
+
+Type:Grammar
+
+Keyword:Culture,Discussion,Grammar,Listening,Presentation,Web Activities,Lexical Grammar, Learner Autonomy, Self-Assessment
+
+Course Description:
+
+In this course participants will listen to a number of cool songs in English. Artists to be introduced in class may include Taylor Swift, Linkin Park, Rihanna, and many others, classical and contemporary alike. The purpose of this course, however, is not just relax and enjoy listening to music; we will learn how to analyze the way grammatical items that appear in the lyrics of a certain song contribute to the message expressed in the song. Our main analytical tool is Lexical Grammar, which focuses on the relationships between grammatical structures and the semantics of the lexical items which are embedded therein. Participants will also select songs for their own assignment work on a weekly basis as well as for a presentation toward the end of the course.
+
+
+
+Learning outcomes:
+
+If you complete this course, you will have become better able to: 1) comprehend messages in English more clearly, with a heightened awareness of the correspondence between the linguistic form and its meaning; 2) find yourself more willing to analyze the linguistic forms of a song you come across; 3) feel happier about, and therefore, have a heightened motivation for learning the English language through listening to songs you like.
+
+
+
+Teacher's comment:
+If you like a song because the music is beautiful, that's wonderful. But do you understand the message of the song? If not, you might know less than half of the beauty of the song. Learning how to analyze grammatical items that appear in song lyrics will drastically change the way you appreciate the music you listen to. You can recommend your favorite songs to class, or other participants' recommendations might wake up your unknown tastes and interests. See you in class!
+
+";
+	sylb:schedule "第1回 #1
+Concept & Gradingシ娜repositions I (spatial images)
+
+第2回 #2
+Workshop I Prepositions II (metaphorical extension of spatial images)
+
+第3回 #3
+Workshop II Tense & Aspect (motion picture image vs snap shot image)
+
+第4回 #4
+Workshop III Construction Network (BE / HAVE / WHAT / ING / TO)
+
+第5回 #5
+Workshop IV Articles & Noun Forms (how you view things)
+
+第6回 #6
+Workshop V Nominal Chunks & Post-modifiers (the world of things)
+ 
+
+第7回 #7
+Workshop VI Wh- constructions (wh- questions / embedded questions / wh- nominals / wh- relatives / wh- adverbials)
+
+第8回 #8
+Workshop VII Modals I (the speaker's mental attitude)
+
+ 
+
+第9回 #9
+Workshop VIII Modals II (the speaker's mental attitude II 縲 the subjunctive mood)
+
+
+ 
+
+第10回 #10
+Workshop IX Adverbial chunks (when / if / concession - clause)
+
+第11回 #11
+Workshop X Clause Structures (that-clause, wh-clause, adverbial-clause)
+
+第12回 #12
+Presentation I 1) topic-setting; 2) analysis & interpretation; 3) comment or reaction
+
+第13回 #13
+Presentation II 1) topic-setting; 2) analysis & interpretation; 3) comment or reaction
+
+第14回 #14
+Presentation III 1) topic-setting; 2) analysis & interpretation; 3) comment or reaction
+
+第15回 #15
+Feedback & Further Analysis
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Listening to Respond
+
+
+Type:Oral
+
+Keyword:Discussion,Listening,Speaking,Pragmatics
+
+Course Description:
+
+This course is designed to focus on active listening in English by learning how to ask effective questions in a variety of listening contexts, including class discussions, small group conversations, and academic presentations. In particular, this course is aimed at developing skills to help learners identify key pieces of information from what they hear and form clear and specific questions to support their listening comprehension abilities. While presentations and discussions will be a part of the class, the focus for students will be on how learners respond to the content they hear and how they utilize the information they’ve been given to accomplish different tasks, such as making clarifications, challenging ideas, and even responding to questions raised by others.
+
+
+
+Learning outcomes:
+
+By the end of the course, students will be able to:
+
+Identify main and supporting ideas raised by speakers in discussions, conversations, and academic presentations in English
+Ask and identify questions designed to clarify or provide more information while listening to a speaker in English
+Respond to questions by an audience clearly, honestly, and effectively
+Self-assess strengths and areas of improvement regarding listening comprehension ability
+
+
+Teacher's comment:
+In this class we will talk as much as we listen, but our focus will be on using what we hear to make informed comments and questions. Every week we will discuss as a class different ideas related to being an active listener, and that requires that everyone participate in class and add to the conversation. From that, we should create a listening and discussion environment that is informal, relaxed, and fun.
+
+";
+	sylb:schedule "第1回 #1
+Introduction to the Class
+Student Needs Analysis & Background Info
+Active vs. Passive Listening
+第2回 #2
+Asking the Right Kinds of Questions When Listening
+Active Listening (con't)
+第3回 #3
+Asking the Right Kinds of Questions (con't)
+第4回 #4
+Identifying Main Ideas
+第5回 #5
+Clarifying Ideas
+第6回 #6
+Main Ideas and Clarifying (con't)
+第7回 #7
+Discussion Workshop
+第8回 #8
+Mid-term Presentations & Dialogues
+第9回 #9
+Responding to Questions
+Discussion Circle 1
+第10回 #10
+Responding to Questions (con't)
+Discussion Circle 2
+第11回 #11
+Introduction to Critical Listening
+Discussion Circle 3
+第12回 #12
+Student-selected Topics in Listening
+Discussion Circle 4
+第13回 #13
+Final Presentations & Dialogues
+第14回 #14
+Final Presentations & Dialogues
+第15回 #15
+Questions on the Fly: Fun with Questions
+Class Evaluations
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Grammar through Rock and Pop Music
+Cloze Exposed
+
+Type:Oral
+
+Keyword:Culture,Discussion,Grammar,Listening,Speaking,Vocabulary,Rock and Pop Music, Rock and Pop Music Genres
+
+Course Description:
+
+This course is a combination grammar, listening and communication course suitable for students with a TOEFL score of up to 479, or students who have successfully completed the Gateway Course.  Students will be exposed to and given practice with various grammar points through cloze activities based on rock or pop music.  Vocabulary related to rock and pop music and genres will also be looked at through the course.  The grammar points will topics will be introduced through listening to rock or pop songs, and at the end of the course,  from tasks developed by the students themselves.
+
+The course involves pair-work and small group-work to complete tasks, exercises and activities.
+
+All homework, assignments and quizzes will be done online through Moodle.
+
+
+
+Learning outcomes:
+
+The primary objective of this course is to give students exposure to and practice with grammar points.  To this, vocabulary regarding the rock and pop music, and well as grammar terms will be introduced and practiced.  At the end of the course, students should feel more comfortable using the grammar forms introduced.  Other objectives include:
+
+broadening understanding of rock/pop genres
+developing a comfortable affiliation with English
+This course is best suited for students who:
+
+have TOEFL scores between 425 and 479
+are comfortable taking instruction and participating in English
+are happy to perform pair and group work
+are keen to practice speaking skills
+are looking to develop grammar and listening skills
+In the first class students may be required to write a short essay.  During the essay, students will be called to conduct a short interview and asked a few questions to determine their English speaking proficiency.  Students can ask questions anytime during the first 90-minute class period.
+
+Successful students must complete all assignments, in addition to regular participation both in-class and on-line to pass the course.  Students must pay attention to University attendance regulations in this class.
+
+
+
+Teacher's comment:
+Grammar is usually considered a fairly dry subject, but I plan to spice it up by developing understanding of the grammar point through listening to some good rock/pop songs.  On top of this, there will be discussion about genres of rock and pop music, and a comprehensive look at cloze.  I am sure you will find it interesting.
+
+";
+	sylb:schedule "第1回 #1
+Course Rules and Overview
+
+第2回 #2
+(For example) The parts of speech through the best of rock and pop from the 1950s
+
+ 
+
+第3回 #3
+(For example) Articles, pronouns and determiners through the best of rock and pop from the 1960s
+
+ 
+
+第4回 #4
+(For example) Conjunctions and prepositions through the best of rock and pop from the 1970s
+
+ 
+
+第5回 #5
+(For example) Adjectives and adverbs though the best of rock and pop from the 1980s
+
+ 
+
+第6回 #6
+(For example) Past and Present Tenses though the best of rock and pop from the 1990s
+
+ 
+
+第7回 #7
+(For example) Perfect Tenses though the best of rock and pop from the 2000s
+
+ 
+
+第8回 #8
+(For example) Future Tenses through the best of rock and pop from the 2010s
+
+ 
+
+ 
+
+第9回 #9
+(For example) Modals through the best of Culture Issues
+
+ 
+
+第10回 #10
+(For example) Conditionals through the best of Disco
+
+ 
+
+第11回 #11
+(For example) Questions and auxiliary verbs through the best of Reggae
+
+ 
+
+第12回 #12
+Final Assessment (Studnet as the Teacher)
+
+ 
+
+第13回 #13
+Final Assessment (Student as the Teacher)
+
+ 
+
+第14回 #14
+ Final Assessment (Student as the Teacher)
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Active Listening and Speaking I
+
+
+Type:Oral
+
+Keyword:Business English,Culture,Grammar,Listening,Presentation,Speaking,Vocabulary
+
+Course Description:
+
+If you wnat to overcome your shyness, brush up on your grammar and increase your vocabulary, this is the right class for you.  You will have the opportunity to practice listing and speaking in pairs and well as in groups.
+
+
+
+Learning outcomes:
+
+This class will help you:
+
+improve basic listening skills
+learn and use new vocabulary
+gain more confidence speaking in front of people
+improve communication skills
+
+
+Teacher's comment:
+The most important thing is to have FUN!
+The more you enjoy the more you develop!
+
+";
+	sylb:schedule "第1回 #1
+Introduction
+
+第2回 #2
+New Topic
+
+第3回 #3
+Group Work
+
+第4回 #4
+New Topic
+
+第5回 #5
+Group Work
+
+第6回 #6
+New Topic
+
+第7回 #7
+Group Work
+
+第8回 #8
+Mid-term Exam
+
+第9回 #9
+New Topic
+
+第10回 #10
+Group Work
+
+第11回 #11
+New Topic
+
+第12回 #12
+Group Work
+
+第13回 #13
+Review
+
+第14回 #14
+Finals
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Gaining Sharper English Communication
+
+
+Type:Oral
+
+Keyword:Culture,Listening,Presentation,Speaking
+
+Course Description:
+
+The first unit is for introduction and preparation.  Each subsequent unit begins and ends with a presentation in order to demonstrate the students’ progress, both to the instructor and to the students themselves.  These will be delivered solo, on assigned topics with approximately a minute allowed for preparation.  Following the initial presentation, there will be a brief intro followed by exercises and role plays. The role plays will be geared to provide the student with the opportunity of using some part of the skill set in a focused way.  Each unit will be organized to gradually expand on the skills involved, in preparation for the exams.
+ 
+Prior to the Midterm and the Final, there will be a consolidation practice day to give the students another opportunity to apply the skills in an integrated way.  Any remaining time may be used to begin preparation for the exam.
+
+
+
+Learning outcomes:
+
+After this class, you will be able to express yourself in a fun, clear, and concise manner.  You will also be able to effectively state when you don’t understand and request more information as needed.
+
+
+
+Teacher's comment:
+";
+	sylb:schedule "第1回 #1
+Unit 1: Listener skills
+(1-2 weeks, as required by students level)
+When you didn’t hear/understand everything
+Asking for clarification/more detail
+
+第2回 #2
+Unit 1: Listener skills
+(1-2 weeks, as required by students level)
+When you didn’t hear/understand everything
+Asking for clarification/more detail
+
+第3回 #3
+Unit 2: Sequencing (i.e., chronological, logical) and Orienting (i.e., in time, in a body of information)
+(4 weeks)
+Giving Directions (organizing your communication in a chronological future sequence)
+Giving Directions (landmarks: visually orienting in space)
+Telling a Story (organizing your communication in a complicated chronological sequence)
+Telling a Story (not losing your listener: orienting in time)
+
+第4回 #4
+Unit 2: Sequencing (i.e., chronological, logical) and Orienting (i.e., in time, in a body of information)
+(4 weeks)
+Giving Directions (organizing your communication in a chronological future sequence)
+Giving Directions (landmarks: visually orienting in space)
+Telling a Story (organizing your communication in a complicated chronological sequence)
+Telling a Story (not losing your listener: orienting in time)
+
+第5回 #5
+Unit 2: Sequencing (i.e., chronological, logical) and Orienting (i.e., in time, in a body of information)
+(4 weeks)
+Giving Directions (organizing your communication in a chronological future sequence)
+Giving Directions (landmarks: visually orienting in space)
+Telling a Story (organizing your communication in a complicated chronological sequence)
+Telling a Story (not losing your listener: orienting in time)
+
+第6回 #6
+Unit 2: Sequencing (i.e., chronological, logical) and Orienting (i.e., in time, in a body of information)
+(4 weeks)
+Giving Directions (organizing your communication in a chronological future sequence)
+Giving Directions (landmarks: visually orienting in space)
+Telling a Story (organizing your communication in a complicated chronological sequence)
+Telling a Story (not losing your listener: orienting in time)
+
+第7回 #7
+Consolidation (practice and mid-term preparation)
+Some function to roleplay on for practice
+Mid-term preparation
+
+第8回 #8
+Midterm: Telling a chronologically detailed story about something you did or will do (e.g., tour guide explains a vacation package)
+(1 week)
+Person A: tells the story.  Graded for clarity, details and organization
+Person B: actively listens. Graded for comprehension: must ask for clarification to ensure that they understood.
+
+第9回 #9
+Unit 3: Sequencing and Orienting (Part 2)
+(2 weeks)
+Explaining your Hobby (organizing your communication in a logical structure to present information clearly)
+Explaining your Hobby (not losing your listener: orienting in a body of information)
+
+第10回 #10
+Unit 3: Sequencing and Orienting (Part 2)
+(2 weeks)
+Explaining your Hobby (organizing your communication in a logical structure to present information clearly)
+Explaining your Hobby (not losing your listener: orienting in a body of information)
+
+第11回 #11
+Unit 4: Adding Color to Conversation
+(2 weeks)
+Moderating and Intensifying (adverbial phrases as in ‘a little small,’ ‘pretty small,’ ‘extremely small’
+Exaggerating with Metaphor and Simile (‘that dog was as big as a house!’)
+Adding Color with Metaphor and Simile
+
+第12回 #12
+Unit 4: Adding Color to Conversation
+(2 weeks)
+Moderating and Intensifying (adverbial phrases as in ‘a little small,’ ‘pretty small,’ ‘extremely small’
+Exaggerating with Metaphor and Simile (‘that dog was as big as a house!’)
+Adding Color with Metaphor and Simile
+
+第13回 #13
+Consolidation (Practice and Final Preparation)
+Some function to roleplay on for practice
+Final Preparation
+
+第14回 #14
+Final: Smalltalk (Presenting Yourself, Asking about Others)
+Groups of four.
+
+";
+	lect:lecture_id"14_B2411";
+	sylb:summary "英語セクションには、独自のオンラインシラバスページがあります。 各教員の科目概要・詳細は、以下のURLより参照してください。 【プロジェクト英語Ａ】 ◆ http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+English Section has its own on-line syllabi, please check the syllabus of each class you would like to take through the following URL. 【Project English Ａ】 * http://english.sfc.keio.ac.jp/syllabus/list.php?level=A
+";
+	sylb:method "Language and Culture Exchange with African Countries in Reality
+What is sustainability to enforce our mutual understanding through a language and culture exchange program?
+
+Type:Project
+
+Keyword:Culture,Discussion,Extensive Reading,Listening,Literature,Presentation,Project,Research,Speaking,Web Activities,Writing
+
+Course Description:
+
+HAVE YOU EVER BEEN TO AFRICAN COUNTRIES? HAVE YOU EVER BEEN TO AN AFRICAN COUNTRY, DEMOCRATIC REPUBLIC OF CONGO(DRC)? OR HAVE YOU EVER HEARD OF OUR "CONGO ACADEX PROJECT", WHICH IS 8 YEARS OLD? IF NOT, WHY DON'T YOU COME AND JOIN US AND OPEN THE DOOR WIDE OPEN TO THE WORLD OF AFRICA-JAPAN FUTURE?
+THE PURPOSE OF THIS PROJECT IS TO ENFORCE AND TO SHARE THE INTRODUCTION AND MUTUAL UNDERSTANDING OF BOTH COUNTRIES:HISTORY, CULTURE, EDUCATION, ECONOMICS, NATIONALITY,ETC.
+
+THE GOAL OF THIS PROJECT IS TO FIND WHAT WE CAN DO AND HOW WE CAN COLLABORATE FOR THE SAKE OF THE FUTURE OF BOTH COUNTRIES.
+
+
+Learning outcomes:
+
+Students who take this course will be able to
+1.UNDERSTAND BOTH CONGO AND JAPAN
+2.MAKE FRIENDS WITH CONGOLEESE STUDENTS THROUGH SKYPE COMMUNICATION and THROUGH FACEBOOK COMMUNICATION
+
+3.DISCUSS, SHARE, PRESENT OUR FUTURE VISION AND GET THE ACTUAL IMAGES OF THE SUSTAINABLE RELATIONSHIP OF BOTH COUNTRIES.
+
+
+
+Teacher's comment:
+THIS SEMESTER I AM SO HAPPY THAT WE CAN COMMUNICATE WITH  STUDENTS FROM CONGO TO STUDY WITH YOU IN CLASS FOR  A FULL SEMESTER.  AS MANY OF YOU HAVE ALREADY REALIZED THAT BUILDING RELATIONSHIP BETWEEN AFRICAN COUNTRIES AND JAPAN IS ESSENTIAL FOR OUR FUTURE. WE LEARN A LOT FROM AFRICAN COUNTRIES. BUT THE MOST IMPORTANT THING TO START THE RELATIONSHIP IS, OF COURSE, MUTUAL UNDERSTANDING AS HUMAN BEINGS.
+PLEASE COME AND JOIN US FOR BUILDING OUR PROMISING FUTURE!
+STUDENTS WHO HAVE STRONG WILL TO JOIN THE PROJECT ARE MOST WELCOME: IT DOESN'T MATTER WHETHER YOU HAVE PREVIOUS EXPERIENCE OR KNOWLEDGE ON AFRICAN COUNTRIES.
+SEE YOU SOON!
+
+";
+	sylb:schedule "第1回 #1
+Guidance of the course What is ACADEX PROJECT, What we do in this course? Share Our Mission
+第2回 #2
+1st session of the class Who we are, what we can and want to do in this course.
+1.GOAL SETTING TOWARDS THE END OF THIS SEMESTER
+2.INTRODUCTION OF OUR CONGOLEESE FRIENDS.
+
+3.GENERAL INFORMATION ON DRC
+第3回 #3
+2nd session of the class: GATEWAY TO MUTUAL UNDERSTANDING1
+
+INTRODUCTION TO CONGO 1
+第4回 #4
+3rd session of the class :GATEWAY TO MUTUAL UNDERSTANDING2 Introduction to its brief history, education, economy.
+ 
+
+第5回 #5
+4th session of the class : Introduction to its religion and culture
+
+Lecture and discussion
+第6回 #6
+MID-TERM PRESENTATIONS 1
+
+GROUP DISCUSSIONS
+第7回 #7
+MID-TERM PRESENTATION 2
+ 
+
+GROUP DISCUSSIONS
+第8回 #8
+MID-TERM PRESENTATION 3
+
+GROUP DISCUSSIONS
+第9回 #9
+Welcoming our guests from Congo.
+Impressions of Japan and introduction of DRC.
+Presentation and discussion.
+
+ 
+
+GROUP DISCUSSIONS
+第10回 #10
+Introduction of Japan: history and nationality
+
+GROUP DISCUSSIONS 1
+第11回 #11
+Introduction of Japan 2: economy and education
+2. THE SIMILALITY AND DIFFERENCE
+
+3. DISCUSSION
+第12回 #12
+1.WHAT WE SHOULD KNOW ON JAPAN AND WHAT WE SHOULD KNOW ON CONGO
+
+2.ENJOY CONGO And JAPANESE CUIZINE AND MUSIC
+第13回 #13
+PRESENTATION ON "BUILDING SUSTAINABLE RELATIONSHIP BETWEEN CONGO AND JAPAN"
+
+1 PRESENTATION FROM CONGOLEESE GUESTS, 1 PRESENTATIONS FROM JAPANESE STUDENTS
+第14回 #14
+Final presentations 1
+
+第15回 #15
+Final presentations 2
+
+";

@@ -1,0 +1,81 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1027";
+	sylb:summary "　本授業では、住民、自治体、NPO、企業など、地域の多彩な主体によって取り組まれている各地のまちづくりの最新動向を紹介し、成功要因、課題を明らかにした上で、その意義、可能性について議論します。また、まちづくりにおいて大切なポイントとなる、多様な主体間の協働を実現し、資源をいかし、地域の問題解決を果たすための具体的方策についても検討を行います。まちづくりの実践、地域活性化政策などに関心のある全ての学生を対象とします。秋学期の本授業では、まちづくりのソフト面を中心に取り上げます。 　授業では、プラットフォーム、ネットワーク、信頼、地域社会学などに関する理論を整理し、観光、農業、商店街、ひとづくり、伝統産業、地方創生などをテーマとする先進的なまちづくりの事例研究を行います。また実践知を育むために、一方的な講義だけでなく、まちづくりの分野で全国的に活躍されているゲストによる講演やケースディスカッションも適宜取り入れます。 　最終成果として、地域の問題解決に関するレポートを作成してもらうことを検討しています。
+
+This class will introduce the current movement of community innovation conducted by various entities such as residents, local government, NPO and companies, clarify the reasons for success as well as problems and discuss the significance and the possibility. We also examine the concrete measure to realize collaboration of various entities, which is important for community innovation, to make the best use of resources and to solve regional problems. The class is for the students who are interested in community innovation practice or regional development policies.
+
+In the class, the theory of platform, network, trust and sociology will be examined, and we will conduct the case study of advanced community innovation with the concept of tourism, agriculture, shopping street, human resource development and traditional industry.　In order to develop our practical knowledge, we will invite special guests who play active roles in community development and also introduce case discussions.
+
+The essay about community problem solution will be expected as a final assignment.
+
+";
+	sylb:method "　　本授業では、住民、自治体、NPO、企業など、地域の多彩な主体によって取り組まれている各地のまちづくりの最新動向を紹介し、成功要因、課題を明らかにした上で、その意義、可能性について議論します。また、まちづくりにおいて大切なポイントとなる、多様な主体間の協働を実現し、資源をいかし、地域の問題解決を果たすための具体的方策についても検討を行います。まちづくりの実践、地域活性化政策などに関心のある全ての学生を対象とします。秋学期の本授業では、まちづくりのソフト面を中心に取り上げます。 　授業では、プラットフォーム、ネットワーク、信頼、地域社会学などに関する理論を整理し、観光、農業、商店街、ひとづくり、伝統産業、地方創生などをテーマとする先進的なまちづくりの事例研究を行います。また実践知を育むために、一方的な講義だけでなく、まちづくりの分野で全国的に活躍されているゲストによる講演やケースディスカッションも適宜取り入れます。 　最終成果として、地域の問題解決に関するレポートを作成してもらうことを検討しています。
+
+This class will introduce the current movement of community innovation conducted by various entities such as residents, local government, NPO and companies, clarify the reasons for success as well as problems and discuss the significance and the possibility. We also examine the concrete measure to realize collaboration of various entities, which is important for community innovation, to make the best use of resources and to solve regional problems. The class is for the students who are interested in community innovation practice or regional development policies.
+
+In the class, the theory of platform, network, trust and sociology will be examined, and we will conduct the case study of advanced community innovation with the concept of tourism, agriculture, shopping street, human resource development and traditional industry.　In order to develop our practical knowledge, we will invite special guests who play active roles in community development and also introduce case discussions.
+
+The essay about community problem solution will be expected as a final assignment.
+
+";
+	sylb:schedule "第1回 イントロダクション[ Introduction ]
+本授業の目的、カリキュラム、成績評価のルールなどの説明を行います。
+
+Class objective, contents, how to proceed and the rules are explained.
+第2回 まちづくりの概念（講義、ディスカッション）[ Concept of Community Innovation（Lecture, Discussion） ]
+まちづくりとは何か、どのような意義、可能性があるのかなどについて、経営学、社会学などの様々な観点から説明します。
+
+The significance and possibility of community innovation will be explained from the various viewpoints such as business and sociology.
+第3回 ひとづくり（ケースディスカッション、講義）[ Human Resource Development（Case Discussion, Lecture） ]
+地域独自のケース教材を活用したアントルプレナー育成スクール、NPO法人鳳雛塾＜http://www.housuu.jp/＞の取り組みを紹介し、まちづくりにおけるひとづくりの重要性、産官学連携実現の方策について議論を行います。
+
+The activities of NPO Hosuu Jyuku＜http://www.housuu.jp/＞, an entrepreneur ship Training School who uses the original case materials will be introduced, and the importance of human resource development for community innovation as well as the measure to realize academic-government-business collaboration will be discussed.
+第4回 衰退する地方都市（ディスカッション、講演、講義）[ Declining Local City（Discussion, Guest Lecture, Lecture） ]
+衰退する地方都市を活性化していくときの大切なポイントについて議論します。ゲストとして、多くの人が　集うコミュニティとなった岩見沢駅（グッドデザイン大賞、建築学会賞受賞）を設計した、株式会社ワークヴィジョンズ＜http://www.workvisions.co.jp/＞代表取締役（建築家）の西村浩氏をお迎えします。
+
+The important points to revitalize declining local city is discussed. We will invite Mr. Hiroshi Nishimura, the president of Workvisions Co., Ltd. and a famous architect. He designed Iwamizawa Station to be a successful community center for the local residents, and earned Good Deisgn Grand Award as well as Architectural Institute of Japan Prize.
+第5回 地域資源の再認識（ケースディスカッション、講義）[ Re-recognition of Regional Resources （Case Discussion, Lecture） ]
+地域資源を見直し、住民の意識を変えていく方策について学びます。事例として、高知県黒潮町のNPO法人砂浜美術館＜http://www.sunabi.com/＞の取り組みを紹介し、その意義や可能性、課題について考察します。
+
+We will study the measure to re-recognize the local resources and change the consciousness of local residents. We will read the case of NPO Sunahama Art Gallery ＜http://www.sunabi.com/＞ and discuss the significance, possibility and problem of their activity.
+第6回 農産物の展開（ケースディスカッション、講義）　[ Development of Agricultural Products（Case Discussion, Lecture）　 ]
+葉っぱをビジネス化し、地域再生にも貢献し、全国から注目されている「株式会社いろどり」＜http://www.irodori.co.jp/＞の成功要因を分析し、事業展開上の課題について検討します。
+
+We will examine the success factors of “Irodori Co., Ltd.” < http://www.irodori.co.jp/>, which successfully converted “leaves” to business and contributed regional revitalization. We will also discuss the problems for their further business development.
+第7回 スローシティ運動（ディスカッション、講義）[ Slow City Movement（Discussion, Lecture） ]
+1990年代に立ち上がったスローシティ運動（Citta Slow）＜http://www.cittaslow.org＞を紹介し、資源を最大限にいかす方策について議論します。
+
+We will introduce “Slow City Movement （Citta Slow）” ＜http://www.cittaslow.org＞ which started in 1990s, and discuss the measure to maximize the regional resources.
+第8回 商店街の振興（ケースディスカッション、講義）[ Promotion of Shopping Street（Case Discussion, Lecture） ]
+苦況が続いている中心商店街の活性化のための方策を議論します。事例として、先進的取り組みを行っている高松市の丸亀町商店街＜http://www.kame3.jp/＞を取り上げ、コミュニティビジネスの要諦について学びます。
+
+We will discuss the measure to revitalize declining shopping streets. The advanced case of Marugame-cho shopping street in Takamatsu ＜http://www.kame3.jp/＞ will be introduced to learn about community business.
+第9回 観光振興（ディスカッション、講義）[ Promotion of Tourism（Discussion, Lecture） ]
+観光振興の際、資源の見極め、戦略的視点が大切です。温泉で有名な湯布院の取り組みを事例として、地域における観光のあり方を考察します。
+
+It is important to have strategic viewpoint toward regional resources when promoting tourism. The attempt of Yufuin, famous for its hot springs, will be introduced to consider local tourism.
+第10回 伝統産業の再生（ディスカッション、講義）[ Restoration of Traditional Industry（Discussion, Lecture） ]
+地域の伝統産業の状況を概観し、再生の方策について考察します。事例をもとに、どのような取り組みが有効か、特につながり、プラットフォームの観点から、全員で今後の展開について意見交換を行います。
+
+Traditional industry of the region is overviewed and the measure for revitalization will be discussed. Based on the existing cases, we will exchange our opinion about the effectiveness of the measures from the viewpoint of connectivity and platform.
+第11回 過疎対策（ディスカッション、講義）[ Depopulation Countermeasure（Discussion, Lecture） ]
+政府の過疎対策の諸施策について紹介し、過疎地域再生のための方策について全員で議論を行います。
+
+The depopulation countermeasure of the government will be introduced and the revitalization policy for depopulated cities will be discussed.
+第12回 域学連携のまちづくり（ディスカッション、講義）[ University-Community Collaboration（Discussion, Lecture） ]
+昨今、まちづくりの重要な担い手として大学の存在に注目が集まっています。総務省や文部科学省では、地域大学連携を積極的に支援しています。ここでは、地域における大学の役割、可能性について、SFCでの取り組みを参考にしながら議論します。
+
+Recently, universities are expected to act major role in community development. Ministry of Internal Affairs and Communications as well as Ministry of Education, Culture, Sports, Science and Technology support university-community collaboration positively. Here, we will discuss the role and possibility of universities in the region, referring the activities of SFC.
+第13回 地方創生政策（ディスカッション、講演、講義）[ Regional revitalization Policy（Discussion, Guest Lecture, Lecture） ]
+地方創生は国の重要政策です。自治体のリーダーをスペシャルゲストとしてお迎えして、地方創生政策の現状と今後について検討します。
+
+Regional revitalization is an important national policy. We will invite a top leader of local government as a special guest to discuss about the current situation and the future of local creation policy.
+第14回 まとめ1（講義、ディスカッション）[ Summary 1（Lecture, Discussion） ]
+今までの講義、ゲストの講演、議論などを振り返り、意見交換をしながら、プラットフォームの概念からまちづくりの本質、可能性について深く議論します。
+
+We will review all the lectures and guest lectures and deeply discuss the essence and the possibilities of community innovation from the viewpoint of the platform concept.
+その他
+* まとめ2（フィードバック、ディスカッション）* これまでの授業を振り返りながらフィードバックを行います。
+The previous sessions are summarized and the feedback will be given in the class.";

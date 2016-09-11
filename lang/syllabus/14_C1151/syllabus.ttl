@@ -1,0 +1,81 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1151";
+	sylb:summary "This course is to discuss the nature of international business by referring to case study materials. The students read the case before the class, write a short report, and participate an active discussion facilitated by the course instructor.
+
+The case is selected to cover all the important issues around international business, as well as major industries and regions. Topics covers: supply chain, distribution chain, organisation and strategy, new entrant, M&A, competition with local firms, collaboration with local firms, low cost distribution, low cost business model, and Japanese business overseas. Most of the case are less than 10 years old and will constantly be updated.
+
+The students read the case study, which typically is 10-15 pages in English, and write a A4-1page report to answer the questions given by the instructor. Depending on the class size, one group may give a presentation of the overview of the case, and then the class moves to an active discussion session facilitated by the instructor.
+
+";
+	sylb:method "The 90 minutes of the class will be decimated by class discussion navigated by the course instructors. The instructor guide the class discussion by pointing to the key questions of the case material. The participants are expected to actively participate the class by answering the questions and responding to the opinion of others in the class.
+
+To create an active and interactive class, the instructor request all the participants to pre-read the case-material, which typically 10-15 pages in English, and write a A4-1 page short essay as preparation to the class. The participants submit the document electrically a day before the class, and print a copy and hand-in it in the beginning of the class. The instructor counts the paper submission of the essay as the proof of attendance, and also use it to facilitate the discussion.
+
+The course is designed to cover all the important component of International Business;therefore, the class discussion is semi-structured. The instructor guides the discussion, answers the questions, and move the session forward. The participants are expected to be familiar with all the information found in the case, and are asked to answer the questions related to the content of the class.
+
+";
+	sylb:schedule "第1回 Session 1. INTRODUCTION
+An Overview of The Sessions
+
+第2回 Session 1. INTRODUCTION
+The Essence of Multinational Management
+
+第3回 Session 2. MANAGING GLBALLY DISTRIBUTED VALUE CHAIN 3. (Marketing & Sales-Global-Beverage) Marketing Chateau Margaux
+(Marketing & Sales-Global-Beverage) Marketing Chateau Margaux 
+
+Marketing Chateau Margaux: https://cb.hbsp.harvard.edu/cbmp/product/507033-PDF-ENG 
+第4回 Session 2. MANAGING GLBALLY DISTRIBUTED VALUE CHAIN 
+(Supply Chain-Global-Furniture) IKEA's Global Sourcing Challenge 
+
+IKEA's Global Sourcing Challenge: Indian Rugs and Child Labor (A): https://cb.hbsp.harvard.edu/cbmp/product/507033-PDF-ENG 
+第5回 Session 3. INTEGRATION VERSUS ADAPTATION
+(Product Design-Global-Food) United Cereal: Lora Brill's Eurobond Challenge 
+
+United Cereal: Lora Brill's Eurobrand Challenge: https://cb.hbsp.harvard.edu/cbmp/product/4269-PDF-ENG 
+第6回 Session 3. INTEGRATION VERSUS ADAPTATION
+(Organization Design-Global-Chemical) Kent Chemical: Organizing for International Growth 
+
+Kent Chemical: Organizing for International Growth: https://cb.hbsp.harvard.edu/cbmp/product/4409-PDF-ENG 
+第7回 Session 4. ENTRY INTO A FOREIGN MARKET
+(Greenfield –Eastern Europe-Finance) Alpen Bank: Launching the Credit Card in Romania 
+
+https://cb.hbsp.harvard.edu/cbmp/product/4559-PDF-ENG & Alpen Bank: Launching the Credit Card in Romania, Student Spreadsheet Supplement: https://cb.hbsp.harvard.edu/cbmp/product/4561-XLS-ENG 
+第8回 Session 4. ENTRY INTO A FOREIGN MARKET
+(M&A-Africa-Telecommunication) Bharti Airtel in Africa 
+
+Bharti Airtel in Africa: http://cb.hbsp.harvard.edu/cbmp/product/112096-PDF-ENG
+
+第9回 Session 5. COMPETITION AND COLLABORATION IN A FOREIGN MARKET
+(Competition-China-Chemical) Novozymes: Cracking the Emerging Markets Code 
+
+Novozymes: Cracking the Emerging Markets Code: http://cb.hbsp.harvard.edu/cb/product/112084-PDF-ENG 
+第10回 Session 5. COMPETITION AND COLLABORATION IN A FOREIGN MARKET
+(Collaboration-China-Agriculture) COFCO Xinjiang Tunhe Co., Ltd. 
+
+COFCO Xinjiang Tunhe Co., Ltd.: http://cb.hbsp.harvard.edu/cbmp/product/508079-PDF-ENG 
+第11回 Session 6. BUSINESS AT THE BASE OF THE PYRAMID
+(Low cost sales network-India-FMCG) Unilever in India: Hindustan Lever's Project Shakti 
+
+Unilever in India: Hindustan Lever's Project Shakti--Marketing FMCG to the Rural Consumer: http://cb.hbsp.harvard.edu/cbmp/product/505056-PDF-ENG
+
+第12回 Session 6. BUSINESS AT THE BASE OF THE PYRAMID
+(Low cost business model-India-Utilities) Sarvajal: Water for All 
+
+Sarvajal: Water for All: http://cb.hbsp.harvard.edu/cbmp/product/211028-PDF-ENG
+
+第13回 Session 7. THE GLOBAL CHALLENGE FOR JAPANESE FIRMS
+How should Japanese firms compete? - Learning from GREE, Rakuten, and Oktoberfest 
+
+The Munich Oktoberfest:From Local Tradition to Global Capitalism: https://cb.hbsp.harvard.edu/cbmp/product/714439-PDF-ENG & GREE, Inc.,: https://cb.hbsp.harvard.edu/cbmp/product/713447-PDF-ENG & Language and Globalization: "Englishnization" at Rakuten (A): https://cb.hbsp.harvard.edu/cbmp/product/412002-PDF-ENG
+
+第14回 Session 7. THE GLOBAL CHALLENGE FOR JAPANESE FIRMS
+Conclusion 
+
+This session summarizes the outcome of the 11 discussion sessions, connecting what we have discussed to the essence of multinational management. The instructor also explains the format and the questions of the final exam.
+
+その他
+The class participants are required to read case materials and write two essays per week to attend the sessions in the following week.
+
+";

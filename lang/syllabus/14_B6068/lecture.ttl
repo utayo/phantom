@@ -1,0 +1,31 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "アカデミックプレゼンテーション実践(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6068";
+	lect:time "2016年度 春学期 水曜日３時限";
+	lect:teacher "ベデロ，　サイモン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "アカデミックプレゼンテーション実践(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6068";
+	lect:time "2016年度 秋学期 水曜日３時限";
+	lect:teacher "ベデロ，　サイモン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "アカデミックプレゼンテーション実践(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6068";
+	lect:time "2016年度 春学期 水曜日３時限";
+	lect:teacher "ベデロ，　サイモン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "アカデミックプレゼンテーション実践(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6068";
+	lect:time "2016年度 秋学期 水曜日３時限";
+	lect:teacher "ベデロ，　サイモン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

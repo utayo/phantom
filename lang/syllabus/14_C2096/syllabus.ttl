@@ -1,0 +1,42 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2096";
+	sylb:summary "携帯電話から始まったモバイルネットワークはスマートフォンの爆発的普及、スマートメータや無線タグを利用した産業システムなどのMachine to Machine (M2M)システムの登場により現代社会に必要不可欠となっています。一方、無線通信は技術的な難しさに加えて、周波数資源が有限であること、国際標準化や電波法令制度の整備などを包含するため、全体像をつかむことが難しくなっています。本講義では、モバイルネットワークに関する最近の話題を取り上げ、それを構成する基本技術や、標準化・電波法令の現状を解説します。
+
+Mobile network becomes an indispensable communication infrastructure not only for cellar phone service but also for emerging machine to machine communications including smart grid system. The understanding of mobile network requires the fundamental wireless communication technology, international standardization and radio regulations. In this course, we learn those topics with concrete case studies.
+
+";
+	sylb:method "モバイルネットワークにおけるアプリケーションやサービスを効率的に構築するための無線通信およびネットワークに関する基礎知識を身につけます。特に従来、難しいとされていた無線通信技術に関して、具体的な必然性や、基礎を詳細に解説することで、技術を適切に選択し利用できるレベルに理解することを目標とします。
+
+Fundamentals of mobile networking, particularly in wireless communication related technical issues, standardization and social impacts are explained.
+
+";
+	sylb:schedule "第1回 概説[ Course overview ]
+講義の概要
+
+第2回 デジタル無線通信の基礎１[ Digital communications fundamental I ]
+情報理論の基礎 
+周波数という考え方
+
+第3回 デジタル無線通信の基礎２[ Digital communications fundamental II ]
+情報量
+
+第4回 変復調・帯域幅[ Band width, capacity and signal quality ]
+デジタル信号の無線伝送
+
+第5回 変復調・帯域幅[ Modulation and Demodulation ]
+Hartley-Shannonの定理、いろいろな変復調
+
+第6回 電波はどう伝わるか[ Wireless Propagation ]
+第7回 デジタル信号処理[ Digital Signal Processing I ]
+第8回 デジタル信号処理2[ Digital Signal Processing II ]
+第9回 携帯電話のネットワークの基礎[ Cellular networks ]
+第10回 これまでの復習と演習[ Overview of the first half ]
+第11回 身の回りの無線技術（WiFi)[ Private wireless network ]
+第12回 モバイルの応用（ID情報技術）[ Social application of mobile networking ]
+第13回 電波法令と国際標準化[ Radio regulations and international standardizations ]
+第14回 最終試験[ Final Examination ]
+その他
+* 適宜実施
+";

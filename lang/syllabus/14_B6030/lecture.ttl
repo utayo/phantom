@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "公共政策【１４】"@ja;
+	lect:lecture_id "14_B6030";
+	lect:time "2016年度 春学期 月曜日３時限";
+	lect:teacher "上山　信一";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "公共政策【１４】"@ja;
+	lect:lecture_id "14_B6030";
+	lect:time "2016年度 春学期 金曜日１時限";
+	lect:teacher "金子　光";
+	lect:campas "SFC";
+	lect:course_type "講義";

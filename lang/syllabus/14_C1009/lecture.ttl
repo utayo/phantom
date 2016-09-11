@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "社会保障政策（医療・介護）【１４】"@ja;
+	lect:lecture_id "14_C1009";
+	lect:time "2016年度 春学期 木曜日２時限";
+	lect:teacher "印南　一路";
+	lect:campas "SFC";
+	lect:course_type "講義";

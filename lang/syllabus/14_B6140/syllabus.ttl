@@ -1,0 +1,66 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6140";
+	sylb:summary "本講義では、データベースの基礎となるデータベース理論、データベース言語を習得し、それらの応用として、マルチメディアデータベース、データマインニング、感性データベースを実習を伴って習得するものである。 データベースは、人間の記憶系の構築に対応する機能であり、情報生成，情報蓄積・獲得，情報統合，情報供給などの記憶系のデータ群、機能群を実現する。画像、音楽、文書等のメディア情報群をマルチメディア・データベースとして構成・格納し、それらを操作するための方法について学習する。また、感性データベースの実現方法についても実習する。実際にリレーショナル・データベースシステム(PostGres)およびデータベース言語SQLを利用し、データベースの構築を行い，実世界の情報をデータベースシステムの中に体系的に構成する方法を修得する。また、マルチメディア・データ（画像、音楽、文書など）を対象としたデータベースの構築を行う。
+
+This lecture addresses the basic theory, the design and creation of databases. The most important objective of this lecture is to develop basic knowledge and skills for designing and creating databases with experimental practice. It is essential to study how to analyze, store, retrieve and integrate data in a database system environment. An actual database system((PostGres) and database language SQL are used to create experimental databases and applied it to WWW system environments. We also study and design a multimedia database system amd a data mining system as new database technology.
+
+";
+	sylb:method "　本講義では、データベース研究へのいざない、データベースの基礎となるデータベース理論、データベース言語を習得し、それらの応用として、マルチメディアデータベース、データマインニング、感性データベースを実習を伴って習得する。 　高度情報社会において、画像、音楽、映像、文書などのマルチメディア・データを対象とするデータベースおよびデータベースシステム研究は、新しい情報生成，情報獲得，情報共有，情報編集，情報供給の機会を実現することを目的とするものであり、画像、音楽、映像、文書などを装飾する次世代のデザインを可能とする研究分野としても注目されている。　本講義では，実世界の対象を体系的に構造化して格納し、要求に応じてそれらを効率的に獲得することを目的としたデータベースの構成方法、および、データベース処理を対象とした情報システムであるデータベースシステムの構成・機能を実際のデータベースシステムを用いた実習を伴って修得する。画像、音楽、映像、文書等のメディア情報群をデータベース（マルチメディア・データベース）として構成・格納し、それらのメディア・データ記述および操作を実現するための方法について学習する。また、画像、音楽、映像などのマルチメディア・データを対象とした感性データベースの実際の構築を実習する。
+
+実際に、リレーショナル・データベースシステム(PostGres)およびデータベース言語SQLを利用し、データベースの構築を行う。 それにより，実世界のデータベースシステムの中に体系的に構成する方法を修得する。また、マルチメディア・データ（画像、音楽、文書など）を対象としたデータベースの構築を行う。
+
+具体的には、以下の項目を目標とする。
+
+（１）データベースおよびデータベースシステムの理解 （２）データベース設計・構築方法の修得 （３）マルチメディアデータベース（画像、音楽、文書データベース）構築方法、感性データベースの構築方法の修得・構築方法の修得 （４）データマイニングの概念の理解
+
+This lecture addresses the introduction of "Database World" and design and creation of databases, multimedia databases(image, video, music and text knowledge-bases), and data mining. The most important objective of this lecture is to develop knowledge and skills for designing and creating databases and multimedia systems with experimental practice. It is essential to study how to analyze, store, retrieve and integrate database and media data(image, video, music and text) in a database system environment. An actual database system is used to create experimental databases and applied it to WWW system environments. We also study data mining processes for new knowledge discovery. In the design of databases and database systems, one of the most important issues is how to search and analyze media data (images, music, movies and documents). We study an experimental database system(PostGres) and database-language(SQL). Those methods realize database search and analysis, reflecting user's intentions and visions. We also study basic data-mining methods and systems which are becoming very important in machine-learning and big-data analysis for realizing "Artificial-Intelligence".
+
+";
+	sylb:schedule "第1回 第1回 データベースの概要
+実世界の情報を対象とし、その情報をデータベースに格納・操作するための基本的な考え方について解説する。また、インターネット上で、仮想的な感性情報美術館を実現するマルチメディア・データベースシステムの実現例を紹介する。
+
+第2回 データベースの基礎とデータモデル
+データモデルの概念について述べ、さらに、データベースの構成方法について解説する。ここでは、標準的なリレーショナル・データベース操作言語であるSQLについて解説し、データベース検索方法を実習する。
+
+第3回 データベース構築（１）
+実際にデータベースを構築する方法、要求に応じた情報を獲得するためのデータベース操作方法について述べる。 リレーショナル・データベースシステム(PostGres)およびSQLを利用し、データベース構築を実習する。
+
+第4回 データベース構築（２）
+実際の汎用データベースシステムを用いて、SQLによりデータベース構築、データベース操作を行なう方法について解説する。第１回のレポートの課題について説明する。リレーショナル・データベースシステム(PostGres)およびSQLを利用し、データベースの構築を実習する。
+
+第5回 データベース設計理論
+リレーショナル・データベース設計における基本的な理論である従属性、正規化理論について解説する。
+
+第6回 データベースの設計
+いくつかの既存のデータベースを紹介し、それらを参考としてデータベースの設計対象を検討する。 具体的なデータベースの構造、および、属性を設計する。
+
+第7回 マルチメディア・データベース
+画像、映像、音楽などのメディア・データを対象とするマルチメディアデータベースの構成方法について解説する。
+
+第8回 マルチメディア・データベースの構築
+いくつかの代表的な既存のマルチメディア・データベースを紹介し、それらを参考としてデータベースの設計対象を検討する。実際にマルチメディア・データベース設計を実習する。第２回のレポートの課題について解説する。
+
+第9回 感性データベース（１）
+マルチメディアデータ群を集めたデータベースを対象として、人間の感性とそれらのデータ群の間の関連性の計量により、人間が与える感性表現に対応するメディア・データの検索を実現する感性データベースについて解説する。
+
+第10回 感性データベース（２）
+マルチメディアを対象とした感性データベース・システムの検索機構を構成する場合には、現在までのデータベースシステムのデータ検索機構として広く用いられている文字列あるいは数値を対象とした検索だけでなく、与えられた感性表現とメディア・データ群の間の感性的な（あるいは、意味的な）同一性、関連性を計算する検索機能が必要となる。ここでは、 画像データ、音楽データを対象とした感性データベースの構築方法について解説する。実際に、画像、音楽、映像などを対象とした感性データベース設計を実習する。
+
+第11回 データマイニング
+データベースシステムにおける重要な操作であるルール獲得の基本概念について述べ、大量情報の中からそこに内在する知識あるいはルール群を動的に獲得するための方式として注目されているデータマイニングの概念について解説する。
+
+第12回 マルチメディアデータベースの応用I
+データベース検索、意味的データベース検索などの新しいデータベース検索を実現するデータベースシステムの研究動向について解説し、マルチメディアデータベースの人工知能研究、ビッグデータ分析分野への応用、装飾デザインへの応用について解説する。
+
+第13回 マルチメディアデータベースの応用II
+マルチメディアデータベースの人工知能研究、ビッグデータ分析分野への応用による環境分野、生命科学分野、装飾デザインへ分野などへの応用について解説する
+
+第14回 基本知識のまとめ
+本講義全体について復習し、基礎的な項目の知識を確認する。
+
+その他
+本講義全体について復習し、基礎的な項目の知識を確認する。
+
+";

@@ -1,0 +1,102 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1085";
+	sylb:summary "本科目では、インベストメント（証券投資）とコーポレートファイナンス（企業 ファイナンス）という２つの分野を概観しながら、資本市場に関する理解を深め、 ファイナンスに関する基礎理論（オプション理論を含む）を習得し、実践力、応用力を身に付けることを目的とします。本授業の受講者は、ファイナンスの基本的な考え方を体得し、実践力が身に付くようになります。
+
+In this class, students will learn　investments, corporate finance and basic theory of finance. They will be able to learn practical skill.
+
+";
+	sylb:method "本科目では、インベストメントとコーポレートファイナンスという２つの分野を概観しながら、資本市場に関する理解を深め、 ファイナンスに関する基礎理論を習得し、実践力、応用力を身に付けることを目 的とします。 具体的には、ファイナンス理論の進化の歴史を振り返りながら、 投資理論や企業財務戦略の考え方について平易に解説を講義形式で行う予定です。理解を深めるために、実証分析の結果の紹介やPCを使った演習課題も宿題として課します。 なお、数式の展開や理論の解説は必要最小限に留め、解説を行う場合でも、できるだけ分かり易く行う予定です。授業はこちらでレジメを用意し、事前に配布し ます。
+
+In this class, students will learn investments, corporate finance and basic theory of finance. More precisely, looking back at the evolution of finance theory, they will learn basic finance theory and practical Applications.　Regimen will be provided　and distributed in advance.
+
+";
+	sylb:schedule "第1回 イントロダクション[ Introduction ]
+1)イントロダクション 
+2)ファイナンス論概要 
+3)ファイナンスの基本用語
+
+1) Introduction 2) Finance Theory 3) Basic terms of finance
+第2回 ファイナンスの基礎概念[ Basic concepts of finance ]
+1)現在価値と将来価値 
+2)金利と割引率、リターンとリスク 
+3)内部収益率
+
+1) Present value and future value 2) Interest rate and discount rate, return and risk 3) Internal rate of return
+第3回 CFディスカウント法[ CF discount method ]
+1)CFディスカウント法とは 
+2)代表的なDDM 
+3)CFディスカウント法による企業価値評価
+
+1) CF discount method 2) DDM 3) Evaluation of firm value by CF discount method
+第4回 MVアプローチ [ MV approach ]
+1)MVアプローチの考え方 
+2)2資産での最適資産配分 
+3)N資産での最適資産配分
+
+1) The concept of MV approach　 2) Asset allocation in two assets 3) Asset allocation in N-assets
+第5回 資産価格評価モデル（CAPM） と裁定価格理論（APT）[ CAPM and APT ]
+1)MVアプローチの限界 
+2)CAPMの考え方 
+3)APTの考え方
+
+1) Limit of MV approach 2) CAPM 3) APT
+第6回 オプション理論[ Option theory ]
+1)オプションとは 
+2)オプション価値評価の基本 
+3)BS式導出の考え方
+
+1) Option 2) Valuation of Option 3) Derivation of BS equation
+第7回 まとめとミニテスト（１）[ review and small test(1) ]
+1)前半まとめ 
+2)ミニテスト（１） 
+3)ミニテスト（１）解説
+
+1) Review 2) Small test(1) 3) Small test(1)
+第8回 最適資産配分とオルタナティブ投資 [ Asset allocation and alternavite investment ]
+1)最適資産配分戦略の考え方 
+2)最適資産配分の理論的フレームワーク 
+3)代表的なオルタナティブ投資の概要
+
+1) Asset allocation strategy 2) Theoretical framework of Asset allocation 3) Alternavite investment
+第9回 株式投資戦略 [ Equity investment strategy ]
+1)株式の価格変動要因 
+2)株式価値算出の実際 
+3)株式投資戦略
+
+1) Factors affecting stock price 2) Practical method of estimating stock price 3) Equity investment strategy
+第10回 債券投資戦略 [ Bond investment strategy ]
+1)債券の価格変動 
+2)債券価格導出の実際 
+3)金利の期間構造
+
+1) Factors affecting bond price 2) Practical method of estimating bond price 3) Term　structure　of interest rates
+第11回 株式リスクプレミアムと資本コスト [ Equity risk premium and cost of capital ]
+1)株式リスクプレミアムの推定 
+2)資本コストとは 
+3)資本コスト推定の実際
+
+1) Estimation of equity risk premium 2) Cost of capital 3) The actual capital cost estimation
+第12回 投資案件判断指標 [ Typical investment decision indicators ]
+1)代表的な投資判断指標 
+2)IRR 
+3)NPV
+
+1) Typical investment decision indicators 2) IRR 3) NPV
+第13回 MM理論 [ MM Theory ]
+1)MM理論の概要 
+2)配当理論 
+3)MM理論の前提条件
+
+1) Overview of MM Theory 2) Dividend theory 3) Premise Conditions of MM Theory
+第14回 まとめとミニテスト（２）[ review and small test(2) ]
+1)後半まとめ 
+2)ミニテスト（２） 
+3)ミニテスト（２）解説
+
+1) Review 2) Small test(2) 3) Small test(2)
+その他
+レポート
+
+Report";

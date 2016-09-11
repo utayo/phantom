@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "寄附講座「情報システムと社会」【１４】"@ja;
+	lect:lecture_id "14_X1025";
+	lect:time "2016年度 春学期 水曜日１時限";
+	lect:teacher "宮入　寛太郎";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";

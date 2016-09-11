@@ -1,0 +1,243 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 春学期 金曜日１時限,金曜日２時限";
+	lect:teacher "大前　学";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 春学期 月曜日３時限,月曜日４時限";
+	lect:teacher "中澤　仁";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 春学期 火曜日４時限,火曜日５時限";
+	lect:teacher "斎藤　俊則";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 春学期 木曜日１時限,木曜日２時限";
+	lect:teacher "清水　智公";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 春学期 水曜日４時限,水曜日５時限";
+	lect:teacher "タムリン，　アフマド フスニ、マクスディ，　ウチュウ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2014-9/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 水曜日４時限,水曜日５時限";
+	lect:teacher "樋口　文人";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 火曜日４時限,火曜日５時限";
+	lect:teacher "秋山　優";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 月曜日４時限,月曜日５時限";
+	lect:teacher "秋山　優";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 月曜日４時限,月曜日５時限";
+	lect:teacher "鈴木　茂哉";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 水曜日１時限,水曜日２時限";
+	lect:teacher "玉川　直世";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 金曜日４時限,金曜日５時限";
+	lect:teacher "杉浦　学";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 水曜日１時限,水曜日２時限";
+	lect:teacher "中村　太戯留";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 水曜日４時限,水曜日５時限";
+	lect:teacher "中村　太戯留";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 火曜日４時限,火曜日５時限";
+	lect:teacher "大越　匡";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 木曜日４時限,木曜日５時限";
+	lect:teacher "大平　哲史";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 金曜日１時限,金曜日２時限";
+	lect:teacher "池辺　正典";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 水曜日４時限,水曜日５時限";
+	lect:teacher "西　佑介、小崎　信明";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 金曜日１時限,金曜日２時限";
+	lect:teacher "栗原　聡";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 木曜日４時限,木曜日５時限";
+	lect:teacher "佐藤　雅明";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 木曜日１時限,木曜日２時限";
+	lect:teacher "清水　智公";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 金曜日４時限,金曜日５時限";
+	lect:teacher "渡部　陽仁";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 金曜日４時限,金曜日５時限";
+	lect:teacher "橋本　尚久";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 水曜日４時限,水曜日５時限";
+	lect:teacher "榊原　寛";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 金曜日１時限,金曜日２時限";
+	lect:teacher "赤坂　亮太";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 火曜日１時限,火曜日２時限";
+	lect:teacher "佐藤　友紀";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 火曜日４時限,火曜日５時限";
+	lect:teacher "小島　清信";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 木曜日４時限,木曜日５時限";
+	lect:teacher "奈良　泰弘、山本　浩之";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 木曜日１時限,木曜日２時限";
+	lect:teacher "楠本　博之";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 月曜日４時限,月曜日５時限";
+	lect:teacher "宇田川　誠";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎２【１４】"@ja;
+	lect:lecture_id "14_B4002";
+	lect:time "2016年度 秋学期 火曜日１時限,火曜日２時限";
+	lect:teacher "植原　啓介";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://ipl.sfc.keio.ac.jp/text/info2-2015-4/";

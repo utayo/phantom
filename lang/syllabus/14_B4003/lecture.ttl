@@ -1,0 +1,18 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "システムプログラミング基礎(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B4003";
+	lect:time "2016年度 春学期 木曜日１時限";
+	lect:teacher "楠本　博之";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://web.sfc.keio.ac.jp/~kusumoto/syspro/";
+<http://example.com/lecture#1>
+	lect:name "システムプログラミング基礎(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B4003";
+	lect:time "2016年度 秋学期 月曜日１時限";
+	lect:teacher "三次　仁";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

@@ -1,0 +1,93 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1101";
+	sylb:summary "この講義は現代中国の政治と外交の理解を目的としています。
+
+30年来の経済成長にともなう中国の国力の増大は、東アジア地域における力（パワー）の分布に変化をもたらし、この時域の国際秩序に大きな影響を与えています。こうした中国をめぐっては、「トゥキュディデスの罠を克服できるのか」という問いが提起されています。「アテネの台頭とそのことに対するスパルタの警戒が戦争を不可避とした」というトゥキュディデスの洞察は、中国にも当てはまるのか。新興国家中国は、既存の国際秩序を構築してきた米国に対してどのように向き合うのでしょうか。
+
+中国をめぐる今ひとつの興味深い問いは、「リプセット仮説は破綻したのか」です。人類の経験則によれば、経済成長すると社会は多元化し、多元化した社会は多元的な政治を要求します。つまり「リプセット仮説」によれば、「豊かな権威主義国家」は長生きしないはずです。しかし中国という「豊かな権威主義国家」は存在し、それは私たちが当初予想していたよりも長く生命力を維持しています。中国共産党による一党体制の生命力の起源が問われています。
+
+本講義は、こうした中国をめぐるいくつかの疑問を理解するための手掛かりを得ることを目的としています。とくに本講義は、比較政治学の知見を利用して中国の政治体制の理解を試みます。
+
+";
+	sylb:method "この講義は現代中国の政治と外交の理解を目的としています。
+
+30年来の経済成長にともなう中国の国力の増大は、東アジア地域における力（パワー）の分布に変化をもたらし、この時域の国際秩序に大きな影響を与えています。こうした中国をめぐっては、「トゥキュディデスの罠を克服できるのか」という問いが提起されています。「アテネの台頭とそのことに対するスパルタの警戒が戦争を不可避とした」というトゥキュディデスの洞察は、中国にも当てはまるのか。新興国家中国は、既存の国際秩序を構築してきた米国に対してどのように向き合うのでしょうか。
+
+中国をめぐる今ひとつの興味深い問いは、「リプセット仮説は破綻したのか」です。人類の経験則によれば、経済成長すると社会は多元化し、多元化した社会は多元的な政治を要求します。つまり「リプセット仮説」によれば、「豊かな権威主義国家」は長生きしないはずです。しかし中国という「豊かな権威主義国家」は存在し、それは私たちが当初予想していたよりも長く生命力を維持しています。中国共産党による一党体制の生命力の起源が問われています。
+
+本講義は、こうした中国をめぐるいくつかの疑問を理解するための手掛かりを得ることを目的としています。とくに本講義は、比較政治学の知見を利用して中国の政治体制の理解を試みます。
+
+";
+	sylb:schedule "第1回 中国をめぐる二つの問い：トゥキュディデスの罠とリプセット仮説
+第2回 どのように統治しているのか：中華人民共和国憲法を読む。
+第3回 追い込まれた中国共産党？中国の台頭はつづく？
+第4回 追い込まれた中国共産党？中国の台頭はつづく？
+第5回 なぜ中国共産党を選んだのか：中華民族の復興のための選択
+第6回 なぜ中国共産党を選んだのか：中国共産党と中国国民党
+第7回 なぜ社会主義の道なのか：旧民主主義から新民主主義へ
+第8回 大躍進から文化大革命へ
+第9回 改革開放への道
+第10回 中国共産党の生き残り戦略：包摂と強制
+第11回 社会的爆発は不可避か？：点から線、線から面への展開
+第12回 中国共産党の物語：愛国主義とナショナリズム
+第13回 トゥキュディデスの罠を克服できるのか
+第14回 豊かな権威主義国家中国のゆくえ
+その他
+文献の探し方やレポートの作成のかたちを講義します。
+
+";
+	lect:lecture_id"14_C1101";
+	sylb:summary "This class aims for enhancing the understanding of contemporary international political economy, security and society mainly in East Asia through examining theories, policy frameworks and practices. All sessions are conducted in English.
+
+”Region” could be defined in various terms. In international relations, it generally indicates the multilateral groupings of neighboring nations. However, when it comes to the term regionalism, it rather suggests a functional relation that bundles multiple nations with their political, economic and cultural inheritance, often based on the geographical advantages. Region could be formed either inherently or arbitrary. Thus, the "Region/Regionalism" is a dynamic concept of geopolitics/economics, which rests between the global governance and the bilateral rational choice of the government. This course specifically focuses on following agendas: 1)theory and practices of regionalism in East Asia, 2)security in Asia-Pacific region, 3)Japan’s foreign policy on regionalism.
+
+本科目はGIGA科目として英語で開講されます
+
+";
+	sylb:method "This class aims for enhancing the understanding of contemporary international politics, security and society mainly in Northeast Asia through examining theories, policy frameworks and practices. All sessions are conducted in English.
+
+”Region” could be defined in various terms. In international relations, it generally indicates the multilateral groupings of neighboring nations. However, when it comes to the term regionalism, it rather suggests a functional relation that bundles multiple nations with their political, economic and cultural inheritance, often based on the geographical advantages. Region could be formed either inherently or arbitrary. Thus, the "Region/Regionalism" is a dynamic concept of geopolitics/economics, which rests between the global governance and the bilateral rational choice of the government. This course specifically focuses on following agendas: 1)theory and practices of regionalism in East Asia, 2)security in Asia-Pacific region, 3)Japan’s foreign policy on regionalism.
+
+Learning Assessments and Course Objectives
+
+Understanding and evaluating the dynamics of international security and political-economy of Northeast Asia, Southeast Asia and Asia-Pacific region.
+
+Understanding the major theoretical traditions, developments and application to the international relation in Asia.
+
+Identifying and analyzing the contemporary policy agenda, major security, economic and societal challenge in Asia.
+
+Grasping the grand-debates in major foreign policy journals: Foreign Affairs, Washington Quarterly, Foreign Policy, Survival, International Affairs, International Security, Pacific Affairs, Asian Survey…etc.
+
+";
+	sylb:schedule "第1回 Introduction: Course Description and Orientation
+What is the definition of "Region" and "Regionalism"? How are they different from common understanding of geographical divide? 
+第2回 Regionalism and Reginalization in Asia
+Classic theory of regionalism can be found in Bella Ballasa's progressive approach. How much is it relevant in today's world? What is the "Third Wave of Regionalism" (Jagdish Bhagwati and Yoshinobu Yamamoto)? 
+第3回 Economic Dimension of Regionalism (Trade and Investment)
+Defacto regionalism driven by business and production networks VS. Dejure regionalism driven by FTAs, EPAs and multilateral trade frameworks. 
+第4回 Political Dimension of Regionalism (Democracy and Democratic Transision)
+Why democracy is falling back? It is often said that economic growth and democratization go in tandem (eg. Lipset hypothesis). In past 20 years, this seems to be false promise. What is happening to democracy?
+
+第5回 Security Dimension of Regionalism (Regional Security Dynamics)
+Obama administration called for "rebalance" to Asia-Pacific region. Rise of China is also challenging traditional formula of stability in the region. Is US-China grand bargain on security possible, or do we expect long-term competition?
+
+第6回 East Asian Community?: Political Process of East Asia Summit
+"East Asian Community" was key concept for East Asian regionalism in 1990s. It attracted people's attention but gradually faded away. Why East Asia could not realize community concept? What is the emerging alternative concept in the region?
+
+第7回 Social Dimension of Regionalism I (Movement of People in East Asia)
+Peoples' movement is mainly driven by the disparity of wealth. However, immigration and foreign workers are opportunities and challenges. What are push/pull factors for movement of people?
+
+第8回 Asia in 21st Century (Power Shift and Power Transition)
+What is the mid- and long-term trends of power shift in Asia? Many IR scholars refereed to "Thucydides Trap" as warning to frame US-China rivalry as recurrence of history between Hegemon and Challenger. What is the reality?
+
+第9回 Discussion Series I: Territorial Issues
+第10回 No Class (due to the administrative duty)
+第11回 Social Dimension of Regionalism II (Pop-Culture and Contents Industry)
+第12回 Discussion Series II: History Issues
+第13回 Japan and Asia I
+第14回 Japan and Asia II
+その他
+* Supplementary Class (if needed)
+";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "企業法（ベンチャー関連法）【１４】"@ja;
+	lect:lecture_id "14_C1059";
+	lect:time "2016年度 春学期 月曜日５時限";
+	lect:teacher "山本　龍太朗";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";

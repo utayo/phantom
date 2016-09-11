@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "文化論（中国語圏）【１４】"@ja;
+	lect:lecture_id "14_C1136";
+	lect:time "2016年度 春学期 火曜日４時限";
+	lect:teacher "廉　舒";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "文化論（中国語圏）【１４】"@ja;
+	lect:lecture_id "14_C1136";
+	lect:time "2016年度 春学期 火曜日４時限";
+	lect:teacher "廉　舒";
+	lect:campas "SFC";
+	lect:course_type "講義";

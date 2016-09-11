@@ -1,0 +1,50 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1035";
+	sylb:summary "This course covers organizations other than corporate entities, namely governmental and not-for-profit entities. Recently stake holders of these entities demand detailed accounting reports and management use various accounting information for planning and control. This course emphasizes the accounting principles and reporting requirements for government units and not-for-profit organizations. Topics include the accounting cycle, budgeting and fund accounting, accounting functions, performance evaluation and accounting for central and local governments, hospitals, universities, foundations and for small NPOs.
+
+";
+	sylb:method "Accounting does not exist only for corporate entities but not-for-profit organizations in the private sector. Also we need to know about Japan's governmental financial position related with high debt rate to GDP.
+
+　 This course is presented in two parts. Part one covers the public sector including central and local governments. Students identify and understand the nature and issues of governmental accounting information based on the public finance system. Also we observe, analyze and discuss the corporate accounting approach introduced in the public sector financial reporting recently. Part two examines not-for-profit organizations such as hospitals, educational corporations, foundations and small NPOs. We focus on the accounting functions, contents of accounting standards, decision making process and corporate governance of these private nonprofits. 　This course does not intend to learn how to make accounting data. But it is not easy to understand accounting structures without knowledge of definition of accounting terminology and concepts of accounting. Students who will register this course have already learned basic accounting principles. Management accounting and corporate accounting are strongly recommended prerequisite courses. Students are required to attend class and are strongly encouraged to take an active part in class discussions.
+
+";
+	sylb:schedule "第1回 Corporate accounting; Analysis of financial statements
+structure of financial statements,reporting entity, concepts and functions of income statements, accounting information system
+
+第2回 Public finance in Japan and governmental accounting framework
+characteristics of public finance, accounting functions in public finance, Two types of government activities
+
+第3回 Reform of local government accounting
+scope of local government activities, reporting unit and fund accounting, balance sheet, administrative costs, administrative evaluation and accounting information 
+第4回 Accounting for independent administrative agencies
+concepts of independent administrative agencies, accounting functions and standards, meaning of income in the accounting standards
+
+第5回 Government financial position and role of accounting information
+necessity and making process of balance sheet, assets qualification and basis of evaluation, how to recognize pension debt, multidimensional financial reporting 
+第6回 Financial reporting by ministries
+nature of special accounts, accounts system, accounting information and decision making, accounting unit and reporting entity 
+第7回 Governmental accounting for policy evaluation
+accounting functions in the public sector, structure for management controls, accounting basis for accountability, relation between information user and decision making 
+第8回 Hospital accounting
+hospital as an accounting unit, utilization for policy making, financial statements and accounting information 
+第9回 Accounting for educational entities and policy making 
+financial status of educational corporations, objectives and structure of accounting standards, comparison between private and public corporations
+
+第10回 Accounting for public benefit corporations
+nature of public benefit corporations, government control and accounting information, budgeting and accounting, exercise of governance
+
+第11回 Accounting for small NPOs
+accounting objectives of NPOs, relationship between accounting and tax accounting, voluntary disclosure, integral use of financial and non-financial data 
+第12回 Accounting functions and public benefits
+organization objectives and functions of accouting informaiton, relationship between financial reporting and budgeting, role of an annual report 
+第13回 Unification of accounting standards for nonprofit organizations
+using financial information for decision making, nature of net assets, relationship between resource flow information and stock information
+
+第14回 Nature of nonprofits and accounting functions
+nature of public sector accounting and expectations for accounting, relationship between profitability and accounting
+
+その他
+review of the course; Functions and limits of accounting information
+";

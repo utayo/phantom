@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "フランス語海外研修Ｂ【１４】"@ja;
+	lect:lecture_id "14_B2622";
+	lect:time "2016年度 春学期";
+	lect:teacher "堀　茂樹、國枝　孝弘、宮代　康丈、ルロワ，　パトリス";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語海外研修Ｂ【１４】"@ja;
+	lect:lecture_id "14_B2622";
+	lect:time "2016年度 秋学期";
+	lect:teacher "堀　茂樹、國枝　孝弘、宮代　康丈、ルロワ，　パトリス";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

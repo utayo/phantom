@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "日本の行政機構【１４】"@ja;
+	lect:lecture_id "14_B6163";
+	lect:time "2016年度 春学期 火曜日３時限";
+	lect:teacher "松井　孝治";
+	lect:campas "SFC";
+	lect:course_type "講義";

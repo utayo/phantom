@@ -1,0 +1,58 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "アラビア語スキル【１４】"@ja;
+	lect:lecture_id "14_B2371";
+	lect:time "2016年度 春学期 水曜日４時限";
+	lect:teacher "アルマンスール，　アフマド";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "アラビア語スキル【１４】"@ja;
+	lect:lecture_id "14_B2371";
+	lect:time "2016年度 春学期 火曜日６時限";
+	lect:teacher "植村　さおり";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "アラビア語スキル【１４】"@ja;
+	lect:lecture_id "14_B2371";
+	lect:time "2016年度 春学期 火曜日４時限";
+	lect:teacher "奥田　敦、植村　さおり";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "アラビア語スキル【１４】"@ja;
+	lect:lecture_id "14_B2371";
+	lect:time "2016年度 春学期 火曜日５時限";
+	lect:teacher "奥田　敦、植村　さおり";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "アラビア語スキル【１４】"@ja;
+	lect:lecture_id "14_B2371";
+	lect:time "2016年度 秋学期 水曜日４時限";
+	lect:teacher "アルマンスール，　アフマド";
+	lect:campas "SFC";
+<http://example.com/lecture#1>
+	lect:name "アラビア語スキル【１４】"@ja;
+	lect:lecture_id "14_B2371";
+	lect:time "2016年度 秋学期 火曜日６時限";
+	lect:teacher "植村　さおり";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "アラビア語スキル【１４】"@ja;
+	lect:lecture_id "14_B2371";
+	lect:time "2016年度 秋学期 火曜日４時限";
+	lect:teacher "奥田　敦、ジャームース　ラーウィヤ";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "アラビア語スキル【１４】"@ja;
+	lect:lecture_id "14_B2371";
+	lect:time "2016年度 秋学期 火曜日５時限";
+	lect:teacher "奥田　敦、ジャームース　ラーウィヤ";
+	lect:campas "SFC";
+	lect:course_type "講義";

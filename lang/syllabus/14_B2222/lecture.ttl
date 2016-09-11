@@ -1,0 +1,38 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ２FA【１４】"@ja;
+	lect:lecture_id "14_B2222";
+	lect:time "2016年度 春学期 火曜日２時限,水曜日２時限,木曜日１時限,金曜日２時限";
+	lect:teacher "ルロワ，　パトリス、塩田　明子、野澤　督、ヴェスィエール，　ジョルジュ";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ２FB【１４】"@ja;
+	lect:lecture_id "14_B2222";
+	lect:time "2016年度 春学期 火曜日１時限,水曜日２時限,木曜日１時限,金曜日２時限";
+	lect:teacher "宮代　康丈、井上　美穂、オブリ，　フロリアン、デュレンベルジェ　ヴァンサン";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ２FA【１４】"@ja;
+	lect:lecture_id "14_B2222";
+	lect:time "2016年度 秋学期 火曜日１時限,水曜日１時限,木曜日２時限,金曜日２時限";
+	lect:teacher "井上　美穂、岡見　さえ、オブリ，　フロリアン、マレシャル，　ベアトリス";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ２FB【１４】"@ja;
+	lect:lecture_id "14_B2222";
+	lect:time "2016年度 秋学期 火曜日２時限,水曜日１時限,木曜日１時限,金曜日２時限";
+	lect:teacher "井上　美穂、國枝　孝弘、オブリ，　フロリアン、デュレンベルジェ　ヴァンサン";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ２FC【１４】"@ja;
+	lect:lecture_id "14_B2222";
+	lect:time "2016年度 秋学期 火曜日２時限,水曜日２時限,木曜日１時限,金曜日２時限";
+	lect:teacher "ルロワ，　パトリス、塩田　明子、野澤　督、ヴィアート，　クロエ";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

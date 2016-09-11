@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "民法（財産法）【１４】"@ja;
+	lect:lecture_id "14_C1056";
+	lect:time "2016年度 秋学期 月曜日２時限";
+	lect:teacher "塩澤　一洋";
+	lect:campas "SFC";
+	lect:course_type "講義";

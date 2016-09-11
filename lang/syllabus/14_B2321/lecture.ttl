@@ -1,0 +1,106 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(Lire et resumer)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 春学期 金曜日３時限";
+	lect:teacher "堀　茂樹";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(グローバル・スキル)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 春学期 水曜日２時限";
+	lect:teacher "倉舘　健一";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(原典講読)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 春学期 火曜日２時限";
+	lect:teacher "宮代　康丈";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(口語翻訳演習)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 春学期 金曜日３時限";
+	lect:teacher "北村　亜矢子";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(専門表現のフランス語)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 春学期 木曜日４時限";
+	lect:teacher "ルロワ，　パトリス";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(専門表現のフランス語)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 春学期 金曜日４時限";
+	lect:teacher "ヴェスィエール，　ジョルジュ";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(文法)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 春学期 木曜日３時限";
+	lect:teacher "山根　祐佳";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(Lire et resumer)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "堀　茂樹";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(フランス語と市民性)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 秋学期 水曜日２時限";
+	lect:teacher "倉舘　健一";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(原典講読)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 秋学期 火曜日２時限";
+	lect:teacher "宮代　康丈";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+	lect:homepage "http://french.sfc.keio.ac.jp/home/classes/skill/";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(口語翻訳演習)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "北村　亜矢子";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+	lect:homepage "http://french.sfc.keio.ac.jp/home/classes/skill/";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(専門表現のフランス語)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 秋学期 木曜日４時限";
+	lect:teacher "ルロワ，　パトリス";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+	lect:homepage "http://french.sfc.keio.ac.jp/home/classes/skill/";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(専門表現のフランス語)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 秋学期 金曜日４時限";
+	lect:teacher "ヴェスィエール，　ジョルジュ";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+	lect:homepage "http://french.sfc.keio.ac.jp/home/classes/skill/";
+<http://example.com/lecture#1>
+	lect:name "フランス語スキル(文法)【１４】"@ja;
+	lect:lecture_id "14_B2321";
+	lect:time "2016年度 秋学期 木曜日４時限";
+	lect:teacher "塩田　明子";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+	lect:homepage "http://french.sfc.keio.ac.jp/home/classes/skill/";

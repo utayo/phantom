@@ -1,0 +1,19 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ドイツ語インテンシブ３GA【１４】"@ja;
+	lect:lecture_id "14_B2213";
+	lect:time "2016年度 春学期 月曜日２時限,火曜日１時限,水曜日２時限,金曜日１時限";
+	lect:teacher "シュレンドルフ，　レオポルト、グラースミュック，　マルクス、ホイサーマン，　ペーター、ヴィッツシュトック，　ユルゲン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://deutsch.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "ドイツ語インテンシブ３GA【１４】"@ja;
+	lect:lecture_id "14_B2213";
+	lect:time "2016年度 秋学期 月曜日１時限,火曜日２時限,水曜日２時限,金曜日２時限";
+	lect:teacher "シュレンドルフ，　レオポルト、赤松　エンリコ、グラースミュック，　マルクス、ホイサーマン，　ペーター";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://deutsch.sfc.keio.ac.jp/";

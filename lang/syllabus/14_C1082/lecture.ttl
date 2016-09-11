@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "経済分析演習【１４】"@ja;
+	lect:lecture_id "14_C1082";
+	lect:time "2016年度 春学期 月曜日２時限";
+	lect:teacher "小澤　太郎";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "経済分析演習【学期後半】（GIGA/GG）【１４】"@ja;
+	lect:lecture_id "14_C1082";
+	lect:time "2016年度 秋学期 火曜日５時限,木曜日５時限";
+	lect:teacher "和田　龍磨";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

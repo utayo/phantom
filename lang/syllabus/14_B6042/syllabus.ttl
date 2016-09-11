@@ -1,0 +1,134 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6042";
+	sylb:summary "Spatial thinking is based on a constructive amalgam of three elements: concepts of space, tools of representation, and processes of reasoning. It depends on understanding the meaning of space and using the properties of space as a vehicle for structuring problems, for finding answers, and for expressing solutions. To think spatially entails knowing about
+
+(1) space,
+
+(2) representation,
+
+(3) reasoning; and
+
+(4) making decisions with spatial understandings.
+
+The goal of this course will learn various principles of spatial thinking for students to
+
+(1) think in the habit of mind of thinking spatially,
+
+(2) act in a spatially informed way, and
+
+(3) adopt a critical stance to spatial thinking for their own study and research project.
+
+空間的発想は空間概念、表現手法、推理過程から構成される集合体である。それは問題発見、問題解決のために空間の意味を理解し、空間の特性を客観的に捉えることによって生まれるものである。空間概念に関しては正しく距離を理解すること、表現手法に関しては空間的視点の間の関係を捉えること、空間推論に関しては空間オブジェクト間の関係を記述し意思決定を行うことが含まれる。この授業は空間的発想に関する代表的概念の学習と演習を通して、学生が
+
+1)空間的に物事を捉える習慣を身につけ、
+
+2)空間的行動力、
+
+3)空間的意思決定力を身につけること
+
+を目的とする。
+
+";
+	sylb:method "Spatial thinking is based on a constructive amalgam of three elements: concepts of space, tools of representation, and processes of reasoning. It depends on understanding the meaning of space and using the properties of space as a vehicle for structuring problems, for finding answers, and for expressing solutions. To think spatially entails knowing about
+
+(1) space,
+
+(2) representation,
+
+(3) reasoning; and
+
+(4) making decisions with spatial understandings.
+
+The goal of this course will learn various principles of spatial thinking for students to
+
+(1) think in the habit of mind of thinking spatially,
+
+(2) act in a spatially informed way, and
+
+(3) adopt a critical stance to spatial thinking for their own study and research project.
+
+我々の生活空間から世界規模までかつて起こったこと、いま起こっていること、今後起こりうることを、空間・時間・情報の視点から考察し、空間的指向能力を身につけます。それによって環境、ビジネス、社会の様々なの問題を発見し、その本質をよりよく理解することができます。また空間的発想力を養うことによって新しい研究とビジネスのひらめきを触発する機会が増えます。この授業は空間と情報に関する重要な概念の学習と演習を通して、 学生が
+
+1)空間的に物事を捉える習慣を身につけ、
+
+2)空間的行動力、
+
+3)空間的意思決定力を身につけることを目的とする。
+
+";
+	sylb:schedule "第1回 Understanding Our Living Space
+We use Google Earth as a tool in this introduction for understanding geographic space and its important elements. Google Earth is also considered as a platform to organize information and medium of communication. 
+The first part of the course will learn the basic concept of spatial primitives of point, line, polygon. The second part of the course will do small project by group to explore the possible applications of spatial information.
+
+第2回 Definition of a point
+Mathematical definition 
+Point in a plane space 
+Point in a 3D space 
+Point on a spheric space 
+point on the earth surface 
+Geo-Informationall definition
+
+第3回 Power of points
+The collective power of points 
+Connections 
+Patterns 
+Hotspots
+
+第4回 Definition of a line
+Straight line in mathematics/Line segment 
+Ray/Vector 
+Curved line/Arc 
+Geo-informational Definiton
+
+第5回 Power of lines- Part 1: Positioning your position
+Positioning Your Position: 
+There are many ways to locate one’s location. How many ways you can think about and which is the fastest, the cheapest, and the most popular? How to convert them each other? Please find your ideas and think about the mechanism and opportunities of the positioning technology. 
+
+Exercise.1 Measuring Positions: 
+Measuring positions by GPS and online tools. Comparing the accuracy of your measurement.
+
+第6回 Power of lines- Part 2: Distance and Accessibility
+Distance is the most popular metrics of space, and accessibility is the other side of the coin. We will learn the way to measure distance in geometric space and the method to attach the measurement to geometric features. What does distance mean for you? How does it impact on your decisions?
+
+第7回 Exercise: Mapping urban living environment spatially
+1) Trace the points, lines, and areas of a study area 
+2) Interpret spatial patterns of point objects, line objects and polygon objects 
+3) Understand the geographic settings of the environment 
+4) Discuss the theories behind the maps. 
+5) Explore your idea to apply the knowledge of spatial thinking.
+
+第8回 Area Marketing (guest Speaker: Dr. Hiroaki Sengoku)
+Area is a measurement of the primitive of polygon. How to measure area simply or mathematically? We will learn the simplest way and the accurate way by different digital data model. 
+
+Exercise.2 Mapping the Spaces and Facilities of Your Surrounding 
+Mapping your surroundings and finding the spatial characteristics.
+
+第9回 Definition of area
+Area as a territory 
+Area as a habitat 
+Area as a homogeneous field 
+Area as a polygon
+
+第10回 Structured Area: Central Place Theory
+What does area means? A territory? German geographer Walter Christaller, who asserted that settlements simply functioned as 'central places' providing services to surrounding areas.
+
+第11回 Virtual Area: Spatial Equity and Inequity
+Ecological Footprint provides an accounting tool to measure the resources we need to support our daily life by area. It is useful to drive informed policy decisions in a resource-constrained world. We will learn how it works and how to interpret the indicator. 
+
+Exercise.3 Calculate Your Ecological Footprint 
+Calculate your own and your family’s ecological footprint, and discuss the massage of the indicator for sustainable development.
+
+第12回 Spatial similarity: First Law of Geography, 
+"Everything is related to everything else, but near things are more related than distant things." This is the first law of geography according to Waldo Tobler. What are the mechanisms behind this law? Von Thünen’s Isolated State is the theory of spatial economics.
+
+第13回 Operating Spatial Information by Google Earth 
+The geometric primitives of point, line, and polygon are organized into layers in GIS for data analysis. We will learn the power of the advanced information technology and discuss the potential of the tool for multi-disciplinary studies.
+
+第14回 The way forward
+Explore the future of spatial information technology.
+
+その他
+There are group discussions during the classes but final report must be submitted by each student.
+";

@@ -1,0 +1,68 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2108";
+	sylb:summary "This class introduces students to the basic knowledge and practices of interaction design.
+
+First, students can learn a interaction design process that includes design research, idea & concept making, prototype making and refinement.
+
+Second, this class focuses on the field of Computer Human Interaction (CHI). Students learn a history of CHI, advanced research stream in this field (Diplay, Physical computing, Programmable Matter etc.).
+
+Third, students work to design original interactive media for supporting our daily lives.
+
+";
+	sylb:method "This class introduces students to the basic knowledge and practices of interaction design.
+
+First, students can learn a interaction design process that includes design research, idea & concept making, prototype making and refinement.
+
+Second, this class focuses on the field of Computer Human Interaction (CHI). Students learn a history of CHI, advanced research stream in this field (Diplay, Physical computing, Programmable Matter etc.).
+
+Third, students work to design original interactive media for supporting our daily lives.
+
+";
+	sylb:schedule "第1回 Introduction
+- What is “Interaction”? 
+- What is “Interaction Design”?
+
+第2回 Introduction (2)
+- Process of Interaction Design. 
+- Student presentation about Bad User Interfaces (UI).
+第3回 Introduction (3)
+- Process of Interaction Design. 
+- Student presentation about new UI plan. 
+第4回 Computer Human Interaction (1)
+- Introduction of CHI 
+- History of CHI
+
+第5回 Computer Human Interaction (2)
+- Display Technologies 
+- Principle of display 
+- New type of displays
+
+第6回 Computer Human Interaction (3)
+- Virtual Reality, Augmented Reality 
+第7回 Computer Human Interaction (4)
+- Interactions through haptic, olfactory, taste sensation
+
+第8回 Guest Lecture (1)
+- Talk of CHI researcher
+
+第9回 Computer Human Interaction (5)
+- Augmented Human 
+- Survey & Presentation 
+第10回 Guest Lecture (2)
+- Talk of CHI researcher
+
+第11回 Designing Interactive Media (Augmented Human) : Idea Presentation
+- Idea presentation for final project and feedback
+
+第12回 Designing Interactive Media (Augmented Human) : Creation 
+第13回 Designing Interactive Media (Augmented Human) : Creation 
+第14回 Final presentation and feedback
+- Final Presentation 
+- Reflection
+
+その他
+Assignments
+
+";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "視覚メディア表現【１４】"@ja;
+	lect:lecture_id "14_C2111";
+	lect:time "2016年度 秋学期 水曜日３時限";
+	lect:teacher "齋藤　達也";
+	lect:campas "SFC・スタジオ";
+	lect:course_type "実習・演習、グループワーク";

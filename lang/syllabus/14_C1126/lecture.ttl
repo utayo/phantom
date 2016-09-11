@@ -1,0 +1,18 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "開発とローカリズム【１４】"@ja;
+	lect:lecture_id "14_C1126";
+	lect:time "2016年度 春学期 木曜日４時限";
+	lect:teacher "藤田　護";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "開発とローカリズム(GIGA/GG)【１４】"@ja;
+	lect:lecture_id "14_C1126";
+	lect:time "2016年度 春学期 火曜日２時限";
+	lect:teacher "ティースマイヤ，　リン";
+	lect:campas "SFC";
+	lect:course_type "講義";
+	lect:homepage "http://web.sfc.keio.ac.jp/~thiesmey/kaihatsunote.htm";

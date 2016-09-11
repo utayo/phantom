@@ -1,0 +1,11 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ゲノム分子生物学２【１４】"@ja;
+	lect:lecture_id "14_C2064";
+	lect:time "2016年度 秋学期 木曜日２時限";
+	lect:teacher "金井　昭夫、斎藤　菜摘、ガリポン　ジョゼフィーヌ";
+	lect:campas "SFC・TTCK";
+	lect:course_type "講義、遠隔あり";
+	lect:homepage "http://www.bioinfo.sfc.keio.ac.jp/class/PostGenomeScience/";

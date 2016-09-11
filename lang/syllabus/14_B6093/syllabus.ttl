@@ -1,0 +1,127 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6093";
+	sylb:summary "この授業では、創造的な未来をつくるための言語「パターンランゲージ」について、その考え方と方法を学びます。パターンランゲージでは、創造・実践の経験則 を「パターン」という小さな単位にまとめ、それを体系化します。かつて、建築家のクリストファー・アレグザンダーは、いきいきとした町や建物に繰り返し現れる関係性をパターンとして定義し、253個のパターンを抽出・記述しました。その後この考え方は、ソフトウェア開発の分野に応用され、現在でも広く活用されています。SFCでは、創造的な学びのための「ラーニング・パターン」や、創造的プレゼンテーションのための「プレゼンテーション・パターン」、創造的コラボレーションのための「コラボレーション・パターン」などが制作されてきました。この授業では、パターンランゲージの考え方を学びながら、新しい分野において自らパターン・ランゲージをつくることができるようになることを目指します。
+In this course, we share how to create pattern language, which is a method to scribe out the practical knowledge related to a certain field of knowledge. The original idea of using pattern languages to write out design knowledge was proposed by architect Christopher Alexander. The late 1970’s book he wrote with his colleagues contained 253 patterns on practical architectural design. In the context of architecture, the pattern language was developed in order to serve a lingua franca for designing buildings between architects and residents. Alexander anticipated that people could get involved in the designing process of their homes and towns. Ten years after the book was published, Alexander’s idea of pattern languages was adopted in the field of software design. Since the 1990’s, the fields in which pattern languages are applied have shown even more expansion to cover creative human actions such as education, learning, presentation, collaboration, social innovation, policy making, disaster prevention, life design and even beauty in daily life. Pattern languages are now used to connect all kinds of people with all kinds of different experiences. The patterns help bring light to the less noticeable parts of a person’s experience, so the person can reconsider the experience to talk about it and share it with others. In the classes, there will be many activities to help deeply understand how to create pattern languages and experience them in group work.
+";
+	sylb:method "この授業では、創造的な未来をつくるための言語「パターンランゲージ」について、その考え方と方法を学びます。パターンランゲージでは、創造・実践の経験則 を「パターン」という小さな単位にまとめ、それを体系化します。かつて、建築家のクリストファー・アレグザンダーは、いきいきとした町や建物に繰り返し現れる関係性をパターンとして定義し、253個のパターンを抽出・記述しました。その後この考え方は、ソフトウェア開発の分野に応用され、現在でも広く活用されています。SFCでは、創造的な学びのための「ラーニング・パターン」や、創造的プレゼンテーションのための「プレゼンテーション・パターン」、創造的コラボレーションのための「コラボレーション・パターン」などが制作されてきました。この授業では、パターンランゲージの考え方を学びながら、新しい分野において自らパターン・ランゲージをつくることができるようになることを目指します。
+In this course, we share how to create pattern language, which is a method to scribe out the practical knowledge related to a certain field of knowledge. 
+The original idea of using pattern languages to write out design knowledge was proposed by architect Christopher Alexander. The late 1970’s book he wrote with his colleagues contained 253 patterns on practical architectural design. In the context of architecture, the pattern language was developed in order to serve a lingua franca for designing buildings between architects and residents. Alexander anticipated that people could get involved in the designing process of their homes and towns. 
+Ten years after the book was published, Alexander’s idea of pattern languages was adopted in the field of software design. Since the 1990’s, the fields in which pattern languages are applied have shown even more expansion to cover creative human actions such as education, learning, presentation, collaboration, social innovation, policy making, disaster prevention, life design and even beauty in daily life. Pattern languages are now used to connect all kinds of people with all kinds of different experiences. The patterns help bring light to the less noticeable parts of a person’s experience, so the person can reconsider the experience to talk about it and share it with others. 
+In the classes, there will be many activities to help deeply understand how to create pattern languages and experience them in group work.
+";
+	sylb:schedule "第1回 イントロダクション[ Introduction ]
+この授業の内容と進め方と、パターンランゲージの背景にある考え方を説明します。
+
+The overview and requirements for this course will be provided.
+第2回 パターン・ランゲージを用いた対話ワークショップ[ Dialog workshop with a pattern language ]
+創造的コラボレーションのパターン・ランゲージである「コラボレーション・パターン」のカードを用いて、これまでのコラボレーションの経験について語り合う対話ワークショップを行います。
+
+We hold dialog workshop with Collaboration Pattern Cards.
+第3回 パターンの掘り起こし方（Pattern Mining）#1[ Pattern Mining #1 ]
+パターン・ランゲージのつくり方について学び、自分たちの経験からパターンを抽出する方法を理解し、グループで実践します。
+
+We share how to mine patterns from the experiences.
+第4回 パターンの掘り起こし方（Pattern Mining）#2[ Pattern Mining #2 ]
+パターン・ランゲージのつくり方について学び、自分たちの経験からパターンを抽出する方法を理解し、グループで実践します。
+
+We share how to mine patterns from the experiences.
+第5回 パターンの書き方（Pattern Writing）#1[ Pattern Writing #1 ]
+経験から得られた結果をもとに、状況・問題・解決というパターン形式で書いていく方法を学び、実践します。
+
+We share how to write patterns.
+第6回 パターンの書き方（Pattern Writing）#2[ Pattern Writing #2 ]
+経験から得られた結果をもとに、状況・問題・解決というパターン形式で書いていく方法を学び、実践します。
+
+We share how to write patterns.
+第7回 パターンの磨き方（Pattern Improvement） #1[ Pattern Improvement #1 ]
+グループで書いてきたパターンをさらによい内容・表現にするためのコツを伝授します。また、パターン名やパターン・イラスト制作の秘訣についても紹介します。
+
+We share how to improve patterns.
+第8回 パターンの磨き方（Pattern Improvement） #2[ Pattern Improvement #2 ]
+グループで書いてきたパターンをさらによい内容・表現にするためのコツを伝授します。また、パターン名やパターン・イラスト制作の秘訣についても紹介します。
+
+We share how to improve patterns.
+第9回 ライターズ・ワークショップ（Writers’ Workshop）#1[ Writers’ Workshop #1 ]
+各グループのパターンをよりよいものにするために、他のグループのメンバーからコメントをもらいます。
+
+We hold writers' workshop to improve patterns collaboratively with others.
+第10回 ライターズ・ワークショップ（Writers’ Workshop）#2[ Writers’ Workshop #2 ]
+各グループのパターンをよりよいものにするために、他のグループのメンバーからコメントをもらいます。
+
+We hold writers' workshop to improve patterns collaboratively with others.
+第11回 パターン・ランゲージ・ワークショップ #1[ Pattern Language Workshop #1 ]
+パターン・ランゲージを用いた新しいタイプのワークショップを実践します。
+
+We hold a new type of workshop with using pattern languages.
+第12回 パターン・ランゲージ・ワークショップ #2[ Pattern Language Workshop #2 ]
+パターン・ランゲージを用いた新しいタイプのワークショップを実践します。
+
+We hold a new type of workshop with using pattern languages.
+第13回 グループワーク成果発表と対話ワークショップ #1[ Final presentation and dialog workshop #1 ]
+グループワークで作成したパターン・ランゲージを発表し、それを用いた対話ワークショップを行います。
+
+We hold final presentation sessions and dialog workshops with using pattern languages created by group work in this semester.
+第14回 グループワーク成果発表と対話ワークショップ #2[ Final presentation and dialog workshop #2 ]
+グループワークで作成したパターン・ランゲージを発表し、それを用いた対話ワークショップを行います。
+
+We hold final presentation sessions and dialog workshops with using pattern languages created by group work in this semester.
+その他
+必要に応じてグループワークの相談にのります。
+
+";
+	lect:lecture_id"14_B6093";
+	sylb:summary "In this course, we share how to create pattern language, which is a method to scribe out the practical knowledge related to a certain field of knowledge. The original idea of using pattern languages to write out design knowledge was proposed by architect Christopher Alexander. The late 1970’s book he wrote with his colleagues contained 253 patterns on practical architectural design. In the context of architecture, the pattern language was developed in order to serve a lingua franca for designing buildings between architects and residents. Alexander anticipated that people could get involved in the designing process of their homes and towns. Ten years after the book was published, Alexander’s idea of pattern languages was adopted in the field of software design. Since the 1990’s, the fields in which pattern languages are applied have shown even more expansion to cover creative human actions such as education, learning, presentation, collaboration, social innovation, policy making, disaster prevention, life design and even beauty in daily life. Pattern languages are now used to connect all kinds of people with all kinds of different experiences. The patterns help bring light to the less noticeable parts of a person’s experience, so the person can reconsider the experience to talk about it and share it with others. In the classes, there will be many activities to help deeply understand how to create pattern languages and experience them in group work.
+";
+	sylb:method "In this course, we share how to create pattern language, which is a method to scribe out the practical knowledge related to a certain field of knowledge. 
+The original idea of using pattern languages to write out design knowledge was proposed by architect Christopher Alexander. The late 1970’s book he wrote with his colleagues contained 253 patterns on practical architectural design. In the context of architecture, the pattern language was developed in order to serve a lingua franca for designing buildings between architects and residents. Alexander anticipated that people could get involved in the designing process of their homes and towns. 
+Ten years after the book was published, Alexander’s idea of pattern languages was adopted in the field of software design. Since the 1990’s, the fields in which pattern languages are applied have shown even more expansion to cover creative human actions such as education, learning, presentation, collaboration, social innovation, policy making, disaster prevention, life design and even beauty in daily life. Pattern languages are now used to connect all kinds of people with all kinds of different experiences. The patterns help bring light to the less noticeable parts of a person’s experience, so the person can reconsider the experience to talk about it and share it with others. 
+In the classes, there will be many activities to help deeply understand how to create pattern languages and experience them in group work.
+";
+	sylb:schedule "第1回 Introduction
+The overview and requirements for this course will be provided.
+
+第2回 Dialog workshop with a pattern language
+We hold dialog workshop with Collaboration Pattern Cards.
+
+第3回 Pattern Mining #1
+We share how to mine patterns from the experiences.
+
+第4回 Pattern Mining #2
+We share how to mine patterns from the experiences.
+
+第5回 Pattern Writing #1
+We share how to write patterns.
+
+第6回 Pattern Writing #2
+We share how to write patterns.
+
+第7回 Pattern Improvement #1
+We share how to improve patterns.
+
+第8回 Pattern Improvement #2
+We share how to improve patterns.
+
+第9回 Writers’ Workshop #1
+We hold writers' workshop to improve patterns collaboratively with others.
+
+第10回 Writers’ Workshop #2
+We hold writers' workshop to improve patterns collaboratively with others.
+
+第11回 Pattern Language Workshop #1
+We hold a new type of workshop with using pattern languages.
+
+第12回 Pattern Language Workshop #2
+We hold a new type of workshop with using pattern languages.
+
+第13回 Final presentation and dialog workshop #1
+We hold final presentation sessions and dialog workshops with using pattern languages created by group work in this semester.
+
+第14回 Final presentation and dialog workshop #2
+We hold final presentation sessions and dialog workshops with using pattern languages created by group work in this semester.
+
+その他
+giving advices for group work
+
+";

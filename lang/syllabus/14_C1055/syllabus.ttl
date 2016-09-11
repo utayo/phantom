@@ -1,0 +1,113 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1055";
+	sylb:summary "　本講義では、日本国憲法を中心とする法領域を扱い、主に統治機構について講義する。国家機関相互の関係、国家と国民の関係など、統治の仕組みについて概説していく。憲法は、国家統治の組織と作用に関する基本法であり、国家権力の行使を抑制すると同時に正統化する機能を果たす最高法規である。要は国家の枠組みを「かたちづくる」法である。憲法を理解することは、法学を専攻する者のみならず、およそ学究活動をする者にとって不可欠といえる。この講義を通じて、伝統的な憲法学体系に依拠した学説・判例の理論を学び、憲法の理解を深めるとともに、法学的視点から現代的な国家の諸課題について考える力をつけてもらいたい。なお、履修者の希望があれば、授業内での討論会や施設見学などを実施することも検討したい。
+
+This lecture's main subject is the institutions of the government in the Japanese Constitution. As the the supreme law of the nation, the Japanese Constitution gains the legitimacy to all governmental actions and controls the Japanese government. Students will study the Japanese Government through the text of the constitutional articles in this lecture. To know the implications of the articles, you should try to understand many precedents of the Supreme Court of Japan and the academic discussions. This is the traditional way to study the law and understand the legal-mind.
+
+";
+	sylb:method "○　国家の基本法である憲法の全体像を理解し、それが現代社会にどう関わってくるのか考えるための枠組みを提示する。
+
+○　本講座は、従来の「国家と法」を継承する科目である。同科目は、憲法学の伝統的理論の紹介にとどまらず、現代的諸課題について、憲法学ないし法学的観点から検討する視点を提供することを目的としていた。科目名を「憲法」ではなく、「国家と法」としているねらいはまさにここに存し、極めてＳＦＣらしい学際的科目であった。科目名が「憲法（統治）」と改定されてからも、その趣旨に変更はない。ただ、学際的科目とはいえ、あくまでも法律学を基軸にした講義であり、経済学や政治学などとは異なる独特の思考方法に戸惑うこともあろう。だが、ここでいう独特の思考方法―― 一般に「リーガルマインド」と呼ばれる ――は、諸君が現代法治国家を生き、社会的に活躍する上で、必要不可欠な素養であるといってよい。将来、仕事で官僚や法曹といった職業法律家に関われば、このことがきっと強く思い起こされるであろう。
+
+○　次の三点に本講座の目指すところが収束する。
+
+（１）憲法学の基礎理論の修得
+
+　将来的に憲法を試験科目とする国家試験（司法試験・公務員試験）や法科大学院入試及びＳＦＣ設置の関連諸科目の履修に最低限必要な体系的知識を伝えたい。
+
+（２）憲法学的視点からの諸問題の検討
+
+　現代行政国家という「ゆりかごから墓場まで」何らかの形で国家が関与する社会が抱える問題は、おおよそ全て憲法の問題にたどり着く。様々な社会事象を考える際、どう憲法学が関わってくるのか示していきたい。
+
+（３）法的思考方法の体得
+
+　発展する現代国家を支えているのは法であり、それを実際に担うのは、独特の法的思考方法を身につけた官僚であり、法曹であり、職業法律家たちである。したがって、彼らの論理構造の理解は、現代国家の諸問題を検討するための近道となろう。講義を通じて、頭での理解にとどまらず、感覚的に法的思考が体得できるよう努めていきたい。
+
+○　本講座では、憲法論のうち「統治機構論」を中心に扱う。
+
+○　伝統的な講義形式を用いるが、法学初学者にも理解できるよう具体例を示して平明に語るつもりである。予習は不要であるが、出席を欠かさず、復習に十分時間を取って欲しい。末節の知識にこだわるのではなく、憲法学全体の体系を俯瞰できるように心がけて欲しい。
+
+This lecture aims the goals as follows:
+
+understanding the basic theories in the Study of Constitution,
+
+probing into the cause of the social problems from the viewpoint of the Constitution, and
+
+mastering the legal-way of thinking.
+
+The Model Parliament(mock diet) would be held on 6/11. All students must attend and join this event. Model Parliament Web
+
+";
+	sylb:schedule "第1回 4/11（月）【イントロダクション】[ 4/11 Introduction ]
+授業に関する基本事項の説明、模範議会ガイダンス
+
+Guidance etc.
+第2回 4/18（月）【総　論】[ 4/18 Principles of the Japanese Constitution ]
+憲法の基本原理、国民主権
+
+People's Sovereignty.
+第3回 4/25（月）【立法（１）】[ 4/25 Legislative Power (1) ]
+立法の概念、代表の概念、最高機関性と唯一の立法機関性、国政調査権について。
+
+Powers and Structure of the National Diet.
+第4回 5/2（月）【立法（２）】[ 5/2 Legislative Power (2) ]
+衆議院の優越、議院の権能と議員の特権、議会スタッフと議会主義の復権、二院制の意義について。
+
+Powers and Structure of the each Houses of the Diet, immunities and privileges of the members.
+第5回 5/9（月）【行政（１）】[ 5/9 Executive Power (1) ]
+内閣の権能と内閣総理大臣の権限、独立行政委員会について。
+
+The Cabinet and other administrative institutions.
+第6回 5/16（月）【行政（２）】[ 5/16 Executive Power (2) ]
+行政国家現象、内閣総理大臣の地位と行政改革について。
+
+Powers of the Prime Minister and administrative reform.
+第7回 5/23（月）【司法（１）】[ 5/23 Judicial Power (1) ]
+司法権の独立、具体的（付随的）審査制について。
+
+Independence of the Judiciary, the system of judicial review.
+第8回 5/30（月）模擬委員会演習[ 5/30 Rehearsal for the Model Parliament ]
+慶早戦の実施の有無にかかわらず実施する。模範議会企画運営者以外の学生は出席不要。
+
+Students except the staff of the Model Parliament need not attend this day.
+第9回 6/6（月）【司法（２）】[ 6/6 Judicial Power (2) ]
+憲法訴訟、司法制度改革について。
+
+Power to determine the constitutionality, judicial reform.
+第10回 6/11（土）【補　講】[ 6/11 Model Parliament (supplementary lecture) ]
+模範議会（予定）。全員の出席を原則とする。 
+これに欠席し、所定の手続を怠った者については、履修要件を満たさない者として、期末試験の成績如何にかかわらず「Ｄ（不合格）」の評語が与えられる。
+
+All students of this lecture must attend and join this event as the members of the House of Councillors.
+第11回 6/11（土）【補　講】[ 6/11 Model Parliament (supplementary lecture) ]
+模範議会（予定）。全員の出席を原則とする。 
+これに欠席し、所定の手続を怠った者については、履修要件を満たさない者として、期末試験の成績如何にかかわらず「Ｄ（不合格）」の評語が与えられる。
+
+All students of this lecture must attend and join this event as the members of the House of Councillors.
+第12回 6/13（月）　【財　政】[ 6/13 Public Finance ]
+財政民主主義、財政運営システムについて。
+
+Democracy at the public finance.
+第13回 6/20（月）【地方自治】[ 6/20 Local Government ]
+地方自治の本旨、地方自治制度について。
+
+Principle of local autonomy.
+第14回 6/27（月）【天　皇】[ 6/27 The Emperor ]
+象徴天皇制、皇室典範の改正について。
+
+The Emperor as the symbol of the State and of the unity of the People.
+第15回 7/4（月）【総　括】[ 7/4 Supplement and Conclusion ]
+「立憲政治の復権と法の支配の実現を目指して」―講義内容を踏まえて総括する。
+
+Toward reconstructing the constitutionalism.
+第16回 7/11（月）【予備日】[ 7/11 Occasional date ]
+授業の進行度合いに応じて授業内容の補足か模擬試験を実施する場合がある（原則休講とする。）。
+
+Additional Lecture (if needed).
+その他
+【備考１】課外ゼミA（任意参加）月曜日4限に実施予定。秋合宿は9月中旬を予定。詳細は別途告知する。
+【備考２】国会見学会（任意参加）希望者を募って国会等の施設見学を実施する予定である（秋学期を予定）。実施する場合は、別途告知をする。
+
+Extra lecture(on Mondays in Spring Semester), Summer Study Camp(in September) and the National Diet tour(in March) will be held for applicants. If you want to join, please follow the notices and instructions from the Student Assistants.";

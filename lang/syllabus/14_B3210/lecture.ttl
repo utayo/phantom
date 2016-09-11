@@ -1,0 +1,31 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "統計解析[DS2]【１４】"@ja;
+	lect:lecture_id "14_B3210";
+	lect:time "2016年度 春学期 金曜日１時限";
+	lect:teacher "猪狩　良介";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "統計解析[DS2]【学期前半】【１４】"@ja;
+	lect:lecture_id "14_B3210";
+	lect:time "2016年度 春学期 金曜日１時限,金曜日２時限";
+	lect:teacher "桑原　武夫";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "統計解析[DS2]【１４】"@ja;
+	lect:lecture_id "14_B3210";
+	lect:time "2016年度 秋学期 月曜日１時限";
+	lect:teacher "馬場　国博";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "統計解析[DS2](GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B3210";
+	lect:time "2016年度 秋学期 火曜日４時限";
+	lect:teacher "小暮　厚之";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

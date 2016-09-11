@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "人工知能論【１４】"@ja;
+	lect:lecture_id "14_B6148";
+	lect:time "2016年度 秋学期 木曜日３時限";
+	lect:teacher "諏訪　正樹";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";

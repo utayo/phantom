@@ -1,0 +1,45 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "微分・積分[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3103";
+	lect:time "2016年度 春学期 金曜日４時限";
+	lect:teacher "高橋　裕子";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "微分・積分[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3103";
+	lect:time "2016年度 春学期 月曜日５時限";
+	lect:teacher "宇田　哲朗";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "微分・積分[DS1](GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B3103";
+	lect:time "2016年度 春学期 木曜日３時限";
+	lect:teacher "青山　敦";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "微分・積分[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3103";
+	lect:time "2016年度 秋学期 木曜日４時限";
+	lect:teacher "青山　敦";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "微分・積分[DS1]【１４】"@ja;
+	lect:lecture_id "14_B3103";
+	lect:time "2016年度 秋学期 月曜日５時限";
+	lect:teacher "宇田　哲朗";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "微分・積分[DS1](GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B3103";
+	lect:time "2016年度 秋学期 水曜日４時限";
+	lect:teacher "高橋　裕子";
+	lect:campas "SFC";
+	lect:course_type "講義";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "慶應義塾入門【１４】"@ja;
+	lect:lecture_id "14_B1003";
+	lect:time "2016年度 春学期 金曜日３時限";
+	lect:teacher "山内　慶太、加藤　貴昭、小室　正紀、平野　隆、都倉　武之、大久保　忠宗";
+	lect:campas "SFC";
+	lect:course_type "講義";

@@ -1,0 +1,111 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B2351";
+	sylb:summary "スキルクラスは、インテンシブ２ を修了した学生を対象としています。さらに進んでマレー・インドネシア語の運用能力を高め、将来、同地域で活躍する上での実践的な語彙や社会情勢などを学びます。インドネシア語の表現力や読解力を高めると共に、インドネシア社会や文化に対する理解を深めることを目的とします。スキルクラスは、継続して毎学期履修することが可能です。
+Kelas Skill adalah kelas untuk mahasiswa yang sudah menyelesaikan kelas Intensif 2. Kelas ini juga bagi mahasiswa yang ingin mengasah Bahasa Indonesianya untuk menjadi semakin lancar dan juga mahasiswa yang ingin belajar kosa kata khusus serta kondisi sosial untuk mempersiapkan diri bekerja di perusahaan atau institusi Jepang-Indonesia. Selain itu, juga bisa meningkatkan kemahiran membaca dan mengutarakan pendapat dalam Bahasa Indonesia. Kelas ini dapat diambil berulang kali bagi mahasiswa yang telah memenuhi syarat.
+";
+	sylb:method "現代インドネシアに関わる様々なインドネシア語の新聞・雑誌・ウェブ等の記事を題材に、講読、ディスカッションなど。インドネシア語のスキルアップ、様々な表現を学ぶと共に、インドネシア社会や文化に対する理解を深める。 
+本授業は、インテンシブ2を修了し、さらに進んでマレー・インドネシア語の能力を高めたい学生を対象とする。 
+多角的にインドネシア語と文化を学ぶため、DVD鑑賞、ゲストスピーカーによる特別授業などを行うこともある。 
+";
+	sylb:schedule "第1回 第1回
+イントロダクション、自己紹介
+
+第2回 第2回
+文章講読、討論
+
+第3回 第3回
+文章講読、討論
+
+第4回 第4回
+文章講読、討論
+
+第5回 第5回
+文章講読、討論
+
+第6回 第6回
+文章講読、討論
+
+第7回 第7回
+文章講読、討論
+
+第8回 第8回
+文章講読、討論
+
+第9回 第9回
+文章講読、討論
+
+第10回 第10回
+文章講読、討論
+
+第11回 第11回
+文章講読、討論
+
+第12回 第12回
+文章講読、討論
+
+第13回 第13回
+文章講読、討論
+
+第14回 第14回
+期末プレゼンテーション
+
+その他
+期末プレゼンの講評、授業のまとめ
+
+";
+	lect:lecture_id"14_B2351";
+	sylb:summary "スキルクラスは、インテンシブ２ を修了した学生を対象としています。さらに進んでマレー・インドネシア語の運用能力を高め、将来、同地域で活躍する上での実践的な語彙や社会情勢などを学びます。インドネシア語の表現力や読解力を高めると共に、インドネシア社会や文化に対する理解を深めることを目的とします。スキルクラスは、継続して毎学期履修することが可能です。
+Kelas Skill adalah kelas untuk mahasiswa yang sudah menyelesaikan kelas Intensif 2. Kelas ini juga bagi mahasiswa yang ingin mengasah Bahasa Indonesianya untuk menjadi semakin lancar dan juga mahasiswa yang ingin belajar kosa kata khusus serta kondisi sosial untuk mempersiapkan diri bekerja di perusahaan atau institusi Jepang-Indonesia. Selain itu, juga bisa meningkatkan kemahiran membaca dan mengutarakan pendapat dalam Bahasa Indonesia. Kelas ini dapat diambil berulang kali bagi mahasiswa yang telah memenuhi syarat.
+";
+	sylb:method "現代インドネシアに関わる様々なインドネシア語の新聞・雑誌・ウェブ等の記事を題材に、講読、ディスカッションなど。インドネシア語のスキルアップ、様々な表現を学ぶと共に、インドネシア社会や文化に対する理解を深める。 
+本授業は、インテンシブ2を修了し、さらに進んでマレー・インドネシア語の能力を高めたい学生を対象とする。 
+多角的にインドネシア語と文化を学ぶため、DVD鑑賞、ゲストスピーカーによる特別授業などを行うこともある。 
+";
+	sylb:schedule "第1回 第1回
+イントロダクション、自己紹介
+
+第2回 第2回
+文章講読、討論
+
+第3回 第3回
+文章講読、討論
+
+第4回 第4回
+文章講読、討論
+
+第5回 第5回
+文章講読、討論
+
+第6回 第6回
+文章講読、討論
+
+第7回 第7回
+文章講読、討論
+
+第8回 第8回
+文章講読、討論
+
+第9回 第9回
+文章講読、討論
+
+第10回 第10回
+文章講読、討論
+
+第11回 第11回
+文章講読、討論
+
+第12回 第12回
+文章講読、討論
+
+第13回 第13回
+文章講読、討論
+
+第14回 第14回
+期末プレゼンテーション
+
+その他
+期末プレゼンの講評、授業のまとめ
+
+";

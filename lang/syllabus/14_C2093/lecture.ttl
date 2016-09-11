@@ -1,0 +1,11 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "パターン情報論【１４】"@ja;
+	lect:lecture_id "14_C2093";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "石崎　俊";
+	lect:campas "SFC";
+	lect:course_type "講義";
+	lect:homepage "in preparation";

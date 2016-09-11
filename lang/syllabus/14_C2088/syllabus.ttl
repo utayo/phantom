@@ -1,0 +1,90 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2088";
+	sylb:summary "本講義の目的は、データサイエンティストに必要なスキルの1つである大規模解析のためのITスキルを身につけることである。少量のデータであれば、Excelなどの表計算ソフトでもある程度の解析は可能である。しかし、数GB、数億レコードというデータは表計算ソフトで扱うことはできない。本講義では、大規模データを扱うための処理フレームワークについて学習する。
+
+A purpose of this course is to master an IT skill for the large-scale analysis that is one of the skills necessary for data scientist. If it is small data, analysis can be done by the spreadsheets software such as Excel. However, in case that the size of data is big such as GB or million records, Spreadsheets software, such as Excel, cannot handle the data. In this course, students learn frameworks to process such large-scale data.
+
+";
+	sylb:method "本授業はデータサイエンティストを目指す学生のために、Excelで扱えない規模のデータの処理方法について学ぶ授業である。統計そのものやプログラミングそのものを扱うのではなく、データの解析に必要な前処理、計算結果を得るのに時間がかかるような大規模データ処理手法などについて実習を交えて学ぶ。本授業の受講者は、大規模なデータを短時間で処理するのに必要な技術を身につけることを目標とする。 授業は講義と演習によって進める。学生が実際のデータを用いた演習を進めることによって、本当に使えるスキルとして身に付けることを目指す。
+
+This is a course for a student to be a data scientist to learn methods to handle a large-scale data which cannot be processed by Excel. This course don't treat statistics itself nor programming itself. This course treats preprocessing methods for data analysis and processing methods for large-scale data through the training. The purpose of this course is to master the skills processing large-scale data in short time. Class consists of lecture and training. This course aims at acquiring a really usable skill by a student pushing forward the practice using real data.
+
+";
+	sylb:schedule "第1回 ガイダンスと導入[ Guidance and Introduction ]
+- 講義の内容及び進め方について説明する。 
+- 大規模データ処理の簡単な例を紹介する。
+
+- Abstract and method of this course will be explained. - Simple example of large-scale data processing will be introduced.
+第2回 CLIとシェル[ Command lin interface and Shell ]
+- CLIとシェル 
+- パイプ 
+- Command line interface and Shell - pipe
+第3回 Rubyでのプログラミング[ Programming with Ruby ]
+- プログラミング言語であるRubyについて学ぶ。 
+- Rubyの実行環境を紹介する。 
+- Rubyの基本的な文法を紹介する。
+
+- To learn the programming lanuage Ruby. - Ruby runtime environment will be introduced. - The basic grammar of Ruby will be introduced.
+第4回 タイムシリーズデータのクレンジング[ Data cleansing of time-series data ]
+- 前処理の方法について学ぶ。 
+- データの外観をしるための方法について学ぶ。 
+- To learn method for preprocessing. - To learn how to overview the data.
+第5回 SNS (1)[ SNS (1) ]
+- Twitter API 
+-Rを使ったTwitter情報の取得 
+- Twitter情報のネットワーク解析
+
+- Twitter API - Acquisition of Twitter data using R - Network analysis of Twitter data
+第6回 [ SNS (2) ]
+- Twitter情報のコンテンツ解析 
+- Rでのgoogle mapsの活用
+
+- Content analysis of Twitter data - Using google maps with R
+第7回 位置情報(1)[ Location information (1) ]
+- 位置情報の解析手法 
+- 軌跡データの統合 
+- 単一軌跡データの解析 
+- 0 dimension analysis of location tracking data / 軌跡データの0次元解析 
+- 2 dimension analysis of location tracking data / 軌跡データの2次元解析
+
+- Analysis method for location information / 位置情報の解析手法 - Unification of location tracking data / 軌跡データの統合 - Analysis of single location tracking data - 0 dimension analysis of location tracking data - 2 dimension analysis of location tracking data
+第8回 位置情報(2)[ Location information (2) ]
+- 軌跡データの1次元解析 
+- 距離-時間グラフによる解析
+
+- 1 dimension analysis of location tracking data - Analysis using distance-time graph
+第9回 Bigdata processing system (1)[ Bigdata processing system (1) ]
+- 大規模データ処理システムの概要 
+- Hadoop
+
+- 大規模データ処理システムの概要 - Hadoop
+第10回 Bigdata processing system (2)[ Bigdata processing system (2) ]
+- Hadoop streamingを使ったWikipediaアクセスログの解析
+- Data warehouse / データウェアハウス
+
+- Wikipedia access log analysis using Hadoop streaming - Data warehouse
+第11回 Bigdata processing system (3)[ Bigdata processing system (3) ]
+- Hadoopを使った解析の実例の紹介 
+- Hadoopを使った軌跡情報の解析
+
+- Introducing real examples of analysis using Hadoop - Analysis of location tracking data using Hadoop
+第12回 Machine learning (1)[ Machine learning (1) ]
+- パターン認識の概要 
+- 機械学習の概要
+
+- Overview of pattern recognition - Overview of machine learning
+第13回 Machine learning (2)[ Machine learning (2) ]
+- 機械学習に関する実習
+
+- Training of machine learning
+第14回 Presentation[ Presentation ]
+- 学生によるミニプロの発表
+
+- Presentation of mini-project by students
+その他
+- オンライン教材を用いた学習
+- 計算機クラスタを用いた課題の実施
+
+- Study using online materials - Assignment to use computer cluster";

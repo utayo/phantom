@@ -1,0 +1,127 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2017";
+	sylb:summary "昨今のエコブームで一般名称になった宇宙船地球号，シナジー効果などの言葉を生んだバックミンスター・フラーの世界観を学びます。 この授業はフラーが行った「地球システム設計」に関する発明を具体的に学ぶ，美術と数学を一体化したような科目です．もちろん授業では彼の地球環境に対する先駆的な思想も紹介しますが，これらは過去の関連書籍で学べます。この授業では書籍では理解できない彼の発明を簡易な模型を組み立てながら学びます．こうして「宇宙船地球号」を操縦する為に考案された世界地図図法や超軽量構造物に関する彼のエンジニアリングのノウハウを習得できます．さらに私が関わってきた関連技術，デザインを紹介します。これらはフラーの技術を改善したものです。こうして今抱える地球問題を解決するデザインソースを取得して頂きます。
+
+The class introduces Buckminster Fuller.
+The class introduces his inventions for solving global issues.
+The class is a subject between design and engineering
+The class introduces Fuller's thought on global issue. But mainly aims at his technology.
+The class demonstrates the essence of the technologies by model making.
+";
+	sylb:method "バックミンスター・フラーは地球を“非常に良くデザインされた巨大宇宙船”と捉えました．この“宇宙船”がこのままだと故障してしまうという問題提起をバックボーンに，彼は地球とそこに住む人間が持続してゆける技術を開発してきました．重要なのはここに取り上げるフラーという人物が地球問題を提唱した思想家であるだけでなく，それを解決するために具体的な技術提示を行っているところにあります．その設計，製作活動を通してフラーは独自の幾何学を用いたデザイン理論を作り上げました．それは難しい数学ではなく，普段我々が使っているもののデザインを刷新する為のユニークなデザインの道具でした． この授業ではこの「道具の使い方」を学ぶ事を主題としています。そのノウハウをモデリング（模型製作すること）を通して身につけてもらう事を目標にします。そのデザインツールを取得する事で，慣習に捕われない真に新しい価値を持つデザインやエンジニアリングを生み出す事ができる学生が育つ事を目標としています．
+
+Buckminster Fuller regarded the earth as a well designed spaceship. He have invented a series of technologies to sustain biosphere according to his argument that how to deal with problems that may damage the spaceship's mechanism. His unique achievements lies in his design and engineering rather than his thought on global issues. To practice he develop his original design theory. The theory is based on his original geometry. The geometry is not based on difficult mathematical formula. And we can learn the geometry by model making.
+
+This class aims at learning the practical design tool. By demonstrating and exercising model making participants are able to acquire the tool and to develop an idea that is free from any convensions and prejudices.
+
+";
+	sylb:schedule "第1回 序／宇宙船地球号操縦マニュアル[ guidance/ spaceship earth ]
+この科目で取り上げるバックミンスター・フラーの世界観についてまず概説します． 
+1960年代にフラーが提示した，地球のシステムが抱える問題と，理想として描いた世界観について説明します．
+
+lecture: introduction on Fuller's rendition of our planet.
+第2回 ダイマキシオンマップ[ Dymaxion map ]
+西洋人が抱く”歪んだ世界観”は，地図が歪んでいたからだった，という問題提起からフラーが1946年に発明した世界地図について学びます．
+
+lecture and small workshop on Fuller's invention in cartography
+第3回 オーサグラフ世界地図[ AuthaGraph map ]
+上記のフラーのダイマキシオンマップの問題点を取り上げ，それを改善した世界地図について学びます．さらにはその地図を用いて現代社会を視覚化した主題地図を紹介します．
+
+lecture and small workshop on the lecturer's invention in cartography
+第4回 ジオパレット1[ goe palette ]
+オーサグラフを用いた地図アーカイブのウェブアプリケーションを用いて，今の地球，世界に関する問題点を視覚化する演習課題に取り組みます．
+
+lecture and small workshop on a world map archive utilizing AuthaGraph map
+第5回 ジオパレット2[ geopalette ]
+上記課題で学生各自が取り上げた主題とそれに基づいて作成した世界地図の作品発表を行い，学生各自の世界観の交換を行います。
+
+presentation by participants on his/her world map production by using the geopalette
+第6回 ジオデシックドーム[ geodesic dome ]
+一人で1日で組み立てられる住宅，という構想のもとに開発された軽量構造体の理論と仕組みをペーパークラフトの模型を作ってもらいながら解説します．
+
+lecture and small workshop on Fuller's invention in light weight dome structure
+第7回 ジオコスモス[ geocosmos ]
+最新のジオデシックドームの実例を画像技術への応用・地球の視覚化という切り口から紹介し，ペーパークラフトの模型製作も交えて解説します．
+
+lecture and small workshop on lecturer's production, large digital glove using the latest geodesic dome
+第8回 フラーレン・カーボンナノチューブ[ Fulleren ]
+最新のジオデシックドームの実例を高分子材料学の分野から取り上げます。宇宙を俯瞰するための技術の根幹技術として活用されている例を模型製作も交えて解説します．
+
+lecture and small workshop on a discovery in polymer physics
+第9回 テンセグリティー構造[ tensegrity ]
+究極の軽量構造物としてフラーが開発した構造体と，その技術を前提として提示された巨大プロジェクトを紹介します．
+
+lecture and small workshop on Fuller's invention in the lightest structure
+第10回 テンセグリティーモデリングマニュアル[ tensegrity modeling manual ]
+上記テンセグリティ構造は一方で構造理論的にも施工手順的にも難解な技術でもありました．この構造模型の製作を通してテンセグリティのエンジニアリングを学びます．
+
+workshop: construction of tensegrity's structural model
+第11回 ジオスコープ／テンセグリティー・ツリー[ geo scope ]
+前週から続くテンセグリティの制作作業と合わせ，この技術を用いた展示物やクリスマスツリーを紹介します．
+
+lecture and small workshop on lecturer's production, display furniture for a museum by using tensegrity.
+第12回 オクテットトラス[ octet truss ]
+スペースフレームとも呼ばれるオクテットトラスについて学びます．大阪万博お祭り広場にも用いられたこの大空間構造の理論と仕組みを模型製作を通して学びます．
+
+lecture and small workshop on Fuller's invention in space frame structure system
+第13回 HP曲面とスペースフレーム[ HP membrane truss ]
+上記スペースフレームをトポロジカルに改造した構造体を用いた技術の理論と仕組みを模型製作を通して学びます．空間の等分割についても言及します。
+
+lecture and small workshop on lecturer's design proposal using new octet truss, HP membrane truss
+第14回 四面体フレームと空間充填[ tetruss ]
+上記スペースフレームの考え方を基に考案された新しい構造モジュールの理論と仕組みを模型製作を通して学びます．
+
+lecture and small workshop on lecturer's production using new octet truss, tetruss
+その他
+模型とレポート提出
+
+modelings and reports";
+	lect:lecture_id"14_C2017";
+	sylb:summary "科学や技術はこれまで大きな恩恵を私たちにもたらしてきた．その一方で，現在の知見では解くことのできない社会的課題や，科学技術そのものが社会における脅威となっている事例，そもそも科学技術では答えを出すことのできない問いが存在している．21世紀を生き，21世紀を創っていく皆さんに，これらの課題を様々な角度から考えてほしい．どう向き合うのがいいのか，そのためにどのような知識やスキルを身に付ければいいのか，自分ができることは何か．グループワークを通じてこれらを熟考する機会としたい．
+
+It is true that the products of science and its applications are of significance to our lives, but at the same time there are still many social problems which cannot be solved by current science and technology, or they themselves even generate new risks to the society. This lecture course provides you an opportunity to consider how to face these problems.
+
+";
+	sylb:method "科学や技術はこれまで大きな恩恵を私たちにもたらしてきた．その一方で，現在の知見では解くことのできない社会的課題や，科学技術そのものが社会における脅威となっている事例，そもそも科学技術では答えを出すことのできない問いが存在している．巨大地震などの低頻度大災害や地球環境問題，エネルギー問題など身近な未解決の課題を思い浮かべてほしい．21世紀における科学の責務は，これまでより重大であることは言うまでもない．そのような認識を科学者コミュニティは持っているだろうか．政策決定者は科学の限界を直視しているだろうか．一般市民はどのように情報を得て，どのようにそれを受け止めればいいのだろうか． 21世紀を生き，21世紀を創っていく皆さんに，これらの課題を様々な角度から考えてほしい．どう向き合うのがいいのか，そのためにどのような知識やスキルを身に付ければいいのか，自分ができることは何か．グループワークを通じてこれらを熟考する機会としたい．
+
+It is true that the products of science and its applications are of significance to our lives, but at the same time there are still many social problems which cannot be solved by current science and technology, or they themselves even generate new risks to the society. This lecture course provides you an opportunity to consider how to face these problems.
+
+";
+	sylb:schedule "第1回 イントロダクション[ introduction ]
+講義全体の流れや今後考えていくテーマについて簡単に説明する．
+
+第2回 サイエンス・コミュニケーション①[ science communication #1 ]
+2006年の第3期科学技術基本計画から本格的に組み込まれた科学コミュニケーションについて概説する．
+
+第3回 サイエンス・コミュニケーション②[ science communication #2 ]
+戦後の日本と欧米の科学の歩みを科学史の観点から概観する．
+
+第4回 トランス・サイエンス①[ trans science #1 ]
+科学で問うことができても科学で応えることのできない問題「トランス・サイエンス」について，事例を示しながら概説する．
+
+第5回 トランス・サイエンス②[ trans science #2 ]
+科学で問うことができても科学で応えることのできない問題「トランス・サイエンス」について，事例を示しながら概説する．
+
+第6回 トランス・サイエンスに関するグループワーク[ group work ]
+第7回 グループワーク発表（トランス・サイエンス ）[ presentation ]
+#6で考えたテーマについて発表する．
+
+第8回 リスクコミュニケーション①[ risk communication #1 ]
+科学コミュニケーション，トランスサイエンス問題をふまえ，リスク・コミュニケーションのあり方について考える．
+
+第9回 リスク・コミュニケーション②[ risk communication #2 ]
+科学の限界について，東日本大震災を例に説明する．
+
+第10回 リスク・コミュニケーション③[ risk communication #3 ]
+防災を例にリスク・コミュニケーションのあり方を考える．
+
+第11回 グルワ[ group work ]
+第12回 グルワ発表会[ presentation ]
+第13回 発表会[ presentation ]
+第14回 発表会[ presentation ]
+その他
+レポートの提出．
+
+writing a report";

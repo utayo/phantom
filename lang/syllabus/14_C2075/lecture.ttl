@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "デザインとプログラミング【１４】"@ja;
+	lect:lecture_id "14_C2075";
+	lect:time "2016年度 春学期 水曜日２時限";
+	lect:teacher "山邉　真幸";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "デザインとプログラミング【１４】"@ja;
+	lect:lecture_id "14_C2075";
+	lect:time "2016年度 秋学期 水曜日２時限";
+	lect:teacher "田所　淳";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

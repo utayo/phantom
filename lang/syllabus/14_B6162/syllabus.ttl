@@ -1,0 +1,78 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6162";
+	sylb:summary "情報通信システムは、世界的なコミュニケーションを実現するのみならず、動画配信等の様々なサービス提供や安心・安全な社会経済活動を支える基盤インフラとして、日常生活に欠かすことができない存在になっている。これらの情報通信システムは物理学や数学などに基づく通信技術によって構成されており、その正確な理解には専門的知識が必要である。また、情報通信システムの展開や運用は国際的な取り決めに基づく制度等に支えられおり、利活用の背景となる制度的枠組みに関する素養も必要となっている。
+
+現在、直面する社会的課題の解決等に向けて、情報通信システムを発展・活用した新しいイノベーションの創出が期待されており、その実現に向けて情報通信システムに関する素養を有する人材が求められている。このため、本講座では、情報通信システムで提供される様々なサービスの社会的背景や技術的背景を理解するとともに、技術分野で広く使われている用語や基本的原理について理解することを目的として、様々な情報通信システムの概要、情報通信システムを支える電波利用、国際的な調和を図る仕組み等について解説する。
+
+Information and Communication Systems have become basic and essential infrastructures for our daily lives in order not only to realize global interactive communications but also to provide various services such as video streaming or to make our socio-economic activities safe and secure. These systems consists of various technologies based on physics or mathematics, and professional knowledges are required to understand them precisely. In addition, as deployment and operation of these systems are based on institutions that includes international agreement, knowledge regarding to institutionalized framework for utilization of Information and Communication Technologies are also necessary to operate them in a prompt manner.
+
+At this point, creation of new innovation utilizing Information and Communication Systems is expected to solve social problems our society is confronted with. In order to realize new innovation, educated people who has enough knowledge about Information and Communication System is required. The goal of this course is to acquire knowledges regarding to basic technical terms and technical principles. In order to accomplish this goal, we handle with overview of various Information and Communication Systems, utilization of radio wave, framework for international harmonization, etc.
+
+";
+	sylb:method "講義式の授業によって、情報通信システムの基本的な技術原理や運用を支える制度、社会経済活動における役割等について理解を深めることを目的としています。本講義で扱う内容は、情報通信システムの専門的知識を必要とする者がより高度な研究を行う際における基礎的な事項であり、また、法制度やビジネス等の他領域に関する専門的知識を必要とする者にとっては様々なサービスの概要や各種制度の背景等を理解する際における基本的な素養になります。
+
+This course will be lectured in a didactic manner. In a series of lectures, basic technical principles of Information and Communication Systems, institutional framework for the operation of these systems, roles of these systems in our social and economic activities, and so on will be lectured in order to deepen knowledge. The contents of this course are basic matters for people who need to acquire professional technical knowledge about Information and Communication Systems to make further research, and are foundation for people who need to acquire knowledge about legal systems or businesses to understand background of various services and institutions.
+
+";
+	sylb:schedule "第1回 情報通信の基礎[ Basis of Information and Communication ]
+通信の概念や通信を実現するための基本的事項、アナログ通信とデジタル通信の違い、標本化と符号化等の情報のデジタル化等、今日の情報通信システムに関する基本的事項について解説を行う。
+
+Basic matters regarding Information and Communication Systems that include concept of telecommunication, difference between analog telecommunication and digital communication, digitalization of information including sampling and encoding, and so on will be addressed in this lecture.
+第2回 電波利用の基礎[ Basis of radio wave utilization ]
+ラジオやテレビ、携帯電話をはじめとする様々な情報通信システムにおいて利用されている電波について、その基本的原理や物理的特性を解説し、その特性に応じた利用形態等について解説を行う。
+
+Radio wave is utilized for radio service, television service, mobile telephone service, etc. Basic principles and physical characteristics of radio wave will be lectured in this lecture. In addition, various radio utilization based on difference of physical characteristics by frequencies will also be addressed.
+第3回 無線通信の基礎[ Basis of radio communication ]
+今日の情報通信システムに広く用いられている電波について理解を深めるため、電波を用いた通信に欠かすことができない変調技術や電波の有効利用を行う多重化技術等、デジタル方式による無線通信の基本的事項について解説を行う。
+
+In order to deepen knowledge about radio utilization that is essential for Information and Communication Systems, basic matters regarding digital radio communication, such as modulation technologies and multiplexing technologies that makes it possible to utilize radio wave in an efficient manner, will be addressed in this lecture.
+第4回 国際的調和の確保[ Securement of international harmonization ]
+情報通信システムはグローバルな規模で構築・運用されているため、その円滑な運用を図るためには国際的な調和を確保することが必要である。通信方式の標準化や電波利用の国際的な取り決め等、通信に関するグローバルな取り決めの概要について解説を行う。
+
+As Information and Communication Systems are constructed and operated globally, securement of international harmonization is necessary in order to operate them smoothly. Thus, overview of international agreement regarding to Information and Communication systems, such as standardization of technical methods, radio utilization, etc., will be addressed in this lecture.
+第5回 固定通信システムの基礎（１）[ Basis of fixed telecommunication systems (1) ]
+基本的なサービスである固定電話及び専用のネットワークで提供されてきたデータ通信サービスについて、それぞれのサービスを踏まえたネットワーク構成の違いや交換システム技術、伝送技術等の変遷について解説を行う。
+
+We will focus on fixed telephone service that is basic communication service and data communication service that is provided by dedicated network. To be more precise, the difference of network structures between them, transition of exchange system and transport system will be addressed in this lecture.
+第6回 固定通信システムの基礎（２）[ Basis of fixed telecommunication system (2) ]
+今や欠かすことのできない情報通信システムであるインターネットについて、ネットワーク構成や交換システム等の基本的な技術的内容や運用体制について概観し、インターネット技術の活用による固定電話ネットワークの発展の方向性について解説を行う。
+
+Internet has become essential Information and Communication System for the society. In this lecture, we will focus on basic technical matters, such as network structure of Internet or data exchange method. In addition, future fixed telecommunication system that utilize Internet technologies will be addressed.
+第7回 進化するブロードバンドサービス[ Evolution of broadband service ]
+動画や音楽の配信サービス等を支えるブロードバンドサービスについて、通信媒体の種類や動作原理等について解説を行う。併せて、ブロードバンドサービスの世界的な普及状況や今後の動向について解説を行う。
+
+In this lecture, we will focus on technologies for broadband services that are basis of various services such as movie or music distribution. In addition, current situation about popularization of broadband service in global market and future trend of broadband service will also be addressed.
+第8回 様々な電波利用（携帯電話等の移動通信システム）[ Various radio utilization (mobile telecommunication system such as cell-phone) ]
+電波を利用した無線通信はパーソナルユースでの利用が進められており、現在では携帯電話の加入者数は国民一人当たり1台以上となるなど日常生活等において不可欠な存在となっている。携帯電話に代表される移動通信システムについて、その変遷や基本的な技術的内容について解説を行う。
+
+Radio communication technologies have been used for personal use and the number of subscriber of cell-phone service in Japan has become larger than the number of its population. In this lecture, we will handle with basic technical matter of cell-phone system and its technical transition.
+第9回 様々な電波利用（衛星測位システム、海上通信システム）[ Various radio utilization (satellite positioning system, maritime communication system) ]
+海上を航行する船舶が安全に目的地に到着するためには、自身の位置や航行している方向等を把握することが必要である。また、遭難等、人命の安全に関わる事態が発生した場合、迅速な救助活動が必要となることから、電波を利用した情報通信システムが構築され、航行の安全を支えている。これらシステムの変遷や概要、国際的な運用体制について解説を行う。
+
+For a vessel on the sea, it is necessary to get to know exact position and direction in order to arrive at its destination safely. In addition, if some accident happened on the sea, immediate rescue effort is required. Because of these reason, Information and Communication Systems that utilize radio wave has been constructed and operated in order to maintain maritime safety. In this lecture, overview of these systems, technical transition of them, and international operation system will be addressed.
+第10回 様々な電波利用（固定マイクロ通信システム、レーダー）[ Various radio utilization (Fixed radio communication system, radar) ]
+テレビの中継回線や防災・行政無線等の重要な無線通信ネットワークを構成しているマイクロ波通信システムや、気象観測等において重要な役割を果たしているレーダーなど、社会経済活動を下支えする重要な無線通信システムの概要や役割、利用状況、今後の動向について解説を行う。
+
+Fixed radio communication systems are used for important radio systems such as interexchange channel for TV service, community wireless system and etc. Radars are used for weather observation. In this lecture, we will focus on overview of these important radio systems. In addition, current situation of these systems and future trend will be addressed.
+第11回 様々な電波利用（無線LAN、Bluetooth等）[ Various radio utilization (wireless LAN, etc) ]
+無線LANやBluetoothなどのデータ通信システムは、場所に関係なくインターネットへの接続等を可能とする技術として広く普及している。手軽に利用可能であることから急速に普及が進んでいるが、多くの利用者が限りある周波数を共有して利用する仕組みやこれらの技術を活用する通信ネットワークの今後の動向について解説を行う。
+
+Data communication systems such as Wireless LAN or Bluetooth are popularized as a tool to access the internet almost anywhere. As these technologies can be used easily, they have been popularized very rapidly. In this lecture, framework to share limited radio frequencies by many users and future trend of data communication system will be addressed.
+第12回 M2Mネットワークを支えるネットワーク技術[ Network technologies that support M2M network ]
+大量の情報を収集・分析して得られるビックデータによって、高度なサービス提供や新たな知見の創出を目指す試みが進められている。ビックデータを支える技術として、モノとモノを繋ぐM2Mネットワークの概要や今後の動向について解説を行う。
+
+“Big Data”, which is emerging new technology that collects huge amount of information and analyzes them, is expected to create new knowledge and provide sophisticated service. One of important technologies for Big Data is M2M network that connects things each other. In this lecture, overview of M2M network and its future trend will be addressed.
+第13回 通信ネットワークの信頼性確保[ Ensuring of reliability of telecommunication network ]
+情報通信システムの複雑化に伴い、通信ネットワークに障害が発生する事例が増加している。情報通信システムの発展によって変化する通信ネットワーク障害の原因や必要となる対策について理解を深めると共に、その信頼性を確保するための方策について解説を行う。
+
+As telecommunication network has become complex, number of telecommunication network failures or accidents has been increasing. In this lecture, causes of network failures or accidents will be revealed and countermeasure to ensure network reliability will be addressed.
+第14回 通信ネットワークのセキュリティ[ Telecommunication network security ]
+情報通信システムの利活用に際しては、扱う情報のセキュリティが確保されていることが必須となる。情報セキュリティに関する基本的考え方について理解を深めると共に、通信ネットワークにおけるセキュリティ確保に向けた取り組みについて解説を行う。
+
+In order to utilize Information and Communication Systems properly, it is essential to ensure information security over these systems. In this lecture, we will learn basic ideas regarding information security and address measures to ensure information security over telecommunication network.
+その他
+*まとめ* これまでの授業内容の総括および補足説明をします。
+
+As conclusions, topics addressed in whole lectures will be summarized and supplementary note will also be illustrated.";

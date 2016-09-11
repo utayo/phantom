@@ -1,0 +1,11 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "システムプログラミング【学期後半】【１４】"@ja;
+	lect:lecture_id "14_C2072";
+	lect:time "2016年度 春学期 火曜日３時限,火曜日４時限";
+	lect:teacher "中村　修";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://web.sfc.keio.ac.jp/~hagino/sp13/";

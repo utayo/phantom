@@ -1,0 +1,263 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B3210";
+	sylb:summary "購買行動や投票する政党など、行動履歴データの多くは数値では与えらず、これらを解析するには、質的なデータの分析が必要になります。この授業では、このような質的なデータを解析するための一般化線形モデルを中心的に扱います。一般化線形モデルは、経済学やマーケティングなどの社会科学や、生物・医学分野などでも幅広く使われている方法で、さまざまな領域に応用することができます。本講義は講義と演習を交互に行い、実際のデータを分析しながら進めて行きます。統計ソフトはRを用います。
+
+";
+	sylb:method "購買行動や投票する政党など、行動履歴データの多くは数値では与えらず、これらを解析するには、質的なデータの分析が必要になります。この授業では、このような質的なデータを解析するための一般化線形モデルを中心的に扱います。一般化線形モデルは、経済学やマーケティングなどの社会科学や、生物・医学分野などでも幅広く使われている方法で、さまざまな領域に応用することができます。 具体的には、線形回帰分析、最尤法、2値データの解析、計数データの解析、順序・名義選択肢データの解析について学習します。 なお、本講義は講義と演習を交互に行い、実際のデータを分析しながら進めて行きます。統計ソフトはRを用います。
+
+";
+	sylb:schedule "第1回 ガイダンス
+講義概要等
+
+第2回 回帰分析(1)　
+単回帰分析
+
+第3回 回帰分析(2)　
+重回帰分析
+
+第4回 Rの準備と演習
+演習で用いるRをインストールし基本的な操作を習得する。
+
+第5回 一般化線形モデル入門
+一般化線形モデルについて紹介する。
+
+第6回 最尤法
+最尤法について説明する。
+
+第7回 モデル選択
+モデル選択の方法について説明する。
+
+第8回 2値データの解析(1)
+ロジスティック回帰分析
+
+第9回 2値データの解析(2)
+ロジスティック回帰分析　R演習
+
+第10回 計数データの解析(1)
+ポアソン回帰モデル
+
+第11回 計数データの解析(2)
+ポアソン回帰モデル　R演習
+
+第12回 順序・名義データの解析(1)
+順序・多項ロジットモデル
+
+第13回 順序・名義データの解析(2)
+順序・多項ロジットモデル
+
+第14回 順序・名義データの解析(3)
+順序・多項ロジットモデル　R演習
+
+その他
+データ分析のレポート作成・提出
+
+";
+	lect:lecture_id"14_B3210";
+	sylb:summary "本コースは、データを理解し評価した上で、データに基づいた合理的な意思決定行うための導入となるように設計されています。学習する内容は、定量的および定性的データの表現と要約統計量、相関と単回帰分析、大数の法則、正規分布と中心極限定理、統計的推論、信頼区間、および、統計的検定。
+
+細かな計算技術ではなく、概念の習得と、データおよび統計解析結果の解釈に焦点を置きます。
+
+This course is designed to serve as a thorough and reasonably comprehensive introduction to understanding, critically evaluating, and making decisions based on data. The following material will be covered: data displays and summary statistics for quantitative and qualitative variables; correlation and simple regression for pairs of variables; the law of large numbers; the normal distribution and the central limit theorem; statistical inference, confidence intervals and statistical hypothesis tests.
+
+The main focus is on understanding a concepts and interpreting data and the results of statistical analysis.
+
+";
+	sylb:method "本コースは、データを理解し評価した上で、データに基づいた合理的な意思決定行うための導入となるように設計されています。学習する内容は、定量的および定性的データの表現と要約統計量、相関と単回帰分析、大数の法則、正規分布と中心極限定理、統計的推論、信頼区間、および、統計的検定。
+
+細かな計算技術ではなく、概念の習得と、データおよび統計解析結果の解釈に焦点を置きます。統計解析をどのように適用していくかを、事例研究、討論、講義、および、グループワークを通じて探求していきます。
+
+This course is designed to serve as a thorough and reasonably comprehensive introduction to understanding, critically evaluating, and making decisions based on data. The following material will be covered: data displays and summary statistics for quantitative and qualitative variables; correlation and simple regression for pairs of variables; the law of large numbers; the normal distribution and the central limit theorem; statistical inference, confidence intervals and statistical hypothesis tests.
+
+The main focus is on understanding a concepts and interpreting data and the results of statistical analysis. We will explore the theory and applications of statistical analysis through a mix of cases, discussions, lectures, and group projects.
+
+";
+	sylb:schedule "第1回 第１週前半　イントロダクション[ 1st week - 1st half: Introduction ]
+1) コースの概要とねらい、進め方説明 
+2) 統計的方法による問題解決の考え方 
+3) データの性質と情報量（４尺度） 
+4) データのもつ情報の要約：視覚的要約（グラフ）、数値的要約（統計量）　 
+1. Intoroduction, the purpose of this course 2. Problem solving by statistical methods 3. Nature of data and amount of information ( 4 scales ) 4. Data display and summary statistics
+第2回 第１週後半　Ｒ言語のインストールとプログラミング入門[ 1st week - 2nd half: Installing R-language software, the first step to programming ]
+1) R言語のインストール 
+2) R言語によるプログラミング入門 
+（演習）グラフ作成（ヒストグラム、棒グラフ、箱ひげ図）、基礎統計量の算出
+
+1. Installing R-language software 2. Introduction to programming by R-language (Exercise) Data display (histogram, bar chart, box and whisker plot), basic statistics
+第3回 第２週前半　母集団とサンプル（１）[ 2nd week - 1st half: Population and sample (1) ]
+1) 統計調査の論理 
+2) サンプルとしてのデータ 
+3) ランダム・サンプリング 
+4) サンプリング誤差
+
+1. Logic of statistical survey 2. Data as sample 3. Random sampling 4. Sampling error
+第4回 第２週後半　母集団とサンプル（２）[ 2nd week - 2nd half: Population and sample (2) ]
+1) 分布 
+2) ヒストグラムから正規分布へ 
+3) 正規分布 
+4) 基準化、基準正規分布 
+（演習）乱数→ヒストグラムの作成 
+（演習）pnorm, qnorm
+
+1. Distribution 2. Histogram to normal distribution 3. Normal Distribution 4. Standardize and standardized normal distribution (Exercise) Generation of random numbers -> normal distribution (Exercise) pnorm, qnorm
+第5回 第３週前半　統計的推定（１）[ 3rd week - 1st half: Statistical inference (1) ]
+1) 統計量と母数 
+2) サンプル平均についての考察 
+（演習）サンプル平均値についての実験（サンプル数、母分散の影響） 
+3) 大数の法則 
+4) 中心極限定理 
+5) 母平均の点推定
+
+1. Statistics and parameters 2. Consideration on sample means (Exercise) Experiments on sample means (effects by sample seize or population variance) 3. The law of large numbers 4. The central limit theorem 5. Point estimation of population mean
+第6回 第３週後半　統計的推定（２）[ 3rd week - 2nd half: Statistical inference (2) ]
+1) 母平均の区間推定 
+（演習）点推定、区間推定 
+2) 母分散の点推定、区間推定 
+（演習）χ2分布についての実験
+
+1. Interval estimation of population mean (Exercise) Point estimation, interval estimation 2. Point/interval estimation of population variance (Exercise) Experiments on chi-square distribution
+第7回 第４週前半　関連情報量の記述と指標化（１）[ 4th week - 1st half: relationship between paired variables and indices (1) ]
+1) 散布図と相関係数 
+2) 分割表とχ2値、特化係数 
+（演習）χ2分布操作
+
+1. Scattergram and correlation coefficient 2. Contingency table and chi-square, specialized index (Exercise) operation of chi-square distribution
+第8回 第４週後半　関連情報量の記述と指標化（２）[ 4th week - 2nd half: relationship between paired variables and indices (2) ]
+1) 相関比
+
+1. Correlation ratio
+第9回 第５週前半　統計的検定（１）[ 5th week - 1st half: Statistical hypothesis tests (1) ]
+1) 分割表の関連度の検定（χ2検定） 
+2) ２群の平均値の差の検定（t検定） 
+3) ブートストラップ
+
+1. Chi-square test for the independence of contingency table 2. Test of the equality of two means (t test) 3. Bootstrap methods
+第10回 第５週後半　統計的検定（２）[ 5th week - 2nd half: Statistical hypothesis tests (2) ]
+1) 一元配置分散分析 
+（演習）Ｆ分布 
+（演習）Ｆ分布操作 
+2) 二元配置分散分析と交互作用
+
+1. One-way analysis of variance (ANOVA) (Exercise) F-distribution (Exercise) Operation of F-distribution 2. Two-way analysis of variance and interaction
+第11回 第６週前半　ミニ・プロジェクト計画（グループワーク）[ 6th week - 1st half: Mini project (1) ]
+第12回 第６週後半　ミニ・プロジェクト実施（グループワーク）[ 6th week - 2nd half: Mini project (2) ]
+第13回 第７週前半　グループ発表（１）[ 7th week - 1st half: Final presentation (group) ]
+第14回 第７週後半　グループ発表（２）[ 7th week - 2nd half: Final presentation (group) ]
+その他
+ミニ・プロジェクトについてのレポート作成・提出
+
+Individual Report on mini project";
+	lect:lecture_id"14_B3210";
+	sylb:summary "この授業では「統計基礎」の内容を踏まえ、データサイエンスの理論と実践の定着と応用的理解を目的とする。現状について問題を発見し、その解決のために収集したデータを元に仮説やモデルを構築し、それに対する検証を行って問題を解決する能力を養う。
+
+具体的には、線型モデルの応用的な話題（残差分析や変数選択、ロジスティック回帰など）、実験計画の概念と理解、最尤法と情報量に関する話題、統計的検定に関する話題（比率の検定、適合度検定、標本の大きさ、検出力など）、多変量解析の手法（主成分分析、判別分析など）、モデルの検証やシュミレーションに関する技法（交差確認法やMCMCなど）などを扱う予定であるが、詳しくはシラバスにて提示する。
+
+この授業では、統計ソフトとしてR言語を使用する。「統計基礎」や旧「データ分析」でRとデータサイエンスの基礎理論を習得していることが望ましい。
+
+";
+	sylb:method "多変量のデータをそのままで解釈することは難しい. そこで, そのデータに含まれる情報をなるべく損失が少ないように低次元に落として解釈し, また個体の分類に役立たせることが多変量解析の最大のねらいである. その手法には多々あるが, この講義では外的基準のある手法として「線形回帰分析」「判別分析」「ロジスティック回帰分析」を, 外的基準のない手法として「主成分分析」「因子分析」「多次元尺度法」「クラスター分析」といった手法を取り上げ, それらの解析法を体得することによって, データを様々な角度から眺める能力を養う.余裕があれば「分散分析」も扱う. 解析のためのツールとしてR言語を用いる. 理論と実践の両立を目指す.
+
+";
+	sylb:schedule "第1回 イントロダクション / 単回帰分析の基礎
+本講義の概略の説明, 最小二乗法, 決定係数, Rでの解析
+
+第2回 単回帰分析の実践
+正規線形モデル, 標準誤差, 回帰係数の検定, 推定値・予測値の区間推定, 残差分析
+
+第3回 重回帰分析の基礎
+行列表現, 多重共線性, みかけの相関, 偏相関, モデル(変数)選択, 自由度調整済み回帰係数
+
+第4回 重回帰分析の実践 / ロジスティック回帰分析
+最尤法, AIC, 非線形回帰モデル, ロジスティック回帰モデルの理論と実践
+
+第5回 主成分分析の基礎
+相関係数行列からの主成分の導出, 主成分得点, 主成分負荷量
+
+第6回 主成分分析の実践
+分散共分散行列からの主成分の導出, Rでの解析
+
+第7回 因子分析の基礎
+因子分析の考え方, 因子負荷量の推定(主因子法と最尤法)
+
+第8回 因子分析の実践
+因子の回転, 因子得点の推定
+
+第9回 正準相関分析
+正準相関分析の理論と実践
+
+第10回 判別分析の基礎
+正準判別分析の考え方, Rでの解析
+
+第11回 判別分析の実践
+線形判別, 2次判別, ロジスティック回帰との関連性
+
+第12回 多次元尺度構成法の基礎
+古典的・計量多次元尺度構成法の理論と実践
+
+第13回 多次元尺度構成法の実践
+非計量多次元尺度構成法の理論と実践
+
+第14回 クラスター分析
+階層的手法, 様々なクラスター間の距離と鎖状効果, k-means法
+
+その他
+課題・レポート
+
+";
+	lect:lecture_id"14_B3210";
+	sylb:summary "With the coming of the big data era, statistical learning has become a very hot field in many scientific areas including marketing, finance, and other business disciplines. Statistical learning refers to a set of tools for modeling and understanding complex data sets. It is a recently developed area in statistics and blends with parallel developments in computer science and, in particular, machine learning. The main objective of this course is to familiarize you with the basic ideas and methods of statistical learning by focusing on "regression" and "classification".
+
+ビッグデータ時代の到来とともに，統計的学習に対する関心が高まっています．統計的学習は，従来に比べはるかに大規模で複雑なデータをモデリングし理解するための新たな統計解析の手法です．その根底にある考え方は通常の統計学と共通していますが，コンピュテーショナルな方法や機械学習を活用した柔軟なアプローチを取ります．本授業では，取り上げる内容を「回帰」と「分類」に限定し， 統計的学習理論の理解に必要な基礎知識と考え方を身につけることを目的とします．
+
+";
+	sylb:method "This course is designed to familiarize students with the basic ideas and methods of statistical learning. The textbook is: James et al. (2013), An Introduction to Statistical Learning: with Applications in R , which is available as an E-book on http://kosmos.lib.keio.ac.jp, with no charge. Most contents of Chapters 1 - 6 of the text are planned to be covered.
+
+Emphases are on understanding the ideas behind the subject rather than its mathematical description. During the course a variety of data sets are analyzed using R to help students deepen their understanding.
+
+";
+	sylb:schedule "第1回 Introduction
+An Overview of Statistical Learning
+
+第2回 Introduction to R
+Basic Commands, Graphics, Loading Data
+
+第3回 Linear Regression I
+Simple Linear Regression
+
+第4回 Linear Regressin II 
+Multiple Linear Regression
+
+第5回 Linear Regression III 
+Some Considerations in Linear Regression
+
+第6回 Linear Regression IV 
+Further Considerations in Linear Regression
+
+第7回 Classification I
+Logistic Model
+
+第8回 Classification II
+Discriminant Analysis
+
+第9回 Classification III
+K-Nearest Neighborhood method
+
+第10回 Resampling Methods
+Cross-validation, Bootstrap
+
+第11回 Linear Model Selection and Regularization I
+Subset Selection
+
+第12回 Linear Model Selection and Regularization II
+Shrinkage Methods
+
+第13回 Linear Model Selection and Regularization III
+Dimension Reduction Methods
+
+第14回 ＜Student Presentations＞ 
+Your opportunity to make a presentation of your data analysis project and earn extra grade points. 
+その他
+Review of the Course
+
+";

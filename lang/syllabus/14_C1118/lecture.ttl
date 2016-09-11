@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "アジア・大洋州地域論【１４】"@ja;
+	lect:lecture_id "14_C1118";
+	lect:time "2016年度 春学期 金曜日３時限";
+	lect:teacher "鄭　浩瀾";
+	lect:campas "SFC";
+	lect:course_type "講義";

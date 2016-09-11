@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "アジアワークショップ(GIGA/GG)【１４】"@ja;
+	lect:lecture_id "14_C1100";
+	lect:time "2016年度 秋学期 火曜日３時限";
+	lect:teacher "梅垣　理郎、ヴ　レ タオ チ、大川　恵子";
+	lect:campas "SFC";
+	lect:course_type "講義、遠隔あり";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "創造社会論【学期前半】【１４】"@ja;
+	lect:lecture_id "14_B6118";
+	lect:time "2016年度 春学期 水曜日１時限,水曜日２時限";
+	lect:teacher "井庭　崇";
+	lect:campas "SFC";
+	lect:course_type "講義";

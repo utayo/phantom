@@ -1,0 +1,91 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2116";
+	sylb:summary "本講義では、いくつかの「未踏領域」を例に挙げながら、実際にその領域のデザイン戦略を検討し、実践的にコミュニケーションデザインに取り組む。本講義では、日本を代表するアートディレクター/クリエイティブディレクターである佐藤可士和氏を迎え、実践的な授業形式を経て、ビジュアル・アイデンティティの提案を行う。以下に今年度取り扱う予定のテーマを挙げる。
+
+テーマ：「強靭健康社会のデザイン」患者が積極的に関われる医療のあり方。全く新しい在宅医療の概念を創造する。本講義はワークショップ形式で、グループワークでアイディアの開発やプロトタイプの製作を通して新しいコンセプトに沿ったデザインを行う。各ステージごとにプレゼンテーションを行い、佐藤可士和氏を中心に担当教員が効果的なデザイン戦略を構築するためのノウハウを指導する。
+
+Strategic Design on Uncharted Horizons This class quests for actualizing the communication design on “Uncharted Horizons” thorough strategic design studies. Student will be provided a variety of practices of visual Identity design by invited Professor Kashiwa Sato, who is a leading Art Director/Creative Director in Japan.
+
+Theme: Designing tenacious healthy society Nowadays, patients are expected to participate in their own medical care program actively to realize Active Healthcare Society. In this year’s class, we will propose a new concept/standard of Home Healthcare. Class will be formated in groups to develop the ideas through discussion and prototyping. Students can learn the knowhow of effective strategic design in workshop style. They can also get feedbacks from Professors through presentations in each stage.
+
+";
+	sylb:method "本講義では、いくつかの「未踏領域」を例に挙げながら、実際にその領域のデザイン戦略を検討し、実践的にコミュニケーションデザインに取り組む。本講義では、日本を代表するアートディレクター/クリエイティブディレクターである佐藤可士和氏を迎え、実践的な授業形式を経て、デザイン戦略の提案を行う。また、扱う領域の専門家をゲストとして迎え、常に現場の声を反映しながら実践的に進めていく。
+
+This class quests for actualizing the communication design on “Uncharted Horizons” thorough strategic design studies. Student will be provided a variety of practices of visual Identity design by invited Professor Kashiwa Sato, who is a leading Art Director/Creative Director in Japan. Also the experts from a variety of fields will be invited to the class, and they will provide students practical applications so that students are going to learn the theories as well as real world implications.
+
+";
+	sylb:schedule "第1回 オリエンテーション[ Orientation ]（担当：村井純・佐藤可士和・筧康明・オオニシタクヤ）
+第1回 オリエンテーション 
+専門家を招いてのオリエンテーションを行う。現状の未踏領域の概要を説明し、特にその領域におけるコミュニケーションデザインおよびメディア戦略の現状をヒアリングとディスカッションを行う。グループ分けを発表。これ以降はグループワークで行う。
+
+#1 Orientation / Introducing the theme with guest experts and outlining the field of ‘Uncharted Horizons.’ Hearing and discussing communication design and media strategy. Members of each group will be announced at the first day of this class.
+第2回 グループディスカッション1[ Group Discussion1 ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第2回 グループディスカッション 
+ヒアリングを受けて、各チームでこの新しい領域にどのようなメディア戦略が欠けているかを議論する。
+
+#2 Group Discussion / Finding and discussing the missing parts of media strategy in this new sphere.
+第3回 課題設定・コンセプトメイキング プレゼンテーション[ Defining themes, Concept-making presentation ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第3回 課題設定・コンセプトメイキング プレゼンテーション 
+問題点をまとめたうえで発表し、教員によるフィードバックを行う。特にここで発見された問題点を、学生たちの個人レベルの問題意識から、普遍性や社会性を持つメタレベルに引き上げることが目標。今後の調査方法についても指導を行う。
+
+#3 Defining themes, Concept-making presentation / First presentation session: aiming to raise our discussion to universal and social level starting from student level. Feeding back to each group about research method.
+第4回 グループディスカッション2[ Group discussion2 ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第4回 グループディスカッション 
+一回目のプレゼンテーションのフィードバックを受けて、より明確な問題抽出を行う。
+
+#4 Group discussion / Group discussion with following the feedback of #3 session in order to find out indepth problems.
+第5回 課題設定・コンセプトメイキング プレゼンテーション[ Defining themes, Concept-making presentation ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第5回 アイデア開発 プレゼンテーション 
+一回目の発表を受けて改善したコンセプトのプレゼンテーションを行う。ここでは提出されたアイデアがどのような社会的効果を持ちうるのか、それを効果的に行うためには、どのような製作物が必要 かについて議論する。特に前例のないものの効果を推定するにあたって、何を信じ、何を疑うべきかについての戦略的な思考方法について具体的な指導を行う。
+
+#5 Presentation for developing ideas / Second presentation session: aiming to discuss social impact that affects in the context, and what kind of production might be effective. Learning how to strategize the communication design on uncharted horizon.
+第6回 グループディスカッション3[ Group Discussion3 ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第6回 問題抽出2 
+2回目のプレゼンテーションのフィードバックを受けて、問題意識の抽象度、展開可能性などを精査する。
+
+#6 Discovering Problems / Group discussion following the feedback of #5 session. Further examination for other issues and possibilities.
+第7回 アイデア開発 プレゼンテーション[ Presentation for developing ideas ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第7回 アイデア開発 プレゼンテーション 
+抽出した問題点、課題点からこの領域における、プロダクトやコミュニケーションデザインのあり方についてコンセプトを立て、プレゼンテーションを行う。どのように活動を行えば市民に新しい視点でこの領域に着目させることができるかについて議論し、より効果的なアイデアを得るための着眼点について教員よりフィードバックを受ける。
+
+#7 Presentation for developing ideas / Third presentation session: aiming to discuss product design and communication design which leads people’s attention to our topic.
+第8回 グループディスカッション4[ Group discussion4 ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第8回 グループディスカッション 
+3回目のプレゼンテーションのフィードバックを受けて、問題意識の抽象度、展開可能性などを精査する。
+
+#8 Group discussion / Group discussion following the feedback of #7 session. Further examination for other issues and possibilities.
+第9回 実施プラン プレゼンテーション[ Implementing presentation ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第9回 実施プラン1 
+コミュニケーションツールとしての具体的なアイデアの提案を行う。ムービー、ウェブサイト、プロダクトなどのイメージボードを作成し、発表を行う。この段階では表現が戦略的なコンセプトを実体化したものとなっているかをチェックし、一環したポリシーを展開するための視覚情報コントロールについて学ぶ。
+
+#9 Implementation plan1 / Fourth presentation session: Finding concrete ideas as communication tools. Making image-board for the final presentation (movie, website, product, etc.). Learning how to actualize the concept and visualizing its information.
+第10回 グループディスカッション5[ Group discussion5 ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第10回 プレゼンテーション製作 
+最終発表に向けて、プレゼンテーション手法のブラッシュアップを行う。 
+#10 Producing presentation / Increasing the quality of the presentation.
+第11回 最終発表準備[ Preparation for the final review ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第11回 実施プラン2 
+最終発表に向けたプロトタイプ(モックアップやデモムービー、サンプルプログラム、あるいは実験的な活動の記録映像など)の制作を行い発表する。製作方法についてはグループごとの指導を行い、限られた時間内で効果的なプロトタイプを製作するノウハウについて学習する。製作物のクオリティがコミュニケーションの効果にどのような影響をもたらすかについても指導を行い、効果的なクオリティコントロールを学ぶ。
+
+#11 Implementation plan2 / Fifth Presentation: presenting pre-final version of prototype (mockup, demo movie, sample program, documental video, etc.). Learning knowhow of making prototype timely and effectively, and also the quality control for effective communication designs.
+第12回 最終発表準備[ Preparation for the final review ]（担当：佐藤可士和・筧康明・オオニシタクヤ）
+第12回 プレゼンテーション製作 
+最終発表に向けて、プレゼンテーション手法のブラッシュアップを行う。
+
+#12 Production of the final review presentation / Increasing the quality of the presentation.
+第13回 最終発表[ Final Review and comments ]（担当：村井純・佐藤可士和・筧康明・オオニシタクヤ）
+第13回 最終プレゼンテーション 
+全グループによるプレゼンテーション発表。この領域の専門家を招聘し、教員とともに講評を行う。特に優れたプレゼンテーションについては、実現化に向けた議論を行い、将来につなげる。
+
+#13 Final presentation / Inviting experts of the theme in this session, and providing critics and feedbacks. Considering the actual implementation in society as award of this class.
+第14回 講評[ Final Review and comments ]（担当：村井純・佐藤可士和・筧康明・オオニシタクヤ）
+第14回 最終プレゼンテーション 
+全グループによるプレゼンテーション発表。この領域の専門家を招聘し、教員とともに講評を行う。特に優れたプレゼンテーションについては、実現化に向けた議論を行い、将来につなげる。
+
+#14 Final presentation / Inviting experts of the theme in this session, and providing critics and feedbacks. Considering the actual implementation in society as an award of this class.
+その他
+* アーカイブ* 作成したツール／サービス／プロダクトに関するアーカイブを作成する。
+
+Archive: Producing archives on created tools, services and products.";

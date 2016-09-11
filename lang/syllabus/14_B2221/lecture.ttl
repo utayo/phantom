@@ -1,0 +1,39 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ１FA【１４】"@ja;
+	lect:lecture_id "14_B2221";
+	lect:time "2016年度 春学期 火曜日１時限,水曜日１時限,木曜日２時限,金曜日２時限";
+	lect:teacher "岡見　さえ、オブリ，　フロリアン、ガイヤル，　ニコラ、北村　亜矢子";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ１FB【１４】"@ja;
+	lect:lecture_id "14_B2221";
+	lect:time "2016年度 春学期 火曜日２時限,水曜日２時限,木曜日２時限,金曜日１時限";
+	lect:teacher "國枝　孝弘、ガイヤル，　ニコラ、西川　葉澄、マレシャル，　ベアトリス";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ１FC【１４】"@ja;
+	lect:lecture_id "14_B2221";
+	lect:time "2016年度 春学期 火曜日１時限,水曜日２時限,木曜日２時限,金曜日２時限";
+	lect:teacher "ルロワ，　パトリス、國枝　孝弘、野澤　督、ヴィアート，　クロエ";
+	lect:campas "SFC";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ１FA【１４】"@ja;
+	lect:lecture_id "14_B2221";
+	lect:time "2016年度 秋学期 火曜日１時限,水曜日２時限,木曜日２時限,金曜日２時限";
+	lect:teacher "ルロワ，　パトリス、ガイヤル，　ニコラ、北村　亜矢子、野澤　督";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+	lect:homepage "http://french.sfc.keio.ac.jp/home/classes/intensive/";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ１FB【１４】"@ja;
+	lect:lecture_id "14_B2221";
+	lect:time "2016年度 秋学期 火曜日２時限,水曜日２時限,木曜日２時限,金曜日１時限";
+	lect:teacher "西川　葉澄、ガイヤル，　ニコラ、マレシャル，　ベアトリス、山根　祐佳";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+	lect:homepage "http://french.sfc.keio.ac.jp/home/classes/intensive/";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "イスラームと現代社会【１４】"@ja;
+	lect:lecture_id "14_B6129";
+	lect:time "2016年度 春学期 金曜日４時限";
+	lect:teacher "奥田　敦";
+	lect:campas "SFC";
+	lect:course_type "講義";

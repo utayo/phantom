@@ -1,0 +1,18 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "スクリプト言語プログラミング基礎(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B4005";
+	lect:time "2016年度 春学期 火曜日２時限";
+	lect:teacher "マクスディ，　ウチュウ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "スクリプト言語プログラミング基礎【１４】"@ja;
+	lect:lecture_id "14_B4005";
+	lect:time "2016年度 秋学期 火曜日３時限";
+	lect:teacher "服部　隆志";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://web.sfc.keio.ac.jp/~hattori/script-lang/";

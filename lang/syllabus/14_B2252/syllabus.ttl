@@ -1,0 +1,344 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B2252";
+	sylb:summary "インテンシブコースは、ＳＦＣ創設当初から継続して開講されている、いわばマレー・インドネシア語プログラムの中心的コースです。インテンシブ２は、インテンシブ１またはベーシック２を修了した学生を対象にしたクラスで、週４回の授業で、集中的かつ効率的にインドネシア語の中級レベルの能力を身につけることを目指します。授業では文法、会話、語彙構築、読み書きのスキルを重点的に学びます。同時に、色々な専門を持つ講師陣たちから、インドネシアやマレーシアの社会、文化についても学ぶことができます。 このレベルを修了すると、インドネシア語で自分の考えや見方などを、かなり自由に表現できるだけの能力を習得することができるようになります。またインドネシア語技能検定試験Ｃ級程度のレベルに相当する学力を身につけることができます。
+Kursus Intensif dua merupakan lanjutan dari kursus Intensif satu atau Basic 2. Maksud utama kursus ini adalah meningkatkan kemahiran mahasiswa di bidang tatabahasa, kegunaan imbuhan-imbuhan dan kemahiran percakapan dalam bahasa Indonesia. Mahasiswa yang telah lulus ujian terakhir di taraf ini diharapkan menguasai kemahiran bahasa Indonesia untuk membuat presentasi. Selain itu, setelah menyelesaikan Intensif 2, mahasiswa juga diharapkan mempunyai kemahiran bahasa Indonesia setara dengan Level C di Ujian Kemahiran Bahasa Indonesia.
+";
+	sylb:method "このクラスはインテンシブ１ 、またはベーシック２を修了した学生を対象としており、マレー・インドネシア語プログラムの中級レベルのクラスです。授業では文法、会話、語彙構築、読み書きのスキルを中心に学びます。このレベルを修了すると、専門分野の論文執筆や専門書の読解はまだやや困難かもしれませんが、インドネシア語で自分の考えや見方などをかなり自由に表現できるだけの能力を習得することができます。またインドネシア語技能検定Ｃ級レベルの学力を身につけることが出来ます。 
+授業は基本的に、日本人教員と外国人教員とのチームで行います。日本人教員は主として日本語で文法の解説等を行います。また外国人教員は、基本的に授業内ではインドネシア語のみを使用し、補助的に英語を使用します。外国人教員は、主として会話の練習に重点を置いた授業を行います。 
+";
+	sylb:schedule "第1回 第１週 Review Buku Yasashii
+Review in the form of conversation, game or group tasks.
+
+第2回 第１週：Liburan
+This unit talks about holiday. Students will report their previous holiday.
+
+第3回 第１週：Liburan
+This unit talks about holiday. Students will report their previous holiday.
+
+第4回 第１週 文法16課
+疑問代名詞apa, siapa、疑問副詞、疑問詞＋saja、重複
+
+第5回 第２週 文法16課
+疑問代名詞apa, siapa、疑問副詞、疑問詞＋saja、重複
+
+第6回 第２週：Mengantar berjalan-jalan
+This unit feature a passage on local tourist place. At the end of the unit, student will be able to create a conversation on making a plan for a sightseeing.
+
+第7回 第２週：Mengantar berjalan-jalan & Presentation preparation
+This unit feature a passage on local tourist place. At the end of the unit, student will be able to create a conversation on making a plan for a sightseeing.
+
+第8回 第２週 文法17課
+前置詞
+
+第9回 第３週 文法17課
+前置詞
+
+第10回 第３週：Presentation
+Student presentation
+
+第11回 第３週：Presentation
+Student presentation
+
+第12回 第３週 文法18課
+接続詞
+
+第13回 第４週 Bertemu teman Indonesia
+This unit will feature the usage of 'sudah pernah' and 'belum pernah'.
+
+第14回 第４週：Makan di luar
+This unit features adjective to describe a restaurant. At the end of the unit, student will be able to create a simple restaurant review.
+
+第15回 第４週：Makan di luar
+This unit features adjective to describe a restaurant. At the end of the unit, student will be able to create a simple restaurant review.
+
+第16回 第４週 文法18課
+接続詞
+
+第17回 第５週 文法19課
+me + 語根 + kan
+
+第18回 第５週：文法19課、小テスト
+me + 語根 + kan、小テスト
+
+第19回 第５週：Kampus Saya
+This unit talks about campus and its description.
+
+第20回 第５週 Kampus Saya (poster making)
+This unit talks about campus and its description.
+
+第21回 第６週 文法20課
+me + 語根 + i
+
+第22回 第６週：文法20課
+me + 語根 + i
+
+第23回 第６週：Festival di Indonesia
+This unit talks about festivals in Indonesia.
+
+第24回 第６週 Festival di Indonesia
+This unit talks about festivals in Indonesia.
+
+第25回 第７週　文法21課
+受動態
+
+第26回 第７週：文法21課
+受動態
+
+第27回 第７週：中間テスト（tes berbicara)
+Mid Term Speaking test
+
+第28回 第７週 Tes Berbicara
+Mid Term Speaking Test
+
+第29回 第８週：中間テスト
+第30回 第８週：文法22課
+名詞構造の拡大、yangの用法、関係代名詞
+
+第31回 第８週 Membatik
+This unit talks about Indonesian's handicraft.
+
+第32回 第８週 Membatik
+This unit talks about Indonesian's handicraft.
+
+第33回 第９週：文法22課
+名詞構造の拡大、yangの用法、関係代名詞
+
+第34回 第９週：文法23課
+接頭辞ter-
+
+第35回 第９週 Festival di Jepang
+This unit talks about Festivals in Japan.
+
+第36回 第９週 Festival di Jepang.
+This unit talks about Festivals in Japan.
+
+第37回 第１０週：文法23課
+接頭辞ter-
+
+第38回 第１０週：文法24課
+memper - 動詞、付加疑問文
+
+第39回 第１０週 Presentation
+Student presentation
+
+第40回 第１０週 Presentation
+Student presentation
+
+第41回 第１１週：文法24課、小テスト
+memper - 動詞、付加疑問文、小テスト 
+第42回 第１１週：文法25課 
+接頭辞 pe-、接尾辞 -an
+
+第43回 第１１週 Membatik
+Indonesian handicraft
+
+第44回 第１１週 Membatik
+Indonesian handicraft
+
+第45回 第１２週：文法25課
+接頭辞 pe-、接尾辞 -an
+
+第46回 第１２週：文法26課
+接辞pe - an、per - an
+
+第47回 第１２週 Hari Lebaran di Indonesia
+This unit talks about Lebaran in Indonesia.
+
+第48回 第１２週 Hari Lebaran di Indonesia
+This unit talks about Lebaran in Indonesia.
+
+第49回 第１３週：文法26課
+接辞pe - an、per - an
+
+第50回 第１３週：文法27課
+接辞 ke-an
+
+第51回 第１３週 Pulau terbesar di Indonesia
+This unit talks about islands in Indonesia
+
+第52回 第１３週 Pulau terbesar di Indonesia
+This unit talks about islands in Indonesia
+
+第53回 第１４週：文法27課
+接辞 ke-an
+
+第54回 第１４週：期末テスト（筆記）
+第55回 第１４週 Speaking Test
+Students will be interviewed individually.
+
+第56回 第１４週 Final Interview
+Students will be interviewed individually.
+
+その他
+その他、必要に応じて、補習やインドネシア語検定に向けた学習を実施する予定。
+
+";
+	lect:lecture_id"14_B2252";
+	sylb:summary "インテンシブコースは、ＳＦＣ創設当初から継続して開講されている、いわばマレー・インドネシア語プログラムの中心的コースです。インテンシブ２は、インテンシブ１またはベーシック２を修了した学生を対象にしたクラスで、週４回の授業で、集中的かつ効率的にインドネシア語の中級レベルの能力を身につけることを目指します。授業では文法、会話、語彙構築、読み書きのスキルを重点的に学びます。同時に、色々な専門を持つ講師陣たちから、インドネシアやマレーシアの社会、文化についても学ぶことができます。 このレベルを修了すると、インドネシア語で自分の考えや見方などを、かなり自由に表現できるだけの能力を習得することができるようになります。またインドネシア語技能検定試験Ｃ級程度のレベルに相当する学力を身につけることができます。
+Kursus Intensif dua merupakan lanjutan dari kursus Intensif satu atau Basic 2. Maksud utama kursus ini adalah meningkatkan kemahiran mahasiswa di bidang tatabahasa, kegunaan imbuhan-imbuhan dan kemahiran percakapan dalam bahasa Indonesia. Mahasiswa yang telah lulus ujian terakhir di taraf ini diharapkan menguasai kemahiran bahasa Indonesia untuk membuat presentasi. Selain itu, setelah menyelesaikan Intensif 2, mahasiswa juga diharapkan mempunyai kemahiran bahasa Indonesia setara dengan Level C di Ujian Kemahiran Bahasa Indonesia.
+";
+	sylb:method "このクラスはインテンシブ１ 、またはベーシック２を修了した学生を対象としており、マレー・インドネシア語プログラムの中級レベルのクラスです。授業では文法、会話、語彙構築、読み書きのスキルを中心に学びます。このレベルを修了すると、専門分野の論文執筆や専門書の読解はまだやや困難かもしれませんが、インドネシア語で自分の考えや見方などをかなり自由に表現できるだけの能力を習得することができます。またインドネシア語技能検定Ｃ級レベルの学力を身につけることが出来ます。 
+授業は基本的に、日本人教員と外国人教員とのチームで行います。日本人教員は主として日本語で文法の解説等を行います。また外国人教員は、基本的に授業内ではインドネシア語のみを使用し、補助的に英語を使用します。外国人教員は、主として会話の練習に重点を置いた授業を行います。 
+";
+	sylb:schedule "第1回 第１週 Liburan (1)
+This unit talks about holiday. Students will report their previous holiday.
+
+第2回 第１週：文法16課
+疑問代名詞apa, siapa、疑問副詞、疑問詞＋saja、重複
+
+第3回 第１週：Liburan
+This unit talks about holiday. Students will report their previous holiday.
+
+第4回 第 2 週 文法16課
+疑問代名詞apa, siapa、疑問副詞、疑問詞＋saja、重複
+
+第5回 第２週 Mengantar berjalan-jalan
+This unit feature a passage on local tourist place. At the end of the unit, student will be able to create a conversation on making a plan for a sightseeing.
+
+第6回 第２週：文法17課
+前置詞
+
+第7回 第２週：Mengantar berjalan-jalan (2)
+This unit feature a passage on local tourist place. At the end of the unit, student will be able to create a conversation on making a plan for a sightseeing.
+
+第8回 第２週 文法17課
+前置詞
+
+第9回 第３週 文法18課
+接続詞
+
+第10回 第３週：Presentation Preparation
+Student presentation
+
+第11回 第３週：文法18課
+接続詞
+
+第12回 第３週 presentation
+Student presentation
+
+第13回 第４週 文法19課
+me + 語根 + kan
+
+第14回 第４週：Makan di luar (1)
+This unit features adjective to describe a restaurant. At the end of the unit, student will be able to create a simple restaurant review.
+
+第15回 第４週：文法19課
+me + 語根 + kan
+
+第16回 第４週 Makan di luar (２)
+This unit features adjective to describe a restaurant. At the end of the unit, student will be able to create a simple restaurant review.
+
+第17回 第５週 文法２０課
+me + 語根 + i
+
+第18回 第５週：Kampus Saya　（１）
+This unit talks about campus and its description.　me + 語根 + kan、小テスト
+
+第19回 第５週：文法20課
+me + 語根 + i
+
+第20回 第５週 Kampus Saya (poster making)
+This unit talks about campus and its description.
+
+第21回 第６週 文法21課
+受動態
+
+第22回 第６週：Festival di Indonesia (1)
+This unit talks about festivals in Indonesia.
+
+第23回 第６週：Festival di Indonesia (2)
+This unit talks about festivals in Indonesia.
+
+第24回 第６週 文法21課
+受動態
+
+第25回 第７週　文法21課
+受動態
+
+第26回 第７週：中間テスト
+第27回 第７週：中間テスト（tes berbicara)
+Mid Term Speaking test
+
+第28回 第７週 Tes Berbicara
+Mid Term Speaking Test
+
+第29回 第８週：文法22課
+名詞構造の拡大、yangの用法、関係代名詞
+
+第30回 第８週：文法22課
+名詞構造の拡大、yangの用法、関係代名詞
+
+第31回 第８週 Membatik (1)
+This unit talks about Indonesian's handicraft.
+
+第32回 第８週 文法23課
+接頭辞ter-
+
+第33回 第９週：Membatik (2)
+This unit talks about Indonesian's handicraft.
+
+第34回 第９週：文法23課
+接頭辞ter-
+
+第35回 第９週 Presentation Preparation
+第36回 第９週 文法24課
+memper - 動詞、付加疑問文
+
+第37回 第１０週：presentation preparation
+第38回 第１０週：文法24課
+memper - 動詞、付加疑問文
+
+第39回 第１０週 Presentation
+Student presentation
+
+第40回 第１０週 文法25課 小テスト
+接頭辞 pe-、接尾辞 -an 小テスト
+
+第41回 第１１週：Presentation
+Student presentation
+
+第42回 第１１週：文法26課 
+接辞pe - an、per - an
+
+第43回 第１１週 Hari Libur di Indonesia
+Indonesian national and religious holidays.
+
+第44回 第１１週 文法26課
+接辞pe - an、per - an
+
+第45回 第１２週：Hari Libur di Indonesia
+Indonesian national and religious holidays.
+
+第46回 第１２週：文法26課
+接辞pe - an、per - an
+
+第47回 第１２週 Pulau Terbesar di Indonesia
+This unit talks about islands in Indonesia
+
+第48回 第１２週 文法27課
+接辞 ke-an
+
+第49回 第１３週：Pulau Terbesar di Indonesia
+This unit talks about islands in Indonesia
+
+第50回 第１３週：文法27課
+接辞 ke-an
+
+第51回 第１３週 Review and Game
+第52回 第１３週 Review
+第53回 第１４週：Review
+接辞 ke-an
+
+第54回 第１４週：期末テスト（筆記）
+第55回 第１４週 Speaking Test
+Students will be interviewed individually.
+
+第56回 第１４週 Final Interview
+Students will be interviewed individually.
+
+その他
+その他、必要に応じて、補習やインドネシア語検定に向けた学習を実施する予定。
+
+";

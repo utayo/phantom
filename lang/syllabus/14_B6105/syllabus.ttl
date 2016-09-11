@@ -1,0 +1,78 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6105";
+	sylb:summary "ミュージアムの未来像をデザインする：　 「世界のミュージアム化」が進んでいる。膨大なモノや情報が世界中で生み出され、ミュージアムの専門領域であった「保存」は、いまや人間活動が直面する普遍的な課題になりつつある。時代を経て選別された歴史的資産だけでなく、モノと情報を現在的資産として継承する枠組みが必要とされている。収集されたモノと情報は、過去の記録として蓄積されるとともに、未来の創造の資源として使われる。膨大な博物資源を基盤として、新しい学術的知見を構築し、または新たな社会的営為を誘発することが期待される。すなわち、ミュージアムとは保存の拠点であると同時に、創造の源泉となるべきである。当授業では、ミュージアムの新たな社会的役割と存在形式をデザインするさまざまな思考実践を行う。博物学、アート、制度設計、空間デザイン、展示企画、情報表現などに幅広く関心をもち、新たな概念構築と価値創造に積極的に取り組むことを期待する。
+
+Design your vision of museums of the future:　 The world is becoming "museumized". "Preservation", which has been an area of expertise of museums, is becoming a universal issue encountered in the course of human activities during a time when vast quantities of things and information are being created around the world. To deal with this trend, a framework is needed which isn't limited to historical assets that have been selected as time passes, but that also incorporates things and information as current assets. Collected things and information can be used as resources to construct the future, in addition to being stored as a record of the past. Such vast museum resources can be expected to serve as a base leading to the formulation of new academic expertise and new social endeavors. In other words, while museums have an important function as centers of preservation, they should also become places that inspire creation. In this course, we will explore various ideas and practices relating to the design of new social roles and forms of existence for museums. Course participants are expected to actively engage in the creation of new ideas and values, covering a wide range of areas such as natural history, art, system planning, design of spaces, exhibition planning, and expression of information.
+
+";
+	sylb:method "ミュージアムの主な役割は、収集保存、調査研究、展示公開、教育普及にあるとされる。これらの機能区分を横に貫いて動かすもの、すなわち、ミュージアムが目指す基本ビジョンや、活動を支えるモチベーションは一体なんだろうか。機能の連携、活動の協調、分野の横断、価値の創出がうみだす、ミュージアムの新しい可能性を考えてみたい。コンセプチュアルな試行実験を介して、ミュージアムの具体的な存在形式を表現してみよう。 ミュージアムとは「人間、空間、時間、モノ、情報」の関係を生みだす知的なプラットフォームであり、ミュージアム・デザインとはこれら諸要素を結びつける概念構築と空間創造のプロセスである。すなわち、学術的な意義や美的な感動を伝えるために、空間と時間の構成、モノと情報の関係、人間の体験をデザインする作業である。当授業では、ミュージアム・デザインの基本となるこれらの構築と創造の手法について、実践的なプロジェクト企画を通して演習する。 建築、都市、博物学に関する概論的な集中講座からスタートし、ミュージアム施設の実地見学を織りまぜる。その後のデザイン・スタジオでは、履修者が検討を重ねながら実際にミュージアムのプロジェクト企画とデザイン提案を行う。
+
+The main functions of museums are generally thought to be the preservation of collections, investigative research, putting on exhibitions, and spreading knowledge. What exactly is it that unites these functional divisions - in other words, what is the basic vision that a museum strives towards, and what motivation lies behind its activities? This course aims to explore new possibilities for museums born from the linkage of functions, reconciliation of activities, crossing of different fields of endeavor, and creation of values. Let's express the tangible forms of existence of museums through conceptual experiments. A museum is an intellectual platform that creates relationships between people, spaces, time, things and information, and museum design is a process that constructs ideas and creates spaces which tie these various elements together. In other words, it is work that designs compositions of space and time, relationships between things and information, and people experiences, in order to convey academic meaning and aesthetic impressions. This course gives students the opportunity to practice methods of such construction and creation, which are the basics of museum design, through hands-on project planning. We will begin with an intensive introductory unit relating to architecture, urbanism and museology, including a field trip to a museum facility. After this unit, students will work in a design studio to create museum project plans and design proposals which will be subject to feedback and discussion.
+
+";
+	sylb:schedule "第1回 イントロダクション、レクチャ1（4/11）[ Introduction, Lecture 1 ]
+授業紹介 
+建築・都市・博物学の講義１ 
+Course introduction Lecture: Architecture, Urbanism and Museology (1)
+第2回 レクチャ2（4/18）[ Lecture 2 ]
+建築・都市・博物学の講義２
+
+Lecture: Architecture, Urbanism and Museology (2)
+第3回 レクチャ3（4/25）[ Lecture 3 ]
+建築・都市・博物学の講義３
+
+Lecture: Architecture, Urbanism and Museology (3)
+第4回 レクチャ4（5/2）[ Lecture 4 ]
+建築・都市・博物学の講義４
+
+Lecture: Architecture, Urbanism and Museology (4)
+第5回 リサーチ（5/7：予定）[ Research ]
+ミュージアム施設の見学。実施日は5/7(土)の予定。時間は10:00～13:00。 
+訪問施設は、東京大学総合研究博物館小石川分館およびインターメディアテク。 
+この日に参加できない場合は、開館日に自分で見に行くこと。 
+Visiting two museums of the University of Tokyo, Koishikawa Annex and Intermediatheque.
+第6回 スタジオ1（個人発表）（5/16）[ Studio 1 ]
+ミュージアムに関する個人発表（履修者選抜課題の内容） 
+スタジオ課題の説明 
+グループ編成
+
+Personal presentation Introduction of the studio project Grouping
+第7回 スタジオ2（5/23）[ Studio 2 ]
+プロジェクト企画の立案
+
+schematic plan
+第8回 スタジオ3（グループ発表）（5/30）[ Studio 3 ]
+プロジェクト企画のグループ発表（基本ビジョン）
+
+Group presentation of the schematic plan
+第9回 スタジオ4（6/6）[ Studio 4 ]
+デザイン提案の検討
+
+Design development
+第10回 スタジオ5（中間発表１）(6/13）[ Studio 5 ]
+デザイン提案の中間発表（コンセプト）
+
+Midterm review 1 (concept)
+第11回 スタジオ6（6/20）[ Studio 6 ]
+デザイン提案の検討
+
+Design development
+第12回 スタジオ7（中間発表２) （6/27）[ Studio 7 ]
+デザイン提案の中間発表（空間デザイン、展示企画）
+
+Midterm review 2 (space design and exhibition plan)
+第13回 スタジオ8（7/4）[ Studio 8 ]
+デザイン提案の検討
+
+Design development
+第14回 スタジオ9（最終発表）（7/9）[ Studio 9 ]
+実施日は土曜日。所要３時間半程度、時間帯未定(10:00～16:00のあいだ)。 
+7月11日(月)は休講とする。
+
+Final review
+その他
+レクチャ　詳細は後日決定する
+
+";

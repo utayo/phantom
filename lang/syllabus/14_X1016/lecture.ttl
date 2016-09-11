@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "電池社会【１４】"@ja;
+	lect:lecture_id "14_X1016";
+	lect:time "2016年度 秋学期 木曜日５時限";
+	lect:teacher "堀江　英明";
+	lect:campas "SFC";
+	lect:course_type "講義";

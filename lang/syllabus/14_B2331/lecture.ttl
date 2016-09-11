@@ -1,0 +1,59 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "中国語スキル(台湾)【１４】"@ja;
+	lect:lecture_id "14_B2331";
+	lect:time "2016年度 春学期 金曜日２時限";
+	lect:teacher "厳　馥";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "中国語スキル(文法)【１４】"@ja;
+	lect:lecture_id "14_B2331";
+	lect:time "2016年度 春学期 金曜日２時限";
+	lect:teacher "費　燕";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "中国語スキル(時事)【１４】"@ja;
+	lect:lecture_id "14_B2331";
+	lect:time "2016年度 春学期 火曜日３時限";
+	lect:teacher "廉　舒";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "中国語スキル(サブカルチャー)【１４】"@ja;
+	lect:lecture_id "14_B2331";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "川田　健";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "中国語スキル(プレゼン)【１４】"@ja;
+	lect:lecture_id "14_B2331";
+	lect:time "2016年度 秋学期 木曜日２時限";
+	lect:teacher "馬　燕";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク、遠隔あり";
+<http://example.com/lecture#1>
+	lect:name "中国語スキル(会話)【１４】"@ja;
+	lect:lecture_id "14_B2331";
+	lect:time "2016年度 秋学期 火曜日２時限";
+	lect:teacher "蘇　明";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "中国語スキル(医学)【１４】"@ja;
+	lect:lecture_id "14_B2331";
+	lect:time "2016年度 秋学期 木曜日３時限";
+	lect:teacher "馬　燕";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語スキル(検定)【１４】"@ja;
+	lect:lecture_id "14_B2331";
+	lect:time "2016年度 秋学期 水曜日３時限";
+	lect:teacher "王　慧琴";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

@@ -1,0 +1,188 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B2161";
+	sylb:summary "ベーシック1とベーシック2では、週2回の授業を1年間かけてインテンシブ1と同等の内容をカバーします。確実に土台を固めたい学生に向いています。 ベーシック1では、ビデオ教材Viaje al Españolを中心にして、スペイン語圏の文化、社会事情を紹介しながら、スペイン語をとりまく基礎的な情報を導入することを目的としています。具体的に日常生活の場面を提示したり、依頼、断りなどの会話の機能を提示したり、生きたスペイン語を使うための場面や会話機能を教える授業です。文法は、その学習項目に合わせて導入していきます。日本人講師による文法説明や文化導入、ネイテイブ講師による会話の実践や発音矯正など、週二回の授業を役割分担して進めていきます。
+";
+	sylb:method "このコースの修了に際して、基礎文法と基本語彙、基礎会話の試験を行い、できているのか達成度をみて、コースの修了とみなします。授業では、毎週、復習テストを行い、スペイン語でのスキット発表をするなど、学生の自主的な授業参加が義務づけられています。コース修了時には、簡単なスペイン語会話ができるようになりますがそのために、日々の努力が要求される授業です。 
+
+毎回の授業予定は概ね以下の内容を予定していますが、多少の変化と調整が行われる可能性があります。第１週の授業でオリエンテーションを行います。
+";
+	sylb:schedule "第1回 第１週
+（AAR：アインゲル・アロツ・ラファエル、KT：高木和子） 
+以下には各回の授業での教科書の進度と小テストを示します。授業と並行してウェブ上のe-learningの教材の課題、小テスト、スキット作成の課題などがありますが、これらの進め方まで含めたシラバスを初回の授業で配布し、授業内で説明します。 
+4/7木	KT	イントロダクション、文字と発音、アクセントの法則等 
+4/13水	AAR	イントロダクション、挨拶、授業中に使用するフレーズの導入等
+
+第2回 第２週
+4/14木	KT	U1前半 
+4/20水	AAR	U1後半 
+
+第3回 第3週
+4/21木	KT	U2.前半、第1課小テスト 
+4/27水	AAR	U2.後半 
+第4回 第４週
+4/28木	KT	U3.前半、第2課小テスト 
+5/11水	AAR	U3.後半 
+第5回 第５週
+5/12木	KT	U4.前半、第3課小テスト 
+5/18水	AAR	U4.後半 
+　
+第6回 第６週
+5/19木	KT	U5前半、第4課小テスト 
+5/25水	AAR	U5後半 
+第7回 第７週
+5/26木	KT	U6前半、第5課小テスト 
+6/1水	AAR	U6後半 
+第8回 第８週[ 　　 ]
+6/8水	AAR	repaso 
+6/9木	KT	repaso 1、第6課小テスト 
+
+第9回 第９週
+6/15水	AAR	U7前半 
+6/16木	KT	U7後半 
+第10回 第１０週[ 　 ]
+6/22水	AAR	U8前半 
+6/23木	KT	U8後半、第7課小テスト 
+第11回 第１１週
+6/29水	AAR	U9前半 
+6/30木	KT	U9後半、第8課小テスト 
+第12回 第１２週
+7/6水	AAR	repaso 
+7/7木	KT	repaso 2、第9課小テスト
+
+第13回 第１３週
+7/13水	AAR	examen 
+7/14木	KT	repaso 
+第14回 第14週
+7/20水	AAR	examen 
+7/21木	KT	examen 
+その他
+各種e-learning教材を用いた課題と自学自習
+
+";
+	lect:lecture_id"14_B2161";
+	sylb:summary "本クラスはSFCスペイン語カリキュラムの入り口にあたるクラスです。世界で4億2千万人に話されているスペイン語と出会い、その仕組みと用法を学ぶクラスです。スペイン語を使って３つのタスクを完成することや、自分の外国語学習を見つめることなど、自分の学びに責任を持ち、学び方を学ぶことをつねに重視していくクラスです。
+This class is the first step in the Spanish language curriculum at SFC. We will make a first encounter with this language that is spoken by 427 million people around the world, learn how to communicate using it, and understand its basic structures. By carrying out three tasks using Spanish and through the examination of our own foreign-language learning process, we will attach great importance to your development and growth as a learner who takes responsibility of his/her own learning, i.e. as a learner who not only learns Spanish, but also learns ‘how to learn.’
+";
+	sylb:method "〈概要〉 
+
+本クラスはSFCスペイン語カリキュラムの入り口にあたるクラスです。世界で4億2千万人に話されているスペイン語と出会い、その仕組みと用法を学ぶクラスです。スペイン語を使って３つのタスクを完成することや、自分の外国語学習を見つめることなど、自分の学びに責任を持ち、学び方を学ぶことをつねに重視していくクラスです。 
+
+（タスクとは） 
+タスクとは、実際に皆さんが学習するスペイン語を使って作品を仕上げることです。ベーシック１では、クラスメートの自己紹介ポスター、外国語学習者へのインタビューポスター、など、学習する文法・語彙、構文を駆使して実際に具体的な作品を製作してもらいます。 
+
+
+（目標） 
+
+ベーシック1終了後には以下のことをスペイン語でコミュニケーションできるようになります。 
+・ 自分についての基本的な情報を伝えたり、相手の情報を聞いたりすることができる。 
+・ 挨拶することができる。 
+・ 自分がやりたいことやその理由について表現することができる。 
+・ 場所について説明することができる。 
+・ 物の有無と所在を表現することができる。 
+・ 気候について話すことができる。 
+・ 買い物に必要なやりとりをすることができる。 
+・ 好みや必要な物について表現することができる。 
+上記の目標を達成するために、授業時間以外に予習・復習する時間を確保することが必須です。 
+
+
+
+（手法） 
+
+ベーシック１のクラスでは、最新の教授法（アクション・ラーニング）に基づいてスペインで製作された教科書（洋書）を使います。全ての学びのプロセスにおいて、学生の能動的・主体的な参加が求められ、実際にスペイン語を使ってなにかを成し遂げる（タスク）ことに力点をおいていきます。学習形態は、個人、ペア、グループなど多様なスタイルで行います。ペアやグループワークでは、「自分が学ぶ」に加えてクラスメートと一緒に学ぶという姿勢も大切です。遅刻や欠席はクラスメートの学びを妨げる場合がありますのでなるべくしないように心がけましょう。 
+
+
+（授業時間外の学習） 
+
+実際にスペイン語を使ってタスクを完成させることを重視するこのクラスでは、授業時間以外に予習・タスクの準備・振り返りの時間を確保することが必要です。目安は、週に２～３時間程度です。履修を決める前に、学習時間確保を考慮してください。
+Outline 
+
+This class is the first step in the Spanish language curriculum at SFC. We will make a first encounter with this language spoken by 427 million people around the world, learn how to communicate using it, and understand its basic structures. By carrying out three tasks using Spanish and through the examination of our own foreign-language learning process, we will attach great importance to your development and growth as a learner who takes responsibility of his/her own learning, i.e. as a learner who not only learns Spanish, but also learns ‘how to learn.’ 
+The “tasks” 
+The tasks will consist in the production of real works using the Spanish we will be learning. In Basic 1, you will elaborate products such as a self-introduction poster, an interview to a foreign-language learner, etc., making full use of the grammar, vocabulary, and expressions we will be studying. 
+Both Japanese-speaking and non-Japanese-speaking students are welcome to join the class. 
+
+
+Goals 
+
+After taking Spanish Basic 1, you will be able to do the following things: 
+- You will be able to express basic information about yourself and to ask others about their personal information. 
+- You will be able to greet other people. 
+- You will be able to express what you want to do and why you want to do it. 
+- You will be able to describe places. 
+- You will be able to express the existence and location of things. 
+- You will be able to speak about weather. 
+- You will be able to communicate when shopping. 
+- You will be able to express your preferences and needs. 
+In order to achieve these objectives, you will have to devote sufficient out-of-classroom time to the preparation and revision of the contents and materials we will be using. 
+
+
+Method 
+
+In Spanish Basic 1, we will use a textbook published in Spain and based on a contemporary language-learning method (action-based learning approach). Throughout the whole learning process, you will be required to actively participate, as well as to reflect on what you are actually able to accomplish (tasks) with the Spanish-language contents we will be learning. The learning process will follow different formats, ranging from individual work to pair- and group activities. When working in pairs and groups, a collaborative attitude towards learning together will be of outmost importance. Please avoid arriving late or failing to attend the classes: remember that such behaviors hinder the learning of your classmates. 
+
+
+Out-of-classroom learning time 
+
+Since this class emphasizes the accomplishment of tasks using Spanish, you will need to plan and secure the necessary time for preparation and revision (approximately 2-3 hours per week). Please consider this requirement when you decide to register for this class.
+";
+	sylb:schedule "第1回 第１週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+9/28 0.1, 0.3-0.4, 1.1 
+9/29 1.2
+
+第2回 第２週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+10/5 1.3-1.5 
+10/6 1.6-1.7
+
+第3回 第3週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+10/12 1.8 
+10/13 1.10-1.12, Video
+
+第4回 第４週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+10/19 2.1-2.2 (Test, Units 0-1) 
+10/20 2.3-2.4
+
+第5回 第５週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+10/26 2.5 (Task 1 提出/submission) 
+10/27 2.6-2.7 
+第6回 第６週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+11/2 2.8-2.11 
+11/3 2.9
+
+第7回 第７週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+11/9 Video, 3.1 (Test, Unit 2) 
+11/10 3.2-3.3
+
+第8回 第８週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+11/23 3.4 (Task 2 提出/submission) 
+11/24 3.5
+
+第9回 第９週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+11/30 3.6-3.7 
+12/1 3.8-3.9
+
+第10回 第１０週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+12/7 3.11-3.12 
+12/8 4.1-4.2
+
+第11回 第１１週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+12/14 4.3 (Test, Unit 3) 
+12/15 4.4-4.5
+
+第12回 第１２週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+12/21 4.6-4.7 (Task 3 提出/submission) 
+12/22 4.8-4.9
+
+第13回 第１３週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+1/11 4.12, Video 
+1/12 会話試験/Oral Exam
+
+第14回 第14週（担当：水(W.) Aingeru Aroz / 木 (Th.) Kazuko Takagi）
+1/18 会話試験/Oral Exam 
+1/19 筆記試験/Written Exam
+
+その他
+期末テストの解説、会話テストのフィードバック
+
+Discussion and feedback about the final exams.";

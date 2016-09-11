@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "社会安全政策（防災）【１４】"@ja;
+	lect:lecture_id "14_C1012";
+	lect:time "2016年度 春学期 木曜日２時限";
+	lect:teacher "大木　聖子";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "社会安全政策（防災）(GIGA/GG)【１４】"@ja;
+	lect:lecture_id "14_C1012";
+	lect:time "2016年度 秋学期 月曜日３時限";
+	lect:teacher "大木　聖子";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";

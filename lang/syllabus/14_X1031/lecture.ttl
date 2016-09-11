@@ -1,0 +1,31 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "日本語（会話入門）【１４】"@ja;
+	lect:lecture_id "14_X1031";
+	lect:time "2016年度 春学期";
+	lect:teacher "松本　久仁子";
+	lect:campas "SFC";
+	lect:course_type "講義、遠隔あり";
+<http://example.com/lecture#1>
+	lect:name "日本語（会話入門）（e-科目）【１４】"@ja;
+	lect:lecture_id "14_X1031";
+	lect:time "2016年度 春学期";
+	lect:teacher "松本　久仁子";
+	lect:campas "SFC";
+	lect:course_type "講義、遠隔あり";
+<http://example.com/lecture#1>
+	lect:name "日本語（会話入門）【１４】"@ja;
+	lect:lecture_id "14_X1031";
+	lect:time "2016年度 秋学期";
+	lect:teacher "松本　久仁子";
+	lect:campas "SFC";
+	lect:course_type "講義、遠隔あり";
+<http://example.com/lecture#1>
+	lect:name "日本語（会話入門）（e-科目）【１４】"@ja;
+	lect:lecture_id "14_X1031";
+	lect:time "2016年度 秋学期";
+	lect:teacher "松本　久仁子";
+	lect:campas "SFC";
+	lect:course_type "講義、遠隔あり";

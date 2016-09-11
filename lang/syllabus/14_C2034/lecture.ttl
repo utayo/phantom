@@ -1,0 +1,11 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "言語と思考(GIGA/GI)【１４】"@ja;
+	lect:lecture_id "14_C2034";
+	lect:time "2016年度 春学期 木曜日３時限";
+	lect:teacher "今井　むつみ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://cogpsy.sfc.keio.ac.jp/imai/index.php?cmd=read&page=%BC%F8%B6%C8%A5%DA%A1%BC%A5%B8%2F%B8%C0%B8%EC%A4%C8%BB%D7%B9%CD";

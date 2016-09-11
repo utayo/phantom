@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "プログラミング言語総合講座【学期後半】【１４】"@ja;
+	lect:lecture_id "14_B6135";
+	lect:time "2016年度 春学期 木曜日１時限";
+	lect:teacher "植原　啓介、中西　泰人、中村　修、服部　隆志、中澤　仁、マクスディ，　ウチュウ";
+	lect:campas "SFC";
+	lect:course_type "講義";

@@ -1,0 +1,70 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2021";
+	sylb:summary "The world’s cities, and the buildings that fill them, consume the majority of the world’s resources. As the size and number of cities increase around the world the question of sustainability and the need for innovation in design can only grow in importance.
+
+The survey course examines the relationship between sustainability and the physical form of cities and of architecture.The built world is the subject matter, but the approach is multi-disciplinary so we will also look to the intertwined effects of human behaviour, technology, and economics as they affect the search for sustainable urban form and sustainable building practices. The history of modern architecture beginning with the enlightenment to today forms the backdrop for the class. Key issues include energy use, social equity, economics, and demographic change.
+
+Students are encouraged to be critical of the concepts presented and to form their own opinions about sustainability, planning, and architecture.
+
+世界各国の都市とそこに建つビルの数々は世界中の大部分の資源を消費している。それら都市の規模と数が増えるに従い、サステイナビリティについての課題と、設計におけるイノベーションの必要性に対する重要度は高まる一方である。
+
+本コースでは、サステイナビリティと都市や建築の物理的形状の関係性について考察する。持続可能な都市形状や建設工事の探求をするに当り、 分野横断的な取り組みをしながら人間の行動パターンや技術そして経済が絡み合ってできた成果に目を向ける。本コースの目的は、エネルギー使用、社会的公正、経済、そして人口の変化などの問題に関して、都市建築環境の役目は何であるかを紹介することである。
+
+";
+	sylb:method "The class will be taught in English, with some Japanese as appropriate or necessary.
+
+The chief objective of the class is to gain a critical understanding of the theories and technology used to create sustainable architecture and sustainable urban form in the context of the development of modern architecture. As sustainable design becomes more mainstream there is an emerging sophistication about the topic that incorporates social issues, economics, and policy. The course is designed with the intention that students will discuss the issues in class and that a deeper understanding about the potential for sustainable design can be developed both individually and collectively.
+
+No existing knowledge of architecture or planning is necessary.
+
+";
+	sylb:schedule "第1回 Introduction - Innovation, Sustainability and the world we are building
+Why do we need to rethink the way cities and buildings are made? 
+Rachel Carson, QWERTY, and the evolution of a problem.
+
+第2回 Energy Use and resources - the limits of what we have
+The importance of energy and other resources in the pursuit of sustainability. Introduction to the challenges of vulnerability and resiliency-building in the built environment.
+
+第3回 Thinking about the City
+Considers the origins of urban form, from the industrial revolution to the present, and looks to the ways cities are changing under contemporary pressures.
+
+第4回 Thinking about Architecture
+The way that we consider architecture in terms of sustainability today is strongly influenced by the history of modern architecture and its view of technology.
+
+第5回 Modernity?
+Many of the concepts about how we live today come from a philosophical movement that began in the late 17th century. The modern movement and its roots in the enlightenment are considered in terms of the current world we live in.
+
+第6回 The Role of Society
+The three pillars of sustainable development. resolving energy issues is not sufficient to develop real sustainable society. Can the role of social issues be addressed through architecture and planning?
+
+第7回 Utopia 
+Sustainable design is a kind of utopian model. The challenges and pitfalls of that approach are set out and discussed. 
+
+第8回 Eating with Cannibals
+Is it progress if cannibals eat with forks? How much real change has taken place in the conception of architecture and in green design since the beginning of modern environmental awareness in the 1960's?
+
+第9回 From Cradle to Cradle
+What would the world be like if there was no such thing as pollution? 
+Innovation in design is essential to the creation of sustainability, but our focus tends to be on improving efficiency and on technical fixes. The possibility of an entirely different approach is introduced in the form of cradle to cradle
+
+第10回 Engineering Society
+Utopia lost its potency as a concept for much of the last 30 years. Planners and architects instead devoted their time to less encompassing ideas, as confidence in their ability to create perfection through design was lost in the face of the grim results of previous experience. In recent years confidence in big ideas is returning, with the philosophical centre being replaced with ideas about sustainability. The question remains open, is utopia possible, or even desirable?
+
+第11回 Broadacre City and Waltopia
+Low density is the norm in many Western cities. The role of private transportation transformed modern cities and is difficult to ignore. Is density or dispersion the better approach towards creating sustainable urban form?
+
+第12回 Nostalgia or Futurism
+Building on the previous lecture, what form should urban planning take to be truy sustainable?
+
+第13回 What Can A Building Do?
+Looking back to previous lectures, what does a successfully green building look like? What criteria are sufficient and how do they measure up in terms of the three pillars?
+
+第14回 Mitigation to Adaptation - the future of sustainable thinking
+The need for resiliency in the built environment is demonstrated with nearly every natural disaster. What lessons can we take from these occurrences and how do we apply them?
+
+その他
+wrap up and essay questions
+
+";

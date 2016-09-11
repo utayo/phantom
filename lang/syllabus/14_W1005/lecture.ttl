@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "地域政策論(TTCK)【１４】"@ja;
+	lect:lecture_id "14_W1005";
+	lect:time "2016年度 秋学期";
+	lect:teacher "鶴岡工業高等専門学校　 、佐野　ひとみ";
+	lect:campas "TTCK";
+	lect:course_type "講義";

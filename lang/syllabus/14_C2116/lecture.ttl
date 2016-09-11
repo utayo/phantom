@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "未踏領域のデザイン戦略【学期後半】【１４】"@ja;
+	lect:lecture_id "14_C2116";
+	lect:time "2016年度 春学期 月曜日４時限,月曜日５時限";
+	lect:teacher "佐藤　可士和、村井　純、オオニシ　タクヤ、筧　康明";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

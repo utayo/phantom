@@ -1,0 +1,91 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1044";
+	sylb:summary "　我が国の国土は南北に長く北海道と沖縄諸島では異なる気候帯に属するとともに、太平洋側と日本海側でも気候に顕著な違いがある。また急峻な山地と沖積平野、多くの島々からなる多様な地形条件を備え、四季それぞれにその姿を変える。こうした国土の上に私たちの祖先は営々と生産と生活の場を築いてきた。第二次世界大戦後、私たちはこの国土をどのように利用して豊かさを獲得するかを懸命に考え、国土政策・国土計画という分野を生みだした。しかし現在、時代の転換期にあって、新たな人と国土の関係を考えなければならない時期を迎えている。本授業では、長期的な視点で人と国土の関係を振り返るなかから、未来を見通す視座を得たいと思う。
+
+The national land of Japan is long from the north to the south. There are apparent differences in Hokkaido and Okinawa Islands, and in the Pacific Ocean side and the Sea of Japan side. It has a wide variety in geographical condition such as steep mountains, alluvial plains and many islands, which change its appearance throughout seasons. Our ancestors have built living spaces on this national land diligently. After the Second World War, we have made great effort to acquire good living by utilizing the national land and have created the field of national land policy and planning. But now, we are facing the transitional period to think about the new relationship between the people and the national land. In this lecture, I’d like to show you the viewpoint foreseeing the future from a wide-ranging perspective on development.
+
+";
+	sylb:method "　我が国の国土は南北に長く北海道と沖縄諸島では異なる気候帯に属するとともに、太平洋側と日本海側でも気候に顕著な違いがある。また急峻な山地と沖積平野、多くの島々からなる多様な地形条件を備え、四季それぞれにその姿を変える。こうした国土の上に私たちの祖先は営々と生産と生活の場を築いてきた。第二次世界大戦後、私たちはこの国土をどのように利用して豊かさを獲得するかを懸命に考え、国土政策・国土計画という分野を生みだした。しかし現在、時代の転換期にあって、新たな人と国土の関係を考えなければならない時期を迎えている。本授業では、長期的な視点で人と国土の関係を振り返るなかから、未来を見通す視座を得たいと思う。
+
+The national land of Japan is long from the north to the south. There are apparent differences in Hokkaido and Okinawa Islands, and in the Pacific Ocean side and the Sea of Japan side. It has a wide variety in geographical condition such as steep mountains, alluvial plains and many islands, which change its appearance throughout seasons. Our ancestors have built living spaces on this national land diligently. After the Second World War, we have made great effort to acquire good living by utilizing the national land and have created the field of national land policy and planning. But now, we are facing the transitional period to think about the new relationship between the people and the national land. In this lecture, I’d like to show you the viewpoint foreseeing the future from a wide-ranging perspective on development.
+
+";
+	sylb:schedule "第1回 本授業の構成と進め方[ Perspective of the lecture ]
+・国土政策という領域の成立と現在
+
+Formation and current situation of national land policy
+第2回 日本の風土[ Climate of Japan ]
+・和辻哲郎 
+・オギュスタン・ベルク 
+・三澤勝衛 
+・鈴木秀夫
+
+Tstsuro Watsuji Augustin Berque Katsue Misawa
+第3回 戦後の国土政策の展開[ National land policy of Japan after World War II ]
+・全国総合開発計画の変遷と思想 
+・実現したものと残された課題
+
+Transition of National land development plan Things realized and problems left
+第4回 少子高齢化と人口減少社会[ Society of low fertility, aging and population decline ]
+・人口減少の要因と見通し 
+・少子化の要因と見通し 
+・高齢化の要因と見通し
+
+Prospects and causes of population decline Prospects and causes of low fertility Prospects and causes of aging
+第5回 大都市圏[ Planning of metropolitan region ]
+・大都市圏への人口集中と政策対応 
+・縮小に向かう大都市圏への政策対応
+
+Population concentration to metropolitan area and policy response Shrinking metropolitan area and policy response
+第6回 地方生活圏[ Planning of local region ]
+・生活圏の理論 
+・地方生活圏の政策 
+・生活圏の現在
+
+Theory of local region Policy for local region Transition of local region
+第7回 コンパクトシティと限界集落[ Compact city and marginally viable community ]
+・コンパクトシティ 
+・限界集落
+
+Compact city Marginally viable community
+第8回 稲作と農村[ Rural area and rice cultivation ]
+・戦後の農業政策と稲作 
+・山形県の農村の取り組み 
+・稲作と農村のこれから
+
+Agricultural Policy and rice cultivation after World War II Activities in rural area of Yamagata prefecture Future of rural area
+第9回 宮本常一と離島振興[ Tsuneichi Minamoto and remote islands promotion ]
+・宮本常一 
+・離島振興 
+・海士町の事例
+
+Journey of Tsuneichi Minamoto Remote islands promotion Case of Ama-cho
+第10回 里山資本主義と林業[ "Satoyama" capitalism and forestry ]
+・里山資本主義 
+・林業と新しい木材利用
+
+"Satoyama" capitalism Forestry and new utilization of wood
+第11回 移住政策[ Migration promotion policy ]
+・人口移動の実態 
+・移住政策の方向性
+
+Actual condition of migration Direction of migration promotion policy
+第12回 地域活性化事例[ Case study of area vitalization ]
+・ゲストスピーカーによる講義
+
+Lecture of a guest speaker
+第13回 東日本大震災からの復興の現状と課題[ Current situation and challenges of reconstruction from the Great East Japan Earthquake ]
+・ゲストスピーカーによる講義
+
+Lecture of a guest speaker
+第14回 国土政策の新たな展開[ New challenge to national land policy ]
+・授業の振り返り 
+・新たな展開のための思想と取り組みの方向
+
+Reflection
+その他
+課題・レポート
+
+assignment, report";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "Ｗｅｂデザインとマネジメント【１４】"@ja;
+	lect:lecture_id "14_B6141";
+	lect:time "2016年度 秋学期 木曜日４時限";
+	lect:teacher "武田　圭史";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

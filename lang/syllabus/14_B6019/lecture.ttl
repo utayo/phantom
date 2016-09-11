@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "アカデミックライティング実践(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6019";
+	lect:time "2016年度 秋学期 火曜日１時限";
+	lect:teacher "ボンジー　アラーナ";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "アカデミックライティング実践(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6019";
+	lect:time "2016年度 秋学期 火曜日１時限";
+	lect:teacher "ボンジー　アラーナ";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";

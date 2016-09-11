@@ -1,0 +1,34 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "データサイエンス基礎(クラス01～13）（再履修27,28)【１４】"@ja;
+	lect:lecture_id "14_Z1001";
+	lect:time "2016年度 春学期 火曜日５時限";
+	lect:teacher "林　邦彦";
+	lect:campas "SFC";
+	lect:course_type "講義";
+	lect:homepage "http://web.sfc.keio.ac.jp/~kunihiko/";
+<http://example.com/lecture#1>
+	lect:name "データサイエンス基礎(クラス14～26)（再履修27,28)【１４】"@ja;
+	lect:lecture_id "14_Z1001";
+	lect:time "2016年度 春学期 金曜日５時限";
+	lect:teacher "林　邦彦";
+	lect:campas "SFC";
+	lect:course_type "講義";
+	lect:homepage "http://web.sfc.keio.ac.jp/~kunihiko/";
+<http://example.com/lecture#1>
+	lect:name "データサイエンス基礎【１４】"@ja;
+	lect:lecture_id "14_Z1001";
+	lect:time "2016年度 秋学期 金曜日５時限";
+	lect:teacher "林　邦彦";
+	lect:campas "SFC";
+	lect:course_type "講義";
+	lect:homepage "http://web.sfc.keio.ac.jp/~kunihiko/";
+<http://example.com/lecture#1>
+	lect:name "データサイエンス基礎(GIGA)【１４】"@ja;
+	lect:lecture_id "14_Z1001";
+	lect:time "2016年度 秋学期 火曜日５時限";
+	lect:teacher "宮地　恵美";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

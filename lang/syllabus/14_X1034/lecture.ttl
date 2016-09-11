@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "寄附講座「観光立国のための戦略概論」【１４】"@ja;
+	lect:lecture_id "14_X1034";
+	lect:time "2016年度 春学期 木曜日３時限";
+	lect:teacher "古谷　知之、戸崎　肇、イム　イラン";
+	lect:campas "SFC";
+	lect:course_type "講義";

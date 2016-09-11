@@ -1,0 +1,186 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B2262";
+	sylb:summary "主教材であるViaje al Español は、スペインで作成されたビデオ教材で、スペイン語圏の文化、社会事情を紹介しながら、スペイン語をとりまく基礎的な情報を導入することを目的としたもので、このコースではインテンシブ１の続きを扱います。インテン１では、会話を中心に表現を学んできましたが、インテン２では、第3巻を通し、会話だけでなく、読解と、PPTを使った作文課題を、個人ワークとグループワークで行います。特に、インテン３での海外研修を意識しつつ、「伝えたいこと」をどのように「表現するのか」を毎週、作文していきます。また、Viajeとは別に、スペイン史を学びながら読解力と作文力をつけるため、2コマの授業を連動しながら、読解と作文に必要な文法を学んでいきます。よって、コース修了時には、初級スペイン語レベルを学習し終わりますが、そのために、日々の努力が要求される授業です。学期末には、スペイン語検定試験を受け、実力を測ります。修了時には、DELEのA2、または、B1.1に合格するレベルを設定している授業です。課題が非常に多いので、覚悟して受講してください。
+";
+	sylb:method "授業では、日常生活の場面を提示したり、依頼、断りなどの会話の機能を提示したり、生きたスペイン語を使うための場面や会話機能を教える一方で、日本人講師による文法説明や読解、ネイテイブ講師による実践会話の作文や発音矯正など、週2回の授業を役割分担して進めていきます。さらに、スペイン史の読解と、スペイン語作文の授業が加わり、「聞く・話す」だけではなく、「読む・書く」というスペイン語の4技能の向上を目指します。毎週、復習テストがあり、読解の担当、作文の課題など、学生の自主的な授業参加が義務づけられています。
+";
+	sylb:schedule "第1回 第１週
+最初の授業で詳細なシラバスを配布して、説明します。全体の進度に若干の変更が出る可能性があります。 
+（木）	オリエンテーション、Viaje al Español 27課 
+（金）	スペイン史教科書・作文第1課および第11課 
+（水）　Viaje al Español 28課前半 
+（水）　オリエンテーション続き（お知らせ、小テストおよび評価基準、プレゼンテーション、Viaje　の時間の翻訳課題の担当決め）、Viaje 27課の読解と文法
+
+第2回 第２週
+（木）	Viaje al Español 28課後半 
+（金）	スペイン史教科書・作文第2課および第13課 
+（水）	Viaje al Español 29課前半 
+（水）	小テスト①（Viaje27課）、Viaje28-29課に関する読解と文法
+
+第3回 第３週
+（木）　Viaje al Español 29課後半 
+（金）　スペイン史教科書・作文第5課および第14課 　 
+（水）　Viaje al Español 30課前半 
+（水）　小テスト②　(Viaje28-9課)、Viaje30課に関する読解と文法
+
+第4回 第４週
+（木）　Viaje al Español 30課後半 
+（金）　スペイン史教科書・作文第7課および第15課	
+（水）　Viaje al Español 31課前半 
+（水）　小テスト③（Viaje30課）、Viaje31課に関する読解と文法
+
+第5回 第５週
+（木）　Viaje al Español 31課後半 
+（金）	スペイン史教科書・作文第6課および12課	
+（水）	Viaje al Español 32課前半 
+（水）	小テスト④(Viaje 31課)、Viaje32課に関する読解と文法
+
+第6回 第６週
+（木）	Viaje al Español 32課後半　 
+（金）	スペイン史教科書・作文第4課および9課 
+（水）　Viaje al Español 33課前半 
+（水）	小テスト⑤(Viaje32課)、Viaje33課に関する読解と文法 
+
+第7回 第７週
+（木）	Viaje al Español 33課後半 　 
+（金）　スペイン語作文・中間テスト 
+（水）　中間テスト（Viaje27-32課、ウェブ文法） 
+（水）　中間試験のフィードバック、文法補足
+
+第8回 第８週
+（金）　スペイン史教科書・作文第10課および6課　 
+（水）　Viaje al Español 34課前半	　 
+（水）　Viaje 33-34課に関する読解と文法、スペイン史読解第7課 
+（木）　Viaje al Español 34課後半
+
+第9回 第９週
+（金）　スペイン史教科書・作文第3課および12課 
+（水）	Viaje al Español 35課前半 
+（水）　小テスト⑥(Viaje 33-4)、Viaje 35課に関する読解と文法、スペイン史読解第10課 
+（木）	Viaje al Español 35課後半
+
+第10回 第１０週
+（金）　スペイン史教科書・作文第16課 
+（水）	Viaje al Español36課前半 
+（水）　小テスト⑦(Viaje35課)、Viaje 36課に関する読解と文法、スペイン史読解第14課 
+（木）　Viaje al Español36課後半
+
+第11回 第１１週
+（金）　スペイン史教科書・作文第17課 
+（水）　Viaje al Español 37課前半 
+（水）　小テスト⑧(Viaje 36課)、Viaje 37課に関する読解と文法、スペイン史読解第16課 
+（木）　Viaje al Español 37課後半
+
+第12回 第１２週
+（金）　スペイン史教科書・作文第18課 
+（水）　Viaje al Español 38課前半 
+（水）　小テスト⑨(Viaje 37課)、Viaje 38課に関する読解と文法、スペイン史読解第17課 
+（木）　Viaje al Español 38課後半 
+第13回 第１３週
+（金）　スペイン史教科書・作文第19課 
+（水）　Viaje al Español 39課前半 
+（水）　小テスト⑩（Viaje 38課）、Viaje al Español 38課後半 
+（木） 期末試験（口頭表現力）
+
+第14回 第１４週
+（金）　期末試験（作文） 
+（水）　期末試験（Viaje） 
+（水）　期末試験（Viaje読解、スペイン史読解） 
+（木）　スペイン語力検定試験（初級）実力試験
+
+その他
+第15週
+（金）中級文法復習
+（水）Viaje al Español上の表現の確認とフィードバック
+（水）文法事項の復習と疑問点の解消
+（木）スキット復習とフィードバック
+
+";
+	lect:lecture_id"14_B2262";
+	sylb:summary "インテンシブ２は、インテンシブ１の続きとして、過去や未来あるいは願望や不確実な事象に関する動詞の活用を学びながら、日常的な生活と仕事での会話のやり取りに加え、文章の読解が導入され、またインテンシブ１に引き続き、グループワークを含む作文課題に取り組みます。特に「伝えたいこと」をどのように「表現するのか」を毎週考え、表現の幅を広げていくことを目標とします。コース修了時には、初級スペイン語レベルを学習し終わりますが、そのためには日々の努力が要求されます。一回の授業に、同等の時間かそれ以上の自習の時間を確保したうえで履修することが期待されています。学期末には、スペイン語検定試験を通じて、実力を測ります。修了時には、DELEのA2に合格するレベルを設定している授業です。
+";
+	sylb:method "インテンシブ２は、インテンシブ１の続きとして、過去や未来あるいは願望や不確実な事象に関する動詞の活用を学びながら、日常的な生活と仕事での会話のやり取りに加え、文章の読解が導入され、またインテンシブ１に引き続き、グループワークを含む作文課題に取り組みます。特に「伝えたいこと」をどのように「表現するのか」を毎週考え、表現の幅を広げていくことを目標とします。コース修了時には、初級スペイン語レベルを学習し終わりますが、そのためには日々の努力が要求されます。一回の授業に、同等の時間かそれ以上の自習の時間を確保したうえで履修することが期待されています。学期末には、スペイン語検定試験を通じて、実力を測ります。修了時には、DELEのA2に合格するレベルを設定している授業です。
+";
+	sylb:schedule "第1回 第１週[ 　 ]
+9月23日（金）	A.Duque	　　　　Viaje al Español 20課 primera mitad 
+9月28日（水）	B.Prieto	Viaje al Español 20課 segunda mitad 
+9月28日（水）	M.Fujita	オリエンテーション（お知らせ、評価基準、プレゼンテーション） 、Viaje文法 
+9月29日（木）	P.Takayama	Viaje al Español 21課 primera mitad 
+　　
+第2回 第２週
+9月30日（金）	A.Duque	　　　　Viaje al Español 21課 segunda mitad 
+10月5日（水）	B.Prieto	Viaje al Español 22課 primera mitad 
+10月5日（水）	M.Fujita	小テスト①　(Viaje 20-21)、Viaje読解・文法補足 
+10月6日（木）	P.Takayama	Viaje al Español 22課 segunda mitad　
+
+第3回 第３週
+10月7日（金）	A.Duque	　　　　Viaje al Español 23課 primera mitad 
+10月12日（水）	B.Prieto	Viaje al Español 23課 segunda mitad 
+10月12日（水）	M.Fujita	小テスト②　(Viaje 22)、Viaje読解・文法補足 
+10月13日（木）	P.Takayama	Viaje al Español 24課 primera mitad　 
+第4回 第４週
+10月14日（金）	A.Duque	　　　　Viaje al Español 24課 segunda mitad 
+10月15日(土)	 Cocina 41-46、Web文法U20-24締め切り 
+10月19日（水）	B.Prieto	Viaje al Español 25課 primera mitad 
+10月19日（水）	M.Fujita	小テスト③　(Viaje 23-24)、Viaje読解・文法補足 
+10月20日（木）	P.Takayama	Viaje al Español 25課 segunda mitad　 
+第5回 第５週
+10月21日（金）	A.Duque	　　　　Viaje al Español 26課 
+10月26日（水）	B.Prieto	Viaje al Español 27課primera mitad 
+10月26日（水）	M.Fujita	小テスト④　(Viaje 25-26)、Viaje第27課読解・文法補足 
+10月27日（木）	P.Takayama	Viaje al Español 27課segunda mitad　 
+第6回 第６週
+10月28日（金）	A.Duque	　　　　Viaje al Español 28課 primera mitad 
+10月31日（月）	 Cocina 47-52、Web文法U25-27締め切り 
+11月2日（水）	B.Prieto	Viaje al Español 28課 segunda mitad 
+11月2日（水）	M.Fujita	小テスト⑤　(Viaje 27)、Viaje第28課読解・文法補足 
+11月3日（木）	P.Takayama	Viaje al Español 29課primera mitad　 
+第7回 第７週
+11月4日（金）	A.Duque	　　　　Viaje al Español 29課segunda mitad 
+11月9日（水）	B.Prieto	中間試験（Viaje 20-29、ウェブ文法） 
+11月9日（水）	M.Fujita	Viaje al Español 30課 primera mitad、Viaje第29課読解・文法補足 
+11月10日（木）	P.Takayama	Viaje al Español 30課 segunda mitad 
+11月15日（火）	 Cocina 53-58、Web文法U28-30締め切り 
+第8回 第８週
+11月23日（水）	B.Prieto	Viaje al Español 31課 primera mitad 
+11月23日（水）	M.Fujita	小テスト⑥(Viaje 30)、Viaje第30-31課読解・文法補足 
+11月24日（木）	P.Takayama	Viaje al Español 31課 segunda mitad 
+11月25日（金）	A.Duque	　　　　Viaje al Español 32課primera mitad　 
+第9回 第９週
+11月30日（水）	B.Prieto	Viaje al Español 32課 segunda mitad 
+11月30日（水）	M.Fujita	小テスト⑦　(Viaje 31-32)、Viaje第32課読解・文法補足 
+11月30日(土)	 Cocina 59-63、Web文法U31-32締め切り 
+12月1日（木）	P.Takayama	Viaje al Español 33課 primera mitad 
+12月2日（金）	A.Duque	　　　　Viaje al Español 33課segunda mitad 
+第10回 第１０週
+12月7日（水）	B.Prieto	Viaje al Español 34課 primera mitad 
+12月7日（水）	M.Fujita	小テスト⑧(Viaje 33)、Viaje第33-34課読解・文法補足 
+12月8日（木）	P.Takayama	Viaje al Español 34課 segunda mitad　 
+12月9日（金）	A.Duque	　　　　Viaje al Español 35課primera mitad 
+第11回 第１１週
+12月14日（水）	B.Prieto	Viaje al Español 35課 segunda mitad 
+12月14日（水）	M.Fujita	小テスト⑨(Viaje 34)、Viaje第35課読解・文法補足 
+12月15日（木）	P.Takayama	Viaje al Español 36課 primera mitad 
+12月15日(木)	 Cocina 64-68、Web文法U33-35締め切り 
+12月16日（金）	A.Duque	　　　　Viaje al Español 36課 segunda mitad 
+第12回 第１２週
+12月21日（水）	B.Prieto	Viaje al Español 37課 primera mitad 
+12月21日（水）	M.Fujita	小テスト⑩(Viaje 35-36)、Viaje第36-37課読解・文法補足 
+12月22日（木）	P.Takayama	Viaje al Español 37課 segunda mitad, 課題のまとめ 　 
+1月6日（金）	A.Duque	　　　　Viaje al Español 38課 primera mitad 
+第13回 第１３週
+1月11日（水）	B.Prieto	会話期末試験（１） 
+1月11日（水）	M.Fujita	小テスト⑩(Viaje 37)、Viaje第38課読解・文法補足 
+1月12日（木）	P. Takayama	作文教材期末試験 
+1月13日（金）	A.Duque	　　　　Viaje al Español 38課 segunda mitad 
+第14回 第１４週
+1月15日（日）	 Cocina69-73、Web文法U36-39締め切り 
+1月18日（水）	B.Prieto	会話期末試験（２） 
+1月18日（水）	M.Fujita	Viaje al Español 39課 
+1月19日（木）	P. Takayama	DELE A2　実力テスト 
+1月20日（金）	A.Duque	　　　　Viaje期末試験（30課-39課） 
+その他
+Moodle上の各種E-learning教材を用いた課題、ビデオ教材の自学自習
+";

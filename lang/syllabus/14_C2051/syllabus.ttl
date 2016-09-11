@@ -1,0 +1,78 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2051";
+	sylb:summary "工学はスポーツのあらゆるところで深くかかわっている．スポーツ用具，ウェア，施設などの開発は工学的アプローチが欠かせないものであり，そこにはパフォーマンスをいかにして最大限引き出すのかという最先端の科学が詰まっている．また実際の選手たちがみせるパフォーマンスには流体力学や衝突工学，機構学などの領域の知恵が随所にみられる．この授業ではこうしたスポーツにかかわる最先端の工学の話題を紹介する．受講後にはオリンピックなどのスポーツを見る目が変わり競技記録の向上が選手の努力だけではないことに気づくであろう．
+
+Engineering is behind our sports activity. A facilities, equipments, sports wears and shoes are necessary for the sports. Its development is mainly based on the engineering. The aim of the engineering for sports is performance enhancement, injury prevention and comfort. This lecture will introduce these engineering aspect on the sports. In addition, this lecture will also introduce the science and engineering aspect on the athletes' performance. Fluid dynamics, impact engineering, material sciences, etc. This lecture ensure that your insight of the sports must be changed after the semester.
+
+";
+	sylb:method "2016年は，リオ・デ・ジャネイロ五輪が開催され多くのメダリストが誕生した． メダル獲得には選手，コーチらの努力にくわえて，用具や施設の改良が貢献していることを忘れてはならない．スポーツ用具，ウェア，施設などの開発は工学的アプローチが欠かせないものであり，そこにはパフォーマンスをいかにして最大限引き出すのかという最先端の科学が詰まっている．また実際の選手たちがみせるパフォーマンスには流体力学や衝突工学，機構学などの領域の知恵が随所にみられる．この授業ではこうしたスポーツにかかわる最先端の工学の話題を紹介する．受講後にはオリンピックなどのスポーツを見る目が変わり競技記録の向上が選手の努力だけではないことに気づくであろう．また，スポーツスキルの向上を新たな視点から考えることが出来るようになるであろう． 2020年の東京五輪／パラ五輪にむけて，どのような技術開発や技術革新が期待され，注力されているのか，最新の話題を提供する．
+
+2016, Rio de Janeiro Olympic Games was held in Brazil. Many of medalists came to Japan. It was most largest number of medals ever. We have to forget there have been a long term effort to innovate and develop their equipments and facilities. Manufacturers contribution have been worthy of praise. The development of sports equipments and facilities requires engineering. The aim of the engineering for sports is performance enhancement, injury prevention and comfort. This lecture will introduce these engineering aspect on the sports. In addition, this lecture will also introduce the science and engineering aspect on the athletes' performance. Fluid dynamics, impact engineering, material sciences, etc. This lecture ensure that your insight of the sports must be changed after the semester.
+
+Final lecture, the lecturer will introduce and forecast the innovation which will be adopted in next Olympic Games in Tokyo 2020.
+
+";
+	sylb:schedule "第1回 エビデンスベースドスポーツの時代
+オリンピック・パラピンピックとスポーツ工学 
+前提知識の確認と評価方法の確認 
+2016年リオデジャネイロ五輪・パラ五輪におけるスポーツ工学の一端
+
+Engineering on the Olympic and Paralympic Sports. Introduction of the engineering issues in Rio de Janeiro Olympic Games and Paralympic Games.
+第2回 スポーツにおける衝突現象1
+打撃系格闘技の技における衝撃力．「わざ」の科学的理論．運動量と力積についての理解を深める
+
+Study on the fundamental mechanics. Impcat mechanics on the martial arts. Understanding of the momentum and impulse.
+第3回 スポーツにおける衝突現象2
+ボールと打具の衝突，野球ボールとバット，テニスボールとラケット，ゴルフボールとクラブ，など．衝突のコンピュータシミュレーション，FEMなど
+
+Impact phenomenon between the ball and racket/bat/club, etc.
+第4回 スポーツにおける衝突現象3
+スポーツシューズと走路との衝突．衝突モデルからみたランニングのメカニクス
+
+Impact phenomenon between the shoes and the surface. The mechanics of the runnning.
+第5回 スポーツ流体力学1
+水泳、ボートなど水のなかの流れに関する話題
+
+Hydrodynamics on the swimming, rowing and other water sports.
+第6回 スポーツ流体力学2
+スキージャンプやスカイダイビングなどにおけるスポーツ流体力学
+
+Sports fluid dynamics on the ski jumping, bobsled and other sports in the air.
+第7回 スポーツ流体力学3
+ゴルフボール，野球ボール，サッカーボール，バレーボールなどスポーツにおいて用いられるボールの不思議な振る舞いについて
+
+Fluid dynamics on the ball flight, such as baseball, tennis balll, volley ball and other ball or projectiles in the air.
+第8回 スポーツウェアの工学　1
+高機能素材を使ったスポーツウェア，水着や登山用ウェアなどの事例
+
+High technology materials and textiles in the sports wear.
+第9回 障害者スポーツにおける工学1
+リオデジャネイロパラリンピックを振り返る
+
+Evaluation of the Rio de Janeiro Paralympic Games from the view point of
+第10回 障害者スポーツにおける工学2
+ゲストスピーカーによる講義
+
+Lecture by the guest speaker
+第11回 障害者スポーツにおける工学3
+ゲストスピーカーによる講義
+
+Lecture by the guest speaker
+第12回 スポーツと摩擦現象
+スキー、スケートといった摩擦が重要視されるスポーツの話題
+
+Friction mechanics in the winter sports.
+第13回 スポーツにおける計測技術
+センサ計測，映像計測，などの最新事情
+
+Cutting edge technology on the sports measurement.
+第14回 2020年東京五輪・パラ五輪に向けて
+来る東京五輪・パラ五輪に向けて開発が進む最先端トピックを紹介する．
+
+Conclusion on this lecture. Forecasting on the coming 2020 Tokyo Olympic/Paralympic Games.
+その他
+スポーツとコンピュータシミュレーション
+
+Computer simulation in sports engineering";

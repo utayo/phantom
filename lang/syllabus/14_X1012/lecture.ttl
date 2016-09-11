@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "公益財団法人タカタ財団寄附講座「交通安全文化論」【１４】"@ja;
+	lect:lecture_id "14_X1012";
+	lect:time "2016年度 秋学期 火曜日３時限";
+	lect:teacher "古谷　知之、大前　学、植原　啓介";
+	lect:campas "SFC";
+	lect:course_type "講義";

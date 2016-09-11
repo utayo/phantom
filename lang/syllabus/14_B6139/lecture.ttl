@@ -1,0 +1,26 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ユビキタスシステムアーキテクチャ【１４】"@ja;
+	lect:lecture_id "14_B6139";
+	lect:time "2016年度 春学期 木曜日２時限";
+	lect:teacher "徳田　英幸";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://www.ht.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "ユビキタスシステムアーキテクチャ【１４】"@ja;
+	lect:lecture_id "14_B6139";
+	lect:time "2016年度 春学期 木曜日２時限";
+	lect:teacher "徳田　英幸";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://www.ht.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "ユビキタスシステムアーキテクチャ(GIGA/GI)【１４】"@ja;
+	lect:lecture_id "14_B6139";
+	lect:time "2016年度 秋学期 木曜日２時限";
+	lect:teacher "徳田　英幸";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

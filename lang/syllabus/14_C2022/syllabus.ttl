@@ -1,0 +1,56 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2022";
+	sylb:summary "建築生産の範囲は多岐にわたるが、本講義ではその中核をなす住宅生産を取り上げる。 海外諸国と比較したとき、日本の住宅供給の特徴は、その供給量の大きさと供給手段の多様性に現れている。講義の前半では、戦後の住宅づくりを支えた住宅生産工業化のトピックについて解説を行い、住宅供給の観点から興味深い事例の紹介も行う。 講義の後半では、住宅ストックの改修問題などに触れ、住宅供給に関する今日的課題を述べる。
+
+";
+	sylb:method "日本に暮らしていると当たり前に思える住宅供給のあり方が世界的に見れば非常に特殊であることを理解する。
+
+";
+	sylb:schedule "第1回 イントロダクション（担当：前島彩子）
+第2回 構造種別・構造方式（担当：前島彩子）
+材料と構造方式、その相性 
+第3回 組積造（担当：前島彩子）
+土着のものと近代化・耐震化
+
+第4回 金属系構法（担当：前島彩子）
+鋼構造を中心にアルミ造、カーテンウォールまで
+
+第5回 コンクリート系構法（担当：前島彩子）
+在来工法とプレキャストコンクリート 
+第6回 プレハブ住宅[ Prefabricated House ]（担当：権藤智之）
+日米での工業化住宅・プレハブ住宅の開発とその後 
+the history of prefabricated houses in Japan and US
+第7回 高層ビル[ Skyscrapers ]（担当：権藤智之）
+高層ビル技術の発展 
+development of skyscrapers mainly in Japan
+第8回 在来木造と大規模木造[ Conventional Wooden House and Large Scale Wooden Architecture ]（担当：権藤智之）
+在来木造住宅の近年の変化と国産材利用に向けた最近の動き
+
+recent change of Japanese conventional wooden houses and recent movement to increase the use of Japanese forest resources
+第9回 近代以前の構法[ Building System before Modernism ]（担当：権藤智之）
+構法・生産の視点から見た日本・西洋の建築史
+
+Japanese and Western architectural history from the viewpoint of building system
+第10回 建築家の構法[ Building System in Famous Architectures ]（担当：権藤智之）
+有名建築における特徴的な接合部や材料の使い方
+
+the details, such as joints or materials, in famous architectures
+第11回 住宅の持続可能性
+－合意形成のレベル分けからSI方式へ－ 
+（1990年代～＠日本；戸建・集合住宅） 
+第12回 建物補修から住環境再生へ
+―集合住宅の再生― 
+（2000年代～＠日本；集合住宅） 
+第13回 建築リソースの再生
+－リノベーションの射程(1)団地再生－ 
+（2000年代～＠日本） 
+第14回 建築リソースの再生
+－リノベーションの射程(2)コンバージョン－ 
+（2000年代～＠日本）
+
+その他
+総括（今日の住宅生産）・試験
+
+";

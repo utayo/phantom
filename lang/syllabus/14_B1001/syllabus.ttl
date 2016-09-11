@@ -1,7 +1,7 @@
 @prefix sylbank: <http://example.com/syllabus:> .
 @prefix lect: <http://example.com/lecture_vocabulary:> .
 
-	lect:lecture_id"14_B1001"@ja;
+	lect:lecture_id"14_B1001";
 	sylb:summary "総合政策学は、21世紀の世界が直面する問題の発見とその解決をめざした新しい学問体系です。本講義の目的は「実践知」として、諸君が自らの問題を発見しその解決に取りくむ入口を体験することです。コーカスと学びの対話という二つのグループワークを通して行います。
 
 ";
@@ -35,7 +35,7 @@
 その他
 毎回、感想文やアンケートを取ります。これらにきちんと答えて初めて出席となります。
 ";
-	lect:lecture_id"14_B1001"@ja;
+	lect:lecture_id"14_B1001";
 	sylb:summary "<This course will be offered in English> An introductory course for "Policy Management", which is a core concept of SFC. SFC aims at integrating various perspectives to identify issues and employ interdisciplinary approaches in understanding and providing solutions for them. It also embraces scholars' active involvement in solving issues, rather than staying at a distance as objective watchers. This course demonstrates to the incoming students, how SFC community actually implement Policy Management approaches in solving the world's isses. We will be inviting many faculty members as well as outside guest to show how they are approaching issues.
 
 総合政策学は、21世紀の世界が直面する「問題の発見」と「問題の解決」をめざした新しい研究体系として、SFCから生まれた実践の知である。 　本講義の目的は、この「実践知」としてのSFC総合政策学の最前線をあきらかにし、諸君が自らの問題を発見し、解決に取りくむ入口を示すことにある。そのため、まず、1990年、SFC開設時に描かれた総合政策学の構想がどのようなものであったのかをひもとき、実際に最先端の領域で取りくまれてきた問題解決の実践例を学び、現在進行形で行なわれている若手教員による新たな挑戦を紹介する。 　こうしたレクチャーに加え、この講義では履修者全員による実践のプログラムを実施する。座学と実践、この両面からのアプローチを通じて、自らの問題を発見し、解決に取り組む決意を高めていってほしい。

@@ -1,0 +1,15 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "マレー・インドネシア語ベーシック２【１４】"@ja;
+	lect:lecture_id "14_B2152";
+	lect:time "2016年度 春学期 火曜日４時限,金曜日４時限";
+	lect:teacher "野中　葉、バンバン　ルディアント";
+	lect:campas "SFC";
+<http://example.com/lecture#1>
+	lect:name "マレー・インドネシア語ベーシック２【１４】"@ja;
+	lect:lecture_id "14_B2152";
+	lect:time "2016年度 秋学期 火曜日４時限,木曜日４時限";
+	lect:teacher "小笠原　健二、バンバン　ルディアント";
+	lect:campas "SFC";

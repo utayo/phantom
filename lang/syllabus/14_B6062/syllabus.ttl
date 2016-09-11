@@ -1,0 +1,87 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6062";
+	sylb:summary "組織コミュニケーションでは、組織論を構成する上で主要な概念であるコミュニケーションを多面的な角度から研究する予定です。授業では、主として、組織内メンバー間のコミュニケーションをより詳しく研究します。上司と部下関係、同僚関係、コミュニケーションの課題などに焦点をあてると同時に、テクニックとしてのコミュニケーションよりも、コミュニケーションに向き合う心得・マインドといった視点で授業を組み立てる予定です。このような一連のコミュニケーションを通して、どのように組織と個人、職場と個人、そして個人と個人がよりよい関係性を構築できるのか、また、どう組織の求心力を高めていけるのか、さらにはどのように個人の組織活動のレベルを高めていくことができるのかなどを講義する予定です。また外部の実務家をお招きして、企業におけるコミュニケーションの重要性を現場の視点をベースとして解説していただくことを予定にしています。
+
+The purpose of the course is to study the systems and mechanisms of organizational communications and their impact on organizational effctiveness and dynamisms of interpersonal relations of workers in organizations. The course is designed to study the acutal daily issues of oragnizational communications in organization rather than theoretical framework. The course invites outside lecuterers who are engaging in daily activities of organizational communications.
+
+";
+	sylb:method "組織コミュニケーションは、より良い組織内人間関係の構築、人間関係構築を通した価値創造、そして円滑な組織運営の基本です。組織の中におけるコミュニケーションが円滑に機能することにより、どのような成果が、個人にとって、職場にとって、そして組織にとって生み出されるかなどを講義する予定です。しかし、そのコミュニケーションがどれほど、個人の生き方や成長にかかわるかという視点も抜きにしては語れません。授業では企業や組織で実際に問題となっている様々なコミュニケーションの実態や、現状を概観し、多面的なコミュニケーションの重要性を検討していきます。また講義では、様々な外部講師を招聘し、組織コミュニケーションの重要性などを講義していただく予定です。
+
+The purpose of the course is to study the systems and mechanisms of organizational communications and their impact on organizational effctiveness and dynamisms of interpersonal relations of workers in organizations. The course is designed to study the acutal daily issues of oragnizational communications in organization rather than theoretical framework. The course invites outside lecuterers who are engaging in daily activities of organizational communications.
+
+";
+	sylb:schedule "第1回 組織コミュニケーション論で目指す課題（花田・堀内）（4月13日）[ 1 Intoroduction ]（担当：花田・堀内）
+授業の進め方、全体構成を講義します。 
+今何故組織コミュニケーションが必要とされるのか、組織コミュニケー 
+ションとは何かを概観します。 
+第2回 組織におけるコミュニケーションの重要性（花田・堀内）（4月20日）[ 2 Key Issues in Organizational Communication ]（担当：花田・堀内）
+コミュニケーションによる組織内人間関係の問題を検討し、コミュニ 
+ケーションの効果の問題を検討します。なぜ、コミュニケーションが重 
+要か。コミュニケーションが円滑に機能しない組織の問題、中間管理職 
+の役割などを検討します。
+
+第3回 個人にとってのコミュニケーション①（花田）（4月27日）[ 3 Individual Perspective in Organizational Communication 1 ]（担当：花田）
+コミュニケーションによる自己変容、より良い人間関係づくり、コミュ 
+ニケーションによるチームビルディングなどの諸問題を検討します。
+
+第4回 個人にとってのコミュニケーション（5月11日）[ 4 Individual Perspective in Organizational Communication 2 ]（担当：堀内）
+なぜコミュニケーションがうまくいかないのか、円滑なコミュニケー 
+ションが機能しない、背景、問題などを検討します。
+
+第5回 新しい働き方とコミュニケーション（5月18日）[ 5 New Work Style and Organizational Communication 1 ]（担当：堀内）
+新しい働き方とコミュニケーションの問題を多面的に検討します。特に 
+企業の中における多様な働き方のケースを検討する予定です。企業内に 
+おける、働きがいを高めるための工夫・対応などを検討する予定です。
+
+第6回 新しい働き方とコミュニケーション（5月25日）[ 6 New Work Style and Orgniazational Communication 2 ]（担当：花田）
+第五回目に引き続き、組織内における働きがい、と生きがい、それをサ 
+ポートするコミュニケーションの仕組みや相互支援のメカニズムなどを 
+検討する予定です。
+
+第7回 グローバルコミュニケーションの課題（6月1日）[ 7 Key Issues of Global Communications ]（担当：花田・堀内）
+佐藤氏は、日産自動車のグローバル展開を組織・人事面で主導された実務家です。日産退職後、フォードジャパンの社長・会長を歴任され、グローバルな視点でのコミュニケーションに実績をあげられました。佐藤氏の考えるグローバルコミュニケーションを概観していただきます
+
+Outside Lectureris invited
+第8回 多様な組織構成主体とのコミュニケーション（6月8日）[ 8 Diversity Issues in Organizational Communication ]（担当：花田）
+組織の中で、多様な考え方をもち、異なる立場に立っている人たちの間 
+でどのようなコミュニケーションを行い、相互理解を深めることが可能 
+となるのか、年齢による考え方の相違、ジェンダー間の問題などを多面 
+的に検討します。
+
+第9回 居酒屋チェーンの経営と顧客とのコミュニケーション(ゲストスピーカー）（6月15日）[ 9　Organizational Communication in Resturant Management ]（担当：花田・堀内）
+大庄グループ創始者平氏を講師として招聘し、やる気茶屋・庄屋におけ 
+る顧客とのコミュニケーションの重要性を講義いただきます。居酒屋に 
+おける店長教育、店長とアルバイト社員とのコミュニケーションなどの 
+問題をご紹介いただきます。
+
+Outside Lecturer is invited
+第10回 組織の統合と新たな風土づくり（6月22日）[ 10 Merge and Acquisition and Their Impact on Organizational Integration ]（担当：堀内）
+最近の企業組織の活動に、Ｍ＆Ａなどによる、企業の統合の問題があり 
+ます。異なる風土・文化を持った組織統合の難しさと、その成果などに 
+ついて検討する予定です。
+
+第11回 コミュニケーションの活発化を通して組織の活性化を促す運動など6月29日）[ 11 Movement and Activiteis of Community of Practices ]（担当：花田）
+従来の日本企業では、組織内小集団活動などが組織コミュニケーション 
+改善の集団として活用されてきました。これに対して、最近開発されて 
+きたコミュニティオブプラクティスなどの様々なコミュニケーション改 
+善活動が、どのように組織活性化をうながしているかを検討する予定で 
+す。
+
+第12回 企業でコミュニケーションがどう教育されているか（7月6日）[ 12 Key Issues in Training for Organizational Communicatoins in Firms ]（担当：堀内）
+組織の中でのコミュニケーションの円滑化は重要な問題です。企業で取り上げられ、実践されているコミュニケーション研修の実態をカバーし、企業内でのコミュニケーションの課題を概観する予定です。
+
+第13回 信頼関係の重要性とコミュニケーション（7月13日）[ 13 Social Capital Issues in Organizational Communications ]（担当：花田・堀内）
+組織コミュニケーションは一人ひとりの従業員の、真摯なコミュニケー 
+ションが何より重要です。そこから信頼が生まれ、連帯感や、働く意欲 
+がわいてくるとも言われています。信頼関係あふれたコミュニケーショ 
+ンの重要性を最近の組織論、リーダーシップ論、キャリア論などから論 
+じる予定です。
+
+第14回 クイズ（花田・堀内）7月20日[ 14. Final Review and Examination ]（担当：花田・堀内）
+授業の全体を概観し、レビューするクイズを実施します
+
+その他
+2回のレポート提出により15回分の授業を担保します
+Writing two reports will be counted for the class acitiviteis";

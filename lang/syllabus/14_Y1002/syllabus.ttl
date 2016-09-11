@@ -1,0 +1,71 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_Y1002";
+	sylb:summary "「論争のない歴史は死んだ歴史である」といった歴史家がいました。われわれがいま、漠然と歴史と考えているものは、自明なものとして初めから存在したわけではありません。そこで、今年度も、どのような過程を経て、歴史が「学」として形作られていったかを考えていきたいと思います。しかし１５回の講義で、すべてに言及することは不可能です。したがって、西欧の文明の基層に対する理解を深めることを第一目標とします。歴史研究の方法論を身につけることも、副次的な目標とします（実は、これこそがこの科目の設定趣旨に一番かなうことなのです）。 世界史を既に学んでいることが望ましいのですが、講義の進度にあわせて自分で学ぶ意志のある学生は歓迎します。ただ、本を読むことが嫌いな学生、物事を考えたり調べたりすることが嫌いな学生、単位取得のみをのぞむ学生、そして何より「根性」がない学生は履修を遠慮してください。
+This course is for the students who want to take the licence for the social studies teacher in japan, and who want to study historography in Europe.
+";
+	sylb:method "今年の講義も「歴史家たちの歴史と歴史学の方法」を取り上げていきます。 
+これにより西ヨーロッパの基層にある、ヘレニズムとヘブライズムを理解することを目標とします。また歴史的なものの見方と考え方を、学んでいく中で身につけることも出来たら、なお良いと思っています。ですからいわゆる「世界史上の重大事件の歴史」ではありませんので注意してください。またいわゆる「歴史のこぼれ話」やエピソードなどは触れている時間はありませんので、その方面での期待はしないでください。 
+講義と並行してレポートを提出してもらいます。これにより、「問題の発見とその探究」に挑む態度を涵養できれば、言うことはありません。何しろその態度こそが「歴史家」のそれなのですから。 
+The main aim of this course is to provide the studens with historography. 
+Two additional aims are to teach Hellenism and Hebraism in Western civilization, and method of history.
+";
+	sylb:schedule "第1回 ガイダンス[ Guidance ]
+この講義の内容と注意事項を説明します。
+
+･Summary of this course
+第2回 古代ギリシアと歴史家[ Ancient Greece ]
+ギリシアでは、歴史学がどのような位置づけであったかを、ヘロドトス、トゥキュディデスに触れながら講じます。またギリシア哲学が後代の歴史学にどのような影響を与えたのかを説明します。
+
+・Polis ・Philosophy and History ・Historian of Greece
+第3回 古代ローマと歴史家[ Ancient Rome ]
+ローマの発展の理由を、あるいはローマそのものを、同時代の人々はどのように考えていたのか。ローマの歴史を踏まえながら、ポリビオス、カエサル、タキトゥス、リヴィウスなどに触れて講じます。
+
+・Expansion of Rome ・Historian of Rome ・Decline and Fall of the Roman Empire
+第4回 予備（フォローアップもしくは討議・第１回）[ Follow up or Discussion ]
+歴史は教訓になるかについて考えます。講義の進度と受講者の理解度を見て適宜判断します。 
+・Proverb and History
+第5回 キリスト教の発展と歴史家　[ Christianity ]
+全知全能の神がつくったこの世界は、どのようにして始まり、どのようにして終末を迎えるのか。また、はたして人間は救済されるのか。この問いこそ中世のキリスト者の大問題でした。キリスト教の教義と普遍論争などにも触れながら概観します。
+
+・Judaism ・History of Middle Age ・Theology
+第6回 ルネサンス・宗教改革と歴史家[ Renaissance and Refomation　 ]
+ルネサンスの人文主義者も、宗教改革の推進者も、古典研究に勤しんだ事に変わりません。彼らが過去をどのようにとらえたのか。二つの精神運動の中身にも触れながら概観します。
+
+・Middle Age in danger ・Study of classical antiquity and Bible ・Providence
+第7回 予備（フォローアップもしくは討議・第２回）[ Follow up or Discussion ]
+歴史における偶然と必然について考えます。講義の進度と受講者の理解度を見て適宜判断します。
+
+・Necessity or Contingency
+第8回 啓蒙主義と歴史家　[ Enlightenment ]
+人間を理性的存在として捉える啓蒙思想は、同時に「進歩」という観念を生み出しました。当時の政治や社会の批判の道具となったこの思想が、歴史をどう捉えていたか。ヴォルテール、モンテスキュー、コンドルセを取り上げて考えます。
+
+・Absolute monarchism ・Idea of progress ・French Revolution
+第9回 ドイツ観念論の歴史哲学と唯物史観[ German idealism and Materialism ]
+観念論が生み出した歴史哲学と、革命の理論として成立した唯物史観は、正反対に見えつつ、やはりともにヨーロッパの文脈の中から出現した思想でした。カントやヘーゲル、マルクスやエンゲルスがとらえた歴史がどのようなものかを概観します。
+
+・Philosophy of history ・Historical school of economics ・Socialism，World-Systems Theory
+第10回 歴史主義という方法[ Natoinalism and historianｓ ]
+厳密な史料批判を行なうことにより、客観的歴史叙述を目指したランケとその後継者たち。彼らの仕事が、国民国家ドイツという現実にどのように関わっていったのか。英仏の国民国家の歴史家たちと合わせて概観します。
+
+・Romanticism ・Estabishment of nation-states ・Methodology and criticism
+第11回 予備（フォローアップもしくは討議・第３回）[ Follow up or Discussion ]
+歴史における客観性について考えます。講義の進度と受講者の理解度を見て適宜判断します。
+
+・Objectivism and History
+第12回 社会史という方法　[ Social history ]
+デュルケーム派社会学と歴史学との論争の中に、生まれてきたアナール派。彼らの視点により、歴史学は他の全ての学問的成果を動員するようになりました。ブロック、フェーヴル、ブローデルなどの仕事を見ていきます。
+
+・Annales School ・Anti-political history ・Interdisciplinary
+第13回 文化史という方法[ Cultural history ]
+人間の行動の中に、「価値」という座標を持ち込むことによって文化史は成立します。政治中心の歴史学、また自然科学の方法に対抗しながら発展した様子を、ブルクハルト、ホイジンガ、ウェーバーなどに見ていきます。
+
+・Neo-Kantianism ・Anti-Marxism
+第14回 文明史という方法[ History ｏｆ ｃｉｖｉｌｉｓａｔｉｏｎｓ ]
+第１次世界大戦によって、ヨーロッパは世界の中心を保てなくなり、様々な文明の一つに格下げとならざるをえませんでした。文明史とは、近代ヨーロッパを相対化する方法なのでしょうか。シュペングラー、トインビーなどに見て考えていきます。
+
+・World War I ・Clash of Civilizations ?
+その他
+* 予備（フォローアップもしくは討議・第４回）* 歴史観の相違について考えます。講義の進度と受講者の理解度を見て適宜判断します。
+Follow up or Discussion 　　　-about views of history";

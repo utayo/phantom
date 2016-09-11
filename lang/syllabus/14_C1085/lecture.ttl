@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ファイナンス論【１４】"@ja;
+	lect:lecture_id "14_C1085";
+	lect:time "2016年度 秋学期 火曜日２時限";
+	lect:teacher "菅原　周一";
+	lect:campas "SFC";
+	lect:course_type "講義";

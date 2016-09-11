@@ -1,0 +1,7 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B1003";
+	sylb:summary "以下のリンク先より 看護医療学部設置の「慶應義塾入門」の シラバスを参照してください。 https://gslbs.adst.keio.ac.jp/index.html（keio.jpの認証が必要です）
+
+";

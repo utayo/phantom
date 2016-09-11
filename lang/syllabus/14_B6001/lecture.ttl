@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "地理学基礎【１４】"@ja;
+	lect:lecture_id "14_B6001";
+	lect:time "2016年度 秋学期 水曜日２時限";
+	lect:teacher "渡邊　圭一";
+	lect:campas "SFC";
+	lect:course_type "講義";

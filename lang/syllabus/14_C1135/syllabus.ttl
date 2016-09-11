@@ -1,0 +1,127 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1135";
+	sylb:summary "La société démocratique contemporaine a pour caractéristique sa diversité culturelle. Ce phénomène pose au moins deux problèmes. Inclusion d’abord : comment rassembler les citoyens au-delà de leurs différences pour former et maintenir une nation ? Reconnaissance ensuite : comment s’ouvrir à leur diversité sans pour autant abandonner le lien social et politique ? Cette double exigence se complexifie davantage lorsqu’il s’agit de penser le rapport entre les nations. De quelle manière faut-il traiter la différence des cultures nationales dans le monde ? En bref : la diversité culturelle invite à se poser la question du vivre-ensemble. Pour aborder cette problématique, ce cours se propose d’examiner comment la citoyenneté moderne peut répondre à la valorisation de la diversité culturelle et à la nécessité de l’intégration à la fois.
+";
+	sylb:method "La société démocratique contemporaine a pour caractéristique sa diversité culturelle. Ce phénomène pose au moins deux problèmes. Inclusion d’abord : comment rassembler les citoyens au-delà de leurs différences pour former et maintenir une nation ? Reconnaissance ensuite : comment s’ouvrir à leur diversité sans pour autant abandonner le lien social et politique ? Cette double exigence se complexifie davantage lorsqu’il s’agit de penser le rapport entre les nations. De quelle manière faut-il traiter la différence des cultures nationales dans le monde ? En bref : la diversité culturelle invite à se poser la question du vivre-ensemble. 
+
+Pour aborder cette problématique, ce cours se propose d’examiner comment la citoyenneté moderne peut répondre à la valorisation de la diversité culturelle et à la nécessité de l’intégration à la fois. 
+";
+	sylb:schedule "第1回 Introduction
+Présentation du cours. Problématique d’ensemble. 
+NB : Le plan de cours peut être modifié en fonction des centres d’intérêt des participants.
+
+第2回 Citoyenneté
+Anciens et Modernes. 
+Lecture : Dominique Schnapper (avec la collaboration de Christian Bachelier), Qu’est-ce que la citoyenneté ?, Paris, Gallimard, coll. Folio, 2000. 
+第3回 Laïcité (1)
+Tolérance ou laïcité ? Histoire et concept 
+Lecture : Catherine Kintzler, Qu’est-ce que la laïcité ?, Paris, Vrin, coll. Chemins philosophiques, 2007.
+
+第4回 Laïcité (2)
+Laïcité comme culture politique ? 
+Lecture : Régis Debray, Ce que nous voile le voile, Paris, Gallimard, coll. Folio, 2004 et Id., Contretemps, Paris, Gallimard, coll. Folio, 1992.
+
+第5回 Laïcité (3)
+Un « accommodement raisonnable » ? France et Québec. 
+Lecture : Jocelyn Maclure et Charles Taylor, Laïcité et liberté de conscience, Paris, La Découverte, coll. La Découverte, 2010.
+
+第6回 Laïcité (4)
+Une « morale laïque » ? 
+Lecture : « Morale laïque. Pour un enseignement laïque de la morale » (Remise du rapport de la mission sur l’enseignement de la morale laïque. Lundi 22 avril 2013).
+
+第7回 Exposé
+Exposé.
+
+第8回 Inégalités (1)
+Qu’est-ce qu’une société juste ? 
+Lecture : Michel Forsé, Olivier Galland, Caroline Guibet Lafaye, Maxime Parodi, L’égalité. Une passion française ?, Paris, Armand Colin, 2013.
+
+第9回 Inégalités (2)
+Méritocratie. 
+Lecture : François Dubet, Les places et les chances, Paris, Seuil, coll. La République des idées, 2010. Marie Duru-Bellat, Le mérite contre la justice, Paris, Presses de Sciences Po, coll. Nouveaux débats, 2009.
+
+第10回 Exposé
+Exposé.
+
+第11回 Inégalités (4)
+Inégalité de genre. 
+Lecture : François de Singly (dir.), L’injustice ménagère, Paris, Hachette, coll. Pluriel, 2008.
+
+第12回 Inégalités (5)
+Droits culturels. 
+Lecture : Patrick Savidan, Le multiculturalisme, Paris, PUF, coll. Que sais-je ?, 2009.
+
+第13回 Exposé
+Exposé.
+
+第14回 Conclusion
+Révision et conclusion.
+
+その他
+Correction des copies, commentaire
+
+";
+	lect:lecture_id"14_C1135";
+	sylb:summary "La société démocratique contemporaine a pour caractéristique sa diversité culturelle. Ce phénomène pose au moins deux problèmes. Inclusion d’abord : comment rassembler les citoyens au-delà de leurs différences pour former et maintenir une nation ? Reconnaissance ensuite : comment s’ouvrir à leur diversité sans pour autant abandonner le lien social et politique ? Cette double exigence se complexifie davantage lorsqu’il s’agit de penser le rapport entre les nations. De quelle manière faut-il traiter la différence des cultures nationales dans le monde ? En bref : la diversité culturelle invite à se poser la question du vivre-ensemble. Pour aborder cette problématique, ce cours se propose d’examiner comment la citoyenneté moderne peut répondre à la valorisation de la diversité culturelle et à la nécessité de l’intégration à la fois.
+";
+	sylb:method "La société démocratique contemporaine a pour caractéristique sa diversité culturelle. Ce phénomène pose au moins deux problèmes. Inclusion d’abord : comment rassembler les citoyens au-delà de leurs différences pour former et maintenir une nation ? Reconnaissance ensuite : comment s’ouvrir à leur diversité sans pour autant abandonner le lien social et politique ? Cette double exigence se complexifie davantage lorsqu’il s’agit de penser le rapport entre les nations. De quelle manière faut-il traiter la différence des cultures nationales dans le monde ? En bref : la diversité culturelle invite à se poser la question du vivre-ensemble. 
+
+Pour aborder cette problématique, ce cours se propose d’examiner comment la citoyenneté moderne peut répondre à la valorisation de la diversité culturelle et à la nécessité de l’intégration à la fois. 
+";
+	sylb:schedule "第1回 Introduction
+Présentation du cours. Problématique d’ensemble. 
+NB : Le plan de cours peut être modifié en fonction des centres d’intérêt des participants.
+
+第2回 Citoyenneté
+Anciens et Modernes. 
+Lecture : Dominique Schnapper (avec la collaboration de Christian Bachelier), Qu’est-ce que la citoyenneté ?, Paris, Gallimard, coll. Folio, 2000. 
+第3回 Laïcité (1)
+Tolérance ou laïcité ? Histoire et concept 
+Lecture : Catherine Kintzler, Qu’est-ce que la laïcité ?, Paris, Vrin, coll. Chemins philosophiques, 2007.
+
+第4回 Laïcité (2)
+Laïcité comme culture politique ? 
+Lecture : Régis Debray, Ce que nous voile le voile, Paris, Gallimard, coll. Folio, 2004 et Id., Contretemps, Paris, Gallimard, coll. Folio, 1992.
+
+第5回 Laïcité (3)
+Un « accommodement raisonnable » ? France et Québec. 
+Lecture : Jocelyn Maclure et Charles Taylor, Laïcité et liberté de conscience, Paris, La Découverte, coll. La Découverte, 2010.
+
+第6回 Laïcité (4)
+Une « morale laïque » ? 
+Lecture : « Morale laïque. Pour un enseignement laïque de la morale » (Remise du rapport de la mission sur l’enseignement de la morale laïque. Lundi 22 avril 2013).
+
+第7回 Exposé
+Exposé.
+
+第8回 Inégalités (1)
+Qu’est-ce qu’une société juste ? 
+Lecture : Michel Forsé, Olivier Galland, Caroline Guibet Lafaye, Maxime Parodi, L’égalité. Une passion française ?, Paris, Armand Colin, 2013.
+
+第9回 Inégalités (2)
+Méritocratie. 
+Lecture : François Dubet, Les places et les chances, Paris, Seuil, coll. La République des idées, 2010. Marie Duru-Bellat, Le mérite contre la justice, Paris, Presses de Sciences Po, coll. Nouveaux débats, 2009.
+
+第10回 Exposé
+Exposé.
+
+第11回 Inégalités (4)
+Inégalité de genre. 
+Lecture : François de Singly (dir.), L’injustice ménagère, Paris, Hachette, coll. Pluriel, 2008.
+
+第12回 Inégalités (5)
+Droits culturels. 
+Lecture : Patrick Savidan, Le multiculturalisme, Paris, PUF, coll. Que sais-je ?, 2009.
+
+第13回 Exposé
+Exposé.
+
+第14回 Conclusion
+Révision et conclusion.
+
+その他
+Correction des copies, commentaire
+
+";

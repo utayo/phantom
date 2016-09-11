@@ -1,0 +1,24 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "中国語ベーシック２【１４】"@ja;
+	lect:lecture_id "14_B2132";
+	lect:time "2016年度 春学期 月曜日４時限,金曜日３時限";
+	lect:teacher "費　燕、有澤　雄毅";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語ベーシック２A【１４】"@ja;
+	lect:lecture_id "14_B2132";
+	lect:time "2016年度 秋学期 水曜日４時限,金曜日４時限";
+	lect:teacher "王　慧琴、費　燕";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "中国語ベーシック２B【１４】"@ja;
+	lect:lecture_id "14_B2132";
+	lect:time "2016年度 秋学期 月曜日４時限,金曜日３時限";
+	lect:teacher "費　燕、有澤　雄毅";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

@@ -1,0 +1,62 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2002";
+	sylb:summary "発展途上地域と先進地域の間の資源探しや社会経済的な変化を紹介する。理論と実践双方ともについて、解釈や動因するスキルを身に付ける方法を勉強する授業である。 現代社会の中には、生活を可能にする資源をお互いに探さなければならない。こうした資源は無形のもでもあり、有形のものでもある。自己においての社会位置を支える資源または社会の国際舞台での位置を支える資源がその例となる。有形のものは衣食住などの資産となるが、無形の資源は、教育、知識、個人能力、ソシアルキャピタル、政治的な力関係、などと考えられる。必修文献の中のこれらの例は、個人間、ジェンダー間、階層間、国家間まで渡る例である。
+
+This course introduces students to theories and practical examples involving social science, socio-economic change, and environmental resources, especially between developed and developing countries. There are tangible resources and intangible resources, as will be shown in examples of ways that differing resources sustain personal, societal, and international communities. Tangible resources include food, clothing and shelter. Intangible resources include education, knowledge, personal abilities, social capital, and political power relations. We look at these within interpersonal relations, gender relations, socio-economic relations, and international relations.
+
+";
+	sylb:method "　先ずは社会理論を触り、どこまで現実世界へ応用性できるかを問う。次に、個人、社会、国が求める資源はどのように、どこから、探る、採る、用いるかについて勉強する。最後に、資源という概念や探し方においての、現在までの変化の推移を検討して行く。 　具体的に、資源探しについて、①日常生活の中の個人間、ジェンダー間、そして施設や制度の中の例を考察する、②発展途上国と先進国の間の関係を裏付ける観念やこれに基づいているグローバルな資源の政策を検討する。 講義やディスカッション、演習、そして授業中においての書かせる・考えさせる課題をとおして学んで行く。
+
+";
+	sylb:schedule "第1回 第1回授業の紹介
+社会構造や表象の様々な定義。 
+１．購読文献：金菱清「体感する社会学」
+
+第2回 第2回 社会規範、「言説」、イデオロギーとは何か　　
+岸康彦、中川聡七郎、西頭徳三『２１世紀の資源・環境問題と農林漁業』第１章
+
+第3回 第3回 社会規範、「言説」、イデオロギーとは何か　
+岸康彦、中川聡七郎、西頭徳三『２１世紀の資源・環境問題と農林漁業』第３章～第4章
+
+第4回 第4回 開発が求める資源の探し―植民地制度のイデオロギーとは何か
+サイード、『オリエンタリズム』より「東洋人を知る」第１部
+
+第5回 第5回 める資源の探し―植民地から発展途上地域への変化や資源供給問題　
+サイード、『オリエンタリズム』より「東洋人を知る」第２部
+
+第6回 第6回　現代資源の供給１：ベーシックニーズ。　中間課題の配布。　　　
+ヴァンダナ・シヴァ『緑の革命』の中の「奇跡の種子」 
+
+第7回 第７週　社会理論と国際関係 
+佐藤仁、『資源を見る眼』より「資源はどこにあるのか」 
+中間課題（必修）の配布と説明
+
+第8回 第8回 ジェンダー、近代化、国際開発　第一部
+佐藤仁、『稀少資源のポリティックス』より「はざまの土地」　 
+中間課題の回収 
+第9回 第9回 ジェンダーの概要　（続き）
+安川一「女であること／男であること」、「労働者階級の女性たち」、 
+（末木志保美「女性は『働かな』かったか？」、「女性の経済への参加」。 
+（江原由美子『ジェンダーの社会学』より）
+
+第10回 第10回 ジェンダーと現代社会開発
+伊豫谷　「経済のグローバル化とジェンダー」
+
+第11回 第11回 人的資源と現代社会開発	
+近代経済と人的資源の復習 ～ ジェンダー・経済・労働 ～
+
+第12回 第12回 生態系・環境資源と政策
+森晶寿、京都大学地球環境学堂編『地峡環境学』の「生態系サービス」
+
+第13回 第13回 資源と国家政策 そして 最終テストの準備ともなる課題が配布される	
+1.アンダーソン著（配布資料）『想像の共同体』の中の「人口、地図」 
+2.課題が配布される
+
+第14回 第14週　最終テスト(授業中）　そして7.8に配布された課題を持参
+授業中　最終テスト　必修
+
+その他
+最終テストの準備のために勉強してきた課題についての課題
+";

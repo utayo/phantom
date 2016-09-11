@@ -1,0 +1,155 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6108";
+	sylb:summary "衣服と身体の関係性を問いかける視座を、ファッションデザインを通して学ぶ。
+
+この授業における身体表現とは、身体による表現としてのダンス等の舞台芸術ではなく、身体を物理的／社会的に表現する媒体としての衣服に注目した講義を行う。レクチャー／ワークショップ／ディスカッションによって進められる本講義は、ファッションデザインを通して身体と空間、あるいは身体と表現について実践的に、かつ批評的に理解していく。
+
+Studying the perspective on the relationship between clothing that envelops body and the enveloped body through fashion design.
+
+In this lecture series we will look at the body expression in the context of media design; fashion as something that expresses our physical and social belonging. Through lecture, workshop and discussion, we will critically and practically examine the relationship between the body, space and expression.
+
+Students are reminded that this lecture series is not literally about body movement as "body expression", like dance or theatre play.
+
+";
+	sylb:method "目的 １）ファッションデザインにおける基本的な設計・制作方法の理解 ２）ファッションデザインにおける基本的な理論の理解 ３）ファッションデザインにおける制作行為の省察的実践の理解 方法 １）ワークショップ型の制作授業と毎週の課題 ２）ファッションデザインの歴史などに関する講義 ３）ファッションデザイナーの紹介及び制作方法の演習 ４）ファッションデザインと表象文化に関する理解：音楽との連携を中心に
+
+Objectives and Aims:
+
+Gain practical and basic knowledge of making clothing -Making space with scissors and fabric -Develop haptic understanding of the relationship between drawing and prototyping
+
+Gain theoretical understanding of fashion and the body -Undersntad the general history of the body manipulation in the context of fashion design -Explore the semiotics of clothing
+
+Analyse the creativity of fashion design -Critically analyse the making process of fashion design -Evaluate synaesthesic expressions of sartorial appearance
+
+Methodologies:
+
+Workshop on how to make clothes
+
+Lectures on the notion of the body in fashion design
+
+Lectures on the creativity of fashion designers
+
+Discussion on the ciritque of practice
+
+";
+	sylb:schedule "第1回 How to think about fashion design and the body
+授業の概要説明
+
+Synposis of the lecture series
+第2回 ntroduction to fashion design
+ファッションデザインの基本的理解：講義
+
+Lecture and workshop on the creative process
+第3回 Making space with paper 
+ファッションデザインと空間構成に関する演習
+
+Lecture and workshop on the creative process
+第4回 Making space with fabric 
+ファッションデザインにおける平面構成と型紙に関する演習
+
+Lecture and workshop on the body manipulation
+第5回 Making space with fabric no.2 
+ファッションデザインにおける材料・素材に関する演習及び省察的実践の理解：デザイナーのドキュメンタリー映像を中心に
+
+Lecture and workshop on synaesthesic expressions and lecture on the designer's reflection in practice
+第6回 Making details
+ファッションデザインにおけるディテール・始末に関する演習
+
+Lecture and workshop on semiotics of clothing
+第7回 fashion design and cultural studies
+ファッッションデザインにおける表象文化との接続に関する講義
+
+Lecture and workshop on the creative process
+第8回 fashion design and digital fabrication
+デジタル工作機械を用いた制作
+
+Lecture and workshop on the creative process
+第9回 Design Workshop: Designing garment
+制作
+
+Design workshop
+第10回 Design Workshop: Designing garment
+制作
+
+Design workshop
+第11回 Design Workshop: Designing garment
+制作
+
+Design workshop
+第12回 Design Workshop: Designing garment
+制作
+
+Design workshop
+第13回 Design Workshop: Designing garment
+制作
+
+Design workshop
+第14回 presentation[ presentation ]
+課題発表
+
+presenation of the assignment
+その他
+プレゼンテーションの振り返り
+
+Reflecting the presentation: evaluate the outcome";
+	lect:lecture_id"14_B6108";
+	sylb:summary "Studying the perspective on the relationship between clothing that envelops body and the enveloped body through fashion design.
+
+In this lecture series we will look at the body expression in the context of media design; fashion as something that expresses our physical and social belonging. Through lecture, workshop and discussion, we will critically and practically examine the relationship between the body, space and expression.
+
+Students are reminded that this lecture series is not literally about body movement as "body expression", like dance or theatre play.
+
+";
+	sylb:method "Objectives and Aims:
+
+Gain practical and basic knowledge of making clothing -Making space with scissors and fabric -Develop haptic understanding of the relationship between drawing and prototyping
+
+Gain theoretical understanding of fashion and the body -Undersntad the general history of the body manipulation in the context of fashion design -Explore the semiotics of clothing
+
+Analyse the creativity of fashion design -Critically analyse the making process of fashion design -Evaluate synaesthesic expressions of sartorial appearance
+
+Methodologies:
+
+Workshop on how to make clothes
+
+Lectures on the notion of the body in fashion design
+
+Lectures on the creativity of fashion designers
+
+Discussion on the ciritque of practice
+
+";
+	sylb:schedule "第1回 How to think about fashion design and the body
+Synposis of the lecture series
+
+第2回 ntroduction to fashion design
+Lecture and workshop on the creative process 
+第3回 Making space with paper 
+Lecture and workshop on the creative process 
+第4回 Making space with fabric 
+Lecture and workshop on the body manipulation 
+第5回 Making space with fabric no.2 
+Lecture and workshop on synaesthesic expressions 
+第6回 Making details
+Lecture and workshop on semiotics of clothing 
+第7回 Drawing in fashion design 
+Lecture and workshop on the creative process 
+第8回 Deconstructing old clothing
+Lecture and workshop on the creative process 
+第9回 Design Workshop: Designing garment
+Design workshop 
+第10回 Design Workshop: Designing garment
+Design workshop 
+第11回 Design Workshop: Designing garment
+Design workshop 
+第12回 Design Workshop: Designing garment
+Design workshop 
+第13回 Design Workshop: Designing garment
+Design workshop 
+第14回 Design Workshop: Designing garment
+Design workshop 
+その他
+* Presentation* Presentation of works and reflection
+";

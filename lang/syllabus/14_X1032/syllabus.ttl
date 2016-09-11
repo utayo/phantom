@@ -1,0 +1,65 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_X1032";
+	sylb:summary "2015年から、SFCの新しいキャンパス計画「未来創造塾」において、SFCの教職員、学生、卒業生が一体となって活動し、新たな滞在型研究のキャンパスをつくっていくSFC-SBC(Student Build Campus)というプロジェクトが始動しました。SBCは、SFCの様々なリソース（知識、技術、人材）を新たなにネットワーク化し結集していくことで、世界に類をみないキャンパスの実現と、21世紀における「学習」や「教育」を再定義することを目標としています。この活動は、従来のような大きな仕組みの中で一方的に与えられてきた「大学で学ぶ」という枠組みとは別に、小さくてもいいから自分たちの学ぶ場を自分たちの力で考え作り動かしてみようというSFC生らしい創造性と主体性が求められます。 　この科目では、新キャンパスにおけるライフスタイルを構想し、どのように新しいプログラムや空間を計画し実践するのかを考え、実際に実験し実現していく授業を行ないます。具体的には、「タクティカル・アーバニズム」という市民やユーザーが自分自身で生活空間や都市環境の問題を改善していく敏速かつローコストな都市デザイン手法を紹介し、それをベースにしながら、履修者にもSFCとSBCのよりよい関係を提案してもらい、実際のフィールドで実験を繰り返すことで提案を作成していってもらいます。
+
+The Student Built Campus (SBC) project began in Spring 2015 as part of Keio University’s new campus-planning project 'Mirai Sozo Juku (Institute for Designing the Future)'. SBC aims to develop a new residential education and research environment created by the students, faculty members, administrative staff and alumni of SFC. The goal of SBC is to realize a future model of the university campus in a world where various resources, such as knowledge, technology, and people, are integrated. This new network will redefine notions of 'study' and 'education' in the 21st Century. This project pursues a campus created and operated by ourselves using SFC's sense of creativity and independence. This embodies the frontier spirit of SFC by creating a personalized, small-scale study environment which differs from existing large scale university education systems. We will discuss and visualize a future model of the university lifestyle and pursue innovative environments for new research disciplines that are needed in SFC.  In this class, we will explore new methodologies and strategies in order to realize visions and concept in this real world based on the idea of “tactical urbanism” which is a methodology to upgrade urban condition and spatial setups by the hand of citizens in a low-cost and rapid way. We will discuss about these strategies and try to apply it in the realization of SBC. Students must consider and explore an ideal relationship between SFC and SBC. By investigating real problems and issues, students must propose solutions, make prototypes, and experiment it in the real field/condition.
+
+";
+	sylb:method "SFCの新キャンパス計画「未来創造塾」に向けた新しいプログラム作り・場所作りがSFC-SBC(Student Build Campus)で行なわれます。未来に向けたSFCらしいキャンパスとはどういうものかを考え、キャンパス作りのためのソフトやハードのアイデアを具体的に構想し、それを実装するための仕組みを考え実験することをこの授業の目標とします。そのための、様々な手法や方法論を関係する思想や概念とともに履修者は獲得していくことが求められます。
+
+基本的にはグループワークで、学期の前半と後半で提案をまとめて発表してもらう形式となります。毎回の授業は提案をブラシュアップするための時間とし、教員およびTA, SAと対話しながら提案をよりよいものにしていく時間とします。また、補足的に簡単なレクチャーも行います。
+
+As part of the new campus-planning project 'Mirai Sozo Juku’ (Institute for Designing the Future), Keio SFC has initiated the SBC (Student Build Campus) project, which aims to collaboratively create a new campus environment. The goal of this class is to consider the ideal image of a future campus, propose a system to realize that vision, and experiment to determine what hardware and software will be necessary. Students are expected to gain new idea, strategy and methodology through this class.
+
+Students are expected to develop proposals based on group work. Each class will be a time to upgrade each proposal by giving comments and feedbacks from faculty and Teaching Assistant/Student Assistant. We will also invite guest lecturers in order to give new knowledge and ideas.
+
+";
+	sylb:schedule "第1回 テーマ：新キャンパスSBCを創造する「方法」[ Theme: 'Method' to create a new Campus, SBC ]（担当：講師：小林博人・井庭崇・連勇太朗）
+SBCの概要について共有したうえで、近年世界中に広まりつつある「タクティカル・アーバニズム（戦術的都市デザイン）」という、市民が公共空間をハッキングすることによる敏速かつローコストな生活空間・都市環境の改善方法について紹介し、一学期間の目標と課題について概説する
+
+We will share basic ideas of SBC and the purpose of the project. At the same time, we will study the idea of “tactical urbanism” which is a methodology in order to increase the quality of urban space by hacking streets and public spaces. We will also share the goal and process of this class through the semester.
+第2回 テーマ：リサーチ&フィールドワーク 1[ Theme: Research and Fieldwork 1 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+SFCおよびSBCについて調査し、空間の使われ方や現状の課題などを洗い出す。 
+Research and Fieldwork We will investigate SFC and SBC by looking at spatial issues and how people use the campus.
+第3回 テーマ：リサーチ&フィールドワーク 2[ Theme: Research and Fieldwork 2 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+SFCおよびSBCについて調査し、空間の使われ方や現状の課題などを洗い出す。 
+We will investigate SFC and SBC by looking at spatial issues and how people use the campus. It is also important to define some issues that needs to be solved.
+第4回 テーマ：SFCとSBCの「あいだ」をハックする 1[ Theme: Hacking in-between SFC and SBC 1 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+課題を解決するための提案をプロトタイプとして構想する。 
+Students are expected to develop a prototype in order to solve problems related to SFC and SBC.
+第5回 テーマ：SFCとSBCの「あいだ」をハックする 2[ Theme: Hacking in-between SFC and SBC 2 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+課題を解決するための提案をプロトタイプとして実際に制作し、現場に設置・利用し、その有効性を実験する。 
+Students are expected to develop a prototype in order to solve problems related to SFC and SBC. Prototype must be set up in the real situation and need to be test.
+第6回 テーマ：SFCとSBCの「あいだ」をハックする 3[ Theme: Hacking in-between SFC and SBC 13 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+課題を解決するための提案をプロトタイプとして実際に制作し、現場に設置・利用し、その実験に基づき改良する。 
+Students are expected to develop a prototype in order to solve problems related to SFC and SBC. Prototype must be set up in the real situation and need to be test. Form the feedback through the experiment, student must improve their idea and prototype.
+第7回 テーマ：中間講評[ Mid-term Review ]（担当：講師：小林博人・井庭崇・連勇太朗）
+プロトタイプを発表し、講評を行う。合宿を行う予定（日程は後日調整する）。 
+Comments and feedback will be made by faculty by looking at prototypes.
+第8回 テーマ：仕組みをつくろう 1[ Theme: Let's make a system 1 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+プロトタイプをSBC/SFCの仕組みとして日常化するための方策を考える。SFCとSBCの関係性のデザインを提案してもらい、実際に事業モデル、制度づくり、空間づくりなど多面的な視点から提案をまとめる。 
+We will investigate and consider how prototypes and proposal could be developed as a system/situation that would fit to real situation and condition. Business model, institutional ideas, spatial condition must be organized.
+第9回 テーマ：仕組みをつくろう 2[ Theme: Let's make a system 2 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+プロトタイプをSBC/SFCの仕組みとして日常化するための方策を考える。SBCとSFCの関係性のデザインを提案してもらい、実際に事業モデル、制度づくり、空間づくりなど多面的な視点から提案をまとめる。また、その過程でDIYの技術、リーンスタートアップ、サービスデザインなど様々な手法や方法論を紹介していく。 
+We will investigate and consider how prototypes and proposal could be developed as a system/situation that would fit to real situation and condition. Business model, institutional ideas, spatial condition must be organized. New strategy and methodology such as DIY technique, lean startup, service design will be introduced as a new tool.
+第10回 テーマ：仕組みをつくろう 3[ Theme: Let's make a system 3 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+プロトタイプをSBC/SFCの仕組みとして日常化するための方策を考える。SBCとSFCの関係性のデザインを提案してもらい、実際に事業モデル、制度づくり、空間づくりなど多面的な視点から提案をまとめてもらう。また、その過程でDIYの技術、リーンスタートアップ、サービスデザインなど様々な手法や方法論を紹介していく。グループごとにピンナップを行い、互いに提案を評価する。 
+We will investigate and consider how prototypes and proposal could be developed as a system/situation that would fit to real situation and condition. Business model, institutional ideas, spatial condition must be organized. New strategy and methodology such as DIY technique, lean startup, service design will be introduced as a new tool. Feedback by each other, by groups will be important in this phase.
+第11回 テーマ：仕組みをつくろう 4[ Theme: Let's make a system 4 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+プロトタイプをSBC/SFCの仕組みとして日常化するための方策を考える。SBCとSFCの関係性のデザインを提案してもらい、実際に事業モデル、制度づくり、空間づくりなど多面的な視点から提案をまとめてもらう。また、その過程でDIYの技術、リーンスタートアップ、サービスデザインなど様々な手法や方法論を紹介していく。グループごとにピンナップを行い、互いに提案を評価する。 
+We will investigate and consider how prototypes and proposal could be developed as a system/situation that would fit to real situation and condition. Business model, institutional ideas, spatial condition must be organized. New strategy and methodology such as DIY technique, lean startup, service design will be introduced as a new tool. Feedback by each other, by groups will be important in this phase.
+第12回 テーマ：仕組みをつくろう 5[ Theme: Let's make a system 5 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+プロトタイプをSBC/SFCの仕組みとして日常化するための方策を考える。SBCとSFCの関係性のデザインを提案してもらい、実際に事業モデル、制度づくり、空間づくりなど多面的な視点から提案をまとめてもらう。また、その過程でDIYの技術、リーンスタートアップ、サービスデザインなど様々な手法や方法論を紹介していく。ゲストスピーカーにより先端的なソフト・ハードの仕組みのデザイン手法についてレクチャーを予定する。 
+We will investigate and consider how prototypes and proposal could be developed as a system/situation that would fit to real situation and condition. Business model, institutional ideas, spatial condition must be organized. New strategy and methodology such as DIY technique, lean startup, service design will be introduced as a new tool. Feedback by each other, by groups will be important in this phase. Guest Lecturer will be invited to introduce new ideas and examples.
+第13回 テーマ：仕組みをつくろう 6[ Theme: Let's make a system 6 ]（担当：講師：小林博人・井庭崇・連勇太朗）
+プロトタイプをSBC/SFCの仕組みとして日常化するための方策を考える。SBCとSFCの関係性のデザインを提案してもらい、実際に事業モデル、制度づくり、空間づくりなど多面的な視点から提案をまとめてもらう。また、その過程でDIYの技術、リーンスタートアップ、サービスデザインなど様々な手法や方法論を紹介していく。グループごとに最終のプレゼンテーションの内容と方法を確認する。 
+We will investigate and consider how prototypes and proposal could be developed as a system/situation that would fit to real situation and condition. Business model, institutional ideas, spatial condition must be organized. New strategy and methodology such as DIY technique, lean startup, service design will be introduced as a new tool. Feedback by each other, by groups will be important in this phase.
+第14回 テーマ：最終発表会[ Final Review ]（担当：講師：小林博人・井庭崇・連勇太朗）
+後半で進めてきた、SBCに求められる仕組みの提案をし、講評を行う。SBC合同研究会と合同で最終発表会を行う予定。合宿を行う予定（日程は後日調整する）。 
+We will set up this event with SBC Co-Laboratory. (exact date is not fixed yet)
+その他
+課題・レポート/ゼミ合宿
+
+Exercise, Report, and Seminar camp";

@@ -1,0 +1,16 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "デザイン観察基礎【学期後半】【１４】"@ja;
+	lect:lecture_id "14_B6103";
+	lect:time "2016年度 春学期 月曜日２時限,月曜日３時限";
+	lect:teacher "冨永　美保";
+	lect:campas "SFC";
+<http://example.com/lecture#1>
+	lect:name "デザイン観察基礎【学期前半】(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B6103";
+	lect:time "2016年度 秋学期 月曜日３時限,月曜日４時限";
+	lect:teacher "鳴川　肇";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

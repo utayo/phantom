@@ -1,0 +1,59 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "日本語スキル(上級前半)【１４】"@ja;
+	lect:lecture_id "14_B2381";
+	lect:time "2016年度 春学期 月曜日３時限";
+	lect:teacher "佐藤　貴仁";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "日本語スキル(上級前半)【１４】"@ja;
+	lect:lecture_id "14_B2381";
+	lect:time "2016年度 春学期 火曜日４時限";
+	lect:teacher "平高　史也";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "日本語スキル(上級後半)【１４】"@ja;
+	lect:lecture_id "14_B2381";
+	lect:time "2016年度 春学期 金曜日２時限";
+	lect:teacher "杉原　由美";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "日本語スキル(上級後半)【１４】"@ja;
+	lect:lecture_id "14_B2381";
+	lect:time "2016年度 春学期 水曜日４時限";
+	lect:teacher "伴野　崇生";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "日本語スキル(上級)【１４】"@ja;
+	lect:lecture_id "14_B2381";
+	lect:time "2016年度 秋学期 金曜日３時限";
+	lect:teacher "島田　徳子";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "日本語スキル(上級前半)【１４】"@ja;
+	lect:lecture_id "14_B2381";
+	lect:time "2016年度 秋学期 金曜日２時限";
+	lect:teacher "杉原　由美";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "日本語スキル(上級前半)【１４】"@ja;
+	lect:lecture_id "14_B2381";
+	lect:time "2016年度 秋学期 月曜日３時限";
+	lect:teacher "佐藤　貴仁";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "日本語スキル(上級後半)【１４】"@ja;
+	lect:lecture_id "14_B2381";
+	lect:time "2016年度 秋学期 水曜日３時限";
+	lect:teacher "伴野　崇生";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

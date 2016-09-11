@@ -1,0 +1,297 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B2222";
+	sylb:summary "フランス語の初歩をマスター。身近な分野の単文を理解する。慣れた状況ならコミュニケーションが可能。自分に関する問題を単純な手段で表現できる。
+";
+	sylb:method "ＳＦＣにおけるフランス語教育は、実際に使えるフランス語を身につけることを第１の目標としています。従来の、一方的に文法知識を詰め込むという方法から脱皮し、インターラクティヴな授業を進める中で、聞く・話す・読む・書くの４つの技能を総合的に養います。インテンシブ2も1と基本的には変わりません。 
+
+FAクラスは教科書を用いません。教師が随時準備する資料で授業を運営します。FBクラスはAgenda1（Jour 6 Rendez-vous 2からJour 9 Rendez-vous 2まで）とAgenda2(Jour 1 Rendez-vous 1からJour 3 Rendez-vous 2まで)を用います。 
+
+なおインテンシブフランス語は週4回です。このシラバスシステムではその一部だけを簡略的に書くことしかできません。詳細は、以下のフランス語セクションのホームページで確認をしてください。 
+
+http://french.sfc.keio.ac.jp/
+";
+	sylb:schedule "第1回 Civilisation / Structures de la langue 1（担当：ルロワほか）
+Civilisation / Structures de la langue 1 
+FAクラスは教科書を用いず、教師が随時準備する資料で授業を運営します。詳細なプランについては初回の授業で説明があります。また、新学期開始後、以下のURLを参照すること。 
+http://french.sfc.keio.ac.jp/
+
+第2回 Civilisation / Structures de la langue ２（担当：ルロワほか）
+Civilisation / Structures de la langue ２
+
+第3回 Civilisation / Structures de la langue ３（担当：ルロワほか）
+Civilisation / Structures de la langue ３
+
+第4回 Civilisation / Structures de la langue 4（担当：ルロワほか）
+Civilisation / Structures de la langue 4
+
+第5回 Civilisation / Structures de la langue 5（担当：ルロワほか）
+Civilisation / Structures de la langue 5
+
+第6回 Civilisation / Structures de la langue 6（担当：ルロワほか）
+Civilisation / Structures de la langue 6
+
+第7回 Civilisation / Structures de la langue 7（担当：ルロワほか）
+Civilisation / Structures de la langue 7
+
+第8回 Civilisation / Structures de la langue 8（担当：ルロワほか）
+Civilisation / Structures de la langue 8
+
+第9回 Civilisation / Structures de la langue 9（担当：ルロワほか）
+Civilisation / Structures de la langue 9
+
+第10回 Civilisation / Structures de la langue 10（担当：ルロワほか）
+Civilisation / Structures de la langue 10
+
+第11回 Civilisation / Structures de la langue 11（担当：ルロワほか）
+Civilisation / Structures de la langue 11
+
+第12回 Civilisation / Structures de la langue 12（担当：ルロワほか）
+Civilisation / Structures de la langue 12
+
+第13回 Civilisation / Structures de la langue 13（担当：ルロワほか）
+Civilisation / Structures de la langue 13
+
+第14回 examen final（担当：ルロワほか）
+examen final
+
+その他
+インテンシブ２全体のまとめ。インテンシブ３への橋渡し
+
+";
+	lect:lecture_id"14_B2222";
+	sylb:summary "フランス語の初歩をマスター。身近な分野の単文を理解する。慣れた状況ならコミュニケーションが可能。自分に関する問題を単純な手段で表現できる。
+";
+	sylb:method "ＳＦＣにおけるフランス語教育は、実際に使えるフランス語を身につけることを第１の目標としています。従来の、一方的に文法知識を詰め込むという方法から脱皮し、インターラクティヴな授業を進める中で、聞く・話す・読む・書くの４つの技能を総合的に養います。インテンシブ2も1と基本的には変わりません。 
+
+FAクラスは教科書を用いません。教師が随時準備する資料で授業を運営します。FBクラスはAgenda1（Jour 6 Rendez-vous 2からJour 9 Rendez-vous 2まで）とAgenda2 (Jour 1 Rendez-vous 1からJour 3 Rendez-vous 2まで)を用います。どちらかのクラスを自分の希望にそって選択してください。 
+
+なおインテンシブフランス語は週4回です。このシラバスシステムではその一部だけを簡略的に書くことしかできません。詳細は、以下のフランス語セクションのホームページで確認をしてください。 
+http://french.sfc.keio.ac.jp/
+";
+	sylb:schedule "第1回 Jour 6 Rendez-vous 2 (Agenda 1)（担当：宮代ほか）
+Jour 6 rendez-vous 2 (Agenda 1) 
+授業の詳細については、新学期開始後、以下のURLを参照すること。 
+http://french.sfc.keio.ac.jp/
+
+第2回 Jour 7 Rendez-vous 1 (Agenda 1)（担当：宮代ほか）
+Jour 7 Rendez-vous 1 (Agenda 1)
+
+第3回 Jour 7 Rendez-vous 2 (Agenda 1)（担当：宮代ほか）
+Jour 7 Rendez-vous 2 (Agenda 1)
+
+第4回 Jour 8 Rendez-vous 1 (Agenda 1)（担当：宮代ほか）
+Jour 8 Rendez-vous 1 (Agenda 1)
+
+第5回 Jour 8 Rendez-vous 2 (Agenda 1)（担当：宮代ほか）
+Jour 8 Rendez-vous 2 (Agenda 1)
+
+第6回 Jour 9 Rendez-vous 1 (Agenda 1)（担当：宮代ほか）
+Jour 9 Rendez-vous 1 (Agenda 1)
+
+第7回 Jour 9 Rendez-vous ２ (Agenda 1)（担当：宮代ほか）
+Jour 9 Rendez-vous ２ (Agenda 1)
+
+第8回 Jour １ Rendez-vous １ (Agenda ２)（担当：宮代ほか）
+Jour １ Rendez-vous １ (Agenda ２)
+
+第9回 Jour １ Rendez-vous ２ (Agenda ２)（担当：宮代ほか）
+Jour １ Rendez-vous ２ (Agenda ２)
+
+第10回 Jour 2 Rendez-vous 1 (Agenda ２)（担当：宮代ほか）
+Jour 2 Rendez-vous 1 (Agenda ２)
+
+第11回 Jour 2 Rendez-vous ２ (Agenda ２)（担当：宮代ほか）
+Jour 2 Rendez-vous ２ (Agenda ２)
+
+第12回 Jour 3 Rendez-vous 1 (Agenda ２)（担当：宮代ほか）
+Jour 3 Rendez-vous 1 (Agenda ２)
+
+第13回 Jour 3 Rendez-vous 2 (Agenda ２)（担当：宮代ほか）
+Jour 3 Rendez-vous 2 (Agenda ２)
+
+第14回 examen final（担当：宮代ほか）
+examen final
+
+その他
+インテンシブ２全体のまとめ。インテンシブ３への橋渡し。
+
+";
+	lect:lecture_id"14_B2222";
+	sylb:summary "フランス語の初歩をマスター。身近な分野の単文を理解する。慣れた状況ならコミュニケーションが可能。自分に関する問題を単純な手段で表現できる。
+";
+	sylb:method "ＳＦＣにおけるフランス語教育は、実際に使えるフランス語を身につけることを第１の目標としています。従来の、一方的に文法知識を詰め込むという方法から脱皮し、インターラクティヴな授業を進める中で、聞く・話す・読む・書くの４つの技能を総合的に養います。インテンシブ2も1と基本的には変わりません。 
+
+Agenda1（Jour 6 Rendez-vous 2からJour 9 Rendez-vous 2まで）とAgenda2(Jour 1 Rendez-vous 1からJour 3 Rendez-vous 2まで)を用います。 
+
+なおインテンシブフランス語は週4回です。このシラバスシステムではその一部だけを簡略的に書くことしかできません。詳細は、以下のフランス語セクションのホームページで確認をしてください。 
+
+http://french.sfc.keio.ac.jp/
+";
+	sylb:schedule "第1回 Civilisation / Structures de la langue 1
+Civilisation / Structures de la langue 1 
+新学期開始後、以下のURLを参照すること。 
+http://french.sfc.keio.ac.jp/
+
+第2回 Civilisation / Structures de la langue ２
+Civilisation / Structures de la langue ２
+
+第3回 Civilisation / Structures de la langue ３
+Civilisation / Structures de la langue ３
+
+第4回 Civilisation / Structures de la langue 4
+Civilisation / Structures de la langue 4
+
+第5回 Civilisation / Structures de la langue 5
+Civilisation / Structures de la langue 5
+
+第6回 Civilisation / Structures de la langue 6
+Civilisation / Structures de la langue 6
+
+第7回 Civilisation / Structures de la langue 7
+Civilisation / Structures de la langue 7
+
+第8回 Civilisation / Structures de la langue 8
+Civilisation / Structures de la langue 8
+
+第9回 Civilisation / Structures de la langue 9
+Civilisation / Structures de la langue 9
+
+第10回 Civilisation / Structures de la langue 10
+Civilisation / Structures de la langue 10
+
+第11回 Civilisation / Structures de la langue 11
+Civilisation / Structures de la langue 11
+
+第12回 Civilisation / Structures de la langue 12
+Civilisation / Structures de la langue 12
+
+第13回 Civilisation / Structures de la langue 13
+Civilisation / Structures de la langue 13
+
+第14回 examen final
+examen final
+
+その他
+インテンシブ２全体のまとめ。インテンシブ３への橋渡し
+
+";
+	lect:lecture_id"14_B2222";
+	sylb:summary "フランス語の初歩をマスター。身近な分野の単文を理解する。慣れた状況ならコミュニケーションが可能。自分に関する問題を単純な手段で表現できる。
+";
+	sylb:method "ＳＦＣにおけるフランス語教育は、実際に使えるフランス語を身につけることを第１の目標としています。従来の、一方的に文法知識を詰め込むという方法から脱皮し、インターラクティヴな授業を進める中で、聞く・話す・読む・書くの４つの技能を総合的に養います。インテンシブ2も1と基本的には変わりません。 
+
+Agenda1（Jour 6 Rendez-vous 2からJour 9 Rendez-vous 2まで）とAgenda2 (Jour 1 Rendez-vous 1からJour 3 Rendez-vous 2まで)を用います。どちらかのクラスを自分の希望にそって選択してください。 
+
+なおインテンシブフランス語は週4回です。このシラバスシステムではその一部だけを簡略的に書くことしかできません。詳細は、以下のフランス語セクションのホームページで確認をしてください。 
+http://french.sfc.keio.ac.jp/
+";
+	sylb:schedule "第1回 Jour 6 Rendez-vous 2 (Agenda 1)
+Jour 6 rendez-vous 2 (Agenda 1) 
+授業の詳細については、新学期開始後、以下のURLを参照すること。 
+http://french.sfc.keio.ac.jp/
+
+第2回 Jour 7 Rendez-vous 1 (Agenda 1)
+Jour 7 Rendez-vous 1 (Agenda 1)
+
+第3回 Jour 7 Rendez-vous 2 (Agenda 1)
+Jour 7 Rendez-vous 2 (Agenda 1)
+
+第4回 Jour 8 Rendez-vous 1 (Agenda 1)
+Jour 8 Rendez-vous 1 (Agenda 1)
+
+第5回 Jour 8 Rendez-vous 2 (Agenda 1)
+Jour 8 Rendez-vous 2 (Agenda 1)
+
+第6回 Jour 9 Rendez-vous 1 (Agenda 1)
+Jour 9 Rendez-vous 1 (Agenda 1)
+
+第7回 Jour 9 Rendez-vous ２ (Agenda 1)
+Jour 9 Rendez-vous ２ (Agenda 1)
+
+第8回 Jour １ Rendez-vous １ (Agenda ２)
+Jour １ Rendez-vous １ (Agenda ２)
+
+第9回 Jour １ Rendez-vous ２ (Agenda ２)
+Jour １ Rendez-vous ２ (Agenda ２)
+
+第10回 Jour 2 Rendez-vous 1 (Agenda ２)
+Jour 2 Rendez-vous 1 (Agenda ２)
+
+第11回 Jour 2 Rendez-vous ２ (Agenda ２)
+Jour 2 Rendez-vous ２ (Agenda ２)
+
+第12回 Jour 3 Rendez-vous 1 (Agenda ２)
+Jour 3 Rendez-vous 1 (Agenda ２)
+
+第13回 Jour 3 Rendez-vous 2 (Agenda ２)
+Jour 3 Rendez-vous 2 (Agenda ２)
+
+第14回 examen final
+examen final
+
+その他
+インテンシブ２全体のまとめ。インテンシブ３への橋渡し。
+
+";
+	lect:lecture_id"14_B2222";
+	sylb:summary "フランス語の初歩をマスター。身近な分野の単文を理解する。慣れた状況ならコミュニケーションが可能。自分に関する問題を単純な手段で表現できる。
+";
+	sylb:method "このクラスでは、週2回がcivilisation, 1回がréinvestissement, 1回が文法です。教科書は使いません。 
+
+なおインテンシブフランス語は週4回です。このシラバスシステムではその一部だけを簡略的に書くことしかできません。詳細は、以下のフランス語セクションのホームページで確認をしてください。 
+
+http://french.sfc.keio.ac.jp/
+";
+	sylb:schedule "第1回 civilisation 1
+授業の詳細は以下のURLを参照すること（以下同様） 
+
+http://french.sfc.keio.ac.jp/
+
+第2回 civilisation 2
+civilisation 2
+
+第3回 réinvestissement 
+réinvestissement
+
+第4回 grammaire
+grammaire
+
+第5回 civilisation 1
+civilisation 1
+
+第6回 civilisation 2
+civilisation 2
+
+第7回 réinvestissement 
+réinvestissement
+
+第8回 grammaire
+grammaire
+
+第9回 civilisation 1
+civilisation 1
+
+第10回 civilisation 2
+civilisation 2
+
+第11回 réinvestissement 
+réinvestissement
+
+第12回 grammaire
+grammaire
+
+第13回 civilisation 1
+civilisation 1
+
+第14回 civilisation 2
+civilisation 2
+
+第15回 réinvestissement 
+réinvestissement
+
+その他
+インテンシブ２全体のまとめ。
+
+";

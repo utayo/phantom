@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "地域医療システム【１４】"@ja;
+	lect:lecture_id "14_C1048";
+	lect:time "2016年度 秋学期 金曜日５時限";
+	lect:teacher "古城　隆雄";
+	lect:campas "SFC";
+	lect:course_type "講義";

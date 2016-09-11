@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "オープンデザイン実践【１４】"@ja;
+	lect:lecture_id "14_C2113";
+	lect:time "2016年度 秋学期 火曜日４時限";
+	lect:teacher "筧　康明、赤塚　大典、瀧田　佐登子";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

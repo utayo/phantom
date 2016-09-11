@@ -1,0 +1,35 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ドイツ語ベーシック１A【１４】"@ja;
+	lect:lecture_id "14_B2111";
+	lect:time "2016年度 春学期 月曜日３時限,水曜日３時限";
+	lect:teacher "シュレンドルフ，　レオポルト、中川　純子";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://deutsch.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "ドイツ語ベーシック１B【１４】"@ja;
+	lect:lecture_id "14_B2111";
+	lect:time "2016年度 春学期 火曜日３時限,水曜日３時限";
+	lect:teacher "ヴィッツシュトック，　ユルゲン、クンスト，　ダグマー";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://deutsch.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "ドイツ語ベーシック１C【１４】"@ja;
+	lect:lecture_id "14_B2111";
+	lect:time "2016年度 春学期 月曜日３時限,金曜日４時限";
+	lect:teacher "木村　護郎　クリストフ、グラースミュック，　マルクス";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://deutsch.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "ドイツ語ベーシック１A【１４】"@ja;
+	lect:lecture_id "14_B2111";
+	lect:time "2016年度 秋学期 水曜日３時限,金曜日３時限";
+	lect:teacher "中川　純子、ヴィッツシュトック，　ユルゲン";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://deutsch.sfc.keio.ac.jp/";

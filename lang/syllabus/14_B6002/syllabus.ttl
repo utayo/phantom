@@ -1,0 +1,72 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6002";
+	sylb:summary "高校での物理や化学の履修を前提とせずに，物理と化学を中心に自然科学の基礎を身につけることを目標とします．物体の運動や建築を理解するための基礎となる力学，現代の産業社会や情報社会とは切り放して考えることのできない電磁気学，そして環境問題等の分野を理解するための基礎となる原子，分子、化学反応を扱う化学について学びます． 自然科学の素養を身につけておくことは，科学分野に進む学生だけでなく，政策，行政，法律といった社会科学の分野に進む学生にとっても，環境問題に代表されるようにその背景となる事象を正しく理解する上で大切なことなので，多くの学生に身につけてほしい内容の科目です。
+This class aims obtaining fundamental natural science knowledge of physics and chemistry without highschool level knowledge of physics and chemistry. Due to limited time of lectures, this class aims basic mechanics and electromagnetics, and basic chemistry.
+";
+	sylb:method "高校での物理や化学の履修を前提とせずに，物理と化学を中心に自然科学の基礎を身につけることを目標とします．物体の運動や建築を理解するための基礎となる力学について，現代の産業社会や情報社会とは切り放して考えることのできない電気について，そして環境問題等の分野を理解するための基礎となる原子，分子、化学反応を扱う化学について学びます． 
+
+This class aims obtaining fundamental natural science knowledge of physics and chemistry without highschool level knowledge of physics and chemistry. 
+Due to limited time of lectures, this class aims basic mechanics and electromagnetics, and basic chemistry. 
+";
+	sylb:schedule "第1回 概要紹介[ Introduction ]
+概要紹介．物理，化学の発展の歴史と俯瞰． 
+Overview of physics and chemistry.
+第2回 力学(1)[ Mechanics (1) ]
+Newtonの運動の第1法則から第3法則まで 
+力，速度，加速度，質量，仕事，仕事率 
+three laws of Newton. Force, Velocity, Acceleration, mass, work, power
+第3回 力学(2)[ Mehcanics (2) ]
+運動エネルギーと位置エネルギー，エネルギー保存則
+
+Kinematic energy, potential energy, energy conservation law
+第4回 力学(3)[ Mechanics (3) ]
+力のつりあい，慣性モーメント，回転運動，振り子
+
+balance of force, inertia moment, rotation, pendulum
+第5回 力学(4)[ Mechanics (4) ]
+振動，波動，万有引力による運動
+
+oscillation, wave, universal gravitation
+第6回 物質の構成[ material ]
+原子，分子，イオン，周期律表，物質3体(気体，液体，固体) 
+単体と化合物
+
+atom, molecular, ion, periodic table, gas, liquid, solid compound chemical, simple substance
+第7回 原子と分子[ atom and molecular ]
+化学反応と熱，絶対温度と気体
+
+chemical reaction and energy, absolute tempreture and gas.
+第8回 化学反応[ chemical reaction ]
+酸，塩基，酸化還元
+
+acid, base, oxidation and reduction
+第9回 無機物質と有機化合物[ organic compounds and inorganic compounds ]
+金属結合、共有結合、イオン結合と物質の性質
+
+metallic bond, convalent bond, ionic bond
+第10回 電磁気の基礎[ basic electromagnetic ]
+電気，電気回路、電気エネルギーと熱，電気分解
+
+electric, circuit, electrolysis
+第11回 電界と磁界[ electric field and magnetic field ]
+電荷と電界，電流と磁界，電気とエネルギー
+
+charge and electric field, current and magnetic field, electric and energy
+第12回 電磁波[ electromagnetic wave ]
+電磁誘導，電磁波， 
+テレビ，ラジオ，携帯電話や無線LANで使われている電波の基礎
+
+electromagnetic induction, elevtromagnetic wave
+第13回 放射性物質、環境関連物質[ radio active substance ]
+放射性同位元素と放射能，原子力，汚染物質
+
+radio isotope
+第14回 まとめ(1)[ summary (1) ]
+最近の科学に関する話題をとりあげ、本講義で学んだこととの関連を示します。
+
+recent scientific topics
+その他
+* まとめ(2)* 全体のまとめと、今後の学び方
+Summary (2) What to learn the next ?";

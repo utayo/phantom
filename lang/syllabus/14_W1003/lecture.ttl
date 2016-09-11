@@ -1,0 +1,9 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "食品衛生学（TTCK）【１４】"@ja;
+	lect:lecture_id "14_W1003";
+	lect:time "2016年度 春学期";
+	lect:teacher "山形大学　 、佐野　ひとみ";
+	lect:campas "TTCK";

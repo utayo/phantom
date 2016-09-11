@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "日本語ベーシック４【１４】"@ja;
+	lect:lecture_id "14_B2184";
+	lect:time "2016年度 春学期 月曜日１時限,金曜日１時限";
+	lect:teacher "白頭　宏美";
+	lect:campas "SFC";
+	lect:course_type "講義、グループワーク";

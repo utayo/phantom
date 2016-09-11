@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "仕事と社会【学期前半】【１４】"@ja;
+	lect:lecture_id "14_B6082";
+	lect:time "2016年度 春学期 木曜日１時限,木曜日２時限";
+	lect:teacher "小山　健太、豊田　義博";
+	lect:campas "SFC";
+	lect:course_type "講義";

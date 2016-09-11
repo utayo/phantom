@@ -1,0 +1,55 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6115";
+	sylb:summary "This course involves the way to acquire meaningful data from the real world as a tool of problem finding and solving. The data source ranges from the space, e.g. environment monitoring, objects around us, which play critical role cyber physical systems, to human as the stakeholder of a problem. Different data sources require different ways to extract data from them, and the correct way must be used to acquire meaningful data. This course overviews social surveys using questionnaire technique, environment monitoring using state-of-art sensing technologies, and data analysis/presentation skills that are common to all the different projects.
+
+ナレッジスキルの導入科目として、問題発見から問題解決に至るステップの入口にあたるデータ獲得に関する導入を行います。データは対象によってその性質が異なり、適切なデータの獲得が問題発見・問題解決に欠かせません。データ獲得における考え方、方法、装置についてその概要を学び、データ獲得のプロセスをさまざまな実例に即して学びます。具体的には、アンケート、インタビュー、フィールドワークなどの方法を複合して実施する社会調査、空間情報科学における自然環境情報と人間の生活行動情報の獲得法、人間が外界から得た情報に基づいて行う行動の認知身体科学的な観測、遺伝情報をはじめとしたヒトをはじめとする生物に関する生命情報の獲得など、巨視的な事象から微視的な事象にわたる多彩なデータプロセスを概観します。
+
+";
+	sylb:method "This source proceeds with 6 sets of a lecture class and a practice class, each of which focuses on a topic. A lecture class gives introductory knowledge of a topic, and a practice class let students to work on the topic with a given issue. After each practice class, an assignment is given with about 1 week due.
+
+";
+	sylb:schedule "第1回 Guidance
+Introduction to the course
+
+第2回 Lecture: data
+analog vs digital, conversion between them
+
+第3回 Practice: data
+Acquiring location and acceleration data from smartphone
+
+第4回 Lecture: human activity sensing
+Sensing human activity using sensors particularly embedded in smartphones
+
+第5回 Practice: human activity sensing
+Analysing accelerometer data using a spreadsheet software
+
+第6回 Lecture: Remote sensing 
+Sensing environment using wireless sensor nodes
+
+第7回 Practice: Remote sensing 
+Students are given a few wireless sensor nodes to work with.
+
+第8回 Lecture: Sensor database
+SQL
+
+第9回 Practice: Sensor database 
+Access environment monitoring sensor network deployed in SFC via its database
+
+第10回 Lecture: Social Research 
+quantitative and qualitative research
+
+第11回 Practice: Social Research
+Making a survey
+
+第12回 Lecture: Statistics 
+Software for statistics
+
+第13回 Practice: Statistics
+Creating a statistics
+
+第14回 Final Presentation
+その他
+* Field Work* as appropriate
+";

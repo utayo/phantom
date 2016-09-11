@@ -1,0 +1,59 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2064";
+	sylb:summary "ゲノム分子生物学1で学んだ、ゲノムの構造やそれを解析するための実験手法を基軸にすえながら、ゲノム分子生物学２では、DNA複製、転写、RNAプロセシング等、様々な遺伝子制御機構の詳細やプロテオーム解析研究を解説する。また、ゲノムの変異、組み換えなどの事象を検討し、最終的には系統・進化学的な議論を行なう。この授業も分子生物学やゲノム研究の現場にいる３人の講師が最新の情報などを織り交ぜながら講義する。
+
+In addition to the knowledge learned in the Genome Molecular Biology 1 class, Genome Molecular Biology 2 class will provide more detailed gene regulation topics such as DNA replication, RNA transcription and RNA processing. Furthermore, this class will outline phylogenetic analysis and molecular evolution.
+
+";
+	sylb:method "ゲノム分子生物学1で学んだ、ゲノムの構造やそれを解析するための実験手法を基軸にすえながら、ゲノム分子生物学2では、DNA複製、転写、RNAプロセシング等、様々な遺伝子制御機構の詳細やプロテオーム解析研究を解説する。また、ゲノムの変異、組み換えなどの事象を検討し、最終的には系統・進化学的な議論を行なう。この授業も分子生物学やゲノム研究の現場にいる３人の講師が最新の情報などを織り交ぜながら講義する。
+
+In addition to the knowledge learned in the Genome Molecular Biology 1 class, Genome Molecular Biology 2 class will provide more detailed gene regulation topics such as DNA replication, RNA transcription and RNA processing. Furthermore, this class will outline phylogenetic analysis and molecular evolution.
+
+";
+	sylb:schedule "第1回 ゲノムへの接近１[ Accessing the Genome (1) ]（担当：斎藤菜摘）
+真核生物のゲノムの活性化（遺伝子の転写活性化）には、クロマチン構造の変換が第一に要求される。この構造変化を引き起こすヒストンの修飾やDNAのメチル化を中心に、クロマチンレベルでの遺伝子発現制御について概説する。
+
+第2回 ゲノムへの接近２[ Accessing the Genome (2) ]（担当：斎藤菜摘）
+真核生物のゲノムの活性化（遺伝子の転写活性化）には、クロマチン構造の変換が第一に要求される。この構造変化を引き起こすヒストンの修飾やDNAのメチル化を中心に、クロマチンレベルでの遺伝子発現制御について概説する。
+
+第3回 転写開始複合体の形成１[ Assembly of the Transcription Initiation Complex (1) ]（担当：斎藤菜摘）
+ゲノムの活性化には、クロマチンの活性化と共に転写開始複合体が遺伝子のプロモーター領域に形成される必要がある。この複合体形成に重要な役割を果たすDNA結合タンパク質を中心に、方法論を交えながら解説する。
+
+第4回 転写開始複合体の形成２[ Assembly of the Transcription Initiation Complex (2) ]（担当：斎藤菜摘）
+ゲノムの活性化には、クロマチンの活性化と共に転写開始複合体が遺伝子のプロモーター領域に形成される必要がある。この複合体形成に重要な役割を果たすDNA結合タンパク質を中心に、方法論を交えながら解説する。
+
+第5回 RNAの合成とプロセシング[ Synthesis and Processing of RNA ]（担当：ガリポン　ジョゼフィーヌ）
+真核生物の遺伝子発現制御は、原核生物のそれに比較して複雑多岐にわたる。真核生物固有のRNAのプロセッシングについて、スプライシング、リボザイム、RNA干渉、核輸送などを取り上げて概説する。
+
+第6回 プロテオームの合成とプロセシング[ Synthesis and Processing of the Proteome ]（担当：ガリポン　ジョゼフィーヌ）
+ゲノム発現における細胞内でのタンパク質合成に関して、遺伝コードとtRNAの関係、アミノ酸のポリペプチドへの重合について概説する。また、合成されたタンパク質が機能を発揮するために重要な各種のプロセシングと最終的なタンパク質分解について概説する。
+
+第7回 ゲノム機能の調節１[ Regulation of Genome Activity (1) ]（担当：ガリポン　ジョゼフィーヌ）
+分化と発生の違いと、その基礎となるゲノムの発現調節を概説する。また、細胞外シグナル化合物がゲノム機能を一過性に変化させる様式について概説する。ゲノム機能の永続的変化と半永続的変化が起こる様式について概説する。また、発生におけるゲノムの調節機能について概説する。
+
+第8回 ゲノム機能の調節２[ Regulation of Genome Activity (2) ]（担当：ガリポン　ジョゼフィーヌ）
+分化と発生の違いと、その基礎となるゲノムの発現調節を概説する。また、細胞外シグナル化合物がゲノム機能を一過性に変化させる様式について概説する。ゲノム機能の永続的変化と半永続的変化が起こる様式について概説する。また、発生におけるゲノムの調節機能について概説する。
+
+第9回 ゲノム複製[ Genome Replication ]（担当：金井昭夫）
+DNAの半保存的複製の機構について、DNAのトポロジー問題、複製開始・終結機構、複製フォークを中心に概説する。真核生物におけるテロメアの役割と細胞老化やがんとの関連性を概説する。またゲノム複製と細胞周期の協調性について概説する。
+
+第10回 ゲノム複製[ The Molecular Biology Society of Japan (MBSJ) ]（担当：金井昭夫）
+日本分子生物学会年会への出席を授業にかえる
+
+第11回 変異とDNA修復、組換え[ Mutations, DNA Repair and Recombination ]（担当：金井昭夫）
+「組換え」相同組換えのメカニズムについて学ぶ。またトランスポゾン、レトロエレメントなどゲノムに挿入したり、転移したりするものの実体に関して議論する。 
+第12回 ゲノムの進化[ How Genomes Evolve ]（担当：金井昭夫）
+ヒトのグロビン遺伝子やHox遺伝子等を例にとり、ゲノムの進化について考察する。
+
+第13回 分子系統学[ Molecular Phylogenetics ]（担当：金井昭夫）
+ＤＮＡやアミノ酸の変異率に基づいた系統樹作成法に関して述べるとともに、これらを用いた生物種の起源や古生物学的な問題に関して議論する。
+
+第14回 大テスト[ Final Test ]（担当：金井昭夫）
+これまでの講義に関して大テストを行ない、理解の手助けとする。
+
+その他
+１年間の授業のまとめを各自で行ない。ゲノム分子生物学の総括とする。
+
+Conclusions";

@@ -1,0 +1,243 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6069";
+	sylb:summary "This class will focus on the process of writing an academic research paper in English. Choosing a topic/research question, finding sources, the organization of English academic writing, citing/referencing sources, formatting, and peer editing will all be addressed. The final outcome will be a single academic English research paper of approximately 6,000 words (10 pages).
+
+英語の卒業論文執筆の方法を実践を通じて学ぶ。テーマの選び方、調査の方法、英語の論文の構成、参照の方法、書式作成の方法、「peer editing」（学習者同士でお互いの文章の構成の点検）なども学ぶ。このクラスを通して、最終的に約６０００語（１０ページ）の英語による学術論文を作成することになる。【講義は英語で行います。】
+
+";
+	sylb:method "The objective of this class is to become more familiar and comfortable with the academic writing genre in English. Although language mechanics (e.g. grammar) will, of course, play a role, the primary focus will be on the "formula" for writing an academic paper in English.
+
+Choosing a topic/research question, finding sources, the organization of English academic writing, citing/referencing sources, formatting, and peer editing will all be addressed. The final outcome will be a single academic English research paper of approximately 6,000 words (10 pages).
+
+The class style will alternate between lecture/discussion and student-led editing sessions.
+
+Students are encouraged to participate actively and openly in class.
+
+";
+	sylb:schedule "第1回 Overview
+An introduction to the course and a look at an example research paper
+
+第2回 Defining your Research Question / Finding Sources
+We will discuss finding a general research question, and then finding sources to help you answer it. We will also discuss resource management software, with an emphasis on Zotero (free!).
+
+第3回 The Reference Section & Citations / Formatting Your Document
+This session will give an overview of the reference section of an academic paper. I will also demonstrate basic document formatting techniques for English academic writing.
+
+第4回 Thesis Statements / Outline
+Once you have settled on a topic for your paper, you need to narrow it down to exactly what you want to say about it.
+
+第5回 The Introduction
+We will view and discuss some effective introductions to academic papers.
+
+第6回 Peer Editing 1: The Introduction
+In this class we will learn about how to do peer editing and use the process to edit each others' introductions.
+
+第7回 Organization of Claims and Support
+In this session, we will discuss the issue of claims and support. We will discuss what statements need support, and what do not. We will also discuss how to organize information to be easy for the reader to process.
+
+第8回 Citations, Quotations and Plagiarism
+In this session, we will discuss the related topics of citing your sources in your writing, quoting sources, and when using too much of what a source has said is plagiarism. This is a very serious and important topic for any student who may be studying in and English-speaking country in the future!
+
+第9回 Peer-Editing 2: Body, Round 1
+We will peer-edit the main body of your research paper.
+
+第10回 Peer-Editing 3: Body, Round 2
+We will peer-edit the main body of your research paper again.
+
+第11回 The Conclusion
+In this session, we will discuss and view some effective ways to conclude an academic paper.
+
+第12回 Peer Editing 4: Conclusion
+We will peer-edit the conclusion of your paper.
+
+第13回 Penultimate Peer Editing Session / Conferences
+We will peer-edit the paper, and I will meet one-on-one with students to discuss the latest draft
+
+第14回 Final Peer Editing Session
+We will take this day to edit the papers one more time. Due date for the finished product will be announced in class.
+
+その他
+One-on-one consultation sessions
+
+";
+	lect:lecture_id"14_B6069";
+	sylb:summary "This class will focus on the process of writing an academic research paper in English. Choosing a topic/research question, finding sources, the organization of English academic writing, citing/referencing sources, formatting, and peer editing will all be addressed. The final outcome will be a single academic English research paper of approximately 6,000 words (10 pages).
+
+英語の卒業論文執筆の方法を実践を通じて学ぶ。テーマの選び方、調査の方法、英語の論文の構成、参照の方法、書式作成の方法、「peer editing」（学習者同士でお互いの文章の構成の点検）なども学ぶ。このクラスを通して、最終的に約６０００語（１０ページ）の英語による学術論文を作成することになる。【講義は英語で行います。】
+
+";
+	sylb:method "The objective of this class is to become more familiar and comfortable with the academic writing genre in English. Although language mechanics (e.g. grammar) will, of course, play a role, the primary focus will be on the "formula" for writing an academic paper in English.
+
+Choosing a topic/research question, finding sources, the organization of English academic writing, citing/referencing sources, formatting, and peer editing will all be addressed. The final outcome will be a single academic English research paper of approximately 6,000 words (10 pages).
+
+The class style will alternate between lecture/discussion and student-led editing sessions.
+
+Students are encouraged to participate actively and openly in class.
+
+";
+	sylb:schedule "第1回 Overview
+An introduction to the course and a look at an example research paper
+
+第2回 Defining your Research Question / Finding Sources
+We will discuss finding a general research question, and then finding sources to help you answer it. We will also discuss resource management software, with an emphasis on Zotero (free!).
+
+第3回 The Reference Section & Citations / Formatting Your Document
+This session will give an overview of the reference section of an academic paper. I will also demonstrate basic document formatting techniques for English academic writing.
+
+第4回 Thesis Statements / Outline
+Once you have settled on a topic for your paper, you need to narrow it down to exactly what you want to say about it.
+
+第5回 The Introduction
+We will view and discuss some effective introductions to academic papers.
+
+第6回 Peer Editing 1: The Introduction
+In this class we will learn about how to do peer editing and use the process to edit each others' introductions.
+
+第7回 Organization of Claims and Support
+In this session, we will discuss the issue of claims and support. We will discuss what statements need support, and what do not. We will also discuss how to organize information to be easy for the reader to process.
+
+第8回 Citations, Quotations and Plagiarism
+In this session, we will discuss the related topics of citing your sources in your writing, quoting sources, and when using too much of what a source has said is plagiarism. This is a very serious and important topic for any student who may be studying in and English-speaking country in the future!
+
+第9回 Peer-Editing 2: Body, Round 1
+We will peer-edit the main body of your research paper.
+
+第10回 Peer-Editing 3: Body, Round 2
+We will peer-edit the main body of your research paper again.
+
+第11回 The Conclusion
+In this session, we will discuss and view some effective ways to conclude an academic paper.
+
+第12回 Peer Editing 4: Conclusion
+We will peer-edit the conclusion of your paper.
+
+第13回 Penultimate Peer Editing Session / Conferences
+We will peer-edit the paper, and I will meet one-on-one with students to discuss the latest draft
+
+第14回 Final Peer Editing Session
+We will take this day to edit the papers one more time. Due date for the finished product will be announced in class.
+
+その他
+One-on-one consultation sessions
+
+";
+	lect:lecture_id"14_B6069";
+	sylb:summary "本講義は、人文社会科学系を研究対象とする学部生を想定して、学術論文を書き上げるにあたって不可欠な各種の「作法（資料・史料の検索、整理、引用の方法、および論文の構成）」を学ぶ（学部卒業論文であり、小論文やレポートとは異なる）。また、論文の執筆のみならず、口頭発表及び質疑応答の方法にも力を入れる。 　
+
+";
+	sylb:method "アカデミックライティングは三つの目標を掲げている。 １．総合政策学部におけるアカデミックライティングの基本的な手順と作業を体得する。 ２．自らのリサーチの伝達力と他人のリサーチの理解力を養うこと。すなわち、聞く、言う、書くことに重点を置く。 ３．お互いのリサーチについて、議論して新たな「知見」を導くこと。
+
+授業の手法は、主に講師による講義である。 加えて、講師と履修生との議論、履修生同士の議論を積極的に行う。
+
+";
+	sylb:schedule "第1回 授業ガイダンス、履修生の要望調査、質疑応答
+講師の紹介、日程の説明、履修上の注意点、履修生の要望について、質疑応答する。 
+第2回 総合政策と人文社会科学の諸専門分野
+総合政策の概念について説明する。そして、人文社会科学の諸専門分野（外国語、文化人類学、歴史学、政治学等）と総合政策の関連性を説明する。とりわけ、政治学は、中央行政、地方行政、比較行政、国際行政に分けて詳細に講義を行う。
+
+第3回 テーマ選定とリサーチ・クエスチョン、仮説
+テーマをいかに選定するのか、その手順と方法を説明する。 
+「5W1H」は何を意味するのか、いかにしてリサーチ・クエスチョンを「なぜ」へ導くのかを説明する。尚、「なぜ」に対する答えとしての仮説の立て方を考察する。
+
+第4回 資料の収集と解読
+1次資料、2次資料は何か。各専門分野による相違と類似について説明する。 
+資料はいかに収集するのか。 
+収集した資料はいかに解読するのか、その手順と方法を説明する。　
+
+第5回 インタビューとアンケートの整理方法
+インタビューはいかに行うのか。アンケートの結果はいかに整理するのかについて、説明を行う。とりわけ、インタビュー対象者とのコミュニケーション、客観的なデータの収集に向けた手順と方法を説明する。
+
+第6回 分析枠組みの設定と理論
+テーマをいかに観察するかについて説明する。 
+帰納と演繹、諸理論からテーマとの整合性をいかに確保するかについて、説明する。弁証法と人文社会科学の関連性を説明する。
+
+第7回 研究計画書の発表
+テーマ、新規性、研究手法、予想される結果ついて、発表を行う。 
+研究計画書の発表は今期に卒業論文を執筆する履修生が優先される。 
+発表は1人3分（時間厳守）行い、聴衆はコメントを記入する。 
+第8回 研究計画書のレビュー
+聴衆と講師からのコメントから研究計画書のレビューを行う。 
+講師と履修生との議論、履修生同士の議論を行う。
+
+第9回 資料の政治的含意と客観性の導出
+資料公開とは何か。その政治的含意からいかに客観性を導くのかについて説明する。 
+加えて、ビックデータの時代ともいわれる今日、数値データをいかに理解するのか、その手順と方法について、説明する。
+
+第10回 レポート、政策提言、研究論文の比較
+現状把握、問題解決の提示、経験的な事象の探求はいかに異なるか。 
+レポート、政策提言、研究論文は誰に求められ、いかに活用されているのか。 
+問題発見と問題解決にはいかなる文章が求められ、説得力を確保するかについて、説明する。
+
+第11回 文章の表現、脚注の付け方、参考文献の整理方法
+人文社会科学と自然科学の相違点と類似点を説明する。 
+客観的だと思われる文書はいかに書くのか。私見、他人の意見、既定の事実の区別はいかに行うのか。論拠のデータとしての脚注、参考文献の整理方法について説明する。
+
+第12回 政策提言のディスカッション
+アカデミックライティングの最終目的は、筆者の主張を説得することである。 
+そのためには、他人との議論を経て一貫した主張が求められる。 
+履修者の確定次第、グループを形成する。本年度は復興支援の「公共哲学」について、議論する。各グールプは20分、発表した後、ディスカッションを行う。 
+第13回 最終発表
+テーマ、研究手法、研究内容、結論について、発表と質疑応答を行う。 
+発表は、今期に卒業論文を執筆する履修生が優先される。 
+発表は、1人5分（時間厳守）行う。
+
+第14回 アカデミックライティングのまとめ
+アカデミックライティングのまとめを講義する。 
+履修者は最終課題（20,000字）を提出する。 
+その他
+講師と履修生がアカデミックライティングについて議論を行う。
+";
+	lect:lecture_id"14_B6069";
+	sylb:summary "　本講義では、卒論の作成にむけて、人文社会科学系の研究論文の書き方を実習する。そもそも研究論文とレポートはどこがちがうか、テーマはどのように決めるか、中間発表の方法、文献の探し方、論文の構成など、たんなる「作文技術」とは異なる学術論文の書き方を学習する。最終的には、履修者各自が2万字程度の論文を書き上げることをめざす。なお申し訳ないが、担当者の都合のため、初回は10月6日木曜となる。
+
+";
+	sylb:method "　最初に断わっておくが、この科目は文章教室ではない。文章は個人の感性によるところが大きく、指導はほとんど不可能にちかい。ここで目標とするのは、卒業論文をはじめとした学術的な論文を作成する能力の育成である。 　上記のような論文作成の場合、文章の上手下手は、はっきりいって二次的な問題でしかない。もっとも重要なのは、論文の目的と主題の設定が明確であるか否か、書き手がどれだけその主題にそって内容を展開できているか否かである。そのためここでは、テーマ設定や学問的方法の選び方、調査方法など、文章作成以外の部分に重点を置く。 　論文の作成は実技であり、書かないかぎり上達しない。最終的には、論文を一本作成することが要求される。その作成と同時進行で、中間発表をまじえつつ講義を進めてゆく。受講者は、受講初期の段階でテーマを決め、論文作成の過程に一歩づつ先立つかたちで展開される講義をアドバイスとして、自分の作業を進めてゆくことになる。したがって、この科目では基本的に主役は受講者自身である。積極的な意欲のある人に、受講していただきたい。 　なお申し訳ないが、担当者の都合のため、初回は10月6日木曜となる。
+
+";
+	sylb:schedule "第1回 Overview
+まず、この講義の基本的コンセプトを話す。論文作成の目的、意義、そして一般の文章とのちがいなどを説明する。なお申し訳ないが、担当者の都合のため、初回は10月6日木曜となる。
+
+第2回 Defining your Research Question / Finding Sources
+この回では、「テーマ」について講義する。テーマの設定は、問題と対象を定め、自己の意欲と、論文としての実現可能性の接点である。漠然とした疑問や好奇心を、具体的なかたちにしてゆくための注意を学ぶ。
+
+第3回 The Reference Section & Citations / Formatting Your Document
+　この回では、「方法」について講義する。思ったことを、ただ書き連ねても論文にはならない。自己のテーマを、既存の学問的手法や理論を組み合わせつつどのように展開するかを考える。
+
+第4回 Thesis Statements / Outline
+この回では、「調査」について講義する。調査には、テーマにみあった方法と道具があり、そのための一応のガイドを示す。
+
+第5回 The Introduction
+この回ではフィールド調査の基本について述べる。
+
+第6回 Peer Editing 1: The Introduction
+この回では、「仮説と計画」について講義する。仮説や計画とは、つまるところ自分のテーマや手法が実現可能か否か、自分がテーマをどれだけ理解しているかを検証する機会である。
+
+第7回 Organization of Claims and Support
+この回では、口頭発表のやり方を講義する。
+
+第8回 Citations, Quotations and Plagiarism
+この回では、一人10分程度の中間発表を行なわせる。この時までに、受講者はテーマと計画を立案すること。
+
+第9回 Peer-Editing 2: Body, Round 1
+この回では、第二回の中間発表を行なわせる。
+
+第10回 Peer-Editing 3: Body, Round 2
+この回では、「構成」について講義する。論文の出来は、ほとんど８割は構成で決る。テーマや叙述に適合した構成は、説得力の有無を左右する。
+
+第11回 The Conclusion
+この回では、「叙述」について講義する。叙述といっても文章の言回しではなく、論文に使う概念設定や理論の選択、ストーリー性の加味などを指す。調査で得られた事実をまとめあげるまでの手法を学ぶ。　また先行研究への批判と、方法論についての記述についても述べる。
+
+第12回 Peer Editing 4: Conclusion
+この回では、中間講評を行なう。受講者は、この時までに構成表を提出すること。
+
+第13回 Penultimate Peer Editing Session / Conferences
+この会では、中間講評の第二回を行う。
+
+第14回 Final Peer Editing Session
+この回では、「文章」について講義する。論文においても、文章は重要なことはいうまでもない。最終的には個々の感性によるしかない文章だが、明快な記述の一般的なやり方を示唆する。要約と表題についても触れる。注の付け方などは本を読んで自習すること。
+
+その他
+相互批評と質疑応答。
+";

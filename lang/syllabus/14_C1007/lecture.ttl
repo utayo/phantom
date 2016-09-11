@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "社会起業論【学期前半】【１４】"@ja;
+	lect:lecture_id "14_C1007";
+	lect:time "2016年度 秋学期 火曜日２時限,火曜日３時限";
+	lect:teacher "国保　祥子、山崎　亮";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

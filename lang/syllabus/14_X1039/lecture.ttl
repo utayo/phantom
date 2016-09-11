@@ -1,0 +1,9 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "寄附講座「データビジネス創造Ａ」【学期後半】(寄附講座）【１４】"@ja;
+	lect:lecture_id "14_X1039";
+	lect:time "2016年度 秋学期 月曜日４時限";
+	lect:teacher "植原　啓介、古谷　知之、本田　由佳";
+	lect:campas "SFC";

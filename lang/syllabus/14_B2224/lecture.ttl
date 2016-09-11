@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ４FA【１４】"@ja;
+	lect:lecture_id "14_B2224";
+	lect:time "2016年度 春学期 火曜日２時限,水曜日２時限,木曜日２時限,金曜日３時限";
+	lect:teacher "ルロワ，　パトリス、井上　美穂、岡見　さえ、シュドル，　フローレンス容子";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";
+<http://example.com/lecture#1>
+	lect:name "フランス語インテンシブ４FA【１４】"@ja;
+	lect:lecture_id "14_B2224";
+	lect:time "2016年度 秋学期 火曜日３時限,水曜日２時限,木曜日２時限,金曜日２時限";
+	lect:teacher "ルロワ，　パトリス、井上　美穂、シュドル，　フローレンス容子、ヴェスィエール，　ジョルジュ";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

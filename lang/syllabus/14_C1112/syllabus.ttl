@@ -1,0 +1,51 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1112";
+	sylb:summary "This is an advanced course of international economics, and is intended for those who already have enough knowledge of microeconomics and macroeconomics. The world economy has been united closer and closer ever since the World War II. Close linkage of the world economy have provided various costs and benefits. This course investigate: (i) pattern of global and regional economic integration, in terms of goods, money, and people; (ii) gains and loss from such economic integration.
+
+Students who take this course are expected to read and fully understand several papers on global and regional economic integration, in addition to listening to lectures by the instructor. Students will be assigned to six groups, and each group is expected to present the paper assigned to the group and to lead the discussions on it.
+
+";
+	sylb:method "This is an advanced course of international economics, and is intended for those who already have enough knowledge of microeconomics and macroeconomics. The world economy has been united closer and closer ever since the World War II. Close linkage of the world economy have provided various costs and benefits. This course investigate: (i) pattern of global and regional economic integration, in terms of goods, money, and people; (ii) gains and loss from such economic integration.
+
+Students who take this course are expected to read and fully understand several papers on global and regional economic integration, in addition to listening to lectures by the instructor. Students will be assigned to six groups, and each group is expected to present the paper assigned to the group and to lead the discussions on it.
+
+　
+
+";
+	sylb:schedule "第1回 Introduction
+第2回 Overview of the World Economy
+第3回 Overview of the theory of regional economic integration
+第4回 Presentation of Group 1
+Jcob Viner "The Economics of Customs Unions"
+
+第5回 Presentation of Group 2 (1)
+Paul Krugman "Is Bilateralism Bad?"
+
+第6回 Presentation of Group 2 (2)
+Paul Krugman "Is Bilateralism Bad?"
+
+第7回 Presentation of Group 3 (1)
+Junichi Goto and Koich Hamada " Regional Economic Integration and Article XXIV of the GATT"
+
+第8回 Presentation of Group 3 (2)
+Junichi Goto and Koich Hamada " Regional Economic Integration and Article XXIV of the GATT"
+
+第9回 Introduction to International finance and exchange rate regime
+第10回 Presentation of Group 4 
+Robert Mundell "A theory of Optimal Currency Area"
+
+第11回 Presentation of Group 5 
+Junichi Goto "Economic Preconditions for Monetary Integration in East Asia"
+
+第12回 Presentation of Group 6 (1)
+Junichi Goto "Ageing society and the choice of Japan: migration, FDI and trade liberalization"
+
+第13回 Presentation of Group 6 (2)
+Junichi Goto "Ageing society and the choice of Japan: migration, FDI and trade liberalization"
+
+第14回 Summary of the class and free discussions on the theme of the class
+その他
+Office hour
+";

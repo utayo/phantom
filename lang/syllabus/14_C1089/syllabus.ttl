@@ -1,0 +1,73 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1089";
+	sylb:summary "This course examines strategic environment of the East Asian region with the focus on the rise of China. The first half of this course, part one, is designed to provide the students with introductory information of the current regional security challenges through exploring some nations and areas including China, Japan, Russia, United States, the Korean Peninsula, and the Southeast Asia. The part two aims to promote student’s understanding of China’s strategy and its impacts on the regional security through comparing different perspectives on the growing military might of the People’s Republic of China.
+
+";
+	sylb:method "Students are required to finish reading assignments and prepare a presentation on them (around 10 minutes per speaker) for each class. The presentation should include major findings from the readings and topics for class discussion with a less than two-page simple memo. A class starts with some presentations by students, then has discussion among students guided by the instructor, senior fellow at the National Institute for Defense Studies (NIDS).
+
+";
+	sylb:schedule "第1回 Introductory（担当：IIDA, Masafumi）
+第2回 Korean Peninsula（担当：IIDA, Masafumi）
+“The Korean Peninsula: A Consolidated Kim Jong Un Dictatorship and South Korea’s Delicate Diplomatic Wobbling between the United States and China,” East Asian Strategic Review 2015 (Tokyo: The National Institute for Defense Studies, 2015) pp. 59-95. 
+“The Korean Peninsula: North Korea’s Advanced Nuclear and Missile Capabilities, and South Korea’s Response,” East Asian Strategic Review 2016 (Tokyo: The National Institute for Defense Studies, 2016) pp. 75-108.
+
+第3回 China（担当：IIDA, Masafumi）
+“China: Xi Jinping’s Administration---Proactive Policies at Home and Abroad,” East Asian Strategic Review 2015 (Tokyo: The National Institute for Defense Studies, 2015) pp. 97-132. 
+“China: Chinese Party Leadership Striving to Maintain Its Rule,” East Asian Strategic Review 2016 (Tokyo: The National Institute for Defense Studies, 2016) pp. 109-142.
+
+第4回 Southeast Asia（担当：IIDA, Masafumi）
+“Southeast Asia: China-Vietnam Confrontation Grows Ever More Apparent,” East Asian Strategic Review 2015 (Tokyo: The National Institute for Defense Studies, 2015) pp. 133-168. 
+“Southeast Asia: Forming an ASEAN Political-Security Community and Further Challenges,” East Asian Strategic Review 2016 (Tokyo: The National Institute for Defense Studies, 2016) pp. 143-176.
+
+第5回 Russia（担当：IIDA, Masafumi）
+“Russia: Ukraine Crisis Destabilizing Russia’s Geopolitical Position,” East Asian Strategic Review 2015 (Tokyo: The National Institute for Defense Studies, 2015) pp. 203-248. 
+“Russia: Focus of Strategic Engagement Shifts from Ukraine to Syria,” East Asian Strategic Review 2016 (Tokyo: The National Institute for Defense Studies, 2016) pp. 207-250.
+
+第6回 United States（担当：IIDA, Masafumi）
+“United States: Challenges for the Global Power,” East Asian Strategic Review 2015 (Tokyo: The National Institute for Defense Studies, 2015) pp. 203-248. 
+“United States: Addressing an Increasingly Harsh Strategic Environment,” East Asian Strategic Review 2016 (Tokyo: The National Institute for Defense Studies, 2016) pp. 251-294.
+
+第7回 Japan（担当：IIDA, Masafumi）
+“Japan: Revising Security Legislation and the Japan-US Defense Cooperation Guideline,” East Asian Strategic Review 2015 (Tokyo: The National Institute for Defense Studies, 2015) pp. 37-57. 
+“Japan: Upgrading of National Security Policy,” East Asian Strategic Review 2016 (Tokyo: The National Institute for Defense Studies, 2016) pp. 251-294.
+
+第8回 Strategic Reassurance and Resolve 1/3（担当：IIDA, Masafumi）
+Chapter 1: Introduction, pp. 1-14. 
+Chapter 2: The Sources of Conflict, pp. 17-28. 
+Chapter 3: The Determinants of Chinese Strategy, pp. 29-47.
+
+第9回 Strategic Reassurance and Resolve 2/3（担当：IIDA, Masafumi）
+Chapter 5: Military Spending and Military Modernization, pp. 77-119. 
+Chapter 6: Military Contingencies: Enhancing Crisis Stability, pp. 120-149.
+
+第10回 Strategic Reassurance and Resolve 3/3（担当：IIDA, Masafumi）
+Chapter 7: The Strategic Domain: Nuclear, Space and Cyber, pp. 150-181. 
+Chapter 8: Bases, Deployments, and Operation, pp. 182-202. 
+Chapter 9: Conclusion, pp. 203-208.
+
+第11回 Return of the Dragon 1/3（担当：IIDA, Masafumi）
+Chapter 1: Introduction, pp. 1-10. 
+Chapter 2: A Chinese View of the World, pp. 11-33. 
+Chapter 3: U.S.-China Relations Under Hegemonic Transition, pp. 34-58. 
+Chapter 4: China’s Military Rise, pp. 59-80.
+
+第12回 Return of the Dragon 2/3（担当：IIDA, Masafumi）
+Chapter 5: Japan and China: A Long Struggle with Bitter Resolve, pp. 81-102. 
+Chapter 6: Pressure on China’s Neighbors, pp. 103-137. 
+Chapter 7: Mitigating Factors, pp. 138-156. 
+Chapter 8: Persistent Risk of Conflict, pp. 157-177.
+
+第13回 Return of the Dragon 3/3（担当：IIDA, Masafumi）
+Chapter 10: Taiwan in the PRC’s Lengthening Shadow, pp. 194-222. 
+Chapter 11: The South China Sea Dispute, pp. 223-238. 
+Chapter 13: Conclusion, pp. 258-262.
+
+第14回 Discussion（担当：IIDA, Masafumi）
+Class discussion on Japan's strategies toward China.
+
+その他
+Wrap Up
+
+";

@@ -1,0 +1,11 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "大日本印刷（株）寄附講座「アントレプレナー概論１」【１４】"@ja;
+	lect:lecture_id "14_X1003";
+	lect:time "2016年度 秋学期 水曜日２時限";
+	lect:teacher "飯盛　義徳、宮地　恵美";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "大日本印刷株式会社: http://www.dnp.co.jp/ 、KIEPコンソーシアム:　 http://www.kiep.ne.jp/ 、メンター三田会: http://www.mentor-mitakai.net/";

@@ -1,0 +1,57 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C1002";
+	sylb:summary "To understand postwar and contemporary Japan, we will read texts and discuss according to the guideline as below. Main texts are chapters of Andrew Gordon eds. PostWar Japan as History. https://books.google.co.jp/books?id=4botSGbxZBIC&pg=PR5&hl=ja&source=gbs_selected_pages&cad=2#v=onepage&q&f=false All texts are indicated by the links or prepared in SFC. This seminar will start from October 6th, Thursday.
+
+この講義では、主として第二次大戦後の日本を理解するため、テキストを読み議論と講義を行なう。学生が各回において報告を行ない、担当者小熊が関連講義と質疑応答をする。この講義は、10月6日木曜から行う。
+
+";
+	sylb:method "In each seminar, each student should make 20 minutes presentation by summarizing designated texts. Prof. Oguma will give 30 minites lecture to open up discussion.
+
+";
+	sylb:schedule "第1回 Introduction
+Introduction lecture and coordinating of presentations in the course. Possibility of some requirements for shift from presentation which would be applied in course application email would be remained.
+
+第2回 Postwar Japan as General
+Peace and Democracy in Two Systems: External Policy and Internal Conflict (John W. Dower, Chapter 1 of Postwar Japan as History)
+
+第3回 Postwar Japan in International Order
+Japan's Position in the World System (Bruce Cumings, Chapter 2 of Postwar Japan as History) 
+第4回 Histry, Culture, Nationalism
+The Past in the Present (Carol Gluck, Chapter 3 of Postwar Japan as History)
+
+第5回 Manga and Anime, Social Historical Context
+Text: Oguma Eiji “Generating of a Japanese Popular Culture: Manga and Anime in Postwar Japan” 
+http://www.simul-conf.com/icomag2012/icomag2012_proceedings.pdf 
+第6回 Economic Policy
+Growth Versus Success: Japan's Economic Policy in Historical Perspective (Laura E. Hein, Chapter 4 of Postwar Japan as History)
+
+第7回 Negotiation and Compromise
+Negotiating Social Contracts (Sheldon Garon and Mike Mochizuki, Chapter 6 of Postwar Japan as History)
+
+第8回 Disaster Reconstruction and Political System
+Text: Oguma Eiji “Nobody Dies in a Ghost Town: Path Dependence in Japan's 3.11 Disaster and Reconstruction” 
+http://www.japanfocus.org/-Oguma-Eiji/4024 
+第9回 City Life and Politics
+Finding a Place in Metropolitan Japan: Ideologies, Institutions, and Everyday Life (William W. Kelly, Chapter 8 of Postwar Japan as History)
+
+第10回 Human Rights and Minorities
+Unplaced Persons and Movements for Place (Frank K. Upham, Chapter 12 of Postwar Japan as History)
+
+第11回 Fukushima nuke incident and anti-nuke movements in Japan
+Text :Oguma Eiji, “A New Wave Against the Rock: New social movements in Japan since the Fukushima nuclear meltdown" 
+http://apjjf.org/2016/13/Oguma.html 
+第12回 Student Revolt in 1968
+Text: Japan's 1968: A Collective Reaction to Rapid Economic Growth in an Age of Turmoil 
+http://www.japanfocus.org/-Oguma-Eiji/4300/article.html 
+第13回 Labours and Politics
+Contests for the Workplace (Andrew Gordon, Chapter 14 of Postwar Japan as History)
+
+第14回 Postwar Intellecturals 
+Intellectuals and Politics (J. Victor Koschmann, Chapter 15 of Postwar Japan as History)
+
+その他
+Final discussion might be as occasional.
+
+";

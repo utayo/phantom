@@ -1,0 +1,11 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "認知心理学【１４】"@ja;
+	lect:lecture_id "14_C2031";
+	lect:time "2016年度 秋学期 木曜日３時限";
+	lect:teacher "今井　むつみ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://cogpsy.sfc.keio.ac.jp/imai/";

@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "基礎生化学【学期後半】【１４】"@ja;
+	lect:lecture_id "14_C2040";
+	lect:time "2016年度 春学期 火曜日１時限";
+	lect:teacher "田畑　祥";
+	lect:campas "SFC・TTCK";
+	lect:course_type "講義";

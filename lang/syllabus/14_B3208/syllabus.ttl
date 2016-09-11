@@ -1,0 +1,77 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B3208";
+	sylb:summary "国際社会のデータサイエンスでは、応用ミクロ計量経済学の基礎知識を学び、社会問題を分析する実証的な研究を行うための基礎的な知識を習得することを目的とします。
+
+The objective of this course is to learn the advanced micro econometrics and pursue your own research topic by using the knowledge and skills that you acquired.
+
+";
+	sylb:method "国際社会のデータサイエンスでは、応用ミクロ計量経済学の基礎知識を学び、社会問題を分析する実証的な研究を行うための基礎的な知識を習得することを目的とします。前半は経済学に必要な「因果推論」についての講義を行い、後半は応用ミクロ計量経済学の手法を学ぶ。
+
+The objective of this course to learn the applied microeconomics to analyze the social and economic issues empirically with large-size dataset. The half of the coursework will provide a series of lecture on "counterfactual and causal inference" and latter half of the coursework provide the intensive trainig on data-handling and empirical studies in practice.
+
+";
+	sylb:schedule "第1回 はじめに[ Introduction ]
+宿題の解説
+
+Basic regression analysis
+第2回 回帰分析とは[ Regression Analysis ]
+OLSの基礎 
+OLSでできることできないこと
+
+The basics of Ordinary Least Squares (OLS) What we can do in running OLS and cannot do in running OLS?
+第3回 因果関係と相関関係[ Causal and Correlational Relationships ]
+因果関係と相関関係の違い 
+見せかけの相関
+
+What is the difference in causal and correlational relationships? Suprious correlation
+第4回 「反事実」の意味[ Counterfactual ]
+「反事実」とは:「比較可能な状態」 
+バック・トゥ・ザ・フューチャーの経済学
+
+What is "counterfactual"?:equally comparable situation "Back to the Furure" economics
+第5回 ランダム化比較試験(1)―健診を受けると長生きできるのか？[ Randomized control trial (1) ]
+ランダム化比較試験の手法と応用
+
+The methods and applications on randomized control trial (RCT)
+第6回 ランダム化比較試験(2)―少人数学級で授業を受けると成績が上がるのか？[ Randomized control trial (2) ]
+ランダム化比較試験の手法と応用
+
+The methods and applications on randomized control trial (RCT)
+第7回 自然実験(1)―女性取締役を増やすと企業収益は上がるのか？[ Natural experiments (1) ]
+自然実験の手法と応用
+
+The methods and applications on natural experiments
+第8回 自然実験(2)―小さく生んで大きく育てよ、は正しいのか？[ Natural experiments (2) ]
+自然実験の手法と応用
+
+The methods and applications on natural experiments
+第9回 疑似実験(1)―最低賃金の上昇は雇用を減少させるのか？[ Quasi experiments (1) ]
+差の差分析の手法と応用
+
+The methods and applications on difference-in differences (DID) methods
+第10回 疑似実験(2)―大学時代の表彰はその後の人生を成功に導くのか？[ Quasi experiments (2) ]
+回帰不連続デザインの手法と応用
+
+The methods and applications on Regression Discontinuity Design (RDD)
+第11回 疑似実験(3)―母親の学歴は子どもに影響するのか？[ Quasi experiments (3) ]
+捜査変数法の手法とデザイン
+
+The methods and applications on Instrumental Variable methods (IV)
+第12回 疑似実験(4)―偏差値の高い大学へ行けば将来の収入は高くなるのか？[ Quasi experiments (4) ]
+マッチング法の手法とデザイン
+
+The methods and applications on matching
+第13回 個人研究発表（１）[ Individual presentation (1) ]
+研究の手法や、使用するデータ
+
+Purpose of study, Dataset, Analytical framework
+第14回 個人研究発表（２）[ Individual presentation (2) ]
+分析結果
+
+Empirical results
+その他
+課題・レポート
+
+Report";

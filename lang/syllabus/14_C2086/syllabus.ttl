@@ -1,0 +1,116 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2086";
+	sylb:summary "We have entered the late Moore's Law period of computer architecture, as shown by the latest multicore microprocessors. From this point forward, computer design must concentrate on parallel processing, data transfer, and heat management as especially important factors. Studying modern microprocessor design, we will see where performance is created in computer systems, including:
+
+Digital arithmetic Amdahl's Law Moore's Law processor performance caching pipelining error detection and correction
+
+Note: Students will be expected to understand at least one programming language as part of the course.
+
+";
+	sylb:method "Class will consist of: * lecture (which may be videos for students to watch in advance, in a "flipped classroom" style) * in-class exercises * homework assignments
+
+Learning outcomes will correspond as closely as possible to the "Architecture and Organization" Knowledge Area of the ACM's Computer Science 2013 Curriculum, within the constraints of the time available.
+
+Key principles: * system organization * relationship to operating systems and software (basic operation of CPU) * pipelining * parallelism * caching and memory subsystem operation * I/O systems * Moore's Law * Amdahl's Law * the processor performance equation * basics of erasure and error detection and correction
+
+Students who understand these topics by the end of this class will do well in this class.
+
+";
+	sylb:schedule "第1回 Fast
+Concepts: What's in a computer? 
+What's our goal in designing a computer? 
+Reading a performance graph 
+In-class exercise: (none) 
+Homework (programming): get an account on class server machine 
+Homework (analysis problem set): (none) 
+第2回 Five Principles of Computer Architecture
+Concepts: Take Advantage of Parallelism 
+Principle of Locality 
+Focus on the Common Case 
+Amdahl's Law 
+The Processor Performance Equation 
+In-class exercise: recreate performance graph 
+Homework (programming): extending performance graphs 
+Homework (analysis problem set): (none)
+
+第3回 Processors: Arithmetic
+Concepts: integer arithmetic 
+floating point arithmetic 
+In-class exercise: (none) 
+Homework (programming): precision and performance of floating point 
+arithmetic 
+Homework (analysis problem set): (TBD)
+
+第4回 Parallel Programming
+Concepts: Impact of Amdahl's Law 
+Reduction 
+Synchronization 
+In-class exercise: parallel concepts 
+Homework (programming): Berkeley Parallel Boot Camp exercise 
+(n.b.: You have *one month* to do this; 
+single hardest exercise this semester!) 
+Homework (analysis problem set): matrix multiplication
+
+第5回 Processors: Basics of Instruction Sets
+Concepts: Main Blocks of a CPU 
+Memory: Registers, Stacks and Heaps 
+Types of Instructions 
+In-class exercise: (none) 
+Homework (programming): install the MIPS simulator (must be done on time!) 
+Homework (programming): matrix multiplication in C or another high-level language 
+第6回 Processors: Instruction Sets and the Data Path
+Concepts: Details of instructions 
+In-class exercise: using the MIPS simulator 
+Homework (programming): matrix multiplication in MIPS assembly 
+Homework (analysis problem set): (none) 
+第7回 Processors: Basics of Pipelining
+Concepts: Pipelines in the real world 
+A five-stage pipeline 
+In-class exercise: Human Pipeline! 
+Homework (programming): (none) 
+Homework (analysis problem set): a real-world pipeline 
+第8回 Memory: Caching and Memory Hierarchy
+Concepts: Four key questions in cache design 
+In-class exercise: (none) 
+Homework (programming): (none) 
+Homework (analysis problem set): cache behavior
+
+第9回 Memory: Virtual Memory
+Concepts: Address translation 
+In-class exercise: (none) 
+Homework (programming): (TBD) 
+Homework (analysis problem set): (TBD)
+
+第10回 Systems: Shared-Memory Architectures
+Concepts: Classes of parallel architectures 
+In-class exercise: review of Boot Camp exercise 
+Homework (programming): (none) 
+Homework (analysis problem set): (none) 
+第11回 Systems: Distributed-Memory Architectures and Interconnects
+Concepts: Interconnect topologies 
+In-class exercise: (none) 
+Homework (programming): (TBD) 
+Homework (analysis problem set): (TBD) 
+第12回 Basics of I/O and Storage Systems and Designing for Networks
+Concepts: disk drive internals 
+impact of bus transfers on performance 
+In-class exercise: (none) 
+Homework (programming): (TBD) 
+Homework (analysis problem set): (TBD) 
+第13回 RAID: Parallelism and Protection in Storage Systems
+Concepts: RAID levels, erasure correction, error detection and correction 
+In-class exercise: (none) 
+Homework (programming): (TBD) 
+Homework (analysis problem set): (TBD)
+
+第14回 Putting it all Together: How a program gets executed
+Concepts: TBD 
+In-class exercise: (TBD) 
+Homework (programming): (TBD) 
+Homework (analysis problem set): (TBD)
+
+その他
+An additional video lecture to watch will be assigned.
+";

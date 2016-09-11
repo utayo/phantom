@@ -1,0 +1,24 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ネットワークコミュニケーション実践【１４】"@ja;
+	lect:lecture_id "14_B6026";
+	lect:time "2016年度 春学期 水曜日４時限";
+	lect:teacher "太田　剛";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "ネットワークコミュニケーション実践【１４】"@ja;
+	lect:lecture_id "14_B6026";
+	lect:time "2016年度 秋学期 木曜日４時限";
+	lect:teacher "木幡　敬史";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "ネットワークコミュニケーション実践【１４】"@ja;
+	lect:lecture_id "14_B6026";
+	lect:time "2016年度 秋学期 水曜日３時限";
+	lect:teacher "田中　美乃里";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

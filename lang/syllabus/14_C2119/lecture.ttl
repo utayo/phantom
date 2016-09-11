@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ノーテーションと表現【学期後半】【１４】"@ja;
+	lect:lecture_id "14_C2119";
+	lect:time "2016年度 秋学期 月曜日３時限,月曜日４時限";
+	lect:teacher "鳴川　肇";
+	lect:campas "SFC";
+	lect:course_type "実習・演習";

@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "スペイン語ベーシック２【１４】"@ja;
+	lect:lecture_id "14_B2162";
+	lect:time "2016年度 春学期 火曜日３時限,金曜日３時限";
+	lect:teacher "アロツ・ラファエル　アインゲル、ドゥケ　ララ　アントニオ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "スペイン語ベーシック２【１４】"@ja;
+	lect:lecture_id "14_B2162";
+	lect:time "2016年度 秋学期 火曜日３時限,金曜日３時限";
+	lect:teacher "アロツ・ラファエル　アインゲル、ドゥケ　ララ　アントニオ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";

@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "メディア論（ドイツ語圏）【１４】"@ja;
+	lect:lecture_id "14_C1129";
+	lect:time "2016年度 春学期 月曜日２時限";
+	lect:teacher "藁谷　郁美";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "メディア論（ドイツ語圏）【１４】"@ja;
+	lect:lecture_id "14_C1129";
+	lect:time "2016年度 春学期 月曜日２時限";
+	lect:teacher "藁谷　郁美";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";

@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "エクスペリエンス・アンド・エンゲージメント・デザイン(GIGA)【１４】"@ja;
+	lect:lecture_id "14_X1022";
+	lect:time "2016年度 春学期 月曜日６時限";
+	lect:teacher "田中　浩也、小林　博人、村井　純、筧　康明、益山　詠夢、シュロスバーグ，　エドウィン、中山　晴奈";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "エクスペリエンス・アンド・エンゲージメント・デザイン【１４】"@ja;
+	lect:lecture_id "14_X1022";
+	lect:time "2016年度 秋学期 月曜日６時限";
+	lect:teacher "田中　浩也、小林　博人、村井　純、筧　康明、益山　詠夢、シュロスバーグ，　エドウィン、中山　晴奈";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";

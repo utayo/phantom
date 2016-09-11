@@ -1,0 +1,35 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "国内フィールドワークB【１４】"@ja;
+	lect:lecture_id "14_X1030";
+	lect:time "2016年度 春学期";
+	lect:teacher "村井　純、大川　恵子、小尾　晋之介";
+	lect:campas "SFC・国内";
+	lect:course_type "実習・演習";
+	lect:homepage "http://www.eba-consortium.asia/";
+<http://example.com/lecture#1>
+	lect:name "国内フィールドワークB（e-科目）【１４】"@ja;
+	lect:lecture_id "14_X1030";
+	lect:time "2016年度 春学期";
+	lect:teacher "村井　純、大川　恵子、小尾　晋之介";
+	lect:campas "SFC・国内";
+	lect:course_type "実習・演習";
+	lect:homepage "http://www.eba-consortium.asia/";
+<http://example.com/lecture#1>
+	lect:name "国内フィールドワークB【１４】"@ja;
+	lect:lecture_id "14_X1030";
+	lect:time "2016年度 秋学期";
+	lect:teacher "村井　純、大川　恵子、小尾　晋之介";
+	lect:campas "SFC・国内";
+	lect:course_type "実習・演習";
+	lect:homepage "http://www.eba-consortium.asia/";
+<http://example.com/lecture#1>
+	lect:name "国内フィールドワークB（e-科目）【１４】"@ja;
+	lect:lecture_id "14_X1030";
+	lect:time "2016年度 秋学期";
+	lect:teacher "村井　純、大川　恵子、小尾　晋之介";
+	lect:campas "SFC・国内";
+	lect:course_type "実習・演習";
+	lect:homepage "http://www.eba-consortium.asia/";

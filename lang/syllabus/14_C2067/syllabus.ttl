@@ -1,0 +1,72 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2067";
+	sylb:summary "タンパク質はDNA情報をもとに生合成され、発現量の変化や種々の翻訳後修飾を受けることで多くの生理機能発現に直接的に関与している。したがって、生体内のある時点におけるタンパク質のプロファイル、発現量、及び翻訳後修飾を網羅的に解析できるプロテオーム解析は様々な生命現象を解明するうえで極めて有用な研究手法となる。本実習では、プロテオーム解析の基礎技術習得とその特徴を理解することを目標として、ヒト由来癌細胞株のプロテオーム解析とリン酸化修飾タンパク質の網羅的解析（リン酸化プロテオーム解析）に取り組む。試料前処理から、LC/MS/MS分析、データベースを利用するタンパク質の同定とその機能解析までの一連の操作をできるかぎり体験してもらう。
+
+Proteins synthesized from DNA information are directly involved in expression of various biological functions by changing its expression levels and post-translational modifications. Therefore, comprehensive analysis of protein expression profile and post-translational modifications in samples, called as proteomic analysis, are very useful approach to elucidate various biological phenomena. In this class, we perform global proteome and phosphoproteome analysis in human cancer cell lines by sample preparation, LC/MSMS analysis and protein identification using database search to acquire basic technique and understand the property of proteomics.
+
+";
+	sylb:method "主題と目標
+
+1）プロテオミクスの基礎技術を習得する。 2）ショットガンプロテオ―ム解析の原理と特徴について理解する。
+
+授業の手法
+
+　毎回、講義資料にしたがって実習内容について解説した後に作業を開始してもらう。実習の空き時間を利用してプロテオミクスの基礎や実習内容に関する講義を実施する。最終日には実習内容に関する筆記試験（所要時間：60分）を実施する。
+
+Subject and aim
+
+Acquiring basic technique for proteomics
+
+Understanding the property of proteomics
+
+The final day: Paper test about all contents in this class (60 min)
+
+";
+	sylb:schedule "第1回 プロテオーム解析概論　【第1日】[ Compendium ]（担当：森、佐藤）
+プロテオミクスの基礎に関する講義の後、実習内容全体の説明と目標の提示を行う。
+
+第2回 細胞破砕によるタンパク質抽出（1）　【第1日】[ Protein extraction (1) ]（担当：森、佐藤）
+ホモジナイズ法を用いて、ヒト由来癌細胞株からタンパク質を抽出する。
+
+第3回 細胞破砕によるタンパク質抽出（2）　【第1日】[ Protein extraction (2) ]（担当：森、佐藤）
+第2回　の続き
+
+第4回 タンパク質の還元アルキル化と酵素消化　【第1日】[ Reduction, alkylation and enzymatic digestion ]（担当：森、佐藤）
+抽出したタンパク質（第2-3回で調製）のジスルフィド結合を還元アルキル化処理した後、酵素消化してペプチド断片にする。
+
+第5回 脱塩（プロテオーム解析用試料の調製）（1）　【第2日】[ Desalting for grobal proteomic analysis (1) ]（担当：森、佐藤）
+酵素消化サンプル（第4回で調製）をLC/MS/MSに注入できるようにするため、StageTip（C18）を用いて脱塩操作を実施する。
+
+第6回 脱塩（プロテオーム解析用試料の調製）（2）　【第2日】[ Desalting for grobal proteomic analysis (2) ]（担当：森、佐藤）
+第5回　の続き
+
+第7回 脱塩（プロテオーム解析用試料の調製）（3）　【第2日】[ Desalting for grobal proteomic analysis (3) ]（担当：森、佐藤）
+第6回　の続き
+
+第8回 LC/MS/MSによるショットガンプロテオーム解析（1）　【第2日】[ LC/MS/MS analysis (1) ]（担当：森、佐藤）
+プロテオーム解析用サンプル（第5-7回で調製）をLC/MS/MS分析する。
+
+第9回 リン酸化ペプチド濃縮と脱塩（リン酸化プロテオーム解析用試料の調製）（1）　【第3日】[ Enrichment of phosphopeptide and desalting (1) ]（担当：森、佐藤）
+HAMMOC法を利用して酵素消化したサンプル（第4回で調製）に含まれるリン酸化ペプチドを濃縮した後、StageTipを用いて脱塩操作を実施する。
+
+第10回 リン酸化ペプチド濃縮と脱塩（リン酸化プロテオーム解析用試料の調製）（2）　【第3日】[ Enrichment of phosphopeptide and desalting (2) ]（担当：森、佐藤）
+第9回　の続き
+
+第11回 リン酸化ペプチド濃縮と脱塩（リン酸化プロテオーム解析用試料の調製）（3）　【第3日】[ Enrichment of phosphopeptide and desalting (3) ]（担当：森、佐藤）
+第10回　の続き
+
+第12回 LC/MS/MSによるショットガンプロテオーム解析（2）　【第3日】[ LC/MS/MS analysis (2) ]（担当：森、佐藤）
+リン酸化プロテオーム解析用サンプル（第9-11回で調製）をLC/MS/MS分析する。
+
+第13回 データ解析（1）　【第4日】[ Data analysis (1) ]（担当：森、佐藤）
+第8回と第12回で取得した測定データのデータベース検索を実施してサンプル中に含まれるタンパク質を同定して、その機能について調べる。
+
+第14回 データ解析（2）　【第4日】[ Data analysis (2) ]（担当：森、佐藤）
+第13回　の続き
+
+第15回 最終試験／総括　【第5日】[ Test ]（担当：森、佐藤）
+実習内容に関する筆記試験を実施する。実習で行うすべての操作の原理や意義、講義内容を出題範囲とする。
+
+";

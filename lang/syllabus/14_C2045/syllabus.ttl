@@ -1,0 +1,103 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2045";
+	sylb:summary "Approximately three-fourths of the Nobel prize in Physiology or Medicine and half of the Nobel prize in Chemistry have been related to Life Science-Cell Biology. There has been no such academic domain. I think that the reason why Cell Biology is so special is because it has been worked as a driving force to support human society and health. In this class, I am planing to explain some extremely important and epoch making discoveries from the recent 30-years Nobel prize (especially, if it is performed by Japanese scientists).
+
+日本語訳: 昨今の30年間のノーベル賞受賞研究を振り返ると、医学生理学賞の約4分の3が、化学賞の約半数がレベルの生命科学―細胞生物学―と深く関わっている。このような学術領域は他に例がなく、それは細胞生物学が時代を切り開く一つの原動力として人類社会に君臨していたひとつの象徴と言えるだろう。本授業では、その中でも特に重要である内容や日本人研究者が関係した内容について毎回エポックメイキングとなった研究内容を取り上げて、専門知識のない方にも分かる形で紹介していく。
+
+Approximately three-fourths of the Nobel prize in Physiology or Medicine and half of the Nobel prize in Chemistry have been related to Life Science-Cell Biology. There has been no such academic domain. I think that the reason why Cell Biology is so special is because it has been worked as a driving force to support human society and health. In this class, I am planing to explain some extremely important and epoch making discoveries from the recent 30-years Nobel prize (especially, if it is performed by Japanese scientists).
+
+";
+	sylb:method "It should be useful for your creative life in future to know the reason why the Nobel prize has been given for some studies in Cell Biology.
+
+Basically, no special knowledge are not required for it. This class is translated version (originally prepared as Japanese version).
+
+なぜ、その研究はノーベル賞の受賞に至ったのか。そして、人類社会にどのような影響を与えているのか。それを知ることは、今後のエポックメイキングな改革をする上で必ずや役に立つことだろう。全ての内容は細胞生物学に関する内容であり、それらをつなげて学習することによって、より効果的な道も見えてくることだろう。基本的に、授業は単位を取得するレベルに至るために予備知識を必要としないようにする。
+
+";
+	sylb:schedule "第1回 Guidance
+第2回 The genetic principle for generation of antibody diversity (抗体の多様性を生み出す原理)
+Susumu Tonegawa won the Nobel prize in Physiology or Medicine 1987 for for his discovery of the genetic principle for generation of antibody diversity. 
+
+利根川進～1987年・医学生理学賞：免疫反応で非自己の分子を認識して結合する抗体が、ヒト 
+のゲノムサイズからは考えられない膨大な多様性を持つメカニズムを解明した。
+
+第3回 TOF-MS (生体高分子の効果的な同定法)
+Koichi Tanaka won the Nobel prize in Chemistry 2002 for the development of methods for identification and structure analyses of biological macromolecules. 
+
+田中耕一～2002年・化学賞：試料の厳密な質量を決定できる質量分析計で、タンパク質を計測 
+可能にするための革新的な技術を開発した。
+
+第4回 Growth factors (成長因子の発見)
+Stanley Cohen and Rita Levi-Montalcini won the Nobel prize in Physiology or Medicine 1986 for their discoveries of growth factors. 
+
+1986年・医学生理学賞：特定の種類の細胞の増殖・文化を促すタンパク質の発見によって、 
+Levi-Montalcini、Cohen が受賞した。
+
+第5回 Control of early embryonic development (初期発生に関わる重要な遺伝子群)
+Christiane Nüsslein-Volhard won the Nobel prize in Physiology or Medicine 1995 for her discovery concerning the genetic control of early embryonic development 
+
+1995年・医学生理学賞：卵から生物に固有の形態や機能が現れる、そのごく初期段階で、場所 
+ごとに将来の発生運命を決める基本的なメカニズムを解明した研究によって、Lewis、 
+Nüsslein-Volhard、Wieschaus が受賞した。
+
+第6回 A novel therapy against infections caused by roundworm parasites (寄生虫感染に対する極めて効果的な薬品の発見)
+Satoshi Ōmura won the Nobel prize in Physiology or Medicine 2015 for discovering a new drug, Avermectin, the derivatives of which have radically lowered the incidence of River Blindness and Lymphatic Filariasis, as well as showing efficacy against an expanding number of other parasitic diseases. 
+
+大村智〜2015年・ノーベル医学生理学賞：大村は静岡のゴルフ場の土から、アフリカで問題となっていた様々な寄生虫感染に効果的な薬のヒントとなるエバーメクチンを発見する。それはイベルメクチンという形で多くの人々の命を救った。
+
+第7回 Destinations of proteins (タンパク質の行き先を決める仕組みを追う)
+Günter Blobel won the Nobel prize in Physiology or Medicine 1999 for the discovery that proteins have intrinsic signals that govern their transport and localization in the cell. 
+
+James E. Rothman, Randy W. Shcekman, and Thomas C. Südhof won the Nobel prize in Physiology or Medicine 2013 for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells. 
+
+Osamu Shimomura won the Nobel prize in Chemistry 2008 for the discovery and development of the green fluorescent protein, GFP. 
+
+1999年・医学生理学賞：シグナルペプチドの発見によって、Blobelが受賞した。 
+
+2013年・医学生理学賞：タンパク質の輸送小胞の行き先決定メカニズム等の発見により、 
+Schekman、Rothman、Südhofらが受賞した。 
+
+下村脩～2008年・ノーベル化学賞：下村は、オワンクラゲから緑色蛍光タンパク質（GFP）を発見した。このタンパク質により、医学・生物学者は、遺伝子産物を光らせて観察するという革新的な方法を得た。
+
+第8回 Apoptosis & Ubiquitin (細胞の最後、タンパク質の最後)
+Aaron Ciechanover, Avram Hershko, and Irwin Rose won the Nobel prize in Chemistry 2004 for the discovery of ubiquitin-mediated protein degradation 
+
+2004年・化学賞：細胞内で不要になったタンパク質をどのように仕分け、分解するか、その基 
+本的なメカニズムの解明によって、Ciechanover、Hershko、Rose が受賞した。 
+
+Sydney Brenner, H. Robert Horvitz, and John E. Sulston won the Nobel prize in Physiology or Medicine 2002 for their discoveries concerning genetic regulation of organ development and programmed cell death. 
+
+2002年・医学生理学賞：身体を構成する器官（臓器）が秩序だった形態を維持できるのは、細胞が計画的に秩序だった“自殺”を遂げているためである。そうしたプログラム細胞死の制御機構の解明によって、Brenner、Horvitz、Sulston が受賞した。
+
+第9回 The mechanism of transcription in eukaryotes (真核生物の転写機構)
+Roger D. Kornberg won the Nobel prize in Chemistry 2006 for his studies of the molecular basis of eukaryotic transcription. 
+
+Andrew Z. Fire and Craig C. Mello won the Nobel prize in Physiology or Medicine 2006 for their discovery of RNA interference - gene silencing by double-stranded RNA. 
+
+2006年・化学賞：真核生物の細胞で、遺伝子がどのように読み取られるかを分子レベルで解明 
+する基盤を築いた Roger Kornberg が受賞した。 
+
+2006年・医学生理学賞：細胞に二重鎖RNAを導入することにより、対応する遺伝子の機能を阻 
+害することができる RNA干渉の発見により、FireとMelloが受賞した。狙った遺伝子の機能を簡 
+便に阻害する技術として RNA干渉は現在の生命科学研究に欠かせないものとなっている。
+
+第10回 Stem cell technologies (幹細胞技術)
+Mario R. Capecchi, Sir Martin J. Evans, and Oliver Smithies won the Nobel prize in Physiology or Medicine 2007 for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells. 
+
+Shinya Yamanaka and Sir John B. Gurdon won the Nobel prize in Physiology or Medicine 2013 for the discovery that mature cells can be reprogrammed to become pluripotent. 
+
+2007年・医学生理学賞：胚性幹細胞（ES細胞）を用いてマウスに特定の遺伝子改変を導入するための原理の確立によって、Martin、Evans、Smithie が受賞した。 
+
+山中伸弥～2013年・医学生理学賞：個体を構成するどんな細胞にも分化可能な多能性幹細胞を 
+受精卵やES細胞を用いることなくつくりだす基盤となる発見と技術開発に対して受賞した。
+
+第11回 According to the recent topics.
+第12回 According to the recent topics.
+第13回 TEST #1
+第14回 TEST #2
+その他
+Some reports
+
+";

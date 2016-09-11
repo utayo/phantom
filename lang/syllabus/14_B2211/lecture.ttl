@@ -1,0 +1,27 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ドイツ語インテンシブ１GA【１４】"@ja;
+	lect:lecture_id "14_B2211";
+	lect:time "2016年度 春学期 月曜日１時限,火曜日２時限,水曜日１時限,金曜日２時限";
+	lect:teacher "平高　史也、赤松　エンリコ、中川　純子、ホイサーマン，　ペーター";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://deutsch.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "ドイツ語インテンシブ１GB【１４】"@ja;
+	lect:lecture_id "14_B2211";
+	lect:time "2016年度 春学期 月曜日１時限,火曜日２時限,水曜日２時限,金曜日１時限";
+	lect:teacher "中川　純子、赤松　エンリコ、クンスト，　ダグマー、チジャック，　オルガ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://deutsch.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "ドイツ語インテンシブ１GA【１４】"@ja;
+	lect:lecture_id "14_B2211";
+	lect:time "2016年度 秋学期 月曜日１時限,火曜日２時限,水曜日２時限,金曜日１時限";
+	lect:teacher "藁谷　郁美、チジャック，　オルガ、中川　純子、ホイサーマン，　ペーター";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "http://deutsch.sfc.keio.ac.jp/";

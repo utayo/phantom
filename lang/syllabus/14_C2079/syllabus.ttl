@@ -1,0 +1,77 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_C2079";
+	sylb:summary "This lecture addresses the design and creation of multimedia databases (image, video, music and text databases), data mining and semantic associative processing. The most important objective of this lecture is to develop knowledge and skills for designing and creating multimedia databases and multimedia systems with experimental practice. It is essential to study how to analyze, store, retrieve and integrate media data (image, video, music and text) in a database system environment. An actual database system is used to create experimental multimedia databases and applied it to WWW system environments. We also design a meta-level multimedia system with data miniing processes for new-multimedia creation.
+
+　本講義では､ データベース設計､ および､ マルチメディア・データベース（画像、音楽、文書、映像データベース）構築のための方法を実習を伴って習得する｡ まず､ マルチメディアデータベースの構築の方法として、メディア・データ（画像データ、動画データ、音楽データ、ドキュメント・データ）を対象とした検索、編集、統合、データマイニングの実現方法を習得する。メディア・データ、特に、画像データ、音楽データ、ドキュメント・データを対象とし、それらのメディア・データをデータベースに蓄積し、検索、統合するデータベース構築方法を習得する。実際のデータベースシステムを用い、マルチメディアデータによって構成されるデータベースの構築を実習する。
+
+";
+	sylb:method "This lecture addresses design and creation of multimedia databases (image, video, music and text databases), data mining and semantic associative processing. The most important objective of this lecture is to develop knowledge and skills for designing and creating multimedia databases and multimedia systems with experimental practice. It is essential to study how to analyze, store, retrieve and integrate media data (image, video, music and text) in a database system environment. An actual database system is used to create experimental multimedia databases and applied it to WWW system environments. We also design a meta-level multimedia system with data mining processes for new-multimedia creation. In the design of multimedia database, one of the most important issues is how to search and analyze media data (images, music, movies and documents), according to user’s impressions and contexts. We study search methods based on correlation computing, spatial and temporal computing. Those methods realize associative search and analysis for media data, reflecting user’s impressions and contexts. Those methods are applied to compute “semantic, spatial and temporal correlations” between keywords, images, music movies and documents dynamically in a “context-dependent way.”
+
+本講義では、データベースシステムの構成、および、データベース構築のための方法論について解説し、実際に実習を伴ってデータベース、マルチデータベース、および、マルチメディアデータベースを構築する(SQL, PostGres)。 また、インターネットを介して、WWWシステムからデータベース群をアクセスするためのインタフェースを実習を伴って構築する。 具体的には、データベースを構築するための基礎となるデータモデルの概念、および、データベースのアーキテクチャについて解説し、さらに、データモデルに基づいて設計されるデータベースシステムの構成について述べる。また、広域のコンピュータ・ネットワーク環境におけるデータベースの構成とその利用環境、および、世界的規模で広がった多種多様なデータベース（マルチデータベース）の中から、適切かつ重要な情報を効率的に獲得するための方法論について解説する。マルチデータベース、すなわち、複数のデータベースに関して十分な知識を有していない利用者に、柔軟かつ効率的なデータベース検索を可能にする環境を実現するマルチデータベースを実際に構築する。さらに、マルチメディア・データベース、感性情報検索データベース、意味的情報検索データベース、データマイニングの実現方法を示し、また、最近の研究動向について解説する。
+
+";
+	sylb:schedule "第1回 Multimedia Database Design: マルチメディアデータベース設計論
+(1) Multimedia database overview, (2)Introduction to database models, (3) Multimedia databases 
+
+データベースを構築する基礎となるデータモデルの基本的な概念について解説する。特に、マルチメディアデータベース（画像、音楽、映像、文書データベース）のモデルについて解説する. 
+第2回 Multimedia Database System Utilization: マルチメディアデータベースシステムの利用環境設定: 
+(1) SQL Programming, (2) Exercise of Multimedia Database design and SQL 
+
+本講義にて用いるマルチメディアデータベースシステム(PostGres System)、および、マルチメディアデータベース言語の利用環境を説明し、実際にシステムを用いながら、システム利用のための設定方法を説明する. 
+第3回 Multimedia Database Design Methods: Image Database: マルチメディアマルチメディアデータベースの設計方式: 
+(1) Multimedia Database Architecture, (2) Image Database Design 
+
+マルチメディアデータベースおよびシステムを構成するための抽象化の水準を規定するアーキテクチャについて解説する。そのアーキテクチャ上に構築されるマルチメディアデータベースの設計方法、実現方式について述べる。 
+第4回 Multimedia Database Design Methods: Music Database: マルチメディアデータベースの設計方式: 
+(1) Multimedia Database Architecture, (2) Music Database Design 
+
+マルチメディアデータベースシステムによる具体的なデータベースの構築例を示し、マルチメディアデータベースの構築方式について解説する。 
+第5回 Multimedia Database Creation I: マルチメディアデータベース構築I: 
+(1) Multimdia Database Design with imagses and music resources, (2) Multimedia database Creation on the Postgres DB system. 
+
+基礎理論にしたがって、具体的なデータベースを設計する。リレーショナル 
+モデルおよびオブジェクト・リレーショナル・データモデルによるデータベースの設計を行う。ここでは、マルチメディアデータベース構築の実習を伴って設計を行う。また、インターネットを経由し、WWWシステムからデータベースをアクセスするインタフェースの構成方法についても解説する。 
+第6回 Multimedia Database Creation II: マルチメディアデータベース構築II: 
+(1) Multimdia Database Design with imagses and music resoures, (2) Multimedia database Creation on the Postgres DB system and WWW. 
+
+設計したデータベースを実際のデータベースシステム(PostGres System)上に実習を伴って構築する。また、WWWシステムからデータベースをアクセスするインタフェースの構築を行う。 
+第7回 Summary of Multimedia Database Design and Creation: 前半のまとめ: 
+Reviewing multimedia database design methodology.
+
+第8回 Spatical Database I: 空間データベース構築Ｉ： 
+(1) Spatial database model, (2) Spatial database design. 
+
+実空間に存在するオブジェクトの空間的位置を対象とするデータベースモデリングおよび 
+設計を行う。 
+第9回 Spatical Database IＩ: 空間データベース構築ＩＩ：
+(1) Spatial databse processing and implementation. 
+
+実空間に存在するオブジェクトの空間的位置を対象とするデータベース処理およびPostGres上での実現を行なう。 
+第10回 Temporal Database Creation I: 時間データベース構築Ｉ: 
+(1) Temporal database model, (2) Temporal databse design. 
+
+実空間に存在するオブジェクトの空間的位置を対象とするデータベース設計、および、PostGres上での実現を行なう。 
+第11回 Temporal Database Creation II: 時間データベース構築ＩＩ: 
+(1) Temporal database design, (2) Temporal databse processing 
+
+実空間に存在するオブジェクト間の時間的関連性を扱うデータベースを実習を伴ってPostGres上にSQLを用いて構築する。 
+第12回 Data-MIning I: データマイニング
+(1) Data-mining theory, (2) Data-mining for multimedia databases 
+
+データベース・システムにおける重要な基本操作である知識獲得の基本概念について述べ、大量情報の中からそこに内在する知識あるいはルール群を動的に獲得するための方式として注目されているデータマイニングの概念について解説する。また、構築したマルチデータベースを対象としたデータマイニングの実現方法について解説する。 
+第13回 Multimedia Data Miniing: マルチメディアデータマイニング： 
+(1) Multimedia database search and mining, (2) Ubiquitous multimedia databases 
+
+マルチメディアデータベースを対象としたデータマイニングの方法とその役割りおよび課題について展望する。 
+第14回 Sumamry I: 基礎知識のまとめＩ
+Reviewing and discussing spatial, temporal and multimedia database design and processing. 
+
+実習において各自が構築したマルチメディアデータベースについて、それぞれが発表形式で、その設計内容、実装内容について説明し、討論を行う。 
+その他
+Reviewing and discussing multimedia database search and datamining methods.
+
+基礎知識のまとめＩＩ Summary II
+引き続き、実習において各自が構築したマルチメディアデータベースについて、それぞれが発表形式で、その設計内容、実装内容について説明し、討論を行う。 
+";

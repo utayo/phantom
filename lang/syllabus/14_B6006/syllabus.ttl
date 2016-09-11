@@ -1,0 +1,172 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+@prefix lect: <http://example.com/lecture_vocabulary:> .
+
+	lect:lecture_id"14_B6006";
+	sylb:summary "　本ワークショップでは、法律の知識がほとんどない学生を対象に、個人、企業、非営利法人、政府、国家といった、社会の構成員相互の関係において、法がどのような役割を果たし、どのような効果をもたらすのかを、身近な実例や実際の作業を通じて体験することをめざす。法律のプロとなるためには、基礎からの地道な積み上げが必要である。膨大な法令についての知識と、その解釈を会得せねばならない。しかし一方で、法は社会を円滑に運営するために先人が編み出した、知恵の体系でもある。その意味において我々の日常生活と、密接に結びついている。本ワークショップを履修した諸君が、生きた法律に触れ、それをおもしろいと感じ、本格的な法律の学習に意欲を抱くことを、期待する。
+
+This class is the direct pathway to legal practice through making bills and researching cases. Students may not be required the legal knowledge or skills in this class, but they can study practically how the laws are made and work around many social actors, individuals, enterprises, NPOs, governments and nations. We expect that students would feel studying laws interesting through this workshop and advance the next step.
+
+";
+	sylb:method "このワークショップでは、非法学部生を対象に法的な思考方法を、実際の討論や作業を通じて修得させようとする実験的な演習科目である。担当者の岡田順太（白鴎大学法科大学院）、柳瀬昇（日本大学法学部）は、ともに三田で学び、それぞれSFCで講師経験を持つ憲法を専攻とする研究者であり、このワークショップの主要な素材も憲法に求めることにしたい。
+
+以下に示すように、原則として、各講師が順番に登場するオムニバス形式で演習は進行する。したがって、各者各様のメニューによって、全体としてみれば、憲法・立法学を含む公法的な思考様式が結果として伝授できればと考えている。
+
+岡田は、法律作成の疑似体験を通じて、立法の論理と実務を教えることに主眼をおく。柳瀬は、判例を用いて、司法の論理と実務を教えることに重きをおく。それぞれの戦略は以下のとおりである。
+
+１．岡田順太
+
+立法実務入門（岡田担当）では、法案作成を通じて立法政策・立法技術・立法過程の基礎を学ぶ。履修者は４～５のグループに分かれ、各々テーマを探し出し、その問題解決に向けた法案の企画・立案作業を進めていく。なお、履修者の投票で最も高い評価を得た法案を、次年度の模範議会（憲法（統治）で実施）での議案とする。 立法実務入門関係 （ID="sfc" PASS="student"）
+
+２．柳瀬昇
+
+憲法判例ゼミ（柳瀬担当）では、憲法に関する重要判例を読み、授業担当者の司会の下、ソクラティック・メソッドにより、受講者全員で討議することを通じて、法的なものの考え方を身につけることを目的とする。前週までに、取り上げる最高裁判所の判決文及び参考資料等を配布するので、それらを熟読したうえで、課題メモを作成し、授業に参加されたい。
+
+Two Professors whose major subject is constitutional law will be in charge of this class jointly, and each lecture carry out in omnibus form. The main material of this workshop would be found in the Constitutional Law. There are two courses in this class, and students MUST take both.
+
+One of the courses is legislative drafting and other is constitutional case study. Professor Okada is in charge of the course of legislative drafting, and Professor Yanase is in charge of the constitutional case study.
+
+";
+	sylb:schedule "第1回 ９月２６日（月）総合ガイダンス[ Guidance ]（担当：岡田・柳瀬）
+イントロダクション＋履修者自己紹介＋グループ分けなど
+
+Self-introduction and grouping for groupwork.
+第2回 １０月３日（月）立法実務入門①[ Legislative Drafting 1 ]（担当：岡田）
+立法実務入門概説、個人法案構想報告
+
+Group Session 0:introduction, reporting personal ideas.
+第3回 １０月１７日（月）憲法判例ゼミ①[ Constitutional Cases 1 ]（担当：柳瀬）
+大学在学中に学生運動をしていたことなどを秘匿して採用された者が、その事実が明らかになり、試用期間終了後、民間企業に本採用されなかったことが、日本国憲法14条（法の下の平等）及び同19条（思想・良心の自由）に違反するか否かが争われた三菱樹脂事件についての最高裁判所の判決文等を読んだうえで、討議する。
+
+Mitsubishi Plastics, inc. v. Takano: Mitsubishi Jushi Case.
+第4回 １０月２４日（月）立法実務入門②[ Legislative Drafting 2 ]（担当：岡田）
+第一セッション：立案の企画内容・骨子の説明と討論。
+
+Group Session 1:reporting group ideas.
+第5回 １１月７日（月）憲法判例ゼミ②[ Constitutional Cases 2 ]（担当：柳瀬）
+信仰上の理由から体育の剣道実技に参加することを拒否した学生が、公立の高等専門学校を留年及び退学させられたことが、日本国憲法20条により保障される信教の自由を侵害するか否かが争われたエホバの証人剣道実技拒否事件についての最高裁判所の判決文等を読んだうえで、討議する。
+
+Principal of the Kobe City Institute of Technology v. Kobayashi: Kendo Class refusal Case.
+第6回 １１月１４日（月）立法実務入門③[ Legislative Drafting 3 ]（担当：岡田）
+第二セッション：立案要綱の説明と討論（前半）
+
+Group Session 2: reporting group drafts.
+第7回 １１月２８日（月） 立法実務入門④[ Legislative Drafting 4 ]（担当：岡田）
+第二セッション：立案要綱の説明と討論（後半）
+
+Group Session 2: reporting group drafts, intermediate voting.
+第8回 １２月５日（月） 憲法判例ゼミ③[ Constitutional Cases 3 ]（担当：柳瀬）
+旧文部省が実施した全国中学校一斉学力テストに反対し、それを阻止しようとした教職員組合所属の教員らの行為が公務執行妨害罪等に当たるか否かを通じて、日本国憲法26条により保障される教育を受ける権利を全うするための教育権の所在が争われた旭川学力テスト事件についての最高裁判所の判決文等を読んだうえで、討議する。
+
+Japan v. Sato: Asahikawa Exam Case.
+第9回 １２月１２日（月）立法実務入門⑤[ Legislative Drafting 5 ]（担当：岡田）
+中間講評、立法実務入門講義
+
+Lecture for the legislative process and legisprudence.
+第10回 １２月１９日（月）憲法判例ゼミ④[ Constitutional Cases 4 ]（担当：柳瀬）
+与野党が激しく衝突し混乱の下で延長された国会で議決された警察法の効力が争われ、かつ、従来の市町村警察の制度を廃止し、新たに都道府県警察に組織変更する同法の内容が日本国憲法92条にいう地方自治の本旨に違反するか否かが争われた警察法改正無効事件についての最高裁判所の判決文等を読んだうえで、討議する。
+
+Shimizu v. Governor of Osaka: Revised National Police Law Case.
+第11回 １２月２６日（月）憲法判例ゼミ⑤[ Constitutional Cases 5 ]（担当：柳瀬）
+特定の個人の名誉を毀損し、同人を自殺に追い込む結果を招来した国会の委員会での衆議院議員による発言が、日本国憲法51条にいう「演説、討論又は表決」に該当し、当該議員は法的責任を免れる否かが争われた病院長自殺国家賠償請求事件についての最高裁判所の判決文等を読んだうえで、討議する。
+
+Doe v. Japan: Sapporo Hospital Director Suicide Case.
+第12回 １月１４日（土）立法実務入門⑥※補講[ Legislative Drafting 6 (supplementary lecture) ]（担当：岡田）
+法案の内容について審査をする。グループごとに審査時間を設定して個別に対応する。
+
+Reviewing each group bills.
+第13回 １月１４日（土）立法実務入門⑥※補講[ Legislative Drafting 6 (supplementary lecture) ]（担当：岡田）
+法案の内容について審査をする。グループごとに審査時間を設定して個別に対応する。
+
+Reviewing each group bills.
+第14回 １月１６日（月）憲法判例ゼミ⑥[ Constitutional Cases 6 ]（担当：柳瀬）
+日本国民である父と日本国民でない母との間に出生した子は、父から出生後に認知されても父母が婚姻しない限り、日本国籍を取得しえなかった国籍法旧3条1項の規定が、日本国憲法14条（法の下の平等）に違反する否かが争われた国籍法違憲訴訟についての最高裁判所の判決文等を読んだうえで、討議する。
+
+Doe v. Japan: Nationality Law Case.
+第15回 １月２３日（月）立法実務入門⑥[ Legislative Drafting 7 ]（担当：岡田）
+第三セッション：法案の説明と投票
+
+Group Session 3: reporting group bills, final voting.
+第16回 3月中旬（予定）国会見学会[ Externship (extra) ]（担当：岡田）
+参議院の参観とともに、立法実務入門で作成された法案をもとにした模擬審議を参議院内施設において行う。日程の詳細は、決定次第通知する。
+
+Visiting the National Diet Building and exercising the legislative process in the House of Councillors.
+その他
+10月31日（月）は休講とし、これを1月14日（土）の補講に充てる。
+
+No lecture on 31, Oct., supplementary lectures on 14, Jan..";
+	lect:lecture_id"14_B6006";
+	sylb:summary "The objective of this course is to give students an introduction to critical legal thinking by studying the nature of “rights” and providing an overview of “legal reasoning”. The topics will address many different issues and debates but we will focus particularly on the following questions:
+
+What is the role of law in our society? How does law justify itself? How does law relate to ethics and morality? What happens when opposing rights conflict with each other? What defines power in a juridical system? What are the strength and weaknesses of democracy?
+
+The objective of this course is to give students an introduction to critical legal thinking by studying the nature of “rights” and providing an overview of “legal reasoning”. The topics will address many different issues and debates but we will focus particularly on the following questions:
+
+What is the role of law in our society? How does law justify itself? How does law relate to ethics and morality? What happens when opposing rights conflict with each other? What defines power in a juridical system? What are the strength and weaknesses of democracy?
+
+";
+	sylb:method "The goal of this class is to develop logical and legal thinking skills while expanding a deeper understanding of the many faces of law and its role in society. Because of the nature of this class and the way it is conducted, students are expected to participate actively in the discussions and contribute to the debate through students’ presentations. The class will be held in English and give students an additional opportunity to work, argue and present in English.
+
+";
+	sylb:schedule "第1回 Orientation and Introduction 
+The first session will give an overview of the course, and give students a chance to introduce themselves, explain why they are taking the course and what their interests are: 
+
+- Overview of the class and the following weeks 
+- Discuss the following questions: What is law? What is “legal thinking”? 
+第2回 Legal Thinking
+-	Thinking and discussing about norms and values, culture and society 
+-	History of law 
+-	Morals, ethics and law: Basic philosophy and basic jurisprudence 
+-	Different schools of thought in general jurisprudence (e.g. “natural law”, “legal positivism”) 
+-	Connection between law and morality? 
+
+第3回 Law and Justice 
+Different schools of thought in general jurisprudence (e.g. “natural law”, “legal positivism”) 
+-	Connection between law and morality - Details and examples 
+-	Law and legal thinking in in everyday life 
+-	Examples and court cases 
+第4回 Law and Power
+-	What is power? 
+-	Introduction to constitutional law 
+-	How are laws changed? Why do they need to be changed over time? 
+-	Critical thinking about law and power 
+第5回 Students Presentations / Discussions Part I
+-	Overview: Structure of the presentations (arguments and defense arguments) 
+-	Topic finding 
+-	Discussion and scheduling for the coming weeks 
+第6回 Students Presentations / Discussions Part II
+- Topics to be discussed
+
+第7回 Students Presentations / Discussions Part III
+- Topics to be discussed
+
+第8回 Students Presentations / Discussions Part IV
+- Topics to be discussed
+
+第9回 Human Rights/ Freedom of speech 
+-	Overview of human rights / examples 
+-	Freedom of speech and social impact 
+第10回 Students Presentations Part V
+- Topics to be discussed
+
+第11回 Students Presentations Part VI
+- Topics to be discussed
+
+第12回 Law, society and technology 
+-	How does law control society and how does society control law? 
+-	Law and legal consciousness in everyday life? 
+-	“Digital locks” (discussing Ian Kerr) 
+-	The concept of responsibility in the digital age (revisiting Hans Jonas) 
+-	New laws for new technologies? 
+第13回 Future of law 
+-	What changes should/could be made in the light of new technologies? 
+-	What changes should/could be made in the light of the global information society? 
+-	Law and globalization 
+-	Concept of responsibility 
+第14回 Final Summary of the class – Wrap up and open questions 
+- What have we learned? 
+- What comes next?
+
+その他
+Assignment
+
+";

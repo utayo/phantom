@@ -1,0 +1,17 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "情報セキュリティマネジメント【１４】"@ja;
+	lect:lecture_id "14_C2098";
+	lect:time "2016年度 春学期 木曜日３時限";
+	lect:teacher "岡部　正勝";
+	lect:campas "SFC";
+	lect:course_type "講義";
+<http://example.com/lecture#1>
+	lect:name "情報セキュリティマネジメント(GIGA/GI)【１４】"@ja;
+	lect:lecture_id "14_C2098";
+	lect:time "2016年度 秋学期 月曜日６時限";
+	lect:teacher "宇田川　誠";
+	lect:campas "SFC";
+	lect:course_type "講義";

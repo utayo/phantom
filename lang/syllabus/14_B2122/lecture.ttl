@@ -1,0 +1,32 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "フランス語ベーシック２A【１４】"@ja;
+	lect:lecture_id "14_B2122";
+	lect:time "2016年度 春学期 水曜日３時限,木曜日４時限";
+	lect:teacher "塩田　明子、ヴィアート，　クロエ";
+	lect:campas "SFC";
+<http://example.com/lecture#1>
+	lect:name "フランス語ベーシック２A【１４】"@ja;
+	lect:lecture_id "14_B2122";
+	lect:time "2016年度 秋学期 水曜日２時限,木曜日３時限";
+	lect:teacher "岡見　さえ、シュドル，　フローレンス容子";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+	lect:homepage "http://french.sfc.keio.ac.jp/home/classes/basic/";
+<http://example.com/lecture#1>
+	lect:name "フランス語ベーシック２B【１４】"@ja;
+	lect:lecture_id "14_B2122";
+	lect:time "2016年度 秋学期 火曜日３時限,水曜日３時限";
+	lect:teacher "倉舘　健一、ガイヤル，　ニコラ";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+	lect:homepage "http://french.sfc.keio.ac.jp/home/classes/basic/";
+<http://example.com/lecture#1>
+	lect:name "フランス語ベーシック２C【１４】"@ja;
+	lect:lecture_id "14_B2122";
+	lect:time "2016年度 秋学期 水曜日３時限,金曜日３時限";
+	lect:teacher "西川　葉澄、マレシャル，　ベアトリス";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";

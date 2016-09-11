@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "地球環境技術論【１４】"@ja;
+	lect:lecture_id "14_B6044";
+	lect:time "2016年度 秋学期 月曜日２時限";
+	lect:teacher "一ノ瀬　友博、池田　靖史、蟹江　憲史、厳　網林、植原　啓介、大木　聖子、袖野　玲子、佐野　ひとみ、小林　光、樋口　広芳、土光　智子";
+	lect:campas "SFC";
+	lect:course_type "講義";

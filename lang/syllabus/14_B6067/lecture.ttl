@@ -1,0 +1,25 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "プレゼンテーション技法【１４】"@ja;
+	lect:lecture_id "14_B6067";
+	lect:time "2016年度 春学期 月曜日３時限";
+	lect:teacher "樋栄　ひかる";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+	lect:homepage "https://www.facebook.com/groups/BePresentSFC/";
+<http://example.com/lecture#1>
+	lect:name "プレゼンテーション技法【１４】"@ja;
+	lect:lecture_id "14_B6067";
+	lect:time "2016年度 秋学期 火曜日４時限";
+	lect:teacher "山田　ズーニー";
+	lect:campas "SFC";
+	lect:course_type "実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "プレゼンテーション技法【１４】"@ja;
+	lect:lecture_id "14_B6067";
+	lect:time "2016年度 秋学期 水曜日３時限";
+	lect:teacher "高橋　一貢";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";

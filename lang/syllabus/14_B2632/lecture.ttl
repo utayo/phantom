@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "中国語海外研修Ｂ【１４】"@ja;
+	lect:lecture_id "14_B2632";
+	lect:time "2016年度 秋学期";
+	lect:teacher "氷上　正";
+	lect:campas "台湾師範大学";
+	lect:course_type "実習・演習";

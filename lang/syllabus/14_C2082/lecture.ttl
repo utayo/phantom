@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "環境エネルギー情報論【１４】"@ja;
+	lect:lecture_id "14_C2082";
+	lect:time "2016年度 秋学期 火曜日２時限";
+	lect:teacher "藤原　洋、中村　修";
+	lect:campas "SFC";
+	lect:course_type "講義";

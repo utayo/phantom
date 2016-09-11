@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "（財）経済広報センター寄附講座「２１世紀の企業の挑戦」【１４】"@ja;
+	lect:lecture_id "14_X1008";
+	lect:time "2016年度 秋学期 火曜日４時限";
+	lect:teacher "小澤　太郎";
+	lect:campas "SFC";
+	lect:course_type "講義、遠隔あり";

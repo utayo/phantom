@@ -1,0 +1,250 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(01)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 水曜日４時限,水曜日５時限";
+	lect:teacher "中村　太戯留";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(02)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 水曜日４時限,水曜日５時限";
+	lect:teacher "西　佑介、小崎　信明、未定";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(03)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 水曜日４時限,水曜日５時限";
+	lect:teacher "樋口　文人";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(04)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 木曜日４時限,木曜日５時限";
+	lect:teacher "奈良　泰弘、山本　浩之";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(05)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 月曜日４時限,月曜日５時限";
+	lect:teacher "秋山　優";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(06)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 月曜日４時限,月曜日５時限";
+	lect:teacher "宇田川　誠";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(07)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 月曜日４時限,月曜日５時限";
+	lect:teacher "鈴木　茂哉";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(08)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 金曜日４時限,金曜日５時限";
+	lect:teacher "杉浦　学";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(09)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 金曜日４時限,金曜日５時限";
+	lect:teacher "橋本　尚久";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(10)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 金曜日４時限,金曜日５時限";
+	lect:teacher "渡部　陽仁";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(11)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 火曜日１時限,火曜日２時限";
+	lect:teacher "中島　博敬";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(12)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 木曜日４時限,木曜日５時限";
+	lect:teacher "大平　哲史";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(13)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 木曜日４時限,木曜日５時限";
+	lect:teacher "佐藤　雅明";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(14)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 水曜日４時限,水曜日５時限";
+	lect:teacher "榊原　寛";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(15)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 火曜日４時限,火曜日５時限";
+	lect:teacher "秋山　優";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(16)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 火曜日４時限,火曜日５時限";
+	lect:teacher "小島　清信";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(17)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 火曜日４時限,火曜日５時限";
+	lect:teacher "大越　匡";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(18)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 水曜日１時限,水曜日２時限";
+	lect:teacher "永山　翔太";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(19)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 金曜日１時限,金曜日２時限";
+	lect:teacher "池辺　正典";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(20)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 金曜日１時限,金曜日２時限";
+	lect:teacher "赤坂　亮太";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(21)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 火曜日１時限,火曜日２時限";
+	lect:teacher "服部　隆志";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(22)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 金曜日１時限,金曜日２時限";
+	lect:teacher "栗原　聡";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(23)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 火曜日１時限,火曜日２時限";
+	lect:teacher "佐藤　友紀";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(24)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 水曜日１時限,水曜日２時限";
+	lect:teacher "樋口　文人";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(25)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 水曜日１時限,水曜日２時限";
+	lect:teacher "中村　太戯留";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(26)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 春学期 水曜日１時限,水曜日２時限";
+	lect:teacher "玉川　直世";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(27)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 秋学期 月曜日４時限,月曜日５時限";
+	lect:teacher "坂村　美奈";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(28)(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 秋学期 月曜日３時限,月曜日４時限";
+	lect:teacher "中島　博敬";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/text/info1-2016-4/introduction/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(29)(GIGA/GG/GI)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 秋学期 水曜日４時限,水曜日５時限";
+	lect:teacher "タムリン，　アフマド フスニ、マクスディ，　ウチュウ";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(再履修者用)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 秋学期 火曜日４時限,火曜日５時限";
+	lect:teacher "斎藤　俊則";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";
+<http://example.com/lecture#1>
+	lect:name "情報基礎１(再履修者用)【１４】"@ja;
+	lect:lecture_id "14_B4001";
+	lect:time "2016年度 秋学期 火曜日１時限,火曜日２時限";
+	lect:teacher "河野　慎";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習";
+	lect:homepage "http://itclass.sfc.keio.ac.jp/";

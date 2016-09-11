@@ -1,0 +1,10 @@
+@prefix sylbank: <http://example.com/syllabus:> .
+ @prefix lect: <http://example.com/lecture_vocabulary:> .
+
+<http://example.com/lecture#1>
+	lect:name "ことばと文化の学習デザイン【１４】"@ja;
+	lect:lecture_id "14_B6013";
+	lect:time "2016年度 秋学期 金曜日４時限";
+	lect:teacher "島田　徳子";
+	lect:campas "SFC";
+	lect:course_type "講義、実習・演習、グループワーク";
