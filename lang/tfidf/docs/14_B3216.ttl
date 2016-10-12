@@ -1,0 +1,75 @@
+Cognitive science is aiming to explore humans by integrating psychology, linguistics, artificial intelligence and brain science. In the first half of the term, the following basic topics are explained such as memory and knowledge, thinking and inference, language cognition, visual and auditory cognition, and emotion cognition. Experiments of cognitive science provides numerical and language data. Such data are affected from complex functions of the human brain and individual variation. Data processing methods and analysis methods are explained by introducing the past major cognitive experiments. In the second half of the term, the course includes experiments of the human sensory memory and the short-term memory, international comparison of the relation between color cognition and emotion, and data mining. As an example of the data mining, text mining from a large scale language data in SNS is used for the experience in this term.
+
+";
+Cognitive science is aiming to explore humans by integrating linguistics, psychology, information science and artificial intelligence. Human functions are explored by various experiments. Human responses in the experiments are sometimes ambiguous and include individual differences, so that the experiments should be designed effectively and the data be analyzed carefully. This course provides the following topics, memory and knowledge, thinking and inference, language cognition, visual and auditory cognition, emotion cognition and conceptual structure. In the cognitive science experiments of the topics, methods to process the data such as percentage of correct answers and response time are shown. Text mining methods are also provided which are useful to extract valuable information from large scale language data.
+
+";
+第1回 Introduction
+Outline of the course 
+What is the cognitive science? 
+Features of cognitive experiments and their data analysis methods. 
+第2回 Memory and knowledge
+Memory system in the brain 
+Short-term memory and long-term memory 
+Experimental methods for memories 
+第3回 Thinking and Inference
+Development of thinking researches 
+Human thinking and AI(Artificial Intelligence) thinking 
+Experiments of thinking processes in problem solving. 
+第4回 Brain science for language
+Introduction of brain science 
+Language-related functions in the brain 
+Experimental methods for studying brain function in the left and right 
+hemispheres 
+第5回 Language development
+Language acquisition by early childhood 
+Phoneme perception mechanism in the brain 
+Phonological awareness and literacy acquisition 
+第6回 Cognition of Vision, Color and Emotion
+Neural mechanism of vision and color, and brain science of emotion 
+Analysis method for the relation between color and emotion 
+Experimental design for color perception 
+第7回 Experiment of color cognition and emotion
+Presentation of the results of color and emotion experiments 
+Extraction of quantitative difference between male and female 
+Processing of small size data and evaluation of data reliability 
+第8回 Experiments on sensory memory and short-term memory (1)
+Auditory neural mechanism 
+Visual and auditory information in sensory memory 
+Chunking and recall capacity of short-term memory 
+The magical number seven, plus or minus two 
+
+第9回 Experiments on sensory memory and short-term memory (2) 
+Planning of experiments about the sensory memory and short-term memory 
+Implementation of the experiments 
+Analysis and discussion of the experimental results 
+
+第10回 Text mining and its experiment
+Text mining 
+Features of large-scale language corpus 
+Usage method of twitter data analysis system 
+Assignment of experiment tasks of text mining 
+第11回 Text mining experiment results and term-end experiment
+Presentation and discussion of analysis results of text mining 
+Assignment of the term-end experiments of cognitive science 
+Methods of design and procedure of cognitive science experiments 
+
+
+第12回 Psycholinguistics and speech cognition experiments(Invited Talk)
+Process of speech cognition 
+Speech segmentation and experiments on the unit 
+Phonological awareness and the experiments 
+第13回 Language association and concept structure
+Language association 
+Estimation of concept structure by using associated data. 
+Principle of the linear programming method and calculation of distances 
+among concepts. 
+Survey of the lectures of the term 
+
+第14回 Workshop
+Presentation and discussion of term-end experimental results 
+Methods for writing reports of the term-end experiments 
+その他
+Survey of the course and discussion: Confirmation of the main points and
+development of course understanding by question-answering.
+";

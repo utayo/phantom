@@ -1,0 +1,178 @@
+スマートフォンやタブレット端末などのスマートデバイスは、ここ数年で急激な進化を遂げ、普及率も上昇の一途をたどってきた。スマートデバイスの活用は、研究の場やコンテンツ制作の場など様々な場面で新しい発見につながる可能性を秘めていると考えられる。
+
+本講義ではスマートデバイス上で動くアプリケーションの開発技法を学ぶ。 具体的にはマルチプラットフォーム対応の統合開発環境であるUnityを用いて、iOSとAndroidOS向けのアプリケーションを開発する。授業序盤は開発環境の使い方を、中盤はスマートデバイスならではの機能（タッチ操作、加速度センサーやGPSの使用、ネットワークへのアクセスなど）の実装方法を学び、最終課題として一人一本、スマートデバイス上で動くオリジナルアプリケーションを開発する。
+
+Smart devices, such as smart phones and tablets, have experienced rapid growth in the past few years, and has opened various possibilities of innovation in fields of research and development.
+
+This course will focus on application development through Unity engine for both ios and Android systems. Students will first learn about the fundamentals of Unity engine, then learn how to utilize features available on smart devices such as touch sensor,accelerometer, GPS, network, etc. Each student is expected to create a smart device application by him/herself at the end of this course as a final project.
+
+";
+スマートフォン、タブレット等のスマートデバイス上で動作するアプリケーションを 自由に開発できるようになることを目標としています。
+
+序盤：文字や画像の表示、タッチ操作など、基本的な入出力機能の実装方法を学びます。
+中盤：GPSセンサーからの位置情報の取得、アプリからの通信、カメラとの連携など、
+　　　スマートデバイスならではの機能を使う方法を学びます。
+終盤：学んだ技術などを駆使して一人一本アプリを開発し、それを最終課題とします。
+開発環境はUnity、使用言語はC#を予定しています。
+
+Unityを用いると、MacOSの人はAndroid向けアプリとiOS向けアプリを同時開発でき、 WindowOSの人はAndroid向けアプリを開発できます。 （Unityは統合開発エンジンなので、スマートフォン向けアプリの他、 PC上で動くソフト、ブラウザ上で動くアプリなども作れるようになります。 3Dゲームに強いエンジンですが、2Dの物やゲーム以外のアプリも作れます。）
+
+The objective of this course is to learn how to develop applications for smart devices.
+
+The course will be divided up in three sections within the semester:
+
+Beginning: Students will learn how to display texts, utilize touch sensors, and handle basic I/O systems on their devices.
+Middle: Students will learn to utilize features available on smart devices, such as detecting location through GPS, data transmission from the application, and utilization of phone cameras.
+End: Students are expected to create a working smart device application by themselves as a final project.
+Development environment: Unity engine Programming language used: C#
+
+Unity engine is a multi-platform game development engine that mainly supports 3D game development but is also capable of developing 2D games. Students with MacOS computers are capable of making both Android and ios applications, while students with Windows computers are capable of developing applications for Android devices. Students will also be able to develop applications that run on other systems such as PC and web browsers after taking this course.
+
+";
+第1回 開発の準備をしよう（イントロダクション、開発環境の導入）[ Environment Setup (Introduction) ]（担当：和田、杉山）
+授業概要を説明します。 
+開発環境上でのプロジェクトの作成、ビルドの方法などを学びます。 
+Class Introduction Creating and building Unity projects
+第2回 Unityで開発してみよう（その１、基礎文法編）[ Unity Application Development (Part 1: Basic programming) ]（担当：和田、杉山）
+Unity上で簡単なプログラムを組みつつ、C#での変数、if文、for分、配列などの使い方を学びます。 
+Development of simple programs in Unity and learn the usage of basic C# statements, such as variables, “if” and “for” statements, and arrays
+第3回 Unityで開発してみよう（その２、入力編）[ Unity Application Development (Part 2: Inputs) ]（担当：和田、杉山）
+キー操作、マウスクリック等、入力を受け付ける方法を学びます。 
+Keyboard and mouse input and processing
+第4回 Unityで開発してみよう（その３、表示編）[ Unity Application Development (Part 3: Display) ]（担当：和田、杉山）
+画面内に画像を表示する方法を学びます。 
+Image rendering
+第5回 スマートデバイスで実行してみよう[ Utilization of Smart Devices ]（担当：和田、杉山）
+Unityで作ったものを、AndroidやiOS等のスマートデバイスで動かす方法を学びます。 
+Utilization of Android/ios devices for applications built in Unity
+第6回 加速度センサーを使ってみよう[ Accelerometer ]（担当：和田、杉山）
+加速度センサー使う方法を学びます。
+
+Utilization of accelerometers
+第7回 ネットワーク機能を使ってみよう[ Networking ]（担当：和田、杉山）
+アプリからネットワーク機能を使う方法を学びます。 
+Simple networking between the smart device application and the web.
+第8回 GPS機能を使ってみよう[ GPS ]（担当：和田、杉山）
+GPSデータを取得する方法を学びます。
+
+Acquisition of GPS data
+第9回 カメラ機能を使ってみよう[ Camera ]（担当：和田、杉山）
+カメラ機能との連動の方法を学びます。 
+Utilization of smart devices built-in camera.
+第10回 アプリを配信してみよう[ Development of Stand-alone application ]（担当：和田、杉山）
+作成したアプリを配信する方法を学びます。 
+Scene changes and changing the app icon.
+第11回 オリジナルアプリケーションを作ろう（その１）[ Creating an Original Application (Part 1) ]（担当：和田、杉山）
+最終課題として何を作るか決めて、作り始めます。 
+Students are expected to decide and start their final project
+第12回 オリジナルアプリケーションを作ろう（その２）[ Creating an Original Application (Part 2) ]（担当：和田、杉山）
+最終課題の作成を進めます。 
+Students are expected to be able to show progress on their final project.
+第13回 オリジナルアプリケーションを作ろう（その３）[ Creating an Original Application (Part 3) ]（担当：和田、杉山）
+前回に引き続き最終課題の作成を進め、完成を目指します。 
+（この日に最終課題を提出してもらいます）
+
+Students are expected to turn in their final project at the end of this class.
+第14回 最終回[ Final Class ]（担当：和田、杉山）
+最終課題の中から優秀な作品を紹介、表彰します。 
+Prizes will be awarded to students whose final project were considered outstanding.
+その他
+第12回、第13回の授業を延長して、
+最終課題完成の為に質問対応などを行う予定です。
+Lecture staff members are available during and after class for additional help regarding the final project during lecture 12 and 13.";
+スマートフォンやタブレット端末などのスマートデバイスは、ここ数年で急激な進化を遂げ、普及率も上昇の一途をたどってきた。スマートデバイスの活用は、研究の場やコンテンツ制作の場など様々な場面で新しい発見につながる可能性を秘めていると考えられる。
+
+本講義ではスマートデバイス上で動くアプリケーションの開発技法を学ぶ。 具体的にはマルチプラットフォーム対応の統合開発環境であるUnityを用いて、iOSとAndroidOS向けのアプリケーションを開発する。授業序盤は開発環境の使い方を、中盤はスマートデバイスならではの機能（タッチ操作、加速度センサーやGPSの使用、ネットワークへのアクセスなど）の実装方法を学び、最終課題として一人一本、スマートデバイス上で動くオリジナルアプリケーションを開発する。
+
+Smart devices, such as smart phones and tablets, have experienced rapid growth in the past few years, and has opened various possibilities of innovation in fields of research and development.
+
+This course will focus on application development through Unity engine for both ios and Android systems. Students will first learn about the fundamentals of Unity engine, then learn how to utilize features available on smart devices such as touch sensor,accelerometer, GPS, network, etc. Each student is expected to create a smart device application by him/herself at the end of this course as a final project.
+
+";
+スマートフォン、タブレット等のスマートデバイス上で動作するアプリケーションを 自由に開発できるようになることを目標としています。
+
+序盤：文字や画像の表示、タッチ操作など、基本的な入出力機能の実装方法を学びます。
+
+中盤：GPSセンサーからの位置情報の取得、アプリからの通信、カメラとの連携など、スマートデバイスならではの機能を使う方法を学びます。
+
+終盤：学んだ技術などを駆使して一人一本アプリを開発し、それを最終課題とします。
+
+開発環境はUnity、使用言語はC#を予定しています。
+
+Unityを用いると、MacOSの人はAndroid向けアプリとiOS向けアプリを同時開発でき、 WindowOSの人はAndroid向けアプリを開発できます。 （Unityは統合開発エンジンなので、スマートフォン向けアプリの他、 PC上で動くソフト、ブラウザ上で動くアプリなども作れるようになります。 3Dゲームに強いエンジンですが、2Dの物やゲーム以外のアプリも作れます。）
+
+The objective of this course is to learn how to develop applications for smart devices.
+
+The course will be divided up in three sections within the semester:
+
+Beginning: Students will learn how to display texts, utilize touch sensors, and handle basic I/O systems on their devices.
+
+Middle: Students will learn to utilize features available on smart devices, such as detecting location through GPS, data transmission from the application, and utilization of phone cameras.
+
+End: Students are expected to create a working smart device application by themselves as a final project.
+
+Development environment: Unity engine Programming language used: C#
+
+Unity engine is a multi-platform game development engine that mainly supports 3D game development but is also capable of developing 2D games. Students with MacOS computers are capable of making both Android and ios applications, while students with Windows computers are capable of developing applications for Android devices. Students will also be able to develop applications that run on other systems such as PC and web browsers after taking this course.
+
+";
+第1回 開発の準備をしよう（イントロダクション、開発環境の導入）[ Environment Setup (Introduction) ]（担当：和田、杉山）
+授業概要を説明します。 
+開発環境上でのプロジェクトの作成、ビルドの方法などを学びます。
+
+Class Introduction Creating and building Unity projects
+第2回 Unityで開発してみよう（その１、基礎文法編）[ Unity Application Development (Part 1: Basic programming) ]（担当：和田、杉山）
+Unity上で簡単なプログラムを組みつつ、C#での変数、if文、for分、配列などの使い方を学びます。
+
+Development of simple programs in Unity and learn the usage of basic C# statements, such as variables, “if” and “for” statements, and arrays
+第3回 Unityで開発してみよう（その２、入力編）[ Unity Application Development (Part 2: Inputs) ]（担当：和田、杉山）
+キー操作、マウスクリック等、入力を受け付ける方法を学びます。
+
+Keyboard and mouse input and processing
+第4回 Unityで開発してみよう（その３、表示編）[ Unity Application Development (Part 3: Display) ]（担当：和田、杉山）
+画面内に画像を表示する方法を学びます。
+
+Image rendering
+第5回 スマートデバイスで実行してみよう[ Utilization of Smart Devices ]（担当：和田、杉山）
+Unityで作ったものを、AndroidやiOS等のスマートデバイスで動かす方法を学びます。
+
+Utilization of Android/ios devices for applications built in Unity
+第6回 加速度センサーを使ってみよう[ Accelerometer ]（担当：和田、杉山）
+加速度センサー使う方法を学びます。
+
+Utilization of accelerometers
+第7回 ネットワーク機能を使ってみよう[ Networking ]（担当：和田、杉山）
+アプリからネットワーク機能を使う方法を学びます。
+
+Simple networking between the smart device application and the web.
+第8回 GPS機能を使ってみよう[ GPS ]（担当：和田、杉山）
+GPSデータを取得する方法を学びます。
+
+Acquisition of GPS data
+第9回 カメラ機能を使ってみよう[ Camera ]（担当：和田、杉山）
+カメラ機能との連動の方法を学びます。
+
+Utilization of smart devices built-in camera.
+第10回 アプリ完成に向けて[ Development of Stand-alone application ]（担当：和田、杉山）
+画面遷移の方法やアプリアイコンの組み込み方を学びます。 
+Scene changes and changing the app icon.
+第11回 オリジナルアプリケーションを作ろう（その１）[ Creating an Original Application (Part 1) ]（担当：和田、杉山）
+最終課題として何を作るか決めて、作り始めます。
+
+Students are expected to decide and start their final project
+第12回 オリジナルアプリケーションを作ろう（その２）[ Creating an Original Application (Part 2) ]（担当：和田、杉山）
+最終課題の作成を進めます。
+
+Students are expected to be able to show progress on their final project.
+第13回 オリジナルアプリケーションを作ろう（その３）[ Creating an Original Application (Part 3) ]（担当：和田、杉山）
+前回に引き続き最終課題の作成を進め、完成を目指します。 
+（この日に最終課題を提出してもらいます）
+
+Students are expected to turn in their final project at the end of this class.
+第14回 最終回[ Final Class ]（担当：和田、杉山）
+最終課題の中から優秀な作品を紹介、表彰します。
+
+Prizes will be awarded to students whose final project were considered outstanding.
+その他
+第12回、第13回の授業を延長して、 最終課題完成の為に質問対応などを行う予定です。 
+Lecture staff members are available during and after class for additional help regarding the final project during lecture 12 and 13.";

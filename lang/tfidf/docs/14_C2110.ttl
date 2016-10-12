@@ -1,0 +1,56 @@
+当クラスは、「コンピュータミュージック１」及び「コンピュータミュージック２」を履修済みで、既に自分自身のアイディアを持ち、オリジナルな音楽の創作活動を行う事ができる諸君向けのクラスです。当クラスではデジタルサウンドデザインのための基礎的な信号処理の理論と音楽表現及び認知に関連する分野を学びながら、作品の制作を行います。基礎的な理論には、初歩的な音響学、多少の数学、心理音響学、サウンドデザインの基礎が含まれ、クラスではプログラム言語としては主にPureDataを使いますが、必ずしもPdに拘る必要はありません。実際に多くのプログラミングの演習を行い、ボトムアップに作品制作を行って行きます。
+
+Before taking this class, students are highly recommended to have taken “Computer music 1” and “Computer music 2” so that the students are acquainted with basic techniques of digital music and equipped with composing abilities. In this class, basics of digital sound composition will be presented and discussed. Students are expected to compose their own pieces and present them at the final class.
+
+";
+コンピュータ音楽の面白さの核心には、デジタル信号処理（Digital Signal Processing：DSP）があるので、当クラスではDSPを中心に学んでいきましょう。
+
+授業は、教員によるレクチャーと履修者による自作品のプレゼンテーションを隔週で行います。つまり教員が一方的に講義をするのではなく、履修者自身が自分のアイディアを提供してクラス全員で批評を行い、可能なアドバイスを出し合って知を共有し、先へ進みます。
+
+Since the core interest of digital music exists in the field of digital signal processing, the focus is put on DSP. The teacher will present series of lectures every other week, and the students’ presentations of their own ideas and works follow every other week alternatively.
+
+";
+第1回 自然、人間、コンピュータ
+コンピュータを使って音楽を作る事の意味を考える。
+
+第2回 プレゼンテーション１
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。 
+第3回 Sentics の紹介
+音楽における感情の発露に関する先駆的な研究の紹介
+
+第4回 プレゼンテーション２
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第5回 ゲシュタルト心理学と聴覚情景分析入門
+ゲシュタルト心理学の紹介と、その現代版とも言える「聴覚情景分析（Auditory_Scene_Analysis）」の紹介
+
+第6回 プレゼンテーション３
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第7回 言葉と身体
+民謡、感嘆詞と身体性、言葉をテーマにした音楽などの紹介を通して、 言葉と音楽の関係を考えます。
+
+第8回 プレゼンテーション４
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第9回 DSP入門
+複素シニュソイド、サンプリング定理、フーリエ変換、ディレイ、デジタルフィルタ、これらを扱うPureDataオブジェクト等の紹介
+
+第10回 プレゼンテーション５
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第11回 PdのFFTプラグイン
+DSPを応用したPureDataのライヴ・スペクトラルプロセッサ（プラグイン）の紹介
+
+第12回 プレゼンテーション６
+履修者は自分のアイディアや作品をプレゼンし、全員でディスカッションを行います。
+
+第13回 FFTプラグインフォローアップ
+今までにやり残した事のフォローアップ、まとめなど。
+
+第14回 作品発表
+履修者は、各自のオリジナル作品を３～５分程度でプレゼンしてください
+
+その他
+履修者のニーズに合わせて、時間外に指導とアドバイスを与えます。
+";

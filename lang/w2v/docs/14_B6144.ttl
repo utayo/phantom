@@ -1,0 +1,48 @@
+A programs can be seen as a mathematical function which calculate output value for a given input. However, it is not a simple mathematical function. It is not a total function, but a partial one. In order to understand the property of programs, it is necessary to introduce topology of complete partial order. In this lecture, we will study lambda calculus, domain theory, category theory and so on which are base for mathematical theory of programs.
+
+";
+A programs can be seen as a mathematical function which calculate output value for a given input. In this lecture, we will look into the property of functions which correspond to programs.
+
+Firstly, in order to understand what we can calculate using programs, we compare three models of programs: recursive functions, turing machines and lambda calculi. We will show that three models are equivalent.
+
+Secondly, we will study complete partial order which gives the model of lambda calculi and programs.
+
+Thirdly, in order to understand data types of programs, we will look into category theory which is the abstraction of functions and can show the beauty behind data types.
+
+";
+第1回 While Program
+Define computation by a program. 
+
+第2回 Primitive Recursive Function
+Define primitive recursive functions and define some well known arithmetic functions.
+
+第3回 Recursive Function
+Extend primitive recursive functions to general recursive functions.
+
+第4回 Computabile Function
+Show computable functions are equivalent with recursive functions. 
+第5回 Turing Machine
+Define Turing machine which is a model of computation. 
+第6回 Turing Machine and Computability
+Show equivalence of Turing machine and computability. 
+第7回 Lambda Calculus
+Define lambda calculus and introduce alpha. beta and eta conversions.
+
+第8回 Lambda Calculus and Computabilty
+Show equivalence of lambda calculus and computability. 
+第9回 Complete Partial Order Set
+Introduce complete partial order set which represents set of information. 
+第10回 Complete Partial Order Set and Data Type
+Introduce construction of complete partial order sets: cartesian product, disjoint sum, function space. 
+第11回 Continuous Function
+Show programs can be modeled as continuous functions. 
+第12回 Category Theory
+Introduce category theory which can give alternative foundation of mathematics. It is much more intuitive than set theory and is easier to see hidden relationships between objects. 
+第13回 Category Theory and Data Type
+Understand the connection between category theory and data type in programs. 
+第14回 Summary
+Summarize computability.
+
+その他
+Some advanced topic related to computability.
+";

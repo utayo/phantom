@@ -51,7 +51,7 @@ casper.then(function(){
         document.querySelector('.back a').click();
     });
     //back.click();
-}).wait(1000).then(function(){
+}).wait(100).then(function(){
     this.echo('2nd');
     this.capture('menu.png');
 });

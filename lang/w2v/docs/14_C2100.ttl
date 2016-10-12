@@ -1,0 +1,54 @@
+半導体技術の発達によって、高性能で小型の電子機器が簡単に設計構築できるようになった。 最近では、商用のソフトウエアのみならず、高機能なオープンソースプログラミング環境が整ってきた。したがって、最近では比較的安価に、高性能なCPUにモニターやオペレーティングシステムを載せ、ユーザが望むアプリケーションを設計し、構築・実装できる。 授業では、幅広く利用されている周辺機器インターフェースの代表である、シリアル通信を中心に、bluetooth組み込みシステムの設計・実装法を紹介する。 ハードウエアとファームウエア（プログラム）設計・構築、パソコンだけでなく、スマートフォーンとのインターフェース、アプリケーション設計・構築を詳しく解説する。
+
+By the latest advanced semiconductor technology, we are able to develop the small and inexpensive embedded system (gadget) using the high speed CPU with simple monitor or operating system. In this course, serial communication embedded system will be described where students have todesign and implement the simple bluetooth system which can communicate with personal computers and/or smart phones. Hardware and firmware design and implemention are involved in the embedded system. Application software design and implementation are required in personal computers and/or smart phones.
+
+";
+In this course, students can learn sensing, smartphone, and cloud computing altogether. Internet gadget is a small computer with a microcontroller of AVR chip where networking capability is provided. A smartphone like Android phone is useful for sensing and cloud computing. Bluetooth wireless communication can be established between the internet gadget and the smartphone. Sensed data from the internet gadget can be captured and stored in the cloud environment through the smartphone. Internet gadgets can be programmed by C and python programs on the smartphone can be built for sensing, communications, and cloud computing.
+
+";
+第1回 Introduction to embedded system
+Sensing, bluetooth communications, smartphone, cloud computing
+
+第2回 Development environment
+AVR-gcc is for open source c compiler for AVR chips. 
+AVR-gcc is used for developing an internet gadget.
+
+第3回 Introduction to hardware
+Sensors, bluetooth, smartphone, cloud computing environment
+
+第4回 Introduction to hardware
+Sensors, bluetooth, smartphone, cloud computing environment
+
+第5回 Introduction to hardware
+Sensors, bluetooth, smartphone, cloud computing environment
+
+第6回 Introduction to programming
+C programming, Python programming
+
+第7回 Introduction to programming
+C programming, Python programming
+
+第8回 Introduction to programming
+C programming, Python programming
+
+第9回 Introduction to programming
+C programming, Python programming
+
+第10回 Introduction to programming
+C programming, Python programming
+
+第11回 Introduction to programming
+sensing programming
+
+第12回 Introduction to programming
+sensing programming
+
+第13回 Introduction to programming
+Bluetooth communications
+
+第14回 Final presentation
+Final presentation: presentation and report
+
+その他
+* 予備日* 予備日
+";

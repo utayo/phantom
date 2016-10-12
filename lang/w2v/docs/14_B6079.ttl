@@ -1,0 +1,55 @@
+　会計をはじめて学習する者を対象に開講する｡ この講義は､ 組識を経営する上で必要な会計のスキル習得を狙っており､ 毎回､ケース等を使いながら計算手法を通じて経理センスを身に付けるとともに､ 意思決定のポイント､ タイミング等を学んでいく｡いわゆる会計学の内容だけでなく､ 資金の調達方法､ 業務のアウトソーシング､ タックスマネジメント等､マネジメントに必要な財務知識もカバーしている｡ 企業ばかりでなく非営利組識､ 国・地方自治体においても経済的､ 効率的､有効的な運営管理が要請されており､ これらにも共通の課題を取上げる｡ 　なお､ オンラインを利用した補助教材が用意されており､ 教室での授業以外に､トレーニングを積むことが必要である。
+
+This course is opened the students who learn accounting for the first time and designed to provide basic accounting skills and concepts.
+
+";
+この講義は､ 組識を経営する上で必要な会計のスキル習得を狙っており､ 毎回､ケース等を使いながら計算手法を通じて経理センスを身に付けるとともに､ 意思決定のポイント､ タイミング等を学んでいく｡いわゆる会計学の内容だけでなく､ 資金の調達方法､ 業務のアウトソーシング､ タックスマネジメント等､マネジメントに必要な財務知識もカバーしている｡ 企業ばかりでなく非営利組識､ 国・地方自治体においても経済的､ 効率的､有効的な運営管理が要請されており､ これらにも共通の課題を取り上げる｡ 　授業中、計算例題を取り入れてスキル習得を図っていくとともに、習熟度を確認するため、学期中、随時、クイズ(小テスト)を実施する予定である。なお、自習用課題を上記URLで提供するので、次回の授業までに必ず取り組み、スキルを身に付けておくこと。
+
+";
+第1回 組織経営における会計技法の必要性[ Necessity of Accounting Tools for Organizational Management ]
+パーソナルアカウンティング、組織の寿命、会計への期待、資源配分の効率化、会計の特質
+
+Personal Accounting, Life of organizations, Role of accounting
+第2回 法人内部の業績評価 [ Performance Evaluation in Organizations ]
+責任構造と会計情報、管理者の業績評価、部門の採算性測定、業績報酬制度
+
+Responsibility structure and accounting information, Performance Evaluation for Managers, Profitability of segments, Incentive compensation
+第3回 構造変化を伴わない意思決定[ Decision Making without Structure Changes ]
+関連原価、自製か購入か（make or buy）の決定、赤字受注の可否
+
+第4回 ＣＶＰ（Costs-Volume-Profit）分析の必要性[ CVP Analysis ]
+活動水準に対する費用、収益および利益との関係、経営規模の選択、損益分岐点の意義
+
+第5回 事業採算性を重視した利益計画[ Profit Planning based on Profitability ]
+損益分岐点の位置、目標売上高の算定、わかりやすい損益計算方式
+
+第6回 貨幣の時間価値と会計情報[ Time Value of Money and Accounting Information ]
+キャッシュ･フロー価値と時間の関係、利子率の捉え方、積立計算、年金計算、資金調達の方法、借入に伴う明示的義務と暗黙的負担
+
+第7回 経営構造に係わる意思決定[ Strategic Decision Making ]
+経営基本構造の本質、設備投資の意思決定方法、財務意思決定におけるリスクファクター
+
+第8回 予算の立て方と管理のポイント[ Budgeting and Management Control ]
+予算管理の必要性、経営計画の定量化、予算の機能、予算差異分析、計画へのフィードバック
+
+第9回 決算書の見方 [ Financial Statements Viewpoints ]
+会計情報の特質、決算書の体系、資源ストックとフローの関係、主要な財務指標
+
+第10回 損益計算の構造[ Structures of Income ]
+資本の構成内容、損益計算の目的、発生主義会計、損益計算とキャッシュ・フローの異同
+
+第11回 複式簿記のメカニズム[ Double Entry Bookkeeping System ]
+複式簿記の狙い、会計の基礎概念、貸借平均の原理、会計データの作成方法
+
+第12回 財務分析の進め方①[ Financial Analysis ① ]
+財務分析の意義と効果、財務指標と実数の関係、財務面からの組織健全性の判定
+
+第13回 財務分析の進め方②[ Financial Analysis ② ]
+将来キャッシュ・フローの予測、収益性の分析、例外原理の適用
+
+第14回 会計の国際化[ Internationalization of Accounting ]
+会計基準の性格と統一化、国際財務報告基準の本質、統合報告における財務情報の位置付け、外部情報利用者の意思決定における着眼点
+
+その他
+* 全体のレビュー* 会計の特性と限界、会計スキルの活用、今後の展開
+";

@@ -1,0 +1,86 @@
+私たちが、外界をどのように知覚・認知するかに関して、知覚実験、概念形成実験、記憶実験等の心理実験を通して学んでゆく。そして、これらの知覚・認知現象についてモデルを構成し、それを検証してゆく。前半では、形や奥行きがどのように情報処理されてゆくのかについて学び、後半では、人間の知識構造について、どのように知識が形成されるのかを分析してゆく。
+
+教科書　渡辺利夫　２００９　知覚認知モデル論　ナカニシヤ出版　
+
+Students learn how we perceive and cognize the outer world through perceptional experiments,concept lerning experiment, memory experiments. They discuss the mathematical models on perceptional and cognitive phenomena. They learn information processing of shape and depth phenomena in the first and the process of knowledge structuring in the second.
+
+The assigned book: Watanabe,T. 2009 perceptual and cognitive models. nakanishiya press.
+
+";
+人間が外界をどのように知覚し、認知するかについて学ぶ。前半は、 知覚のメカニズムについて学び、後半は認知のメカニズムについて学ぶ。
+
+Students learn how humans perceive and recognize the outer world. They learn perceptual mechanism in the first half of the semester and cognitive mechanism in the latter half of the semester.
+
+";
+第1回 授業内容の説明[ General explanation of the lecture ]
+授業内容のデモンストレーション 
+期末テストの説明
+
+Introductory explanation of the lecture and demonstration of the psychological phenomena. Explanation of final exam.
+第2回 視覚経路Ｉ[ Visual pathway to the brain (1) ]
+感覚の種類 
+網膜の構造（視細胞・水平細胞・双極細胞・アマクリン細胞・神経節細胞） 
+Clasification of senses Retinal structure(visula cell, horizontal cell,bipolar cell,amacrine cell,ganglion cell)
+第3回 視覚経路ＩＩ[ visual pathway to the brain (2) ]
+脳の構造（視交叉・外側膝状体・大脳視覚皮質）
+
+Brain structure( visual cross, lateral geniculate nuclues, visual cortex)
+第4回 色の知覚[ color perception ]
+色の物理的性質（色の３属性・混色） 
+色の知覚（色覚理論・対比・主観色）
+
+Physical property of the color(three elements of color,color mixture) Color perception( color perception theory, color contrast,perceptual color)
+第5回 形の知覚[ Shape perception ]
+形の物理的側面（輪郭の成立） 
+形の心理的側面（ボトムアップ型知覚処理・トップダウン型知覚処理） 
+錯視
+
+Physical factors of shape perception psychological factors of shape perception Optical illusions
+第6回 奥行きの知覚[ Depth perception ]
+奥行きの生理的側面（眼のレンズの調節・輻輳・両眼視差・運動視差） 
+奥行きの心理的側面（大きさの恒常性・空間の異方性）
+
+Physiological factors of depth perception( lens adaptation of the eyes, convergence, binocular disparity, motion parallax) Psychological factors of depth perception(size constancy, anisotropy of space)
+第7回 認知の発達[ Cognitive development ]
+ピアジェの発生的認識論 
+ヴィゴツキーの最近接領域説 
+コールの文化的文脈理論
+
+Piaget's genetic epistemology Vygotsky's zone of proximal development Cole's cultural and contextual theory
+第8回 概念形成[ Concept formation ]
+概念形成実験 
+概念形成の理論（漸増仮説と悉無仮説）
+
+Concept formation experiment Theories of concept formation( gradual learning and all or none learnng hypotheses)
+第9回 記憶のメカニズム　Ｉ[ Memory mechanism (1) ]
+記憶のプロセス 
+貯蔵庫モデル 
+記憶実験１
+
+Process of memory Memory storage model Memory experiment 1
+第10回 記憶のメカニズム　ＩＩ[ Memory mechanism (2) ]
+長期記憶の構造 
+記憶実験２
+
+Structure of long-term momery Memory experiment 2
+第11回 問題解決　Ｉ[ Problem solving (1) ]
+問題解決の種類 
+ルーチン的問題解決 
+創造的問題解決
+
+Classification of problem solvings Routine problem solving Creative problem solving
+第12回 問題解決　ＩＩ[ Problem solving (2) ]
+問題解決実験 
+問題解決の落とし穴
+
+Experiments on problem solving Pitfall of problem solving
+第13回 空間認知　（I)[ Space cognition (1) ]
+空間認知と空間知覚 
+cognitive and perceptual spaces
+第14回 空間認知　(II)[ Space cognition (2) ]
+空間認知の発達 
+認知空間のゆがみ
+
+Development of space cognition Distortion of cognitive space
+その他
+";

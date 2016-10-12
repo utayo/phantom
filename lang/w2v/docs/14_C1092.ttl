@@ -1,0 +1,127 @@
+国際開発論では、国連のミレニアム開発目標のうち、特に、人的資本開発にかかる当ピックを中心に取り上げ、議論する。具体的には、初等教育の普及、女性の地位向上、幼児死亡率や就学前児童の健康などについて、今後の開発政策の方向性を考えるうえで、必要な知識や手法を身に着けることを目標とする。
+
+The objective of this course to understand how to apply the economic theories and econometrics methods in analysing education and human capital accumulations in developing countries.
+
+";
+国際開発論では、国連のミレニアム開発目標のうち、特に、人的資本開発にかかる当ピックを中心に取り上げ、議論する。具体的には、初等教育の普及、女性の地位向上、幼児死亡率や就学前児童の健康などについて、これまでの社会科学の理論的変遷を振り返り、どのようにしてミレニアム開発目標が設定されるに至ったかについて学ぶ。
+
+この講義では（１）人的資本開発に関して、現在、開発援助機関（国連や世界銀行など）が抱える実践的な問題を明らかにし、（２）そうした問題について、これまで社会科学がどのような理論やエビデンスを提供してきたかの変遷について振り返る。（３）そして、今後の人的資本開発政策をどのように展開していくべきかについて議論を深める。
+
+The objective of this course to understand how to apply the economic theories and econometrics methods in analysing education and human capital accumulations in developing countries.
+
+";
+第1回 国際開発とは何か[ Overview of Poverty in the Developing World ]
+第1回目の講義では、世界の貧困問題の現実をデータから理解することを目標とする。そして、国連や世界銀行などが貧困削減を目標として、どのような政策手段をもち、どのようなことを実行し、現在、何を目標に掲げているのかを学ぶ。
+
+Overview of Poverty in the Developing World
+第2回 統計分析の基礎[ The data analysis for development ]
+国際開発論を学ぶ上で重要なデータ分析の基礎を学ぶ。
+
+Learn the basics of the regression analysis by using the dataset in developing countries
+第3回 統計クイズ[ Mid-term exam ]
+統計に関する簡単なクイズを行う。
+
+Mid-term exam
+第4回 人的資本が大切なわけ[ Why is human capital so important? ]
+国連のミレニアム開発目標の多くがいわゆる「人的資本」に関連していることを明らかにする。そのうえで、なぜ発展途上国の経済発展のために、人的資本がされるのかを、マクロ経済学の理論をもちいて解説を行う。
+
+This sesson is aimed to learn why human capital investments are playing important role for macroeconomic growth by referring the endogenous growth theory in economics.
+第5回 教育への投資はどこへ？[ Where has all education gone? ]
+マクロ経済学のフレームワークにおいては、人的資本が経済成長の大きな要因となっていることが明らかにされているにもかかわらず、実際の実証分析では必ずしもそれがサポートされていないことを明らかにする。
+
+This session will see the contradictory view of the endogenous growth theory - the empirical studies that shows no strong and rigorous associations b/w educational investments in the country and economic growth.
+第6回 初等教育の普及[ Why is primary education more important for development? ]
+なぜ、高等教育や中等教育よりも初等教育の普及が大切だと考えられているのかについて、教育の収益率に関するサカロポロスをはじめとするエコノミストらの一連の研究を紹介する。
+
+We will learn the basic idea of the rate of return to education.
+第7回 条件付き現金供与という政策[ Gender inequality in education ]
+政府の教育支出と所得分布の関係について学ぶ。メキシコなどで実際に行われた条件付き現金供与（conditional cash transfer）という政策が、貧困削減にどのような役割を果たしたかについて解説する。
+
+The session will consider the problem of a significant difference in education between boys and girls in developing world.
+第8回 「お金」をかければ教育はよくなるか？（教育生産関数の議論）[ Does money matters in education? ]
+お金」をかければ開発途上国における子供の教育環境が改善し、成果を上げることができるのかについて議論する。米国を対象にしたハヌシェクの研究と開発途上国を対象としたハイネマン・ロクスレイの研究結果を比較する。
+
+We will discuss the so-called "money matters debate" in education.
+第9回 「お金」をかければ教育はよくなるか？（費用効果分析）[ The cost-effectiveness approach ]
+教育支出と教育成果の関係について議論を深める。特に、開発政策評価に頻繁に用いられる費用効果分析の概要について学ぶ。
+
+We will learn the basic of the cost-effectiveness analysis in education.
+第10回 政策評価の新しい手法（ランダム化比較試験）[ The conditional cash transfer ]
+第10回目の講義では、最近の政策評価の試金石といわれる「ランダム化比較試験」と呼ばれる方法のアイデアと実際を学び、なぜランダム化比較試験がこれまでの開発政策評価と比べて優れているかについて考察する。
+
+We will learn the "conditional cash transfer", a silver bullet of poverty reduction, and its role to boost the student enrollments in debeloping countries.
+第11回 政策評価の新しい手法[ Randomized controlled trail ]
+第11回目の講義では、ランダム化比較試験を用いて行われた開発政策の評価―特に、アメリカのMITの貧困アクションラボが行った実験と評価を中心に―を紹介する。
+
+The session provide the basic knowledge about the impact evaluation - how to assess the causal impact of a certain set of policies in developing coutries.
+第12回 妊婦や就学前児童の健康を守る[ Why is RCT effective for policy making world? ]
+貧困削減の最重要課題の一つが、乳児死亡率の低下であり、そのために妊婦の健康や栄養状態が大切であることを学ぶ。また生まれてからも、低体重や栄養失調の子供は、その後の人生に不利であるというエビデンスを紹介する。
+
+The session will show a wide variety of example of RCTs by demonstraing the research results drawn from economists of the Poverty Action Lab.
+第13回 学生によるプレゼンテーション[ Group presentation -1 ]
+学生によるプレゼンテーション
+
+Group presentation
+第14回 学生によるプレゼンテーション[ Group presentation -2 ]
+学生によるプレゼンテーション
+
+Group presentation
+その他
+授業のまとめ
+";
+This course is designed to assist students to explore various topics underlying international development from both theoretical and methodological perspectives. We particularly focus on the human capital accumulation which is regarded as a driving force of economic development.
+
+国際開発論では、国連のミレニアム開発目標のうち、特に、人的資本開発にかかる当ピックを中心に取り上げ、議論する。具体的には、初等教育の普及、女性の地位向上、幼児死亡率や就学前児童の健康などについて、今後の開発政策の方向性を考えるうえで、必要な知識や手法を身に着けることを目標とする。
+
+";
+This course is designed to assist students to explore various topics underlying international development from both theoretical and methodological perspectives. We particularly focus on the human capital accumulation which is regarded as a driving force of economic development. More specifically, among the Millennium Development Goals (MDGs) proposed by the United Nations, we will discuss (i) universal education, (ii) gender equality, and (iii) child/maternal health. At the end of the course, students are expected to answer the following specific questions (*) and then propose policy recommendations that decision-makers might utilize in order to optimize certain goals, given budgetary and other constraints. Students will become knowledgeable about economic/statistical analyses of human capital development.
+
+(*) The specific questions that students are expected to answer are: (a) why does "universal education" bring economic development?; (b) why is gender equality in education really important?; (c) Are children's education more effective than adult education?; (d) Does money matters for education? (e) Does maternal health affect children's outcomes later on in their life?
+
+";
+第1回 Overview of Poverty in the Developing World
+Overview of Poverty in the Developing World
+
+第2回 The data analysis for development
+Learn the basics of the regression analysis by using the dataset in developing countries
+
+第3回 Mid-term exam
+Mid-term exam
+
+第4回 Why is human capital so important?
+This sesson is aimed to learn why human capital investments are playing important role for macroeconomic growth by referring the endogenous growth theory in economics.
+
+第5回 Where has all education gone? 
+This session will see the contradictory view of the endogenous growth theory - the empirical studies that shows no strong and rigorous associations b/w educational investments in the country and economic growth.
+
+第6回 Why is primary education more important for development?
+We will learn the basic idea of the rate of return to education.
+
+第7回 Gender inequality in education
+The session will consider the problem of a significant difference in education between boys and girls in developing world.
+
+第8回 Does money matters in education?
+We will discuss the so-called "money matters debate" in education.
+
+第9回 The cost-effectiveness approach
+We will learn the basic of the cost-effectiveness analysis in education.
+
+第10回 The conditional cash transfer
+We will learn the "conditional cash transfer", a silver bullet of poverty reduction, and its role to boost the student enrollments in debeloping countries.
+
+第11回 Randomized controlled trail
+The session provide the basic knowledge about the impact evaluation - how to assess the causal impact of a certain set of policies in developing coutries.
+
+第12回 Why is RCT effective for policy making world?
+The session will show a wide variety of example of RCTs by demonstraing the research results drawn from economists of the Poverty Action Lab.
+
+第13回 Group presentation -1
+Group presentation
+
+第14回 Group presentation -2
+Group presentation
+
+その他
+* Class presentation*
+
+";

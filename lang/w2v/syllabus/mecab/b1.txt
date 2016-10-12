@@ -1,0 +1,75 @@
+#coding:utf-8
+総合 政策 学 は 、 21 世紀 の 世界 が 直面 する 問題 の 発見 と その 解決 を めざし た 新しい 学問 体系 です 。 本 講義 の 目的 は 「 実践 知 」 として 、 諸君 が 自ら の 問題 を 発見 し その 解決 に 取りくむ 入口 を 体験 する こと です 。 コーカス と 学び の 対話 という 二つ の グループ ワーク を通して 行い ます 。 
+
+"; 
+コーカス と 学び の 対話 という 二つ の グループ ワーク を通して 、 問題 発見 および その 解決 へ の プロセス を 学習 する 。 
+
+"; 
+第 1 回 【 塾 内 限定 公開 】 ガイダンス （ 担当 ： 河添 ・ 國枝 ・ 琴坂 ） 
+慶應義塾 ・ SFC 入門 （ 河添 ） ＋ まなび の 対話 の 導入 （ 井 庭 研 TA ・ SA ） + 
+コーカス の 説明 （ TA ・ SA ） 
+コーカステーマ 発表 ＋ リーダー 募集 開始 
+
+第 2 回 【 塾 内 限定 公開 】 井 庭 研 WS ＋ リーダー マッチング （ 担当 ： 河添 ・ 國枝 ・ 琴坂 ） 
+まなび の 対話 。 アリーナ など 、 通常 と 異なる 場所 で 行う 可能 性 が あり ます 。 
+
+第 3 回 【 塾 内 限定 公開 】 政策 コーカスメンバー 募集 アクティビティ （ 担当 ： 河添 ・ 國枝 ・ 琴坂 ） 
+各 班 1 . 5 分 以内 で チーム の 方針 を 発表 し ます 。 アリーナ など 、 通常 と 異なる 場所 で 行う 可能 性 が あり ます 。 
+
+第 4 回 【 塾 内 限定 公開 】 コーカスディスカッション （ 担当 ： 河添 ・ 國枝 ・ 琴坂 ） 
+各 チーム は 中間 発表 に 向け て 提言 を まとめ ます 。 アリーナ など 、 通常 と 異なる 場所 で 行う 可能 性 が あり ます 。 
+
+第 5 回 【 塾 内 限定 公開 】 政策 コーカス 中間 報告 会 （ 担当 ： 河添 ・ 國枝 ・ 琴坂 ） 
+各 班 3 分 以内 で 現在 の 進捗 を 報告 し ます 。 教員 から コメント を いただき ます 。 
+
+第 6 回 【 塾 内 限定 公開 】 研究 会 紹介 （ 担当 ： 河添 ・ 國枝 ・ 琴坂 ） 
+昨年度 （ 新保 研 、 高 汐 研 、 小川 研 、 一ノ瀬 研 、 上山 研 、 藁谷 研 、 中 室 研 、 岡部 研 ） 
+
+第 7 回 【 塾 内 限定 公開 】 政策 コーカス 最終 報告 会 （ 担当 ： 河添 ・ 國枝 ・ 琴坂 ） 
+各 チーム ５ 分間 の プレゼン を 行い ます 。 
+発表 と 投票 
+
+その他 
+毎回 、 感想 文 や アンケート を 取り ます 。 これら に きちんと 答え て 初めて 出席 と なり ます 。 
+"; 
+< This course will be offered in English > An introductory course for " Policy Management ", which is a core concept of SFC . SFC aims at integrating various perspectives to identify issues and employ interdisciplinary approaches in understanding and providing solutions for them . It also embraces scholars ' active involvement in solving issues , rather than staying at a distance as objective watchers . This course demonstrates to the incoming students , how SFC community actually implement Policy Management approaches in solving the world ' s isses . We will be inviting many faculty members as well as outside guest to show how they are approaching issues . 
+
+総合 政策 学 は 、 21 世紀 の 世界 が 直面 する 「 問題 の 発見 」 と 「 問題 の 解決 」 を めざし た 新しい 研究 体系 として 、 SFC から 生まれ た 実践 の 知 で ある 。 　 本 講義 の 目的 は 、 この 「 実践 知 」 として の SFC 総合 政策 学 の 最前線 を あきらか に し 、 諸君 が 自ら の 問題 を 発見 し 、 解決 に 取りくむ 入口 を 示す こと に ある 。 その ため 、 まず 、 1990 年 、 SFC 開設 時 に 描か れ た 総合 政策 学 の 構想 が どの よう な もの で あっ た の か を ひもとき 、 実際 に 最先端 の 領域 で 取りくま れ て き た 問題 解決 の 実践 例 を 学び 、 現在 進行 形 で 行なわ れ て いる 若手 教員 による 新た な 挑戦 を 紹介 する 。 　 こうした レクチャー に 加え 、 この 講義 で は 履修 者 全員 による 実践 の プログラム を 実施 する 。 座 学 と 実践 、 この 両面 から の アプローチ を通じて 、 自ら の 問題 を 発見 し 、 解決 に 取り組む 決意 を 高め て いっ て ほしい 。 
+
+"; 
+An introductory course for " Policy Management ", which is a core concept of SFC . SFC aims at integrating various perspectives to identify issues and employ interdisciplinary approaches in understanding and providing solutions for them . It also embraces scholars ’ active involvement in solving issues , rather than staying at a distance as objective watchers . 
+
+In this course , we will be organizing some activities for all students , so that you will be able to experience issue identification , analysis , solution design , and consensus building . 
+
+"; 
+第 1 回 History of Keio & Learning Patterns ( intro )（ 担当 ： Kawazoe , Kotosaka , Iba ） 
+( 1 ) Short history of Keio and SFC . ( Kawazoe ) 
+( 2 ) An introduction on the knowledge creation skills . ( Iba ) 
+
+第 2 回 Learning Patterns （ 担当 ： Kawazoe , Kotosaka , Iba ） 
+Exercise on the knowledge creation skills and overview yours . 
+
+第 3 回 Caucus # 1 （ 担当 ： Kawazoe , Kotosaka , Iba ） 
+Open your policy and recruit members supporting your policy . 
+
+第 4 回 Introduction to Kenkyu - kai （ 担当 ： Kawazoe , Kotosaka , Iba ） 
+Senior students : 
+Kenkyu - kai will be a central forum where each student pursue 
+their own agenda . Will be introducing many Kenkyu - kai that are 
+vigorously 
+exploring frontiers of knowledge and action . 
+
+第 5 回 Caucus # 1 （ 担当 ： Kawazoe , Kotosaka , Iba ） 
+Group work to prepare for caucus election . 
+
+第 6 回 Caucus # 2 （ 担当 ： Kawazoe , Kotosaka , Iba ） 
+Group work to prepare for caucus election . 
+
+第 7 回 Caucus # 3 （ 担当 ： Kawazoe , Kotosaka , Iba ） 
+Caucus election ! Deliberations of policies and voting . All 
+group will have presentation for the whole class . 
+
+その他 
+Wrap up and Q & A 
+
+"; 

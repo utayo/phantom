@@ -1,0 +1,106 @@
+自然環境（エコシステム）は人間社会に様々なサービスを提供します。私たちは長い間、地球は無限の受容力があると思っていました。しかし、人間活動を受容できる可能性に限界があり、その限界を超えて利用されると環境には不可逆的な変化が起き、回復不可能な状態になります。また人口の成長、消費の拡大に伴い、土地の開発や資源の浪費が進行し、地球温暖化という最大に壁にぶつかっています。これについて、机上の概念としてはみんなわかっていますが、しかし、ほとんど実感はありません。この講義は高精度衛星画像の読み取りと簡単な数値演習を通して土地の価格、農作物の生産高、CO2吸収の価値を算出し、地域における土地と環境の状態と機能を直感的に理解します。その結果から資本と利子、ストックとフローの関係を分析し、土地資本、産業資本、自然資本の役割を考え、持続可能な発展の条件を明らかにします。
+
+Natural environment as a composition of ecosystems provides a variety of ecosystem services to human beings. however, Its capacity to accommodate human need is limited. When the pressure exceed the capacity, ecosystems may change irreversibly and enter to a unstable and unsustainable state. This sounds self-evident to every one but on paper only, no real experience. This course interpret high resolution images and calculate the land price, agricultural products, and CO2 absorptions through simple exercise. Through the processes we will learn the procedure of ecosystem assessment, the knowledge to understand the status and functions, and services of environment. By putting the results on the frame of stock and flow we will rethink the role of land capital, industrial capital and natural capital in modern society, and clarify the precondition of sustainability.
+
+";
+この講義は高精度衛星画像の読み取りと簡単な数値演習を通して土地の価格、農作物の生産高、CO2吸収の価値を算出し、地域における土地と環境の状態と機能を直感的に理解します。その結果から資本と利子、ストックとフローの関係を分析し、土地資本、産業資本、自然資本の役割を考え、持続可能な発展の条件を明らかにします。具体的に、SFC周辺地域の高解像度衛星画像を使って、以下の評価演習を行います。
+
+土地利用を読み取り、カラーな色塗り土地利用図を作成します。
+それぞれの土地利用の空間的特徴、機能、土地利用間の関係を解釈します。
+代表的土地利用を取り上げ、面積を計測します。
+代表的土地利用について、経済性（地価・地代）、生産性（森林・農地）、環境性（CO2の貯蔵・吸収・排出）を計算します。
+経済性、生産性、環境性を土地利用ごと、また地域全体において比較、考察します。
+自然資本のストックとフローの観点から適正な土地利用の方法を検討します。
+毎週、適宜、講義、演習、討論を組み合わせます。
+
+This course interpret high resolution images and calculate the land price, agricultural products, and CO2 absorptions through simple exercise. Through the processes we will learn the procedure of ecosystem assessment, the knowledge to understand the status and functions, and services of environment. By putting the results on the frame of stock and flow we will rethink the role of land capital, industrial capital and natural capital in modern society, and clarify the precondition of sustainability. The class is conducted by lectures, exercises, and discussions with the use of high resolution satellite image around SFC campus.
+
+Interprete the satellite into color land use map;
+Understand the spatial features, functions, and interactions of land uses;
+Measure the areas of sample land lots;
+Investigate the land price, land rent, agricultural productivity (forest and farmland), environmental values by CO2 storage, sequestration and emission;
+compare the value of the sample land lots by land price/rent, agricultural productivity, and market value of ecosystem services;
+Consider the sustainable land use in the perspective of stock and flow in natural capital.
+";
+第1回 はじめに/Introduction
+エコシステムの概念、エコシステムの種類を概説し、人類の発展がもたらしたエコシステムの 
+劣化の問題を提起して、ミレニアムエコシステムアセスメントプロジェクトなどの国際的取り 
+組みを概説する。 
+
+Introduction of the course, ecosystems, and ecosystem assessment. 
+
+(Millenium Ecosystem Assessment, 2007) 
+(Natural Capital Declaration, 2012)
+
+第2回 エコシステムの要素を捉える/Capture the ecosystem (画像1/Image.1, 表A/Table.A)
+見慣れたGoogleの高解像度衛星画像には何が写っているか、それぞれはなんなのか、知識・経験・憶測を使って読み取ります。 
+
+We will try to recognize the elements of ecosystems on the high resolution Google Earth image with your knowledge, experience and speculation.
+
+第3回 土地利用図でエコシステムを記述する/Using land use map as a representation of ecosystems　(表B/Table.B)
+高解像度衛星画像を一定のまとまりによって丁寧にトレースすると、土地利用図ができます。1.森林、2.田、3.畑、4.草地、5.水路、6.住宅、7.施設、8.工場、9.道路、10.その他で土地利用区分図を作成する。 
+
+With satellite image, we can trace the study area into different land use categories: 1.Forest, 2.Paddy field, 3.Farmland, 4.Grassland, 5.Water way, 6.Residential, 7.Facility, 8.Factory,9.Road, 10.other
+
+第4回 エコシステムの構成を理解する/Understand the system (表C/Table.C)
+それぞれの要素は孤立して存在するものではありません。住宅、工場、農地、森林などそれぞれシステムとして存在する一方、互いに関係して成り立っています。 
+
+None of the elements in ecosystems is isolated. Each of the elements are related to others and they are all interacting each other.
+
+第5回 土地価格の評価／land price (表D/Table.D)
+路線価マップを使って代表地の土地価格の単価を調べます。それを面積に掛けて土地価格になります。 
+
+Map the land price per square meter by use of Road Price Online Map. The land price is multiplied by the road price per square meter with the area of the land.
+
+第6回 土地地代の評価/Land rent (表D/Table.D)
+地価=期待収益／利回り率。年間期待収益は地代になります。利回り率を調べて土地資産による年間収益を評価します。 
+
+Land price=(expected profit)/(interest rate). The expected profit is the land rent. With different interest rate we can assess the land profit of real-estates yearly.
+
+第7回 農地生産性の評価/Assess the productivity of agricultural land （表E/Table.E)
+藤沢市農業委員会の農地カードにおける農地作付け面積と出荷額を使って、畑と田の農地生産性を計算します。 
+
+With the farmland card of Agricultural Committee of Fujisawa City to calculate the farmland productivity.
+
+第8回 森林生産性の評価/Assess the productivity of agricultural land （表E/Table.E)
+林野庁林業統計における神奈川県森林面積と林産物出荷額を使って、森林生産性を計算します。 
+
+With forest statistic data to calculate the productivity of forest.
+
+第9回 CO2貯蔵インベントリー/Inventorying CO2 Stock（表F/Table.F)
+土地利用によるCO2貯蔵のインベントリーの方法を習います。 
+
+Learning the methodology to inventory CO2 stock with land use data.
+
+第10回 CO2吸収インベントリー/Inventorying CO2 sequestration（表F/Table.F)
+土地利用によるCO2吸収のインベントリーの方法を習います。 
+
+Learning the methodology to inventory CO2 sequestration with land use data.
+
+第11回 土地資本と自然資本を理解する/Understanding land capital and natural capital (表G/Table.G)
+ストックとフローの概念で地価・地代、CO2貯蔵と吸収を理解します。この土地の経済性・生産性・環境性を比較し、それぞれの特徴を見出します。 
+Understand land price/land rent, land rent, CO2 stock/sequestration by the same concept of stock and flow. Then compare the calculation and speciality of land price, land productivity and CO2 effects. 
+
+第12回 土地利用の変化を捉える/Capturing the change of land use (画像.2/Image.2)
+過去の写真、土地利用データを使って地域のエコシステムの変化を捉えます。この50年間この土地はどのように変わったか、その変化はエコシステムの健全性にどんな影響を与えたかを考察します。 
+
+Using historical aero-photos and land use data to detect the change of the study area, and discuss the impact of the change on the health of the ecosystems.
+
+第13回 環境容量・エコシステムサービスを理解する/Understanding carrying capacity by stock and flow (表H/Table.H)
+農地生産、CO2貯蔵と吸収は様々なエコシステムサービスの一部であります。経済性と比べて非常に小さい価値のように見えます。しかし人間の生存基盤、あるいはライフサポートであり、なくてはなりません。 
+持続可能な発展とはストックを損害しないて、フローの範囲内で消費することであります。この地域でそうなっているかどうか評価結果から考察してもらいます。 
+
+Agricultural products and CO2 stock/sequestration are all part of ecosystem services. The sustainable development is to consume natural resources under the regeneration of flow while don't undermine stock. Review the assessment and discuss the situation of the study area.
+
+第14回 総括・討論/Conclusions and Discussion 
+これまでの授業と演習で習ったことを振り返り、研究地域の自然的、社会的条件、その生産性、環境性をまとめます。またこの条件を生かした将来の望ましい土地利用を検討します。 
+
+We will review the exercises studied so far, describe the features of the land, and envisage the proper land use in future. 
+その他
+毎週出席し、授業内で表A-Hまでの演習をこなせば、単位が確実です。そのほかのレポートはありません。
+
+Students are required to attend the class every week to complete the exercises from Table.A to H. 
+
+No extra assignments.
+
+";

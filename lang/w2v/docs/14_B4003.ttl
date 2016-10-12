@@ -1,0 +1,84 @@
+Learning programming by the C language that is used for constructing operating systems and other software. This course requires basic knowledge of a programming, but doesn't require any C language knowledge. Furthermore, basic operation of Mac OS is expected. This class are lectured in the computer terminal room.
+
+";
+Learning programming by the C language that is used for constructing operating systems and other software. This course requires basic knowledge of a programming, but doesn't require any C language knowledge. Furthermore, basic operation of Mac OS is expected. This class are lectured in the computer terminal room.
+
+";
+第1回 C language basic concept
+C language basic concept 
+simple data types, basic loop, and basic output.
+
+第2回 Control structure
+C language's program control structure
+
+第3回 Data types
+Integer, floating point numbers, characters, strings
+
+第4回 Function call
+C language's program function calls.
+
+第5回 Scope, recursion
+Scope of variables, and recursion.
+
+第6回 Structure data types
+Structure data types and other data structures.
+
+第7回 Dynamic memory use
+Dynamic memory allocation with pointers
+
+第8回 Programming enviroment
+Pprogramming enviroment and tools
+
+第9回 File input and output
+第10回 Planning term project
+第11回 Advanced data structure
+第12回 Performance measurement
+第13回 Comprehensive C language syntax
+Subtle and uncovered topics.
+
+第14回 Term report and presentation
+Term report and presentation, and Q and A about the term report and programs
+
+その他
+Advanced programming technique
+
+";
+Learning programming by the C language that is used for constructing operating systems and other software. This course requires basic knowledge of a programming, but doesn't require any C language knowledge.
+
+Learning programming by the C language that is used for constructing operating systems and other software. This course requires basic knowledge of a programming, but doesn't require any C language knowledge.
+
+";
+Learning programming by the C language that is used for constructing operating systems and other software. This course requires basic knowledge of a programming, but doesn't require any C language knowledge.
+
+Learning programming by the C language that is used for constructing operating systems and other software. This course requires basic knowledge of a programming, but doesn't require any C language knowledge.
+
+";
+第1回 C language basic concept and preparation [ C language basic concept and Preparation ]
+Environment setup
+
+Environment Setup
+第2回 Variables and Data Types [ Variables and Data Types ]
+第3回 Array and Structure[ Array and Structure ]
+第4回 Function call[ Function call ]
+Function, prototype, arguments, parameters
+
+第5回 Streams [ Streams ]
+File operations
+
+File operations
+第6回 String [ String ]
+第7回 Interlude: escape sequence programming[ Interlude: escape sequence programming ]
+第8回 Writing C programs on Unix[ Writing C programs on Unix ]
+Preprocessors and debugger
+
+Preprocessors and debugger
+第9回 Stack[ Stack ]
+第10回 Queue[ Queue ]
+第11回 Linked list[ Linked list ]
+第12回 Binary Tree[ Binary Tree ]
+第13回 Sorting[ Sorting ]
+第14回 Process and networking[ Process and networking ]
+その他
+Advanced data structures and algorithms
+
+Advanced data structures and algorithms";

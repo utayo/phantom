@@ -1,0 +1,57 @@
+Quantum information processing (QIP) is a fast-growing, interdisciplinary field spanning both classical computer science and quantum physics. QIP is addressing fundamental questions about computability, and the technologies being developed in QIP-related research will have a powerful impact on classical computing as the evolution of IT dictated by Moore's Law brings us to the level of building computers out of individual atoms. Over the coming decades, the principles of QIP will be critical to understanding and developing information technologies. Thus, studying QIP is valuable even for students who are not planning research careers in the field.
+
+Quantum information processing (QIP) is a fast-growing, interdisciplinary field spanning both classical computer science and quantum physics. QIP is addressing fundamental questions about computability, and the technologies being developed in QIP-related research will have a powerful impact on classical computing as the evolution of IT dictated by Moore's Law brings us to the level of building computers out of individual atoms. Over the coming decades, the principles of QIP will be critical to understanding and developing information technologies. Thus, studying QIP is valuable even for students who are not planning research careers in the field.
+
+";
+Classes will include lectures as well as hands-on work in Mathematica.
+
+Depending on available preparation time, some class sessions may be done in "flipped classroom" style, with recorded lectures to be watched before class. More information will be made available at the first class session.
+
+";
+第1回 Physics and computing
+The fundamental links between how a systems behaves and how it 
+stores and processes information. How different physical 
+substrates support differing computational abilities
+
+第2回 Interference
+Interference of waves
+
+第3回 Quantum Optics
+A gentle introduction to quantum optics: beam splitters and 
+interferometers. 
+第4回 Quantum states and measurement
+Linear algebra, state vector, superposition, Bloch sphere
+
+第5回 Entanglement
+Bell states, CHSH inequality, GHZ & W states, teleportation
+
+第6回 Gates and operations
+No-cloning, universal set of operations
+
+第7回 Quantum algorithms
+Deutsch-Jozsa, Grover, measurement
+
+第8回 Shor's algorithm
+Factoring and the Fourier transform
+
+第9回 Computational complexity
+Big-O notation, the basic complexity classes of P and NP and the quantum class of BQP 
+第10回 VLSI & Moore's Law
+How chips are made, why this leads to concerns about the future of information technology
+
+第11回 Quantum hardware
+Photons, ions, and superconducting circuits
+
+第12回 Pure and mixed states
+The imperfection of real hardware and experiments: the density matrix, state fidelity
+
+第13回 Quantum error correction
+Our third way of writing (some) quantum states: stabilizers
+
+第14回 Quantum key distribution
+The most advanced commercially available quantum technology
+
+その他
+A video on Quantum repeater networks: Using entanglement to go farther
+will be provided.
+";

@@ -1,0 +1,72 @@
+「性格も寿命も遺伝する」　まさかと思うかもしれませんが、少なくとも部分的には遺伝子によって生まれつき既定されていることが最近の研究でわかってきました。　昨今のゲノム解析技術の急速の発展により、各個人の遺伝子情報が高速かつ安価に解析できるようになり、病気の治療や予防に遺伝子情報を役立てる研究も進んでいます。遺伝子診断や遺伝子治療のほか、iPS細胞の技術による臓器の再生、クローン羊や遺伝子組み換え作物など様々なバイオテクノロジーが実用化され、それらが社会に与える影響や倫理問題なども議論する必要があります。単なる感情論で終わらせないためには、遺伝子のしくみや働きをきちんと理解することが重要です。本授業では、遺伝子レベルおよび分子レベルの生命現象の基本を学びながら、老化やがんなど生命科学の謎についてみんなで考えます。
+
+It may come as a surprise to learn that both personality and life span are inherited, but the latest research shows that they are indeed governed at least in part by genes. The recent rapid advances in genomics have enabled personal genetic information to be analyzed speedily at low cost, and research on utilizing such genetic information to treat and prevent disease is also making big strides. In addition to genetic diagnosis and gene therapy, various biotechnologies such as iPS cell-based organ regeneration, animal cloning, and the genetic modification of crops are now being put to practical use. The impact of such technologies on society and related ethical issues need to be debated, and a sound understanding of the way genes work is vital to ensuring that such debate is not dominated by merely emotional arguments. In this course, together we will learn the basics of biological phenomena at the genetic and molecular levels, and ponder aging, cancer, and other mysteries of life.
+
+";
+iPS細胞がノーベル賞を受賞するなど、先端バイオの新時代が到来したといわれています。 近年、遺伝子組替え作物、遺伝子治療、ES細胞・iPS細胞、生殖医療などの是非が活発に議論されていますが、まずは遺伝子のしくみや働きをきちんと理解しましょう。人権や生命倫理にかかわるような技術を現実に適用してはならないのは当然のことですが、その一方で生命のしくみを明らかにし理解することは21世紀の人類に課せられた最も重要な使命のひとつと言えるでしょう。
+
+ヒトは６０兆個の細胞からなる気が遠くなるほど複雑なシステムであることは言うまでもありませんが、元をたどればたったひとつの卵細胞が分裂を繰り返してできたと言う事実は驚くべきことです。しかもこの複雑なシステムの設計図ともいうべきDNA情報は A,T,G,Cの文字がわずか３０億字、情報量にしてコンパクトディスク１枚分しかないのです。芸術的ともいえるほど極めて精巧な「機械」といえるこの生命は、私の考えでは、うまく出来すぎています。本授業では、生命のしくみを遺伝子レベルの基本から学びながら、みんなで生命の不思議を考えたいと思います。
+
+NHKスペシャルなどのビデオを多数上映して、生命科学における様々な問題を提起し議論します。生物学の知識を体系的に習得することを目的としていません。生物学を体系的に勉強したい人は「基礎分子生物学」を同時履修することをお奨めします。
+
+The award of a Nobel Prize for iPS cell research heralded the arrival of a new era of cutting-edge biotechnology. In recent years, topics such as genetically modified crops, gene therapy, ES and iPS cells, and reproductive medicine have provoked lively debate, but such debate needs to be informed by a sound understanding of the way genes work. It only makes sense to practice extreme caution with respect t o the real-world application of technologies related to human rights and bioethics, but at the same time, uncovering and understanding the mechanisms of life is perhaps one of the most important missions incumbent on mankind in the 21st century.
+
+The fact that each and every one of us originated from the division of a single cell is amazing, considering that our bodies are incredibly complex systems composed of 60 trillion cells. Moreover, the DNA information that serves as a blueprint for this complex system could fit easily on a single CD, consisting as it does when digitized of only three billion letters, each of them an A, T, G, or C. This thing called “life” could be seen as an extremely elaborate machine, so artistically elaborate, in fact, that I can’t help but think that it is too well-made. Hopefully this course will get you all thinking about the wonder of life as you learn about its underlying mechanisms from the most basic genetic level upward.
+
+We will also screen a number of NHK Special documentaries and discuss the various life science-related issues that they shed light on. Since the SYSTEMS OF LIFE course is not designed to provide a systematic education in biology, I advise those wanting such an education to concurrently take the Molecular and Cellular Biology course.
+
+";
+第1回 遺伝子とDNA（4月12日）[ Genes and DNA ]
+遺伝子とは何か。DNAとは何か。ゲノムとは何か。いまさら聞けない基本中の基本を講義する。また昨今台頭してきた遺伝子検査などの遺伝子ビジネスについても解説する。
+
+What are genes? What is DNA? What is a genome? This class will be concerned with absolute basics that you might otherwise be too embarrassed to ask about. We will also explain aspects of genetics businesses such as genetic testing that have emerged in recent years.
+第2回 蛋白質の働き（4月19日）[ The functions of proteins ]
+タンパク質とは何か、という基本中の基本を講義する。生命活動のほとんどを担うタンパク質。その働きは構造体、酵素、モーター、輸送、貯蔵、シグナル、受容体、ポンプ、DNA複製、蛋白質合成、遺伝子調節などと多種多彩である。なぜこれだけ多様で高度な機能を持ちうるのか？タンパク質という生体分子の絶妙なしくみは何か？
+
+In this class, you will learn about the absolute basics of proteins. Proteins are involved in almost all aspects of life. They are instrumental in a huge variety of processes including DNA replication, protein synthesis, and gene regulation, as well as serving as structural components, enzymes, motors, transporters, stores, signals, receptors, and pumps, etc. How can proteins perform so many different and complex functions? What kind of exquisite mechanisms do proteins utilize as biomolecules?
+第3回 遺伝子の発現と制御（4月26日）[ Gene expression and regulation ]
+遺伝子は常に働いているわけではない。各遺伝子にはON/OFFのスイッチがあり、必要な時に必要な遺伝子をONにする絶妙な仕組みが存在する。それらを駆使して、一つの細胞（受精卵）が分裂を繰り返して60兆個の細胞からなるヒトという知的システムが半自動的に出来上がる仕組みはまさに奇跡のように思える。
+
+Genes are not constantly at work. Each gene has an ON/OFF switch, and there are exquisite mechanisms whereby genes are turned on when required. The way in which these mechanisms are leveraged to semi-automatically create the 60 trillion-cell intelligent system that each of us represents through repeated division of a single cell (a fertilized egg) is little short of a miracle.
+第4回 幹細胞と再生医療（5月10日）[ Stem cells and regenerative medicine ]
+組織や臓器を再生させるための幹細胞技術を紹介する。クローン技術に端を発し、その後ＥＳ細胞とiＰＳ細胞が実用化されつつある。それらの技術をヒトへ応用する際の倫理問題も議論する。そしてＳＴＡＰ細胞はあるのか？
+
+This class will introduce stem cell technologies for regenerating tissues and organs. ES cells and more recently iPS cells have followed on the heels of cloning as technologies now being increasingly put to practical use. We will also discuss ethical issues related to the application of these technologies to humans, and will also explore the possibilities of whether STAP cells exist.
+第5回 第1回テスト（5月24日）[ Cancer mechanisms ]
+One in two Japanese people suffer from cancer, and one in three die of cancer. Cancer differs fundamentally from other diseases in that it is based on runaway cell division. The first step in cancer is the occurrence of a mutation in cellular DNA as a result of radiation or some other factor. A great many cancer-related genes have been identified, and we now know that susceptibility to cancer is to a certain extent genetically determined.
+第6回 特別講義：バイオビジネス（5月31日）[ First Examination ]
+科学立国日本においてバイオ関連産業を育成することはとても重要である。バイオ産業はＩＴ産業と性質が根本的に異なる。日経BP社のジャーナリスト宮田満氏をゲストにお招きし、国内外のバイオビジネス最先端について議論する。
+
+第7回 映画「エンディングノート」（6月11日）5月17日休講分[ Special lecture ]
+父親が末期癌で余命半年と宣告された。その娘が撮り続けた感動のドキュメンターリー映画。　監督の砂田麻美氏（SFC出身）は数々の賞を受賞した。すべての人にいつか必ず死が訪れる。自分はどのように人生を閉じたいかを考えさせられる名作。
+
+Bio-business: In a science powerhouse like Japan, developing bio-related industries is of vital importance. Bio industries are fundamentally different in nature from IT industries. We have invited Nikkei BP journalist Mitsuru Miyata to come and talk about the cutting edge of bio-business in Japan and overseas.
+第8回 映画「エンディングノート」（6月11日）6月7日休講分[ Ending Note (movie) ]
+父親が末期癌で余命半年と宣告された。その娘が撮り続けた感動のドキュメンターリー映画。　監督の砂田麻美氏（SFC出身）は数々の賞を受賞した。すべての人にいつか必ず死が訪れる。自分はどのように人生を閉じたいかを考えさせられる名作。
+
+This is a moving documentary about a man told that he has terminal cancer and can expect to live no longer than about six months. Filmed by his own daughter, Mami Sunada (a graduate of SFC), Ending Note has won numerous awards. Death is a fate that awaits everyone. This documentary is a masterpiece that will make you think about how you might best prepare for that fate.
+第9回 老化と寿命（6月14日）[ Ending Note (movie) ]
+なぜヒトは老いるのか。加齢とともにＤＮＡ情報にエラーが蓄積するという「情報劣化説」と、そもそも老化も寿命もＤＮＡのプログラムによって引き起こされているという「プログラム説」のふたつの考え方がある。老化に深く関与している遺伝子の働きや、通常の何倍ものスピードで老化する「早期老化症」を紹介し。老化の原因を探り、健康長寿や不老不死の可能性を議論する。
+
+This is a moving documentary about a man told that he has terminal cancer and can expect to live no longer than about six months. Filmed by his own daughter, Mami Sunada (a graduate of SFC), Ending Note has won numerous awards. Death is a fate that awaits everyone. This documentary is a masterpiece that will make you think about how you might best prepare for that fate.
+第10回 最先端研究プロジェクト紹介（6月21日）[ Aging and longevity ]
+ＳＦＣで展開している世界最先端の生命科学の研究プロジェクトを紹介する。ＳＦＣでは分野にとらわれず、あらゆる学問を総動員して生命のしくみを解明し、健康・医療・食品・環境分野に貢献を目指している。オイルを産生する藻の研究や、唾液によるがん診断、マウスを使った食と健康の研究、幹細胞と再生医療、極限環境生物、生命のコンピュータシミュレーション、ゲノム解析など多岐に及ぶ。
+
+Why do we age? There are two theories—the wear and tear (or deterioration) theory, which proposes that aging is caused by an accumulation of errors in our DNA, and the programmed aging theory, which proposes that both aging and longevity are programmed into our DNA. After probing the causes of aging by examining the functions of genes that are deeply involved in aging and looking at accelerated aging whereby aging occurs at many times the normal speed, we will discuss the possibilities for healthy aging and eternal youth and immortality.
+第11回 癌のメカニズム（6月28日）[ Introducing cutting-edge research projects ]
+日本人の二人に一人は癌になり、三人に一人は癌で死ぬ。癌とは細胞分裂の暴走であり、他の病気と原理が根本的に異なる。放射線などを浴びて細胞のＤＮＡに突然変異が入ることが癌化の第一歩である。数多くの「がん関連遺伝子」が発見されており、また癌になり易いかどうかも生まれつきの遺伝子である程度決まっている。
+
+This class will introduce cutting-edge life science research projects being carried out at SFC. At SFC, we endeavor to straddle different fields and pool all of our academic resources to elucidate the mechanisms of life and contribute to the fields of health, medicine, food, and environment. Projects are being conducted on algae that produce oil, diagnosing cancer from saliva, use of mice to study food and health, stem cells and regenerative medicine, organisms living in extreme environments, computer simulation of life, genomics, and many other themes.
+第12回 クモ糸素材革命（7月5日）[ Spider silk material Revolution ]
+クモの糸は、同じ太さであれば鋼鉄より強く、ナイロンより伸縮性があり、300度の耐熱性を持ち、石油非依存で生分解性という、まさに「夢の繊維」である。微生物にクモ糸のタンパク質を造らせることによって、人工クモ糸の大量生産に世界で初めて成功したSFC発のベンチャー企業「Spiber社」について紹介する。
+
+Spider silk is the "dream of fiber" such as tougher than steel when they have the same thickness, better elasticity than nylon, having heat resisting properties taking 300 degrees Celsius and biodegradable petroleum-independent.
+第13回 性のシステム（7月12日）[ Sex systems ]
+なぜ男と女が必要なのか。性はなぜ生物界に存在するのか。いつから存在するようになったのか。　オスとメスが出会わなければ子孫を残せないということは実に非効率的なシステムのようにも思える。生物にとって本当になくてはならないものなのか、議論する。
+
+Why are we divided into men and women? Why does sex exist in the living world? And when did it come into existence? When you think about it, a system in which procreation depends on chance encounters between males and females seems truly inefficient. We will discuss whether organisms really require such a system.
+第14回 第2回テスト（7月19日）[ Second Examination ]
+その他
+*第15回　リクエストに応じて日時を決定する* 授業内容における質疑応答と議論を行う。
+
+*I will respond to questions regarding lecture content and will invite discussion.";

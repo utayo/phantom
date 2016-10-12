@@ -1,0 +1,58 @@
+ゲノム分子生物学は21世紀の生物学を担う学問の一つである。すなわち、生命科学を専攻する大学生・大学院生にとって必須の学問分野であるといっても過言ではない。本授業(ゲノム分子生物学1)と秋学期のゲノム分子生物学2を履修することで、該当分野の基本的な事象から、最先端の議論にまで触れることになる。授業は教科書「ゲノム3」にそって行なわれるが、講師3人がそれぞれ、分子生物学やゲノム研究に従事してきた経験から、より具体的な解説を行なう。特に、ゲノム分子生物学1ではゲノムの構造から塩基配列の決定まで、実験技術に根ざした講義を行なう。
+
+部分的に英語での講義を試みる予定です。
+
+Genome science is one of the leading subjects in the 21st century. For students who major in life science, the filed of genome science is very necessary to understand the modern biology. By taking this class (Genome Molecular Biology 1) as well as Genome Molecular Biology 2 class (autumn semester), you can understand the genome biology from basics to frontiers. The required book for this class is the 3rd edition textbook called Genome 3 (ed. by T. A. Brown).
+
+";
+ゲノム分子生物学は21世紀の生物学を担う学問の一つである。すなわち、生命科学を専攻する大学生・大学院生にとって必須の学問分野であるといっても過言ではない。本授業（ゲノム分子生物学1）と秋学期のゲノム分子生物学2を履修することで、該当分野の基本的な事象から、最先端の議論にまで触れることになる。授業は教科書「ゲノム第3版」にそって行なわれるが、講師3人がそれぞれ、分子生物学やゲノム研究に従事してきた経験から、より具体的な解説を行なう。特に、ゲノム分子生物学1ではゲノム機能を理解するために基本となる事象を学び、原核生物、真核生物、ウイルスなどのゲノムについて理解することを目指す。
+
+Genome science is one of the leading subjects in the 21st century. For students who major in life science, the filed of genome science is very necessary to understand the modern biology. By taking this class (Genome Molecular Biology 1) as well as Genome Molecular Biology 2 class (autumn semester), you can understand the genome biology from basics to frontiers. The required book for this class is the 3rd edition textbook called Genome 3 (ed. by T. A. Brown)
+
+";
+第1回 ガイダンスおよび「ゲノム、トランスクリプトーム、プロテオーム」 (1)[ Genomes, Transcriptomes, and Proteomes (1) ]（担当：金井）
+本講義の受講に関する説明を行い、その中心概念である「ゲノム、トランスクリプトーム、プロテオーム」について概説する。 
+第2回 「ゲノム、トランスクリプトーム、プロテオーム」 (2)[ Genomes, Transcriptomes, and Proteomes (2) ]（担当：金井）
+「ゲノム、トランスクリプトーム、プロテオーム」について概説する。
+
+第3回 DNA研究法１[ Studing DNA (1) ]（担当：金井）
+組み換えDNA技術に用いられる酵素類及びクローニングベクターについての性質と使用法について解説する。
+
+第4回 DNA研究法２[ Studing DNA (2) ]（担当：金井）
+ポリメラーゼ連鎖反応の原理と応用について解説する
+
+第5回 ゲノム地図の作成 [ Mapping Genomes ]（担当：ガリポン　ジョゼフィーヌ）
+ゲノムの解析におけるゲノム地図の重要性について述べ、遺伝地図作成について解説する。
+
+第6回 ゲノム配列の解析１[ Sequencing Genomes (1) ]（担当：ガリポン　ジョゼフィーヌ）
+様々な塩基配列の決定法の原理を概説する。
+
+第7回 ゲノム配列の解析２[ Sequencing Genomes (2) ]（担当：ガリポン　ジョゼフィーヌ）
+ヒトゲノムプロジェクトを中心に、様々なゲノムプロジェクトについて概説する。
+
+第8回 ゲノム配列を理解する[ Understanding a Genome Sequence ]（担当：ガリポン　ジョゼフィーヌ）
+遺伝子の機能を調べるための、(1)コンピューターによる機能解析、(2)実際の遺伝子の不活性化による機能解析、について概説する。
+
+第9回 ゲノムがどのようにして機能するかを理解する (1)[ Understanding How a Genome Functions (1) ]（担当：ガリポン　ジョゼフィーヌ）
+ゲノムのタンパク質をコードしている遺伝子から生じたRNA分子の集合体である「トランスクリプトーム」とその翻訳産物の集合体の「プロテオーム」ついてそれぞれの研究方法を概説する。
+
+第10回 ゲノムがどのようにして機能するかを理解する (2)[ Understanding How a Genome Functions (2) ]（担当：ガリポン　ジョゼフィーヌ）
+ゲノムのタンパク質をコードしている遺伝子から生じたRNA分子の集合体である「トランスクリプトーム」とその翻訳産物の集合体の「プロテオーム」ついてそれぞれの研究方法を概説する。
+
+第11回 真核生物ゲノム [ Eukaryotic Genome ]（担当：金井）
+真核生物ゲノムに見られる、多重遺伝子、偽遺伝子、反復DNA配列などの特徴について概説する。
+
+第12回 原核生物ゲノムと真核生物の細胞小器官ゲノム [ Genomes of Prokaryotes and Eukaryotic Organelles ]（担当：金井）
+細菌のもつゲノム構造について論ずる。さらに細胞小器官の起源となった細胞内共生説について概説する。
+
+第13回 ウイルスゲノムと動く遺伝子 [ Virus Genomes and Mobile Genetic Elements ]（担当：金井）
+バクテリオファージやウイルスのもつゲノム構造について学ぶ。さらにトランスポゾンなどゲノム上を移動する遺伝子について論ずる
+
+第14回 最終テスト[ Final Exam. ]（担当：金井）
+最終テストを行い。これまでの講義の理解を確認する。
+
+その他
+講義まとめ 
+ゲノム分子生物学１の講義をまとめる。あるいは、関連分野の説明を行う。
+
+Final Conclusion";

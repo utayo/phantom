@@ -1,0 +1,90 @@
+コンピュータのCPUやメモリ、デバイスなどを管理し、アプリケーションプログラムが動く環境を提供している最も基本的なソフトウェアシステムが、オペレーティングシステムである。具体的なオペレーティングシステムには、Microsoft社が提供しているWindows10やAppleが提供しているMacOS X、そしてUnixなどがある。 本授業では、オペレーティングシステムの機能や概念についての講義をおこなう。
+
+";
+コンピュータアーキテクチャの基本を理解しながら、オペレーティングシステムの概念や、それぞれの機能について理解する。
+
+";
+第1回 コンピュータアーキテクチャとオペレーティングシステム
+基本的なコンピュータアーキテクチャとオペレーティングシステム
+
+第2回 オペレーティングシステムの変遷
+バッチシステムからTSS 
+IBM OS360/370, Multics, Unix, Unix系、DOS, Windows 
+
+第3回 プロセスとスケジューリング(I)
+プロセスの概念と抽象化
+
+第4回 プロセスとスケジューリング(II)
+バッチシステムとTSS 
+プロセスステータス 
+スケジューリングアルゴリズム 
+プロセスの同期・通信（セマフォ 
+第5回 メモリ管理
+第6回 仮想メモリ（２）
+メモリ管理の基本 
+仮想メモリ 
+MMU 
+第7回 ファイルシステム
+ファイルとしての抽象化 
+第8回 ファイルシステム(2)
+ファイルの種類 
+ディレクトリ 
+ノーマルファイル 
+デバイスファイル 
+リンク 
+第9回 デバイス管理
+デバイスドライバ 
+
+第10回 デバイス管理（２）
+BUS 
+DMA 
+割り込み
+
+第11回 ネットワーキング
+メッセージパッシング 
+シェアードメモリ
+
+第12回 TCP/IP
+プロトコルスタック
+
+第13回 まとめ
+ユーザインターフェイス 
+CLI(shell)とGUI(Window system)
+
+第14回 最終試験
+その他
+総括
+
+";
+The basic software of a computer is called its operating system (OS). The operating system loads other programs to create processes. Programs use the file system, network, and other services provided by the OS. There are many operating systems, including Windows and MacOS, but in this class we will focus on Unix and Linux. The basic concepts of processes, system calls, memory management and virtual memory, file systems, networking, security and other subsystems will be presented. Because concurrency and parallelism are fundamental, and are becoming increasingly important at the application level, students will write at least one concurrent program.
+
+";
+This year, heavier emphasis will be placed on the term project than on homeworks. You should expect your project to take <b>40-60 hours</b>. There will be four programming assignments over the course of the semester. These may be done in pairs.
+
+";
+第1回 OS History and Basic Principles
+第2回 System Calls
+第3回 Processes and Threads
+Programming assignment will be given.
+
+第4回 Inter-process Communication
+第5回 Concurrency
+Programming assignment will be given.
+
+第6回 Process Scheduling
+第7回 Memory Management and Virtual Memory
+第8回 Page Replacement Algorithms
+Programming assignment will be given.
+
+第9回 Device Drivers and I/O Systems
+第10回 File Systems 1
+Programming assignment will be given.
+
+第11回 File Systems 2
+第12回 File Systems 3
+第13回 Real-Time and Embedded OSes
+第14回 Hypervisors
+その他
+A video lecture may be assigned.
+
+";

@@ -1,0 +1,96 @@
+It becomes possible to access a huge amount of diverse data through the Internt. It allows us to obtain new knowledge and create new	services, leading to an innovation called "Big Data" or "Collective Intelligence". In order to understand such data and use it as a tool, one needs to have a good understanding of the technical background in statistics, machine learning, and computer network systems.
+
+In this class, you will learn about the overview of large-scale data analysis on the Internet, and basic skills to obtain new knowledge from massive information for the forthcoming information society.
+
+";
+In this class, you will learn about data collection and data analysis methods on the Internet, to obtain knowledge and understanding of networking technologies and large-scale data analysis.
+
+Each class will provide specific topics where you will learn the technologies and the theories behind the technologies. In addition to the lectures, each class includes programming exercises to obtain data analysis skills through the exercises.
+
+";
+第1回 Introduction (4/11)
+- Big Data and Collective Intelligence 
+- Internet measurement 
+- Large-scale data analysis 
+- exercise: introduction of Ruby scripting language
+
+第2回 Data and variability (4/18)
+- Summary statistics 
+- Sampling 
+- How to make good graphs 
+- exercise: graph plotting by Gnuplot
+
+第3回 Data recording and log analysis (4/25)
+- Network management tools 
+- Data format 
+- Log analysis methods 
+- exercise: log data and regular expression
+
+第4回 Distribution and confidence intervals (5/2)
+- Normal distribution 
+- Confidence intervals and statistical tests 
+- Distribution generation 
+- exercise: confidence intervals 
+- assignment 1
+
+第5回 Diversity and complexity (5/9)
+- Long tail 
+- Web access and content distribution 
+- Power-law and complex systems 
+- exercise: power-law analysis
+
+第6回 Correlation (5/16)
+- Online recomendation systems 
+- Distance 
+- Correlation coefficient 
+- exercise: correlation analysis
+
+第7回 Multivariate analysis (5/23)
+- Data sensing and GeoLocation 
+- Linear regression 
+- Principal Component Analysis 
+- exercise: linear regression
+
+第8回 Time-series analysis (5/30)
+- Internet and time 
+- Network Time Protocol 
+- Time series analysis 
+- exercise: time-series analysis 
+- assignment 2
+
+第9回 Topology and graph (6/6)
+- Routing protocols 
+- Graph theory 
+- exercise: shortest-path algorithm
+
+第10回 Anomaly detection and machine learning (6/13)
+- Anomaly detection 
+- Machine Learning 
+- SPAM filtering and Bayes theorem 
+- exercise: naive Bayesian filter
+
+第11回 Data Mining (6/20)
+- Pattern extraction 
+- Classification 
+- Clustering 
+- exercise: clustering
+
+第12回 Search and Ranking (6/27)
+- Search systems 
+- PageRank 
+- exercise: PageRank algorithm
+
+第13回 Scalable measurement and analysis (7/4)
+- Distributed parallel processing 
+- Cloud computing technology 
+- MapReduce 
+- exercise: MapReduce algorithm
+
+第14回 Security and privacy Issues (7/11)
+- Cybersecurity 
+- Internet data analysis and privacy issues 
+- Summary of the class
+
+その他
+2 assignments: data analysis exercises and their reports
+";

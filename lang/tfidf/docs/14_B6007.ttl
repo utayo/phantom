@@ -1,0 +1,82 @@
+みんなが、驚くような、楽しい電子ガジェット（電子おもちゃ）を設計するために、 ハードウエア技術とソフトウエア技術を紹介します。電子回路技術（AVRマイクロコントローラ）を学び簡単なソフトウエアを組み込む方法を紹介します。最近流行の、エネルギーハーベスティング装置の原理と製作方法も紹介します。 いろいろなセンサーがあるので、工夫次第では、スマートフォーンから制御できる、面白いガジェットを自分で作れるかもしれません。
+
+Tt is possible to design and develop the exciting electronic gadgets. The goal of this course is for students to learn hardware design and software programming and to build electronic gadgets with inexpensive microcontrollers. The gadget is composed of an AVR microcontoller using sensor(s) with communication interface including bluetooth, RS232c, i2c, Xbee, USB, or simple networks. In this course energy harvesting technology will be introduced. These days, we have a variety of sensors which can be used for developing attractive electronic gadgets controlled by your smart phone.
+
+";
+近年、マイクロコントローラ性能向上と価格低下、オープンソースツールの性能向上のおかげで、小さくても処理能力が高いコンピュータを利用しやすくなってきました。 iPhone/Androidをはじめとして、オープンソースソフトウエア（ツールやプロトコールスタック）が簡単に使えるようになりました。 授業では、GCCサポートのATMELマイクロコントローラを使って 電子おもちゃ（電子小道具）を製作します。
+
+Students are to use open source software tools (avr-gcc) in order to design and develop the electronic gadget using an inexpensive AVR microcontroller.
+
+例えば、マイクロコントローラとbluetoothを使うと、スマートフォーンと通信できるセンサーシステムが簡単に構築できる。
+
+It is easy to design/build the sensor system using a microcontroller with a bluetooth device where the system can communicate with your smart-phone (iPhone/Android).
+
+電子ガジェットを設計したり製作したりすることは、新しいものを創造したり、我々の社会にイノベーションを起こしたい人には必要です。
+
+Designing/building such electronic gadgets is the indispensable skill for persons who want to create something new and to cause innovations to our society.
+
+Students are to use open source software tools (avr-gcc) in order to design and develop the electronic gadget using an inexpensive AVR microcontroller.
+
+It is easy to design/build the sensor system using a microcontroller with a bluetooth device where the system can communicate with your smart-phone (iPhone/Android).
+
+Designing/building such electronic gadgets is the indispensable skill for persons who want to create something new and to cause innovations to our society.
+
+";
+第1回 イントロダクション　(Introduction)
+ハードウエア、ソフトウエア設計とは 
+(Introduction to hardware and software design
+
+第2回 ハードウエアとソフトウエア（Hardware and software)
+ディジタル信号とアナログ信号の取り扱い方 
+(Digital and analog signals)
+
+第3回 開発環境( design and development environment)
+開発環境の説明 
+(Introduction to design/development environment) 
+第4回 ハードウエアとソフトウエア設計 (hardware and software design)
+マイクロコントローラの設計 
+(Microcontroller design)
+
+第5回 ハードウエアとソフトウエア設計 (hardware and software design)
+マイクロコントローラ ATMELの設計 
+(AVR microcontrollers design)
+
+第6回 ハードウエアとソフトウエア設計 (hardware and software design)
+マイクロコントローラ ATMELの設計 
+(AVR microcontrollers design)
+
+第7回 ハードウエアとソフトウエア設計 (hardware and software design)
+マイクロコントローラ ATMELの設計 
+(AVR microcontrollers design)
+
+第8回 ハードウエアとソフトウエア設計 (hardware and software design)
+同期通信、非同期通信 
+(Synchronous and asynchronous communications)
+
+第9回 ハードウエアとソフトウエア設計 (hardware and software design)
+RS232cとbluetooth 
+RS232c and bluetooth
+
+第10回 ハードウエアとソフトウエア設計 (hardware and software design)
+RS232cとbluetooth 
+RS232c and bluetooth
+
+第11回 ハードウエアとソフトウエア設計 (hardware and software design)
+センサーの使い方 
+(how to use sensors)
+
+第12回 ハードウエアとソフトウエア設計 (hardware and software design)
+センサーの使い方 
+(how to use sensors)
+
+第13回 ハードウエアとソフトウエア設計 (hardware and software design)
+センサーの使い方 
+(how to use sensors)
+
+第14回 第14回 作品発表とレポート提出
+作品をデモしてもらいながら、作品レポートを提出してもらいます。 
+presentation and demonstration with report
+
+その他
+* 予備日* 予備日
+";

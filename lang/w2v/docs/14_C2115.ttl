@@ -1,0 +1,96 @@
+An overview of human computer interaction and problems of current interest. Topics include: history of HCI, human factors, designing HCI experiments. As a practice in this class, it is required to develop your own prototype of PUI(perceptual UI) / TUI(tangible UI) system, and demonstrate it for a user experiment at the finale.
+
+";
+An overview of human computer interaction and problems of current interest. Topics include: history of HCI, human factors, designing HCI experiments. A personal project prototyping PUI(perceptual UI) / TUI(tangible UI) system will be performed.
+
+";
+第1回 Guidance and HCI overview video by Terry Winograd
+Video of a HCI legend, Terry Winograd's final lecture at Stanford
+
+第2回 HCI overview video by Terry Winograd (cont.)
+Video of a HCI legend, Terry Winograd's final lecture at Stanford
+
+第3回 Introducing PUI and TUI
+FaceOSC 
+Alexa 
+Touche
+
+第4回 Setup for your own prototype
+Runnning sample codes.
+
+第5回 Historical Contexts
+HCI siginificant event timeline 
+Vannevar Bush, As We May Think 
+Ivan Sutherland, Sketchpad 
+Doug Engelbart, Invention of the Mouse 
+Xerox Star 
+Birth of HCI 
+Growth of HCI
+
+第6回 The Human Factor #1
+Time scale of human action 
+Human factors 
+Sensors 
+Responders
+
+第7回 The Human Factor #2
+The brain 
+Language 
+Human Performance
+
+第8回 First demo and Interaction Elements #1
+Hard controls and soft controls 
+Control-display relatioships 
+Natural versus learned relationships 
+Mental models and metaphor
+
+第9回 Interaction Elements #2
+Demonstration of your prototype 
+Modes 
+More about genress of freedom 
+Mobile context 
+Interaction errors
+
+第10回 Scientific Foundations #1
+What is research? 
+What is empirical research? 
+Research methods 
+Observe and measure
+
+第11回 Scientific Foundations #2
+Research questions 
+Internal validity and external validity 
+Cpmparative evaluations 
+Relationships: circumstantian and casual 
+Research topics
+
+第12回 Second demo and Designing HCI Experiments
+Demonstration of your prototype 
+What methodlology 
+Ethics approval 
+Experiment design 
+Independent variables 
+Dependent valiables 
+Other variables 
+Task and procedure 
+Participants 
+Questionnarie desien 
+Within-subjects and between-subjects 
+Order effects, counterbalancing, and latin squares 
+Group effects and asymmetric skill transfer 
+Longitudinal studies 
+Running the experiment
+
+第13回 Hypotesis Testing
+Analysis of variance 
+Chi-square test 
+Non-parametric tests for ordinal data 
+Parametric versus non-parametric tests
+
+第14回 Final Demo and Tests
+Final demostration as a user experiment
+
+その他
+It is important to plan and spare time for your own prototype and design your user experiment.
+
+";

@@ -1,0 +1,73 @@
+知識はどのように表象され、記憶されているのだろうか？　人はどのような仕組みで世界を知覚しているのだろうか？私たちはどのように仕組みで推論したり、意志決定をしているのだろうか？また、人間の認知の起源は何か、認知はどのように発達するのだろうか？　この講義では人間の認知機能の仕組みを心理学的に分析し、人間の「知」とは何かを考える。また、認知処理の背後にある脳活動のメカニズムについても考察する。具体的には主に以下の内容をカバーする。
+
+（１）記憶のメカニズム　（２）知覚と注意　（３）概念表象とカテゴリー（４）推論と意志決定　（５） 言語と認知　（６）認知と言語の発達
+
+This course covers basic topics in cognitive psychology, including memory, perception and attention, conceptual representation, reasoning and decision making, language learning and processing, and relation between language and cognition.
+
+";
+人間はどのように物事を知覚し、学び、問題を解決しているのだろうか？知識はどのように表象され、記憶されているのだろうか？　また、人間の認知の起源は何か、認知はどのように発達するのだろうか？　この講義では人間の認知機能の仕組みを心理学的に分析し、人間の「知」とは何かを考える。具体的には主に以下の内容をカバーする。
+
+（１）記憶のメカニズム　（２）知覚と注意　（３）概念表象とカテゴリー（４）推論と意志決定　（５） 言語と認知　（６）認知発達
+
+This course covers basic topics in cognitive psychology, including memory, perception and attention, conceptual representation, reasoning and decision making, language learning and processing, anｓd relation between language and cognition.
+
+";
+第1回 認知心理学とは　（１）[ What is cognitive psychology? ]
+授業のガイダンス。認知心理学の目標について講義する。
+
+We discuss the goals of cognitive psychology.
+第2回 認知心理学とは　（２）[ What is cognitive psychology? (continued) ]
+心理学の歴史的変遷、認知心理学の諸領域とその関連領域（認知科学・コンピュータ科学・認知神経科学）について概括し、認知心理学の方法論を紹介する。
+
+Brief history of psychology, and the historical context in which cognitive science and cognitive psychology arises. We also discuss the related fields such as Artificial Intelligence and Neuroscience.
+第3回 記憶[ Memory ]
+記憶の構造とプロセスについて概観する。
+
+basics of the mechanism of memory. Covers short-term memory, long-term memory and working memory.
+第4回 日常の記憶[ Everyday memory ]
+法廷で証言する目撃者の記憶などを取り上げ、人は日常的におこる事象をどのように記憶しているのかを考える。
+
+discuss how people encode, store and retrieve events they experience in everyday life.
+第5回 概念とカテゴリー[ Concepts and categories ]
+人間は概念を心の中でどのように整理し、構成しているのか。また、カテゴリーを形成することは私達の推論にどのような影響を与えるのだろうか？
+
+How do we organize the concepts? How do categories affect our memory and reasoning?
+第6回 視覚 １[ Perception 1 ]
+視覚の基本的メカニズムについて解説する
+
+Basics of the mechanism of perception
+第7回 視覚２[ Perception 2 ]
+人間の視覚と概念の影響について議論する。
+
+The relation between perception and cognition
+第8回 視覚の脳内メカニズム[ Brain mechanism of perception ]
+人の視覚の脳内メカニズムについての最先端の研究を紹介する
+
+Discuss how perceptual experience is realized in the brain
+第9回 人間の推論と意志決定[ Reasoning and decision making 1 ]
+私達はどのようなメカニズムで推論を行っているのであろうか？私達が日常行う推論のヒューリスティクスや日常頻繁に起こる誤った推論について考える。
+
+basic elements of reasoning: inductive, deductive, analogical reasoning and abductive inference.
+第10回 人間の推論と意志決定 2[ Reasoning and decision making 2 ]
+私達はどのようなメカニズムで推論を行っているのであろうか？私達が日常行う推論のヒューリスティクスや日常頻繁に起こる誤った推論について考える
+
+When and how do we make erroneous inference? Discuss various thinking biases in humans.
+第11回 学習と推論[ Learning and brain ]
+人間の学習と推論における認知と脳のメカニズムを議論する
+
+Discuss how our brain changes in the course of learning. Discuss what "learning" is, in light of changes in the brain.
+第12回 認知発達[ Cognitive and conceptual Development ]
+人間の知はどのように発達するのだろうか？人間の知の起源と概念発達のプロセスについて考える。
+
+Discuss the origin of human concepts, and how concepts evolve into a connected system of knowledge. Also discuss the cognitive foundations of such evolution of intelligence.
+第13回 言語心理学[ Language ]
+人間の言語が私達の思考や認識にどのようにかかわっているのかを考える。
+
+Discuss how language are related to our concepts and construals of the world.
+第14回 総括と試験[ Summary and conclusions ]
+授業を総括し、試験を行う
+
+Review the course contents and discuss the characteristics of human cognition. Final examination
+その他
+まとめとディスカッションを行い、生レポートを提出する
+turn in assignments";

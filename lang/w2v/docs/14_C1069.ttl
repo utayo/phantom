@@ -1,0 +1,25 @@
+This is an undergraduate level econometrics course. In this course, we will start with a review of probability and statistics that are the basics of econometrics. After studying a linear regression model with one regressor, together with its statistical inferences, we will extend our models so that we can have more than one regressor. Issues that interfere with desirable properties of our estimators, such as errors that have autocorrelation or heterosckedasticity, will then be studied. The last part of this course will be devoted to regression with binary dependent variables, instrumental variable regression, and time series regression.
+
+";
+Learning outcomes After completing this course, the successful students will be able to: compute least squares coefficients using a computer; interpret the result of simple/multiple linear regression; and identify a situation where the least square method is inappropriate and take corrective actions.
+
+";
+第1回 I.	Economic Questions and Data
+第2回 II.	Review of Probability
+第3回 III.	Review of Statistics
+第4回 IV.	Linear Regression with One Regressor
+第5回 IV.	Linear Regression with One Regressor
+第6回 V.	Regression with a Single Rgeressor: Hypothesis Tests and Confidential Intervals
+第7回 V.	Regression with a Single Rgeressor: Hypothesis Tests and Confidential Intervals
+第8回 VI.	Linear Regression with Multiple Regressors
+第9回 VII.	Hypothesis Tests and Confidence Intervals in Multiple Regression
+第10回 VIII.	Nonlinear Regression Functions
+第11回 IX.	Regression with a Binary Dependent Variable
+第12回 X.	Instrumental Variables Regression
+第13回 X.	Instrumental Variables Regression
+第14回 XI.	Introduction to time series regression and forecasting 
+第15回 XII.	Review
+その他
+Midterm Exam
+
+";

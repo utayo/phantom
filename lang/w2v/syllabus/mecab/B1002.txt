@@ -1,0 +1,49 @@
+本 講義 で は 、 環境 情報 系 （ 環境 デザイン 、 人間 環境 科学 、 先端 生命 科学 、 先端 情報 システム 、 先端 領域 デザイン ） の 各 領域 における 問題 発見 ・ 解決 、 関係 変革 の パラダイム について の 基本 的 な 考え方 に 触れる 。 
+
+As a required subject , “ Environment and Information Studies ” is aimed to serve as an introduction to SFC , and to the Faculty of Environment and Information Studies . The course consists of lectures , workshops and group presentations . Through the workshops , students are expected to develop the ideas about the ways in which we approach various issues and problems regarding our environment . 
+
+"; 
+本 講義 で は 、 環境 情報 系 （ 環境 デザイン 、 人間 環境 科学 、 先端 生命 科学 、 先端 情報 システム 、 先端 領域 デザイン ） の 各 領域 における 問題 発見 ・ 解決 、 関係 変革 の パラダイム について の 基本 的 な 考え方 に 触れる 。 
+
+As a required subject , “ Environment and Information Studies ” is aimed to serve as an introduction to SFC , and to the Faculty of Environment and Information Studies . The course consists of lectures , workshops and group presentations . Through the workshops , students are expected to develop the ideas about the ways in which we approach various issues and problems regarding our environment . 
+
+"; 
+第 1 回 オリエンテーション [ Introduction ]（ 担当 ： 村井 　 純 、 筧 　 康明 、 萩野 　 達也 ） 
+授業 概要 の 説明 
+講義 概要 ・ スケジュール の 説明 
+第 2 回 の 準備 
+A keynote lecture by Dean Jun Murai will set a tone to explore environment and information studies at SFC . The lecture illustrates current research issues and on - going activities around us . A general introduction to the course will also be provided through sharing the basic ideas and future visions of the Faculty . 
+第 2 回 学び かた を 学ぶ （ ラーニングパターンワークショップ ）[ Learning Pattern Workshop ]（ 担当 ： 村井 　 純 、 筧 　 康明 、 萩野 　 達也 ） 
+ラーニングパターンワークショップ ） によって 学び 方 を 学ぶ . 
+［ 話題 提供 ＋ ワークショップ ］ 井 庭 崇 
+
+Learning pattern workshop : basic ideas behind the learning style at SFC will be explored and discussed . 
+第 3 回 環境 デザイン の 世界 [ Introduction to Environmental Desgin ]（ 担当 ： 村井 　 純 、 筧 　 康明 、 萩野 　 達也 ） 
+環境 デザイン で は ， 地球 レベル から 都市 ・ 農村 ・ 建築 レベル まで の 幅広い 領域 を 対象 に ， 持続 可能 な 環境 の デザイン と ガバナンス に関する 実践 的 な 教育 ・ 研究 に 取り組ん で い ます ． 
+［ 話題 提供 ］ 小林 博人 ， 石川 初 
+
+In the field of environmental design , students receive practical education and conduct research related to sustainable environmental design and governance in broad areas such as global environment , architecture and urban / rural environment . 
+第 4 回 先端 領域 デザイン の 世界 [ Introduction to Design Engineering and Medai Art ]（ 担当 ： 村井 　 純 、 筧 　 康明 、 萩野 　 達也 ） 
+先端 領域 デザイン で は ， 21 世紀 に 求め られ て いる 新しい デザイン や アート について 研究 を 進め ， デザイン に 関わる 分析 ・ ビジョン 構築 ・ 作成 ・ 評価 ・ マーケティング まで の 一連 の プロセス を すべて 取り扱い ます ． 
+［ 話題 提供 ］ 筧 康明 ， オオニシ タクヤ 
+
+In Design Engineering and Media Art field , students study new designs and arts demanded by the twenty - first century . This field deals with the processes relating to media design such as analysis , vision structure , creation , assessment and marketing . 
+第 5 回 先端 生命 科学 の 世界 [ Introduction to Advanced Biosciences ]（ 担当 ： 村井 　 純 、 筧 　 康明 、 萩野 　 達也 ） 
+先端 生命 科学 で は ， 最先端 の バイオテクノロジー と 情報 技術 を 融合 し て 生命 の 仕組み を 解き明かし ， 医療 ・ 食品 ・ 環境 など 諸 分野 へ の 応用 を通して 国際 社会 の 発展 に 貢献 し ます ． 
+［ 話題 提供 ］ 黒田 裕樹 ， 佐野 ひとみ 
+
+The study in advanced biosciences aims to contribute to the development of international society by understanding the mechanism of life through integration of most - advanced biotechnology and information technology , and then applying the results of the research to various fields such as medicine , food and environment . 
+第 6 回 先端 情報 システム の 世界 [ Introduction to Novel Computing and Communication Systems ]（ 担当 ： 村井 　 純 、 筧 　 康明 、 萩野 　 達也 ） 
+先端 情報 システム で は ， コンピュータ や ネットワーク は その 存在 を 主張 せ ず ， 情報 システム は 水 や 空気 の よう に 日常 に 溶け込み ， 我々 の 生活 を 様々 な 形 で 支援 する ， その よう な 先端 情報 システム を 創造 し ， 諸 問題 に 挑み ます ． 
+［ 話題 提供 ］ 植原 啓介 , 中澤 仁 
+
+The novel computing and communication systems addresses various issues in society by creating an advanced information system that merges into everyday life to support human activities in various ways without making computers and networks obtrusive . 
+第 7 回 人間 環境 科学 の 世界 [ Introduction to Human Environment ]（ 担当 ： 村井 　 純 、 筧 　 康明 、 萩野 　 達也 ） 
+人間 環境 科学 で は ， 人間 の 構造 ・ 機能 の 理解 を 目的 に ， 人間 が 外 から 情報 を 取り込み ， それ を 知識 ・ 記憶 と 照合 し ながら 処理 し ， その 結果 に 基づき 行動 を 起こす まで の プロセス を 個人 および 社会 レベル で 考え ます ． 
+［ 話題 提供 ］ 仰木 祐 嗣 ， 諏訪 正樹 
+
+The study of human environment field aims to provide better understanding of human structures and functions by analyzing the process , which human beings assimilate information , verifying information based on previous knowledge and memory , both on a personal and social level . 
+その他 
+ワークショップ ， グループ 議論 
+
+Workshop , Group discussion "; 

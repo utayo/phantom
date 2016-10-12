@@ -1,0 +1,57 @@
+発見的手法(heuristic methods)のニューラルコンピューティングは実際に社会で幅広く使われている技術です。ニューラルコンピューティングの応用は、クレジットカードの購買振る舞い分析、セキュリティ（従業員の行動･振る舞い分析）、音声認識、など幅広い。ニューラルコンピューティングでは、組み合わせ最適化（combinatorial optimization)、自己組織化(self-organization, self-organization-map)、学習(supervised learning)を中心に学ぶ。また、ヒューリスティック手法と融合しつつある、論理、自動推論(automated reasoning:　otter)の応用を学ぶ。Pythonライブラリのscikit-learnを用いて、機械学習を学びながらビッグデータ解析の手法を学ぶ。機械学習の中でもensemble学習に関して詳しく解説する。
+
+Neural computing is one of heuristic methods where it has been used widely in our society. Neural computing is used for detecting malicious purchase behaviors of credit cards, malicious behaviors of employees, voice-recognition, and... In neural computing, combinatorial optimization (feedback neural networks), self-organization, and supervised-learning (feedforward neural networks) are mentioned. Depending on students's understanding, logic, and automated reasoning (otter) will be given. Scikit-learn will be used for understanding machine learning and big data analysis. Ensemble machine learning algorithms are detailed from the viewpoint of applications.
+
+";
+Students are to learn artificial neural computing and models for mathematical computations. Applications are solved by using neural computing models. Automated reasoning will be introduced using Otter. Several examples are shown to understand the automated reasoning machine. Scikit-learn is used for understanding machine learning in general.
+
+In the last class, Students must give their presentation for solving an intractable problem by neural computing, automated reasoning, or Scikit-learn.
+
+";
+第1回 Introduction to heuristic computing
+ヒューリスティック手法とは
+
+第2回 Introduction to neural computing
+ニューラルコンピューティング手法とは
+
+第3回 Introduction to optimization using neural computing
+ニューラルコンピューティングを用いた、組み合わせ最適化手法とは
+
+第4回 Introduction to machine learning
+機械学習入門
+
+第5回 Introduction to machine learning
+機械学習入門
+
+第6回 Introduction to machine learning
+機械学習入門
+
+第7回 Introduction to machine learning
+機械学習入門
+
+第8回 Introduction to machine learning
+機械学習入門
+
+第9回 Introduction to supervised learning
+ニューラルコンピューティングを用いた、学習とは
+
+第10回 Introduction to self-organization
+ニューラルコンピューティングを用いた、自己組織化とは
+
+第11回 automated reasoning
+自動推論（otter）とは
+
+第12回 automated reasoning
+自動推論(otter)
+
+第13回 automated reasoning
+自動推論(otter)
+
+第14回 final presentation
+プロジェクト発表
+
+その他
+* 予備日* 予備日
+To be instructed by Takefuji
+
+";

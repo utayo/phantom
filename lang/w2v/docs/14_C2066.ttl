@@ -1,0 +1,42 @@
+メタボローム解析実習は、①分析化学技術、②細胞内代謝物質の測定法（代謝物質の抽出法、キャピラリー電気泳動質量分析法（CE-MS)による代謝物質の測定法）③メタボロームデータ解析の講義と実習をとおして、メタボローム研究の実際を体系的に理解することを目的としています。最先端のメタボローム測定手法の原理、測定法を学び実試料の細胞中の代謝物質を網羅的に測定し、ダイナミックな代謝変動を解析、考察します。
+
+Students learn about the principles and measurement methods of the capillary electrophoresis-mass spectrometer (CE-MS), the most advanced metabolome measurement technique. Students comprehensively measure metabolic substances in the real samples and analyze dynamic changes in metabolism.
+
+";
+①分析化学技術、②細胞内代謝物質の測定法（代謝物質の抽出法、キャピラリー電気泳動質量分析法による代謝物質の測定法）③メタボロームデータ解析の講義と実習を行う。 メタボローム測定で扱う試料は発酵食品を予定（諸事情により変更する場合あり）。
+
+Students learn capillary electrophoresis mass spectrometry (CE-MS) technology, metabolomics analysis methods based on CE-MS including metabolite extraction procedures and data analysis using real samples.
+
+";
+第1回 分離分析法の原理およびペーパークロマトグラフィー実習[ Basics of separation science ]（担当：曽我朋義、大橋由明）
+Paper chromatography
+第2回 キャピラリー電気泳動法（CE）の装置、原理、アプリケーション[ Basics of CE-MS 1 ]（担当：曽我朋義、大橋由明）
+Instrument principle and application of CE
+第3回 キャピラリー電気泳動-質量分析計（CE-MS）の装置、原理[ Basics of CE-MS 2 ]（担当：大橋由明）
+Instrument principle and application of CE-MS
+第4回 CE-MSによるメタボローム測定への応用、細胞からの代謝物質抽出法[ Metabolome analysis by CE-MS 1 ]（担当：大橋由明）
+Extraction procedures from cells and tissues
+第5回 CE-MS実習（1）CE-MSによるアミノ酸の分析-1[ Metabolome analysis by CE-MS 2 ]（担当：大橋由明）
+Positively charged metabolite analysis 1
+第6回 CE-MS実習（1）CE-MSによるアミノ酸の分析-2[ Metabolome analysis by CE-MS 3 ]（担当：大橋由明）
+Positively charged metabolite analysis 2
+第7回 CE-MS実習（2）CE-MSによる陰イオン性代謝物質の分析-1[ Metabolome analysis by CE-MS 4 ]（担当：大橋由明）
+Negative charged metabolite analysis 1
+第8回 CE-MS実習（2）CE-MSによる陰イオン性代謝物質の分析-2[ Metabolome analysis by CE-MS 5 ]（担当：大橋由明）
+Negative charged metabolite analysis 2
+第9回 発酵食品から代謝物質の抽出[ Metabolome analysis by CE-MS 6 ]（担当：大橋由明）
+Metabolite extraction from real samples
+第10回 発酵食品のメタボローム測定-1[ Metabolome analysis by CE-MS 7 ]（担当：大橋由明）
+Metabolome analysis of real samples 1
+第11回 発酵食品のメタボローム測定-2[ Metabolome analysis by CE-MS 8 ]（担当：大橋由明）
+Metabolome analysis of real samples 2
+第12回 発酵食品の評価-1[ Metabolome analysis by CE-MS 9 ]（担当：大橋由明）
+Metabolome analysis of real samples 3
+第13回 発酵食品の評価-2[ Metabolome analysis by CE-MS 10 ]（担当：大橋由明）
+Metabolome analysis of real samples 4
+第14回 メタボロームデータ解析[ Metabolome analysis by CE-MS 11 ]（担当：大橋由明）
+Data analysis
+その他
+質問、まとめ、試験、レポート
+
+Conclusion, test and report";

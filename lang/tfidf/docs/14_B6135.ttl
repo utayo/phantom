@@ -1,0 +1,42 @@
+モノ創りから政策決定まで、様々な分野においてソフトウェアの重要度はますます高くなっている。これらのソフトウェアはプログラミング言語を使って開発されているが、そのプログラミング言語は多種多様なものが存在している。これはプログラミング言語毎にその設計思想が異なり、例えば大規模ソフトウェア開発に向いているもの、プロトタイピングに向いているもの、論理の表現に向いているものなどが存在するためである。本講義では、このようなプログラミング言語の設計思想と、その言語が得意としている分野を知ることによって、プログラミング言語の全体像を俯瞰することができるようになることおよび、自分が進む分野を鑑みて学ぶべきプログラミング言語を選択できるだけの知識を身に付けることを目的とする。
+
+An importance of Computer software becomes higher and higher in various fields. Computer software is developed using various programming language. There are many types of programming languages. For examples, there are a programming language for a large scale software, for prototyping, for logic and so on. In this class, students learn the design and strong point of programming languages. Students becomes who can choose an appropriate programming language.
+
+";
+ソフトウェアはプログラミング言語を使って開発されているが、そのプログラミング言語は多種多様なものが存在している。本授業では、様々なプログラミング言語の特徴について解説することにより、プログラミング言語の世界と、SFCで開講されているプログラミング系授業の体系を紹介する。 本授業の目標は、どのようなプログラミング言語がどの様なソフトウェア開発に適しているのかを判断するスキルをつけ、そのスキルをSFCでのプログラミング学習に役立ててもらうことである。 本授業では、SFCで開講されているプログラミング言語系授業を担当する教員から、それぞれが担当する言語およびその言語に関連するプログラミングパラダイム等について解説する。
+
+A computer software is developed using various programming language. In this class, several programming languages will be introduced. Aim of this class is that the programming language world at the SFC is overlooked. As the result, students becomes who can chose which programing language is suitable to whom. This class is a omnibus type class.
+
+";
+第1回 イントロダクション/コンピュータシステムとプログラミング言語[ Introduction ]（担当：植原）
+ノイマン型コンピュータでは、メモリ上に記録されたプログラムをCPUや順に実行することによって、様々な処理を実現している。しかし、CPUが理解できる言語（機械語）を使って人間が指示を出すことは難しく、高級言語と呼ばれる言語群が作られてきた。当初は、機械語を人間に読みやすくすることが目的であったが、後には人間が記述しやすい言葉を機械語に翻訳するシステムが開発されていった。ここでは、人間が理解する言語とコンピュータが理解する言語を対比し、高級言語の重要性を学ぶ。
+
+- Overview of Software and programming - Introduction to Computer architecture
+第2回 Webプログラミング/HTMLとJavaScript[ Web programming / HTML and JavaScript ]（担当：植原）
+総環両学部においては、情報基礎1および情報基礎2でWebで使われるマークアップ言語であるHTMLやプログラミング言語であるJavaScriptについて学ぶ。本講義においては、HTMLとJavaScriptの関係、これらの限界、言語仕様の特徴などについて説明する。
+
+- HTML and JavaScript are introduced - Strong point of HTML/JavaScript will be introduced - Application of JavaScript
+第3回 スクリプト言語プログラミング[ Programming in Scripting Language ]（担当：未定）
+目的のアプリケーションのプロトタイピング等では、簡易なプログラミング言語であるスクリプト言語が用いられることが多い。スクリプト言語は、比較的小規模で高速に動作する必要が無いような場合に少ない行数でアプリケーションを開発するために使われることが多かった。しかし、今日では多くのWebアプリケーションがスクリプト言語で開発されている。この回では、スクリプト言語の種類や特徴などについて学習する。
+
+- Introduction to Scripting language like python - quick programming
+第4回 オブジェクト指向プログラミング/Java[ Object oriented programming ]（担当：中澤）
+よく使われるプログラミングパラダイムにオブジェクト指向プログラミングがある。オブジェクト指向プログラミングはモジュールをオブジェクトとして表現し、そのオブジェクト間でメッセージをやりとりすることによってアプリケーションを実現するものである。有名なプログラミング言語であるJavaもオブジェクト指向のプログラミング言語の1つである。この回では、オブジェクト指向プログラミングの特徴などについて学習する。
+
+- Introduction to Object oriented programming - Objects - Java (not JavaScript)
+第5回 関数型プログラミング/ビジュアルプログラミング[ Functional programming / Visual programming ]（担当：服部）
+プログラミング言語では、手続き型言語、オブジェクト指向など様々なプログラミングパラダイムが存在する。その中に、全てを関数で表そうとする関数型言語が存在する。また、プログラミングをより視覚的にわかりやすく実施するために図形などを使ったプログラミング言語も存在する。この回は、それらのプログラミング言語について紹介する。
+
+- Introduction to Functional programming languages like LISP, Haskel. - Introduction to visual programming; programming without scripting
+第6回 システムプログラミング/C言語[ System programming / C Language ]（担当：中村）
+Linux等の環境下では、オペレーティングシステムそのものや、システムアプリケーションの多くがC言語によってプログラミングされている。この回では、システムプログラミングの概念やC言語の特徴について学ぶ。
+
+- Introduction to System programming - Kernel and Userland / Kernel interface - C language
+第7回 プログラミング応用/グラフィックスプログラミング[ Applied programming / Graphics ]（担当：未定）
+グラフィックスを扱うためには、多くのベクトル計算などが必要となり、通常のアプリケーションとは異なったプログラミングスタイルが求められることがある。この回は、そのようなグラフィックスを行うためのプログラミング言語やその方法について紹介する。
+
+- Special issues related to Graphics and so on
+その他
+レポート
+
+Report";

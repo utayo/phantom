@@ -1,0 +1,311 @@
+ユビキタスコンピューティング技術の基礎とその応用システムについて学習する。 特に、電子タグ、無線センサーネットワーク、ケータイ、スマートフォン、iPad、タブレットなどの新しいユビキタス端末とネットワークを利用したユビキタスシステム作りに対する総合的な見識とプログラミングスキルを身につけることを目標とする。 1) ユビキタスシステムアーキテクチャ概論 2) ユビキタスシステムの構成要素 3) ユビキタスネットワークとセンサーネットワーク 4) ユビキタス端末とユビキタスサービス 5-7) 分散プログラミングの基礎(1)-(3) 8-10) モバイルプログラミングの基礎(1)-(3) 11) ユビキタスサービスとコンテクストアウェアプログラミング(1) 12) ユビキタスサービスとコンテクストアウェアプログラミング(2) 13) ユビキタスコンピューティングシステムの未来 14) 最新技術動向とまとめ
+
+This class covers basic technology and applications of ubiquitous computing. In particular, Ubiquitous devices such as RFIDs, Wireless Sensor Nodes, Wireless Sensor Networks, Smart Phones, and Tablets are used for creating ubiquitous computing systems. Students will develop the design and programming skills for ubiquitous systems. 1) Overview of Ubiquitous Systems 2) Components of Ubiquitous Systems 3) Ubiquitous Networks and Sensor Networks 4) Ubiquitous Devices and Ubiquitous Services 5-7) Distributed Programming (1)-(3) 8-10) Mobile Programming (1)-(3) 11) Ubiquitous Services and Context-aware Programming (1) 12) Ubiquitous Services and Context-aware Programming (2) 13) Future of Ubiquitous Computing Systems 14) State of the Arts in Ubiquitous Comptuting
+
+";
+ユビキタスコンピューティング技術の基礎とその応用システムについて学習する。 特に、電子タグ、無線センサーネットワーク、スマートフォン、iPad、タブレットなどの新しいユビキタス 端末とネットワークを利用したユビキタスシステム作りに対する総合的な見識とプログラミングスキルを身につけることを目標とする。
+
+This class covers basic technology and applications of ubiquitous computing. In particular, Ubiquitous devices such as RFIDs, Wireless Sensor Nodes, Wireless Sensor Networks, Smart Phones, and Tablets are used for creating ubiquitous computing systems. Students will develop the design and programming skills for ubiquitous systems.
+
+";
+第1回 ユビキタスシステムアーキテクチャ概論[ Overview of Ubiquitous System Architecture ]
+* ユビキタス社会とは？ 
+* ユビキタスコピューティングやユビキタスネットワークシステムに関 
+する概要を紹介し、 
+今学期の授業の概要を述べる。
+
+第2回 ユビキタスシステムの構成要素[ Components of Ubiquitous Computing Systems ]
+* ユビキタスシステムの構成要素 
+* ユビキタスネットワーク 
+* ユビキタスプラットフォーム 
+* コンテクストアウェアソフトウェア／サービス 
+* 技術的な課題
+
+第3回 プロトコルとは？[ What is a Protocol? ]
+*プロトコルとは？ 
+*2-way protocol 
+*N-way protocol 
+*いくつかの事例 
+*ユビキタスシステムのモデル化 
+分散プログラムとは
+
+第4回 ネットワークプログラミング演習[ Network Programming ]
+ネットワークプログラミングの演習 
+echo_serverの構築 
+第5回 ユビキタスシステムのモデル化とセンサネットワーク[ SPA model and Sensor Networks ]
+ーーーーー 
+* ユビキタスシステムのモデル化 
+* 分散プログラムとは？ 
+* 並行プロセスモデル 
+* Direct IPC Primitive 
+* 協調作業のパターン 
+* デッドロック 
+* パイプライン 
+センサーネットワークとセンサプログラミングセンサーネットワーク総論 
+センサーノード 
+センサーOS 
+センサープログラミング 
+第6回 センサネットワークとセンサーノードプログラミング演習[ Sensor Networks and sensor programming ]
+センサネットワークのモデル 
+センサノードの構成 
+SunSPOTの構成 
+# SunSpot?環境構築 
+
+* インストール手順： SunSPOT資料を参照 
+# Sun SPOT紹介 
+# ドライバインストール 
+# Net Beansの使い方説明 
+# サンプルプログラムの起動 
+# 演習 
+
+* 加速度・温度の取得 
+* LEDを光らせる
+
+第7回 コンテクストとコンテクストアウェアプログラミング　＋ SunSPOT演習[ Context-aware programming ]
+* コンテクストの定義 
+* コンテクストアウェアサービス 
+* 事例：シャワールーム管理システム、実空間SNSシステム 
+* コンテクストキャプチャリングの問題点 
+* 忘れ物予防システムの設計 
+* スマート空間とは？ 
+* スマートオブジェクトサービス 
+* uPhoto, uTexture, uPlatea 
+*中間発表会での発表内容に関して 
+第8回 Processing, Schedulingの概念、中間発表のテンプレート[ Processing and Scheduling Models ]
+*中間発表会での発表内容に関して 
+* 中間発表テンプレート 
+* Scheduling Policyとは？ 
+* 評価指標
+
+第9回 タームプロジェクト中間発表[ Midterm presentations ]
+* 各グループの中間発表
+
+第10回 SPAアーキテクチャにおけるProcessing (p)の基礎[ Processing modules in SPA Architecture ]
+* いろいろなProcessing処理 
+* Placement of Program and Data 
+* Schedulingの基礎 
+*
+
+第11回 webサーバとセンサネットワーク演習*コンテクストアウェアプログラミング(3)[ Web server and Context-aware programming ]
+* センサネットワークとwebサービスとの連携 
+* センサネットワークの課題 
+* 高次の context処理 
+* context-aware applications
+
+第12回 サービス、サービス、サービス[ Service, Service and Service ]
+* context-aware services platform 
+* service finding 
+* service binding 
+* service rebinding
+
+第13回 プライバシー保護とセキュリティ技術[ Privacy Enhancing and Security ]
+プライバシー保護、匿名化技術とセキュリティ技術
+
+第14回 タームプロジェクト最終発表会 [ Term Project Presentations ]
+各ブループの最終発表
+
+その他
+その他、最新動向のまとめなど、必要に応じて補講を行う。
+
+";
+ユビキタスコンピューティング技術の基礎とその応用システムについて学習する。 特に、電子タグ、無線センサーネットワーク、ケータイ、スマートフォン、iPad、タブレットなどの新しいユビキタス端末とネットワークを利用したユビキタスシステム作りに対する総合的な見識とプログラミングスキルを身につけることを目標とする。 1) ユビキタスシステムアーキテクチャ概論 2) ユビキタスシステムの構成要素 3) ユビキタスネットワークとセンサーネットワーク 4) ユビキタス端末とユビキタスサービス 5-7) 分散プログラミングの基礎(1)-(3) 8-10) モバイルプログラミングの基礎(1)-(3) 11) ユビキタスサービスとコンテクストアウェアプログラミング(1) 12) ユビキタスサービスとコンテクストアウェアプログラミング(2) 13) ユビキタスコンピューティングシステムの未来 14) 最新技術動向とまとめ
+
+This class covers basic technology and applications of ubiquitous computing. In particular, Ubiquitous devices such as RFIDs, Wireless Sensor Nodes, Wireless Sensor Networks, Smart Phones, and Tablets are used for creating ubiquitous computing systems. Students will develop the design and programming skills for ubiquitous systems. 1) Overview of Ubiquitous Systems 2) Components of Ubiquitous Systems 3) Ubiquitous Networks and Sensor Networks 4) Ubiquitous Devices and Ubiquitous Services 5-7) Distributed Programming (1)-(3) 8-10) Mobile Programming (1)-(3) 11) Ubiquitous Services and Context-aware Programming (1) 12) Ubiquitous Services and Context-aware Programming (2) 13) Future of Ubiquitous Computing Systems 14) State of the Arts in Ubiquitous Comptuting
+
+";
+ユビキタスコンピューティング技術の基礎とその応用システムについて学習する。 特に、電子タグ、無線センサーネットワーク、スマートフォン、iPad、タブレットなどの新しいユビキタス 端末とネットワークを利用したユビキタスシステム作りに対する総合的な見識とプログラミングスキルを身につけることを目標とする。
+
+This class covers basic technology and applications of ubiquitous computing. In particular, Ubiquitous devices such as RFIDs, Wireless Sensor Nodes, Wireless Sensor Networks, Smart Phones, and Tablets are used for creating ubiquitous computing systems. Students will develop the design and programming skills for ubiquitous systems.
+
+";
+第1回 ユビキタスシステムアーキテクチャ概論[ Overview of Ubiquitous System Architecture ]
+* ユビキタス社会とは？ 
+* ユビキタスコピューティングやユビキタスネットワークシステムに関 
+する概要を紹介し、 
+今学期の授業の概要を述べる。
+
+第2回 ユビキタスシステムの構成要素[ Components of Ubiquitous Computing Systems ]
+* ユビキタスシステムの構成要素 
+* ユビキタスネットワーク 
+* ユビキタスプラットフォーム 
+* コンテクストアウェアソフトウェア／サービス 
+* 技術的な課題
+
+第3回 プロトコルとは？[ What is a Protocol? ]
+*プロトコルとは？ 
+*2-way protocol 
+*N-way protocol 
+*いくつかの事例 
+*ユビキタスシステムのモデル化 
+分散プログラムとは
+
+第4回 ネットワークプログラミング演習[ Network Programming ]
+ネットワークプログラミングの演習 
+echo_serverの構築 
+第5回 ユビキタスシステムのモデル化とセンサネットワーク[ SPA model and Sensor Networks ]
+ーーーーー 
+* ユビキタスシステムのモデル化 
+* 分散プログラムとは？ 
+* 並行プロセスモデル 
+* Direct IPC Primitive 
+* 協調作業のパターン 
+* デッドロック 
+* パイプライン 
+センサーネットワークとセンサプログラミングセンサーネットワーク総論 
+センサーノード 
+センサーOS 
+センサープログラミング 
+第6回 センサネットワークとセンサーノードプログラミング演習[ Sensor Networks and sensor programming ]
+センサネットワークのモデル 
+センサノードの構成 
+SunSPOTの構成 
+# SunSpot?環境構築 
+
+* インストール手順： SunSPOT資料を参照 
+# Sun SPOT紹介 
+# ドライバインストール 
+# Net Beansの使い方説明 
+# サンプルプログラムの起動 
+# 演習 
+
+* 加速度・温度の取得 
+* LEDを光らせる
+
+第7回 コンテクストとコンテクストアウェアプログラミング　＋ SunSPOT演習[ Context-aware programming ]
+* コンテクストの定義 
+* コンテクストアウェアサービス 
+* 事例：シャワールーム管理システム、実空間SNSシステム 
+* コンテクストキャプチャリングの問題点 
+* 忘れ物予防システムの設計 
+* スマート空間とは？ 
+* スマートオブジェクトサービス 
+* uPhoto, uTexture, uPlatea 
+*中間発表会での発表内容に関して 
+第8回 Processing, Schedulingの概念、中間発表のテンプレート[ Processing and Scheduling Models ]
+*中間発表会での発表内容に関して 
+* 中間発表テンプレート 
+* Scheduling Policyとは？ 
+* 評価指標
+
+第9回 タームプロジェクト中間発表[ Midterm presentations ]
+* 各グループの中間発表
+
+第10回 SPAアーキテクチャにおけるProcessing (p)の基礎[ Processing modules in SPA Architecture ]
+* いろいろなProcessing処理 
+* Placement of Program and Data 
+* Schedulingの基礎 
+*
+
+第11回 webサーバとセンサネットワーク演習*コンテクストアウェアプログラミング(3)[ Web server and Context-aware programming ]
+* センサネットワークとwebサービスとの連携 
+* センサネットワークの課題 
+* 高次の context処理 
+* context-aware applications
+
+第12回 サービス、サービス、サービス[ Service, Service and Service ]
+* context-aware services platform 
+* service finding 
+* service binding 
+* service rebinding
+
+第13回 プライバシー保護とセキュリティ技術[ Privacy Enhancing and Security ]
+プライバシー保護、匿名化技術とセキュリティ技術
+
+第14回 タームプロジェクト最終発表会 [ Term Project Presentations ]
+各ブループの最終発表
+
+その他
+その他、最新動向のまとめなど、必要に応じて補講を行う。
+
+";
+This class covers basic technology and applications of ubiquitous computing and Internet of Things. In particular, Ubiquitous devices such as RFIDs, Wireless Sensor Nodes, Wireless Sensor Networks, Smart Phones, and Tablets are used for creating ubiquitous computing systems. Students will develop the design and programming skills for ubiquitous systems.
+
+Overview of Ubiquitous Systems
+Components of Ubiquitous Systems
+SPA and HOT-SPA model
+Ubiquitous Networks and Sensor Networks
+Ubiquitous Devices and Ubiquitous Services
+Context-awareness
+Context-aware Mobile Programming
+Ubiquitous Services
+Privacy Enhancing Technology
+Future of Ubiquitous Computing Systems
+State of the Arts in Ubiquitous Computing
+";
+This class covers basic technology and applications of ubiquitous computing and Internet of Things. In particular, Ubiquitous devices such as RFIDs, Wireless Sensor Nodes, Wireless Sensor Networks, Smart Phones, and Tablets are used for creating ubiquitous computing systems. Students will develop the design and programming skills for ubiquitous systems.
+
+Overview of Ubiquitous Systems
+Components of Ubiquitous Systems
+SPA and HOT-SPA model
+Ubiquitous Networks and Sensor Networks
+Ubiquitous Devices and Ubiquitous Services
+Context-awareness
+Context-aware Mobile Programming
+Ubiquitous Services
+Privacy Enhancing Technology
+Future of Ubiquitous Computing Systems
+State of the Arts in Ubiquitous Computing
+";
+第1回 Overview of Ubiquitous Systems and IoT/CPS
+What is Ubiquitous Computing Systems 
+What is IoT/CPS
+
+第2回 Components of Ubiquitous Systems 
+Ubiquitous Sensors/Actuators 
+Ubiquitous Network 
+Ubiquitous Platform 
+
+第3回 A Model of Ubiquitous Computing System
+SPA (Sensing-Processing-Actuator) Model 
+HOT-SPA Model
+
+第4回 Ubiquitous Networks and Sensor Networks 
+Wireless Sensor Networks 
+Ad hoc Networks
+
+第5回 Ubiquitous Devices and Ubiquitous Services 
+Legacy wireless sensors 
+Smart phone 
+Ubiquitous Services
+
+第6回 Context-Awareness
+What is Context 
+Personal Context 
+Group Context 
+Urban Context 
+第7回 Context-aware Mobile Programming (1)
+Context-awareness with a smart phone 
+Human as a sensor 
+Web as a virtual sensor 
+Legacy sensor as a sensor 
+Every thing as a sensor
+
+第8回 Context-aware Mobile Programming (2)
+Context-awareness with legacy sensors and sensitizer. 
+第9回 Mid-Term Term Project Presentation
+Term Project Proposal
+
+第10回 Ubiquitous Services (1) 
+* context-aware services platform 
+* service finding 
+* service binding 
+* service rebinding
+
+第11回 Ubiquitous Services (2) 
+* context-aware services platform 
+* service finding 
+* service binding 
+* service rebinding
+
+第12回 Privacy Enhancing Technology
+What is Privacy Enhancing Technology?
+
+第13回 Future of Ubiquitous Computing Systems 
+State of the Arts in Ubiquitous Computing
+
+第14回 Term Project - Final Presentation
+Term Project Presentation
+
+その他
+Final Project and Complementary Lecture
+";
