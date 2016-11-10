@@ -1,0 +1,70 @@
+エネルギーは、近代社会において経済社会活動の重要なインフラストラクチャであり、インセンティブである一方、その制約要因でもあります。化石燃料資源に乏しい日本においては、エネルギー安全保障に留意しながら、先進国として気候変動問題へ貢献を果たさなければなりません。では、われわれは持続可能な経済社会のために、中長期的にどのようなエネルギー資源を選択すべきでしょうか。供給安定性、環境適合性、経済効率性、社会受容性の面で万能なエネルギー資源はありません。ベストミックスを探求するための方法論として、政策と技術革新の現状と展望について学びます。
+
+Energy is essential infrastructure of economic and social activity in modern society. It sometimes works as an incentive, and sometimes as restricting factor for economic and social activity. Considering energy self-sufficiency, Japan is limited fossil fuel resources, and we have to fulfill both energy security and contribution for global warming as a developed country. What kind of energy resorces should be selected for the sake of mid and long-term sustainable economy? Basically no energy resources are faultless at the point of energy security, environment adaptability, economic efficiency and public acceptance. We learn further energy-environmental policy and technological innovation in order to seek energy best mix.
+
+";
+2011年3月11日に発生した原子力発電所過酷事故は、国内原子力発電所の全停止によって、日本のエネルギー環境問題に大きな変容をもたらしました。本科目においては、エネルギーと環境の関係を体系的に整理することに始まり、日本が直面するエネルギー環境に関する政策的・技術的課題を整理し、持続可能な経済社会において必要なエネルギー資源の検討を行うための基礎知識を横断的に学びます。供給安定性、環境適合性、経済効率性、社会受容性など多面的な検証と議論を通じて、20年後を見据えたエネルギーのベストミックスに関する独自の論考を行います。
+
+The severe accident of TEPCO Fukushima-daiichi nuclear power plant and the shutdown of most of the nuclear power plants caused drastic changes regarding Japan's energy-environmental issue. This course begins with systematically deals between energy and environment, and analyzes problems and priorities of policy and technology in order to reformulate energy best mix. We investigate the present situation of global energy-environment and evaluate it from the point of view of energy security, environmental adaptability, economic efficiency and public acceptance. Ultimately, we finalize our own discussion about Energy best mix in 2035.
+
+";
+第1回 エネルギー環境と経済社会[ Energy, Environment, Economy "The Trilemma, The Inconsistent Trinity" ]
+経済社会におけるエネルギーの供給から消費、エネルギーと環境との関係性を整理し、本科目の主題と目標を提示します。
+
+Systematically deals between energy and environment, supply and consumption. Our purpose and the subject in this course are sheared.
+第2回 世界のエネルギー需給構造[ Global energy supply and demand structure ]
+世界のエネルギーおよび資源の需給構造を、国際機関のデータを用いながら概説します。
+
+General remarks of global energy supply and demand structure referring to data of IEA, EIA, BP est.
+第3回 日本のエネルギー需給構造[ Japan's energy supply and demand structure ]
+日本のエネルギー需給構造の現状を、官公庁などのデータを用いながら概説します。
+
+General remarks of Japan's energy supply and demand structure referring to data of METI, MOE.
+第4回 日本のエネルギー需給構造と政策の変遷[ Japan's energy supply and demand structure, and historical transition of energy-environment policy ]
+日本のエネルギー需給構造とエネルギー環境政策の変遷について概説します。
+
+Review of Japan's energy supply and demand structure, and historical transition of energy-environment policy
+第5回 エネルギーの供給安定性、経済効率性、環境適合性[ Energy security, environmental adaptability, and economic efficiency ]
+原子力、火力、水力、再生可能エネルギーなど各電源について、その供給安定性、経済効率性、環境適合性について概説、エネルギーミックスの策定の要件を提示します。
+
+Review of energy security, environmental adaptability, and economic efficiency per every power sources to consider Energy best mix.
+第6回 原子力発電の特徴と原子力利用の変遷[ Features of nuclear power generation, and historical transition of nuclear power use ]
+原子力発電の特徴と、日本の原子力政策と原子力利用の変遷について概説します。
+
+Review of nuclear power generation's features, and historical transition of nuclear power use
+第7回 原子力事故の賠償とリスク[ Risk and compensation of nuclear power plant accident ]
+東京電力福島第一原子力発電所事故を事例に、破局的事故のリスク評価と損害賠償制度のあり方について論じます。
+
+A case study of TEPCO Fukushima-Daichi accident, and risk evaluation of a catastrophic accident
+第8回 気候変動問題と国際条約[ Global warming and United Nations Framework Convention on Climate Change ]
+環境政策のオプションを提示しながら、温室効果ガス削減への国内規制、国際条約の有効性について論じます。
+
+Review of environmental policy options, and discussion about efficiency of the international convention and emission regulation in Japan.
+第9回 サーキュラー・エコノミー[ Circular Economy ]
+持続可能なエネルギーのための、経済社会のあり方について論じます。 
+Discussion about "Circular Economy" for the sake of energy sustainability
+第10回 電力自由化と新電力[ Electricity deregulation and Power Producer & Supplier ]
+発電小売りの自由化と新規参入、そして発送電分離と、今後予定されている電力システム改革の展望について論じます。
+
+Review and perspective of Electricity deregulation
+第11回 再生可能エネルギーの特徴と普及政策[ Features of types of renewable energy, and Feed-in tariff ]
+再生可能エネルギーの特性と導入状況を概説し、固定価格買取制度など普及政策について論じます。
+
+Review and perspective of renewable energy, and policy subsidy
+第12回 電力系統とスマートグリッド[ Electric power system and smart grid ]
+電力系統の技術的な特性と、スマートグリッド（デマンドレスポンス、ネガワット取引、蓄電池）の展望について論じます。
+
+Consideration about the actual electric power system and perspective of smart grid services demand response, negawatt transaction)
+第13回 次世代エネルギー環境技術と経済社会[ Next-generation technology and perspective of Japan's energy system　 ]
+分散型、循環型のエネルギーシステムの展望について論じます。
+
+Consideration about perspective of next-generation technology (storage batteries, EV, FCV) and energy system
+第14回 日本のエネルギー環境におけるベストミックスの展望[ Perspective of energy best mix in Japan ]
+講義の取りまとめを行い、供給安定性、経済効率性、環境適合性、社会受容性の観点から、中長期的なエネルギーミックスについて議論します。
+
+Finalization of discussion about Energy best mix in 2035 from the point of view of energy security, environmental adaptability, and economic efficiency
+その他
+課題・レポート
+供給安定性、経済効率性、環境適合性を考慮したエネルギーミックスに関する論考を提出してください。
+
+The final report regarding energy best mix from the point of view of energy security, environmental adaptability, economic efficiency in 2035 is required.";

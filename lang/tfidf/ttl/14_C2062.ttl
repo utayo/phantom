@@ -1,0 +1,43 @@
+生物の代謝に関する基礎と代謝システム解析に関する講義を行なう。 　　(1) 　生物の主要代謝経路（解糖系、ＴＣＡ回路、ペント－スリン酸径路など）とメタボリズムの概要 　　(2) 　細胞の遺伝子発現と代謝調節制御 　　(3) 　培養環境と調節タンパク質（転写活性因子）および遺伝子発現制御 　　(4) 　細胞内代謝物濃度と酵素レベルの代謝制御 　　(5) 　遺伝子欠損株の代謝解析 　　(6) 　同位体を用いた代謝フラックス解析　　 　　(7) 　細胞のエネルギー生成と生合成 　　(8) 　主要代謝経路のモデリングと仮想細胞の構築
+
+This course will provide the basis on the cell metabolism and the metabolic systems analysis (1) Brief introduction of the main metabolic pathways of a cell (Glycolysis, TCA cycle, Pentose Phosphate pathway etc) and the metabolism (2) Gene expressions in relation to metabolic regulation (3) Culture environment and the related global regulators (transcription factors) and transcriptional regulation (4) Intracellular metabolite concentrations and the enzyme level regulation (5) Metabolic regulation analysis for the specific gene knockout mutants (6) Metabolic flux analysis based on 13C-labeling experiments (7) Energy generation (catabolisn) and cell synthesis (anabolism) of a cell system (8) Modeling for the main metabolism towards the development of virtual microbe
+
+";
+生物の代謝および代謝調節制御に関する基礎と代謝システム解析に関する手法について理解することを目標とする｡/授業はクラスでの板書に基づく講義形式で行ない，２－３週の集中講義形式で行なう｡
+
+The objective of this class is to understand the basis of the cell metabolisn, metabolic regulation, and the metabolic systems analysis.
+
+";
+第1回 生物の主要代謝経路とメタボリズム の概要[ Main metabolic pathways and the metabolism ]
+生物の主要代謝径路（解糖系、ＴＣＡ回路、ペント－スリン酸径路など）の概要についての説明。
+
+The main metabolic pathways such as glycolysis, TCA cycle, and pentose phosphate pathway etc. are explained.
+第2回 細胞の遺伝子発現と代謝調節制御[ Gene expression and the transcriptional regulation of the metabolism ]
+生物の主要代謝経路の酵素とそれをコードしている遺伝子、およびその発現制御について説明する。
+
+The genes which encode the metabolic pathway enzymes and their regulation mechanisms are explained.
+第3回 培養環境と調節タンパク質（転写活性因子）および遺伝子発現制御[ Culture environments and the corresponding transcription factors and the transcriptional regulation ]
+炭素源や酸素濃度などの培養環境と調節タンパク質との関係や、カタボライト制御に関する遺伝子発現制御などについて説明する。
+
+The relationship between culture environments such as carbon source availability or oxygen level and the corresponding metabolic regulation is explained. In articular, attention is focused on the catabolite regulation and the related transcriptional regulation mechanisms.
+第4回 細胞内代謝物濃度と酵素レベルの代謝制御[ Intracellular metabolite concentrations and enzyme level regulation ]
+特定の代謝物濃度が特定の酵素をアロステリックに調節し、フィードバック制御やフィードフォワード制御を行っている仕組みについて説明する。
+
+Enzyme level regulation is explained in relation to the allosteric feedforward and/ or feedback regulation via intracellular metabolite concentrations.
+第5回 遺伝子欠損株の代謝解析[ Metabolic regulation analysis for the specific gene knockout mutants ]
+大腸菌の主要代謝経路の遺伝子欠損が代謝にどのような影響を及ぼすかを説明する。
+
+The effect of the specific gene knockout on the metabolism is explained focusing on Escherichia coli.
+第6回 様々な細胞の代謝メカニズム[ Metabolic regulation mechanisms for a variet of organisms ]
+大腸菌、酵母、枯草菌、乳酸菌といった微生物から、植物や光合成微生物、さらにはマウスやヒトおよび癌細胞などの代謝の共通点や相違点とその理由などについて解説する。
+
+A variety of the metablic rgeulation mechanisms are explained in common and in the specific organisms such as E.coli, yeast, Bacillus sp., Lactic acid bacteria, plants, photosynthetic bacteria, as well as mammarian cells and cancer cells
+第7回 細胞のモデリングとシミュレーション[ Modeling of the cell metabolism and the computer simulation ]
+細胞の代謝調節制御機構に関するモデリングのアプローチとシミュレーションについて解説する。
+
+The modeling approach for the regulation mechanisms of the main metabolism and its computer simulation method will be explained.
+その他
+* 主要代謝経路のモデリングと仮想細胞の構築 *
+物質収支に基づく主要代謝経路の数式モデリングと遺伝子発現制御を考慮したモデリングについて説明し、仮想細胞の構築に向けた課題と展望について議論する。
+
+* Modeling of the main metabolic pathways and the development of virtual cells * Explanation is given on the modeling of the main metabolic pathways based on mass balances and the metabolic regulation mechanisms. Moreover, the current status and future perspectives will be also explained.";

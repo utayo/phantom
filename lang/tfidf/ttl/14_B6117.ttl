@@ -1,0 +1,70 @@
+物事を考えるときに，いろいろな情報から推論して，正しい内容を導き出すことがある．ここでは，正しい推論とは何かについて，記号論理学を使って勉強する．日常使っている日本語のような自然言語のままで扱ったのでは，正しさの見通しが悪くなるため，まず，記号に置き換えることによって，本質的な論理構造を明らかする．その上の推論を考えることによって，正しい推論について正しく理解することができる．ある事柄を証明するとはどういう意味なのか，その事柄が正しいということはどういうことかについて，命題論理と述語論理を中心にしっかり学び，古典的な論理学以外の現代論理学の発展的な内容についても紹介する．
+
+In many situations, correct results need to be deduced from various information using correct inference. In this class, the correct deduction is studied using symbolic logic. Since Natutal language is ambiguous, symbols are used to reveal essential logical structure and correctness of deduction can be discussed. Classical propositional and predicate logic are mainly dealed, but some modern logics are also introduced.
+
+";
+記号論理学について，命題論理と述語論理を中心に説明し，演習を行うことで理解を深めてもらう．古典論理学以外の発展的な内容についてもいくつか取り上げる．
+
+In this class, the correct deduction is studied using symbolic logic. Since Natutal language is ambiguous, symbols are used to reveal essential logical structure and correctness of deduction can be discussed. Classical propositional and predicate logic are mainly dealed, but some modern logics are also introduced.
+
+";
+第1回 論理学とは[ Symbolic Logic ]
+この授業の，全体について説明し，物事を明確に議論するために形式化が重要であることを，自然言語を用いた論理推論を例に説明する．
+
+Comparing with natural language, the advantage of using symbolic logic is explained.
+第2回 命題と真理値[ Proposition and Truth ]
+命題とは何かから始まり，命題を結合する論理結合子を導入し，複雑な論理式を作成する．複雑な論理式の真偽値を決めるために，論理結合子の真理値表を説明する．また，真偽値が常に真となるトートロジーについても紹介する．
+
+Propositional logic is introduced: proposition, logical operator, complex formula, and so on. Truth calculation of logical formula using the trith table of logical operator is explained. Tautology logical formula which is always true is also introduced.
+第3回 標準形[ Normal Form ]
+任意の論理式を論理和標準形，論理積標準形に変換する方法について説明する．
+
+Conversion from arbitrary formula to disjunctive normal form and conjunctive normal form is explained.
+第4回 証明[ Proof ]
+論理式が正しいことを示す方法として，公理から推論規則を使って証明する方法について説明する．
+
+Proof which is to show the correctness of formula using axioms and inference rules is explained.
+第5回 健全性と完全性[ Soundness and Completeness ]
+論理式が正しいということと，証明可能であることが別であることを説明し，公理・推論体系が健全である条件と完全である条件について説明する．
+
+Correctness of logical formula and its provability are different. Soundness and completeness of logical system are explained.
+第6回 ブール代数[ Boolean Algebra ]
+命題論理を論理計算として取り扱うブール代数について説明する．
+
+Boolean algebra regards propositional formula as logical calculation.
+第7回 述語論理とは[ Predicate Logic ]
+これまで命題論理について説明してきたが，対象に対して真偽値が変化するような変化する述語については取り扱っていなかった．より複雑な事柄を説明するには，述語について取扱いができないといけない．ここでは，述語とは何かについて説明する．
+
+The truth value of proposition does not change. In order to describe complicated facts, predicates are necessary. They change their thrth value depending on subjects. Predicate logic is introduced.
+第8回 述語論理の論理式[ Logical Formula for Predicate Logic ]
+述語が入ることで，命題論理で用いていた論理結合子では不十分になる．全称記号と存在記号について導入し，これらを使ってどのような論理式を書くことができるかについて説明する．
+
+Universal and existential quntifiers are introduced.
+第9回 述語論理における証明[ Proof in Predicate Logic ]
+命題論理と同じように，述語論理においても証明について説明する．
+
+Deduction rules for predicate logic are explained.
+第10回 エルブラン定理と導出原理[ Helbrand's Theorem and Resolution Principle ]
+証明を機械的に効率よく行う方法として，導出原理を使うものがある．導出原理はエルブラン定理に基づいている．ここではエルブラン定理とスコーレム標準形，導出原理について説明する．
+
+Resolution principle allows machines to automatically prove given logic formula. It is based on Helbrand's theorem.
+第11回 PROLOG入門[ Intorduction to PROLOG ]
+論理式を節に限定すると，導出原理を使って，証明を行うことが比較的容易になる．論理プログラミング言語のPROLOGはこれを用いてプログラミングを可能にしている．ここでは，PROLOGについて紹介する．
+
+PROLOG is a programming language which use resolution principle as its evaluation mechanism.
+第12回 様相論理と時制論理[ Modal Logic and Temporal Logic ]
+日常では状況や場面は時間に依存して真偽が決まることがある．これまでの古典論理を発展させ，様相論理や時制論理について紹介する．
+
+Modal logic handles situation and temporal logic handles time. Truth value may vary depending on situation and/or time.
+第13回 ペアノの自然数論[ Peano Arithemtic ]
+論理学の上で数学を展開するには，まず，数字を取り扱う必要がある．数字の中でも最も基本となるのが自然数である．ペアノによる自然数の公理を説明しする．自然数の公理を追加することにより，公理体系は不完全になるという，有名なゲーデルの不完全性定理について紹介する．
+
+Arithmeitc can be constructed on top of preficate logic using Peano axioms. By adding Peano axioms, the logic system becomes incomplete. This fact is well-known Godel's imcompleteness theorem.
+第14回 直観主義論理[ Intuitionistic Logic ]
+古典論理では，背理法のように，否定した論理式が矛盾することを示すことで，もとの論理式が正しいことを示してよかったが，直観主義では，そのようなことは許されない．論理式を直接証明できるときだけ正しいということができる．直観主義論理は，プログラムのアルゴリズムに関連が深い．アルゴリズムは一種の存在性の証明であり，プログラムと証明が関係していることについて紹介する．
+
+Intuitionistic logic does not allow to use proof by contradiction. It is more closely related to computer than classical logic.
+その他
+論理式に対して自然言語による記述は曖昧性が多いが，語彙や構文を限定することで多義性の問題を解決する方法もある．多義性の無い中間言語で記述することで，いろいろな言語に自動翻訳が可能になる．自然言語と論理学の関係について講義する．
+
+Compared with symbolic logic, natural language is ambiguous and difficul to use it for arguing with correctness of deduction. However, if it is restricted to a subset, it may be used as middle language for translating among different languages.";

@@ -1,0 +1,160 @@
+This class is a hands-on oriented Python programming for developing general applications intended for students who already have background in algorithm and data structure. The first half of the class focuses on the Python language while the second half focuses on developing Python applications.
+
+The class is conducted in English.
+
+This class is a hands-on oriented Python programming for developing general applications intended for students who already have background in algorithm and data structure. The first half of the class focuses on the Python language while the second half focuses on developing Python applications.
+
+The class is conducted in English.
+
+";
+The class teaches the basics of Python 2 and Python 3 with the objective that students will be able to develop applications using this language. This is a hands-on oriented class. Exercises/assignment every week.
+
+";
+第1回 Basics of Python
+Introduction to Python 
+Types 
+Expressions 
+Statements 
+Syntax 
+Documentation 
+
+*quiz for student selection (if necessary)
+
+第2回 Data Structure and Functions
+Types 
+String 
+List 
+Dictionary 
+Tuple 
+Set 
+Objects
+
+第3回 Functions, Modules, and Packages
+Built-in functions 
+Defining and calling functions 
+Modules 
+Packages
+
+第4回 Object Oriented Programming
+Review on Dictionary and List (lesson 2) 
+e-cell demo (Sano) 
+Objects and Classes 
+OOP in Python 
+Inheritance 
+第5回 Object Oriented Programming part 2(exercises), etc topics(when time permits)
+Exercise 3-x review 
+Quiz: OOP refresher 
+OOP Exercises/in-class assignments 
+
+
+When time permits: 
+Decorators,Idiomatic Python,Managed attributes ,Unit tests 
+第6回 Text Processing, (basic) File I/O
+Regular expression 
+File I/O 
+Web scraping 
+
+第7回 Data Crunching , Python coding style(when time permits)
+Working with data: NumPy, SciPy 
+JSON 
+
+When time permits: 
+Coding convention. 
+IDLE (debugger)
+
+第8回 Paralellism
+Several parallel processing tools and techniques in Python. 
+
+When time permits: 
+Codecs
+
+第9回 Network programming
+Socket 
+Twisted
+
+第10回 Web programming
+Developing web services
+
+第11回 Advanced topics in Python(1)-Husni-sensei as guest speaker
+Coding convention, ,Idiomatic Python, 
+More on OOP: Decorators,Managed attributes
+
+第12回 Advanced topics in Python(2)-Husni-sensei as guest speaker
+Discuss several advanced topics (continue from last week) 
+
+Unit tests .(Optional:Codecs)
+
+第13回 Final Project(1)
+Final Project consultation/progress report 
+
+Students decide the applications for their final projects and 
+design the applications. 
+This class is the part I: students discuss the application 
+requirements and design the applications. 
+
+possible/optional additional topics: 
+Tkinter, , IDLE (debugger),
+
+第14回 Final Presentation
+Students present their final projects. 
+Concluding of the course.
+
+その他
+Final Project
+
+";
+最近注目を集めているスクリプト言語である Ruby を使用し、フレームワークを利用したウェブアプリケーション制作の演習を行う。まず、Ruby の基本的な言語仕様とプログラミングテクニックについて学ぶ。次に、Ruby on Rails の使用法を学び、各自でそれを使って実用的なウェブアプリケーションを制作する。
+
+";
+最近注目を集めているスクリプト言語である Ruby を使用し、フレームワークを利用したウェブアプリケーション制作の演習を行う。まず、Ruby の基本的な言語仕様とプログラミングテクニックについて学ぶ。次に、Ruby on Rails の使用法を学び、各自でそれを使って実用的なウェブアプリケーションを制作する。
+
+";
+第1回 オリエンテーション
+Ruby on Rails は数分でアプリケーションを作れることで有名である。試しに実際にアプリケーションを作ってみる。
+
+第2回 Rubyの基礎(1) - 制御構造
+Rubyの基本的な文法と、繰り返し、場合分け、例外処理などの制御構造。
+
+第3回 Rubyの基礎(2) - データ構造
+文字列、配列、ハッシュなどのデータ構造。
+
+第4回 Rubyの基礎(3) - ブロック付きメソッド
+Rubyの特徴的な構文であるブロック付きメソッドについて学ぶ。
+
+第5回 Rubyの基礎(4) - オブジェクト
+継承などオブジェクト指向の基本的な概念を復習し、さらにRuby特有の特異メソッドについて学ぶ。
+
+第6回 Ruby on Rails (1) - モデル
+ウェブアプリケーションの構造とMVCについての説明。 
+簡単なモデルの作り方。
+
+第7回 Ruby on Rails (2) - ビュー
+erbファイルとレイアウト。
+
+第8回 Ruby on Rails (3) - コントローラ
+コントローラを中心としたRailsの処理の流れ。 
+ルーティング、レンダリングの説明。
+
+第9回 Ruby on Rails (4) - フォーム
+ユーザがデータを入力する際の処理の流れ。 
+メニューやラジオボタンなどのGUI部品の説明。
+
+第10回 Ruby on Rails (5) - 画像
+画像のアップロードや表示に関する機能。
+
+第11回 Ruby on Rails (6) - 検索
+検索条件の入力と結果を表示するページ。
+
+第12回 Ruby on Rails (7) - プラグイン
+Rubyのパッケージ管理システムであるgemとbundlerについての説明。 
+Railsのユーザ認証プラグインの例。
+
+第13回 Ruby on Rails (8) - サーバでの公開
+作成したアプリケーションをサーバで公開する方法。
+
+第14回 最終課題の制作
+Railsを使ったウェブアプリケーションの設計と制作を行う。
+
+その他
+最終課題の発表：制作したウェブアプリケーションについて発表を行う。
+";

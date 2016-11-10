@@ -1,0 +1,73 @@
+来るべきユビキタス情報空間（環境）では，情報家電機器，携帯電話，ホームサーバ，フィールドサーバ等の多種多様な電子デバイスをはじめ，極小化されたコンピュータが埋め込まれた日常の様々なオブジェクトまでが，ネットワークを介して有機的に接続され，我々の日常生活を陰に日向に支えるサービス提供システムを構築する．本講義では，モバイル・分散プログラミング，空間プログラミング，コンテクストアウェアプログラミング，知的情報空間の構築法およびユビキタスサービスアーキテクチャについて，実例を交えて議論する．
+
+This course employs case studies in its discussion of mobile and distributed programming space programming context-aware programming intellectual information space construction and ubiquitous service architecture.
+
+";
+来るべきユビキタス情報空間（環境）では，情報家電機器，携帯電話，ホームサーバ，フィールドサーバ等の多種多様な電子デバイスをはじめ，極小化されたコンピュータが埋め込まれた日常の様々なオブジェクトまでが，ネットワークを介して有機的に接続され，我々の日常生活を陰に日向に支えるサービス提供システムを構築します．本講義では，モバイル・分散プログラミング，空間プログラミング，コンテクストアウェアプログラミング，知的情報空間の構築法およびユビキタスサービスアーキテクチャについて，実例を交えて議論します．
+
+In the forthcoming ubiquitous information space (environment) various artifacts, such as home information appliances, cell-phones, home servers and field servers, and even ordinary objects in which tiny computers are embedded are organically-connected each other by computer networks. Then they construct useful service platforms that supports our daily lives in effectively invisible way. This course employs case studies in its discussion of mobile and distributed programming, space programming, context-aware programming, smart space construction and ubiquitous service architecture.
+
+";
+第1回 Introduction
+- Aims and policies 
+- Confirmation of basic knowledge and skills 
+- Novel computing paradigms
+
+第2回 Main casts in Ubicomp: uMobile and uService
+- Introduction to ubiquitous service architecture
+
+第3回 uService architecture I
+- Construction of smart spaces 
+- Context-aware services 
+- Context-aware programming
+
+第4回 uService architecture II
+- Context generation 
+- Space programming
+
+第5回 uMobile architecture I
+- Mobile society with cell-phones 
+- Mobile and Distributed programming
+
+第6回 uMobile architecture II
+- Wearable sensors and user contexts 
+- Vital information and applications
+
+第7回 RFID tags and short-range wireless communication
+- RFIDs in information services 
+- Electronic money and IC cards
+
+第8回 Location information and real-world information services
+- Location information 
+- Spatial information technologies and GIS 
+- Real-world sensing and real-world search services 
+- Area contexts, mood maps and ...
+
+第9回 Sociable Robot and Augmented Human
+- H2R, R2R communication 
+- Human hacking 
+- Sensuous computing 
+- Embodiment in interactions 
+- Realistic sensation in communication
+
+第10回 Sensor Actuator Network: Sensing with Drones I
+- Sensor networks 
+- Designing original Drones
+
+第11回 Sensor Actuator Network: Sensing with Drones II
+- Implementing the Drones
+
+第12回 Sensor Actuator Network: Sensing with Drones III
+- Implementing sensors on the Drones
+
+第13回 Final project I
+- Description of project theme 
+- Preparation of programing environment
+
+第14回 Final project II
+- System design and discussion
+
+その他
+* Final project III* - Demonstration and review
+- Future vision of ubiquitous information society
+";

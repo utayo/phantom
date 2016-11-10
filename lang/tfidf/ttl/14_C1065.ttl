@@ -1,0 +1,130 @@
+This is an introductory Microeconomics course. Though I assume some students have taken Microeconomics 1, none of its topics is prerequisite for this course. We will start with a brief review of basics principles of Economics. Then, we will discuss how markets work, and will consider welfare in equilibrium. We will also consider externalities that a simple demand-supply model fails to take into account. Firm behavior and the organization of industry, in particular, the costs of production and monopoly in the markets are then studied. Finally, the markets for the factor of production, such as labor and capital markets are studied. Although this course requires some mathematical knowledge, including basic calculus and linear algebra, I will try not to make lectures technical, but rather intuitive.
+
+入門レベルのミクロ経済学の講義を行う。ミクロ1を履修済みの学生が履修者に含まれることも想定するが、ミクロ1の内容はこの講義の必須前提ではない。 まず経済学の基本的な考え方の概観から始める。その後、市場機構がどのように機能するのかを考え、厚生基準に基づいて均衡について考察する。さらに、単純な需要供給モデルでは考慮されない外部性についても学ぶ。こののち、企業行動と産業組織、特に生産の費用と独占について考える。最後に資本市場と労働市場という、要素市場について学ぶ。 簡単な数学を必要とするが、講義では直観的理解に訴えるよう心掛けるつもりである。
+
+";
+Learning Outcomes
+
+After completing this course, the successful students will be able to:
+
+describe how households’ utility maximization results in the demand curve and how firms’ profit maximization or cost minimization results in the supply curve;
+analyze the market mechanism, in particular, the determination of the price for each good by utilizing both mathematical and graphical representations of demand and supply functions; and
+discuss issues pertain to monopoly, externality, and government intervention by applying the main idea of the market mechanism.
+";
+第1回 Introduction
+Chapter 1: Ten Principles of Economics
+
+第2回 Supply and Demand I
+Chapter 4: The Market Forces of Supply and Demand
+
+第3回 Supply and Demand I
+Chapter 5: Elasticity and Its Application
+
+第4回 Supply and Demand I
+Chapter 6: Supply, Demand, and Government Policies
+
+第5回 Supply and Demand II
+Chapter 7: Consumers, Producers, and the Efficiency of Markets
+
+第6回 Supply and Demand II
+Chapter 8: The Costs of Taxation
+
+第7回 The Economics of Public Sector
+Chapter 10: Externalities
+
+第8回 Chapter 14: Firms in Competitive Markets
+Chapter 13: The Costs of Production
+
+第9回 Firm Behavior and the Organization of Industry
+Chapter 14: Firms in Competitive Markets
+
+第10回 Firm Behavior and the Organization of Industry
+Chapter 14: Firms in Competitive Markets
+
+第11回 Firm Behavior and the Organization of Industry
+Chapter 15: Monopoly
+
+第12回 Firm Behavior and the Organization of Industry
+Chapter 15: Monopoly
+
+第13回 The Economics of Labor Markets
+Chapter 18: The Markets for the Factors of Production
+
+第14回 Review 
+Review
+
+その他
+Midterm Exam (In class, the date will be announced later)
+
+";
+　ミクロ経済学は、経済学の基礎を形成する最も重要な科目であり、経済活動や経済政策などについて考察する際の分析視点や分析手法を提供する。この科目では、主体間の依存関係の考察を軸として、ミクロ経済学についての専門的な知識や、ゲーム理論の基礎的な知識の獲得を目指す。具体的には、経済主体の意思決定と、経済主体相互の依存関係の厳密な分析について学び、市場機構の機能と有効性について考える。その上で、市場機構が十分に機能しない状況についての分析、それへの政策を通じた対処法などについて考える。
+
+This lecture is an intermediate microeconomic analysis. The purpose of
+
+this lecture is to provide the techniques of equilibrium analysis. Topics covered are the foundations of the positive and normative analysis of interaction among agents in competitive markets.
+
+";
+　ミクロ経済学についてのより正確で応用力の伴った知識の習得を目標とする。ミクロ経済１を履修していることが望ましいが、できるだけ予備知識を必要としなくて済むようにテーマを選んで講義を進める予定。 　授業は、担当者が用意したレジュメに従いながら講義形式で進める。レジュメはウェブ上で公開予定。
+
+The purpose of this lecture is to provide the techniques of equilibrium analysis.　 Resume for this lecture will be avialable through WEB page.
+
+";
+第1回 市場機構の意味[ Market mechanism ]
+需要･供給や市場機構の意味について
+
+Intuitive image of market mechanism is shown.
+第2回 選好関係と効用[ Preference and utility ]
+主体の選好関係の性質と効用について
+
+The axioms of preference order are introduced and the relation between prefence and utility functiions is explained.
+第3回 パレート効率[ Pareto Optimality ]
+効率的な経済活動について
+
+Efficiency of allocation of resources is explained.
+第4回 純粋交換経済[ Pure exchange economies ]
+市場均衡とパレート効率性について
+
+Economies without production are considered and the relation between competitive market equilibria and Pareto efficient allocations of resources is explained.
+第5回 厚生経済学の基本定理[ Fundamental theorems of welfare economics ]
+市場機構の有効性について
+
+The relation between competitive market equilibria and Pareto efficient allocations of resources is explained.
+第6回 社会的余剰[ Social surplus ]
+部分均衡分析と効率性について
+
+Social surplus in market equilibria is analyzed.
+第7回 課税[ Regulation ]
+課税と社会的余剰について
+
+Social surplus in equilibria of economies with some regulations is analyzed.
+第8回 貿易[ Trade ]
+自由貿易と関税について
+
+Social welfare in equilibria of economies with trade is analyzed.
+第9回 市場の失敗[ Market failure ]
+市場機構の限界について
+
+The efficiency of competitive market eequilibiria is reconsidered.
+第10回 外部性[ Externalities ]
+外部性とコースの定理について
+
+Economies with externalities are considered and Coase theorem is explained.
+第11回 公共財[ Public goods ]
+公共財とサミュエルソン条件について
+
+Economies with public goods are considered and Samuelson condition is shown.
+第12回 公共財と戦略的意思決定[ Public goods and strategic decision ]
+公共財と個人の誘因について
+
+The relation between public and priovate incentives is analyzed.
+第13回 メカニズム・デザイン[ Mechanism design ]
+誘因両立的なメカニズムについて
+
+Mechanism that is incentive compatible in the economomy with public goods is analyzed.
+第14回 情報の非対称性[ Information asymmetry ]
+逆選択やモラル･ハザードについて 
+Adverse selection and moral hazard are analyzed.
+その他
+*ダウンズ・モデル * 投票と政策決定について
+
+";

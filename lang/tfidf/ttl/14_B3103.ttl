@@ -1,0 +1,187 @@
+高校で習った微積分学を復習すると共に、多変数関数へ微分・積分を拡張することを目標とします。一変数関数に対して、接線（線形近似）の話は高次導関数を用いることにより、テイラー展開（多項式近似）へと拡張されます。これにより極大・極小の判定（極値問題）がより正確にできるようになります。また以上のような1変数関数の話を多変数関数に拡張します。微分は偏微分と呼ばれ、多変数関数に対するテーラー級数から極値問題や条件付極値問題の解法が得られます。さらに多変数関数の重積分と累次積分を扱います。これらの多変数関数の微分・積分を知ることにより、高次元の体積や面積を求めることができます。
+
+We overview differential and integral calculus learned at high school. Our aim is to generalize these to functions of several variables. For functions with one variable, first we extend the concept of tangent (linear approximation) to the theory of Taylor (polynomial approximation). As an application, we can solve the extreme problem in detail. For functions of several valuables, derivative is called partial derivative. We extend the theory of Taylor and the extreme problem to functions with several variables. Moreover, we consider integral of functions of several variables, which is called multiple integral. By using this we can obtain volume and area of high dimensional objects.
+
+";
+一変数関数の微分・積分を復習する。高階の微分を用いることにより、テイラー展開を導く。これにより極値問題の精密化を試みる。次に多変数関数に微分・積分を拡張する。高階の偏微分を用いることにより、多変数関数のテイラー展開を導く。これにより多変数関数の極値問題や条件付極値問題を扱えるようになる。さらに多変数関数の重積分や累次積分を学び、面積や体積の計算に役立てる。
+
+We overview differential and integral calculus learned at high school. By using higher order derivatives we introduce Taylor's expansion and then, refine the extreme problem. Next we generalize these to functions of several variables. We can handle the extreme problem for functions of several variables. Moreover, we study integral of functions of several variables, which is called multiple integral. By using this we can obtain volume and area of high dimensional objects.
+
+";
+第1回 ガイダンス[ Overview of Lecture ]
+第2回 関数の極限と連続性[ Limit and Coninuity ]
+第3回 関数の微分 [ Derivatives ]
+第4回 関数の増減[ Graphing by Using Derivatives ]
+第5回 テイラー展開 [ Taylor Expansion ]
+第6回 極値問題[ Extreme Problem ]
+第7回 多変数関数の微分（偏微分と全微分） [ Differential of Functions of Several Variables (partial and total derivative) ]
+第8回 偏微分の計算（合成関数の微分公式） [ Chain Rules ]
+第9回 多変数関数のテイラー展開[ Taylor Expansion of Function of Several Variables ]
+第10回 多変数関数の極値問題と条件付極値問題[ Extreme Problem of Function of Several Variables ]
+第11回 不定積分と定積分[ Indefinite and Definite Integral ]
+第12回 重積分と累次積分[ Multi Integral and Repeated Integral ]
+第13回 変数変換[ Change of Variables ]
+第14回 面積・体積の計算[ Calculation of Volume and Area ]
+その他
+質問とまとめ
+
+Q & A, Wrap-Up";
+高校で習った微積分学を復習すると共に、多変数関数へ微分・積分を拡張することを目標とします。一変数関数に対して、接線（線形近似）の話は高次導関数を用いることにより、テイラー展開（多項式近似）へと拡張されます。これにより極大・極小の判定（極値問題）がより正確にできるようになります。また以上のような1変数関数の話を多変数関数に拡張します。微分は偏微分と呼ばれ、多変数関数に対するテーラー級数から極値問題や条件付極値問題の解法が得られます。さらに多変数関数の重積分と累次積分を扱います。これらの多変数関数の微分・積分を知ることにより、高次元の体積や面積を求めることができます。
+
+We overview differential and integral calculus learned at high school. Our aim is to generalize these to functions of several variables. For functions with one variable, first we extend the concept of tangent (linear approximation) to the theory of Taylor (polynomial approximation). As an application, we can solve the extreme problem in detail. For functions of several valuables, derivative is called partial derivative. We extend the theory of Taylor and the extreme problem to functions with several variables. Moreover, we consider integral of functions of several variables, which is called multiple integral. By using this we can obtain volume and area of high dimensional objects.
+
+";
+一変数関数の微分・積分を復習する。高階の微分を用いることにより、テイラー展開を導く。これにより極値問題の精密化を試みる。次に多変数関数に微分・積分を拡張する。高階の偏微分を用いることにより、多変数関数のテイラー展開を導く。これにより多変数関数の極値問題や条件付極値問題を扱えるようになる。さらに多変数関数の重積分や累次積分を学び、面積や体積の計算に役立てる。
+
+We overview differential and integral calculus learned at high school. By using higher order derivatives we introduce Taylor's expansion and then, refine the extreme problem. Next we generalize these to functions of several variables. We can handle the extreme problem for functions of several variables. Moreover, we study integral of functions of several variables, which is called multiple integral. By using this we can obtain volume and area of high dimensional objects.
+
+";
+第1回 ガイダンス[ Overview of Lecture ]
+第2回 関数の極限と連続性[ Limit and Coninuity ]
+第3回 関数の微分 [ Derivatives ]
+第4回 関数の増減[ Graphing by Using Derivatives ]
+第5回 テイラー展開 [ Taylor Expansion ]
+第6回 極値問題[ Extreme Problem ]
+第7回 多変数関数の微分（偏微分と全微分） [ Differential of Functions of Several Variables (partial and total derivative) ]
+第8回 偏微分の計算（合成関数の微分公式） [ Chain Rules ]
+第9回 多変数関数のテイラー展開[ Taylor Expansion of Function of Several Variables ]
+第10回 多変数関数の極値問題と条件付極値問題[ Extreme Problem of Function of Several Variables ]
+第11回 不定積分と定積分[ Indefinite and Definite Integral ]
+第12回 重積分と累次積分[ Multi Integral and Repeated Integral ]
+第13回 変数変換[ Change of Variables ]
+第14回 面積・体積の計算[ Calculation of Volume and Area ]
+その他
+質問とまとめ
+
+Q & A, Wrap-Up";
+We review the calculus studied in a high school and generalize it for functions with several variables. Tangent lines (linear approximation) are generalized to Taylor expansions (polynomial approximation). For their applications, we consider extreme problems. We then study calculus with several variables - partial differentials, extreme problems, and extreme problems with restrains. Furthermore, we refer to multiple integrals and repeated integrals.
+
+高校で習った微積分学を復習すると共に、多変数関数へ微分・積分を拡張することを目標とします。接線（線形近似）の話は高次導関数を用いることにより、テイラー展開（多項式近似）へと拡張されます。これにより極大・極小の判定（極値問題）がより正確にできるようになります。また以上のような1変数関数の話を多変数関数に拡張します。微分は偏微分と呼ばれ、多変数関数に対するテーラー級数から極値問題や条件付極値問題の解法が得られます。さらに多変数関数の重積分と累次積分を扱います。これらの多変数関数の微分・積分を知ることにより、微分・積分の応用が何倍にも広がります。
+
+";
+We review calculus of unary functions. Using higher differentiation, we study Taylor expansions and consider extreme problems. We then apply calculus to polynomial functions. Using higher-order partial differentiation, we derive polynomial Taylor expansions and consider polynomial extreme problems with/without restrains. Furthermore, we refer to multiple integrals and repeated integrals.
+
+";
+第1回 第1回
+Guidance
+
+第2回 第2回
+Limits of functions, Continuous functions (Various functions, etc.)
+
+第3回 第３回
+Limits of functions, Continuous functions (Graphs of functions, limits, etc.)
+
+第4回 第4回
+Limits of functions, Continuous functions (Continuity, etc.)
+
+第5回 第5回
+Derivatives of functions, Analysis of functions (Differentials, etc.)
+
+第6回 第6回
+Derivatives of functions, Analysis of functions (Chain rules, etc.)
+
+第7回 第7回
+Derivatives of functions, Analysis of functions (Extreme problems, etc.)
+
+第8回 第8回
+Mid-term examination (depending on the progress)
+
+第9回 第9回
+Taylor expansion, Maclaurin expansion (Taylor's theorem, etc.)
+
+第10回 第10回
+Polynomial calculus (Partial differentials, etc.) 
+第11回 第11回
+Polynomial calculus (Extreme problems, etc.) 
+第12回 第12回
+Polynomial calculus (Indefinite and definite integrals, etc.)
+
+第13回 第13回
+Polynomial calculus (Multiple integrals and repeated integrals, etc.)
+
+第14回 第14回
+Final examination
+
+その他
+Q & A
+";
+高校で習った微積分学を復習すると共に、多変数関数へ微分・積分を拡張することを目標とします。一変数関数に対して、接線（線形近似）の話は高次導関数を用いることにより、テイラー展開（多項式近似）へと拡張されます。これにより極大・極小の判定（極値問題）がより正確にできるようになります。また以上のような1変数関数の話を多変数関数に拡張します。微分は偏微分と呼ばれ、多変数関数に対するテーラー級数から極値問題や条件付極値問題の解法が得られます。さらに多変数関数の重積分と累次積分を扱います。これらの多変数関数の微分・積分を知ることにより、高次元の体積や面積を求めることができます。
+
+We overview differential and integral calculus learned at high school. Our aim is to generalize these to functions of several variables. For functions with one variable, first we extend the concept of tangent (linear approximation) to the theory of Taylor (polynomial approximation). As an application, we can solve the extreme problem in detail. For functions of several valuables, derivative is called partial derivative. We extend the theory of Taylor and the extreme problem to functions with several variables. Moreover, we consider integral of functions of several variables, which is called multiple integral. By using this we can obtain volume and area of high dimensional objects.
+
+";
+一変数関数の微分・積分を復習する。高階の微分を用いることにより、テイラー展開を導く。これにより極値問題の精密化を試みる。次に多変数関数に微分・積分を拡張する。高階の偏微分を用いることにより、多変数関数のテイラー展開を導く。これにより多変数関数の極値問題や条件付極値問題を扱えるようになる。さらに多変数関数の重積分や累次積分を学び、面積や体積の計算に役立てる。
+
+We overview differential and integral calculus learned at high school. By using higher order derivatives we introduce Taylor's expansion and then, refine the extreme problem. Next we generalize these to functions of several variables. We can handle the extreme problem for functions of several variables. Moreover, we study integral of functions of several variables, which is called multiple integral. By using this we can obtain volume and area of high dimensional objects.
+
+";
+第1回 ガイダンス[ Overview of Lecture ]
+第2回 関数の極限と連続性[ Limit and Coninuity ]
+第3回 関数の微分 [ Derivatives ]
+第4回 関数の増減[ Graphing by Using Derivatives ]
+第5回 テイラー展開 [ Taylor Expansion ]
+第6回 極値問題[ Extreme Problem ]
+第7回 多変数関数の微分（偏微分と全微分） [ Differential of Functions of Several Variables (partial and total derivative) ]
+第8回 偏微分の計算（合成関数の微分公式） [ Chain Rules ]
+第9回 多変数関数のテイラー展開[ Taylor Expansion of Function of Several Variables ]
+第10回 多変数関数の極値問題と条件付極値問題[ Extreme Problem of Function of Several Variables ]
+第11回 不定積分と定積分[ Indefinite and Definite Integral ]
+第12回 重積分と累次積分[ Multi Integral and Repeated Integral ]
+第13回 変数変換[ Change of Variables ]
+第14回 面積・体積の計算[ Calculation of Volume and Area ]
+その他
+質問とまとめ
+
+Q & A, Wrap-Up";
+高校で習った微積分学を復習すると共に、多変数関数へ微分・積分を拡張することを目標とします。一変数関数に対して、接線（線形近似）の話は高次導関数を用いることにより、テイラー展開（多項式近似）へと拡張されます。これにより極大・極小の判定（極値問題）がより正確にできるようになります。また以上のような1変数関数の話を多変数関数に拡張します。微分は偏微分と呼ばれ、多変数関数に対するテーラー級数から極値問題や条件付極値問題の解法が得られます。さらに多変数関数の重積分と累次積分を扱います。これらの多変数関数の微分・積分を知ることにより、高次元の体積や面積を求めることができます。
+
+We overview differential and integral calculus learned at high school. Our aim is to generalize these to functions of several variables. For functions with one variable, first we extend the concept of tangent (linear approximation) to the theory of Taylor (polynomial approximation). As an application, we can solve the extreme problem in detail. For functions of several valuables, derivative is called partial derivative. We extend the theory of Taylor and the extreme problem to functions with several variables. Moreover, we consider integral of functions of several variables, which is called multiple integral. By using this we can obtain volume and area of high dimensional objects.
+
+";
+一変数関数の微分・積分を復習する。高階の微分を用いることにより、テイラー展開を導く。これにより極値問題の精密化を試みる。次に多変数関数に微分・積分を拡張する。高階の偏微分を用いることにより、多変数関数のテイラー展開を導く。これにより多変数関数の極値問題や条件付極値問題を扱えるようになる。さらに多変数関数の重積分や累次積分を学び、面積や体積の計算に役立てる。
+
+We overview differential and integral calculus learned at high school. By using higher order derivatives we introduce Taylor's expansion and then, refine the extreme problem. Next we generalize these to functions of several variables. We can handle the extreme problem for functions of several variables. Moreover, we study integral of functions of several variables, which is called multiple integral. By using this we can obtain volume and area of high dimensional objects.
+
+";
+第1回 ガイダンス[ Overview of Lecture ]
+第2回 関数の極限と連続性[ Limit and Coninuity ]
+第3回 関数の微分 [ Derivatives ]
+第4回 関数の増減[ Graphing by Using Derivatives ]
+第5回 テイラー展開 [ Taylor Expansion ]
+第6回 極値問題[ Extreme Problem ]
+第7回 多変数関数の微分（偏微分と全微分） [ Differential of Functions of Several Variables (partial and total derivative) ]
+第8回 偏微分の計算（合成関数の微分公式） [ Chain Rules ]
+第9回 多変数関数のテイラー展開[ Taylor Expansion of Function of Several Variables ]
+第10回 多変数関数の極値問題と条件付極値問題[ Extreme Problem of Function of Several Variables ]
+第11回 不定積分と定積分[ Indefinite and Definite Integral ]
+第12回 重積分と累次積分[ Multi Integral and Repeated Integral ]
+第13回 変数変換[ Change of Variables ]
+第14回 面積・体積の計算[ Calculation of Volume and Area ]
+その他
+質問とまとめ
+
+Q & A, Wrap-Up";
+We review the calculus studied in a high school and generalize it for functions with several variables. Tangent lines (linear approximation) are generalized to Taylor expansions (polynomial approximation). For their applications, we consider extreme problems. We then study calculus with several variables - partial differentials, extreme problems, and estreme problems with restrains. Furthermore, we refer to multiple integrals and repeated integrals.
+
+";
+We review the calculus studied in a high school and generalize it for functions with several variables. Tangent lines (linear approximation) are generalized to Taylor expansions (polynomial approximation). For their applications, we consider extreme problems. We then study calculus with several variables - partial differentials, extreme problems, and estreme problems with restrains. Furthermore, we refer to multiple integrals and repeated integrals.
+
+";
+第1回 Introduction
+第2回 Limits of functions, Continuous functions (Various functions, etc.)
+第3回 Limits of functions, Continuous functions (Graphs of functions, limits, etc.)
+第4回 Limits of functions, Continuous functions (Continuity, etc.)
+第5回 Derivatives of functions, Analysis of functions (Differentials, etc.)
+第6回 Derivatives of functions, Analysis of functions (Chain rules, etc.)
+第7回 Derivatives of functions, Analysis of functions (Extreme problems, etc.)
+第8回 Taylor expansion, Maclaurin expansion (Mean-value theorem, etc.)
+第9回 Taylor expansion, Maclaurin expansion (Taylor's theorem, etc.)
+第10回 Polynomial calculus (Partial differentials, etc.) 
+第11回 Polynomial calculus (Extreme problems, etc.) 
+第12回 Polynomial calculus (Indefinite and definite integrals, etc.)
+第13回 Polynomial calculus (Multiple integrals and repeated integrals, etc.)
+第14回 Polynomial calculus (Calculation of area and volume, etc.)
+その他
+Q&A and reports.
+
+";

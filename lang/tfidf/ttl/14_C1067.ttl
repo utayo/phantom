@@ -1,0 +1,131 @@
+This is an introductory Macroeconomics course. Though I assume some students have taken Macroeconomics 1, none of its topics is prerequisite for this course. We will start with a brief review of basics of Macroeconomics that include the measurement of production, income, and expenditure of an economy. Then we will discuss production, growth, consumption, saving, and investment, and the determination thereof. After learning asset market, money, and prices, we will study the AD-AS model and Monetary and fiscal policy. Finally, the short-run tradeoff between unemployment and inflation will be discussed. Although this course requires some (very) basic mathematical knowledge, I will try not to make lectures technical, but rather intuitive.
+
+入門レベルのマクロ経済学の講義を行う。マクロ1を履修済みの学生が履修者に含まれることも想定するが、マクロ1の内容はこの講義の必須前提ではない。 まず国民経済計算について、すなわち生産、所得、および支出による国内総生産の測定について概観をしたのち、生産、成長、消費、貯蓄、について考察し、これらがどのように決定されるのかについて学ぶ。資産市場、貨幣、物価について解説したのち、AD-ASモデルと財政政策と金融政策について学ぶ。次いで、短期における物価上昇率と失業率の代替関係について、データを用いて考える。 簡単な数学を必要とするが、講義では直観的理解に訴えるよう心掛けるつもりである。
+
+";
+Learning Outcomes:
+
+After completing this course, the successful students will be able to:
+
+describe the basic concepts in the national accounting system;
+differentiate real variables from nominal variables, by identifying the role of inflation that arises from money;
+explain the relationship between the price level, output, and unemployment;
+distinguish equilibrium in aggregate demand-supply from equilibrium in a specific good market;
+outline the difference between long-run economic growth and short-run economic fluctuations; and
+discuss both long-run and short-run impacts of fiscal and monetary policies.
+";
+第1回 Introduction
+Chapter 10: Measuring a Nation’s income
+
+第2回 The Real Economy in the Long-Run
+Chapter 12: Production and Growth
+
+第3回 The Real Economy in the Long-Run
+Chapter 13: Saving, Investment and the Financial System
+
+第4回 The Real Economy in the Long-Run
+Chapter 15: Unemployment and Its Natural Rate
+
+第5回 Money and Prices in the Long-Run
+Chapter 16: The Monetary System
+
+第6回 Money and Prices in the Long-Run
+Chapter 17: Money Growth and Inflation
+
+第7回 Money and Prices in the Long-Run
+Chapter 17: Money Growth and Inflation
+
+第8回 Short-Run Economic Fluctuations
+Chapter 20: Aggregate Demand and Aggregate Supply
+
+第9回 Short-Run Economic Fluctuations
+Chapter 20: Aggregate Demand and Aggregate Supply
+
+第10回 Short-Run Economic Fluctuations
+Chapter 21: The Influence of Monetary and Fiscal Policy on Aggregate Demand
+
+第11回 Short-Run Economic Fluctuations
+Chapter 21: The Influence of Monetary and Fiscal Policy on Aggregate Demand
+
+第12回 Short-Run Economic Fluctuations
+Chapter 22: The Short-Run Tradeoff between Inflation and Unemployment
+
+第13回 Short-Run Economic Fluctuations
+Chapter 22: The Short-Run Tradeoff between Inflation and Unemployment
+
+第14回 Review
+Review
+
+その他
+Midterm exam (In class, the date will be announced later)
+
+";
+本講義では、マクロ経済学Iの既習者を対象として、マクロ経済学の応用編を取り扱う。
+
+This course is designed to learn advanced macroeconomics for students who already completead a coursework of basic economics.
+
+";
+本講義では、マクロ経済学の応用を学ぶ。(1) 長期の実物経済 (2) 長期における貨幣と価格 (3) 開放経済のマクロ経済学 (4) 短期の経済変動の4つにについて理解を深めることを目標とする。講義の理解度を確認するため、60分の講義と30分の演習問題を実施し、授業中に実施した演習問題と類似の問題を中間テストと期末テストでも行い、理解度を確認する。出席、中間テスト、期末テストの合計得点で成績評価を行う。
+
+The objective of this course is to learn applied macroeconomics.
+
+";
+第1回 序論：経済成長理論の基礎[ Introduction ]
+第1回目の講義では、本講義の学習目標や課題、採点基準について説明するほか、経済成長理論の基礎について解説を行う。
+
+The science of macroeconomics How economists think Data of macroeconomics
+第2回 経済成長理論の基礎（続き）[ Growth theory: the Economy in the very Long-run ]
+第2回目の講義では、前回の講義に引き続き、経済成長理論の基礎について学ぶ。特に経済成長の定常状態と黄金律の概念について学び、成長率が変化する条件について理解を深める。
+
+The Solow-type growth model: capital accumulation and population growth
+第3回 経済成長理論の応用[ Growth theory: Technology, Empirics and Policy ]
+第3回目の講義では、伝統的な経済成長理論であるソローモデルの限界を指摘し、技術進歩を内生化したモデルである新しい経済成長理論（内生的経済成長理論）の発展について学ぶ。
+
+The endogenous growth thery
+第4回 マクロ経済の安定化政策[ A Dynamic model of Aggregate demand and aggregate supply ]
+第4回目の講義では、経済の短期的な変動に対して、政策担当者がどのように行動すべきかを論じる。政策決定は「ルール」に基づいて行われるべきか「裁量」的に決定されるべきかという2つの対立する議論を紹介する。
+
+Introductions to economic flucturations
+第5回 日本銀行と金融政策[ Monetary Policy and Central Bank ]
+第5回目の講義では、前週に学んだマクロ経済の安定化政策の理論を振り返り、日本銀行の実際の金融政策のオペレーションがそれをどのように実現しているのかについて、日本銀行のエコノミストを招き、議論する。
+
+The money market and the role of the central bank
+第6回 政府負債と財政赤字[ Government debt and budget deficit ]
+第6回目の講義では、政府の負債と財政赤字に関する論争をテーマとする。財政赤字の測定方法についうて学ぶほか、政府負債の影響に関する伝統的な見方と、リカードの投下命題について学ぶ。
+
+Ricardian view of the government debt Other perspective on the government debt
+第7回 中間試験[ Mid-term exam ]
+第1回目から第6回目までの内容の理解度を確認するための中間試験を行う。
+
+Mid-term exam
+第8回 中間試験の解説[ Mid-term exam(2) ]
+中間試験問題の解説を行う。
+
+Interpretation and solution on the mid-term exam
+第9回 消費[ Consumption ]
+第9回目の講義以降は、マクロ経済学のミクロ的基礎について理解を深めることを目的とする。第9回目は特に、消費者行動に関する諸理論を提示する。
+
+Understanding consumer behevior
+第10回 投資[ Investment ]
+第10回目は投資関数の背後にある理論を検討する。また株式市場と投資の変動の関係を説明するトービンのqや、住宅投資、在庫投資の決定についても学ぶ。
+
+The theory of investment
+第11回 貨幣供給・貨幣需要と銀行システム[ Banking system ]
+第11回目は金融市場に関する内容として、マネーサプライの決定における銀行システムの役割とボーモル・トービンの貨幣需要に関するモデルを学ぶ。（第3回目のProblem Set）
+
+the Financial system (sharing risk and financial investment)
+第12回 総需要と総供給の動学モデル[ Alternative perspectives on stabilization policy (1) ]
+景気循環と金融・財政政策効果をみるために、動学的な総需要・総供給のモデルについて学ぶ。第12回目は動学モデルにおける短期均衡の決定までを学ぶ。
+
+Rule or Decision? Passive or Active?
+第13回 動学モデルを用いた議論[ Alternative perspectives on stabilization policy (2) ]
+第13回目は12回目で学んだ動学モデルをもとに、総需要や総供給にショックがあった場合、長期的成長にどのような影響がもたらされるのかについて学ぶ。
+
+Dynamic Model
+第14回 期末試験[ Final exam ]
+期末試験を行う。
+
+Final exam
+その他
+* 総まとめ* 総まとめを行う
+Wrap-up";

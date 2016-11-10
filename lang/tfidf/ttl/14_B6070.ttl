@@ -1,0 +1,93 @@
+Webやパソコンの中の大量の情報/複雑な情報/時間変化する情報を人間にわかりやすい形で表現することによって情報の検索や理解を容易にする情報視覚化技術全般について解説する。AR, GISなど関連する技術についても解説する。
+
+Since people have to handle and understand huge collections of data on their PCs and on the web, visualization techniques are getting extremely important. In this lecture, we introduce various aspects of visualization techniques, and study how we should use them for understanding and presenting large data.
+
+";
+インターネットの発展やディスクの大容量化によって、Web上や計算機の中の大量の情報を扱う機会が増えてきた。わかりやすく情報を人間に提示するための様々な技法が計算機の普及以前から書籍・看板・ポスターなど様々なメディアで利用されているが、計算機が広く利用されるようになってきた現在、自分が必要とする情報をインターネットから効率的に検索するための様々な対話的な情報視覚化技術が開発され実用的に利用されるようになってきている。また、時間的に変化する情報や複雑な構造をもつ情報の理解を助けるための情報視覚化技術も研究されている。このような情報視覚化技術の考え方や技術動向を、豊富な具体例をまじえて解説する
+
+While people can handle terabytes of data on their PCs and access petabytes of data on the Web, techniques for handling large amounts of data is becomming extremely important. Computer-based visualization techniques are promising for understanding and preseneting large amount of data, and new interesting techniques are emerging.
+
+Static visualization techniques have been used everywhere for a very long time on walls, posters, books, etc. In the age of modern computers, various dynamic and interactive visualization techniques are now available and people can navigate through huge information space interactively using effective interactive search systems and navigation systems, based heavily on modern visualization techniques and data analysys techniques.
+
+In this lecture, we introduce various visualization techniques, tools, and algorithms for handling huge amount of data available today, with many real-world examples.
+
+";
+第1回 情報視覚化の概要[ Introduction to information visualization ]
+情報視覚化システムの現状及び研究の歴史を紹介し、情報視覚化技術と本講 
+義の概要を述べる。
+
+Introduction of the history and current status of information visualization systems.
+第2回 情報視覚化の基礎技術[ Basic techniques for information visualivation ]
+看板やポスターなどで情報をわかりやすく人間に提示するためのノウハウは 
+昔から広く知られている。また、計算機の小さな画面で大量の情報を効率的 
+に扱えるようにするための3次元表示、ズーミング、情報の変型表示、フィル 
+タリングなどの技術や対話的操作技術が存在する。情報視覚化に必要なこれ 
+らの基礎的な技術について解説する。
+
+We introduce various basic information visualization techniques used in various medium including poster, signages, book covers, etc.
+第3回 階層的データの視覚化[ Information visualization of hierarchical data ]
+大規模なデータは階層的に構成されているものが多い。近年の計算機のファ 
+イルシステムは階層的なディレクトリ構造を持っているし、地理情報/書籍情 
+報/辞書などのような大規模データは階層的に構成されている。巨大な階層的 
+データを視覚化するための各種の手法を解説する。
+
+We describe various techniques for visualizing and understanding large hierarchical data like computer files on conventional computing systems.
+第4回 ネットワークデータの視覚化[ Information visualization of network data ]
+Web上の情報は階層的に構成されておらず、多数の情報がリンクによって結合 
+されているという特徴がある。脳内の情報もWebの情報も、現実社会の情報の 
+多くはきちんと階層化されておらず、雑多な情報がリンクされたものになっ 
+ていると考えられる。ネットワーク的に結合された情報を視覚化する技術を 
+紹介する。
+
+We describe variours techniques for visualizing and understanding large linked data like links between Web pages and relations between SNS users.
+第5回 表情報の視覚化 [ Information visualization of large matrix data ]
+行と列で構成された表形式で表現すると理解しやすいデータが数多く存在し、これらを扱う表計算ソフトウェア(スプレッドシート)が広く利用されている。大きな表を効果的に視覚化して扱う技法について解説する。 
+We introduce techniques for visualizing and understanding the structure of large matrix data like spreadsheet data and RDB data.
+第6回 時間変化する情報の視覚化[ Information visualization of timeline-based data ]
+気温や株価のように時間とともに変化する値を表現するグラフはなじみ深 
+い。時間とともに非定常的に変化する情報や、局所的に変化する情報など、 
+時間とともに変化する様々なデータを視覚化する方法を解説する。
+
+Changing data can be visualized as a timeline-based graph. We introduce various information visualization techniques for handling changing data.
+第7回 情報視覚化と情報検索[ Information visualization and information retrieval ]
+大量のデータの中から必要な情報を効果的に検索する手法として様々な情報視覚化技術が利用されている。検索結果を絞り込むためにキーワードや条件を用いたフィルタリングを利用することが一般的であるが、データ間の関連を利用する手法も有効である。検索作業を支援するための情報視覚化手法について解説する。
+
+Information visualization techniques can be used for various information retrieval tasks. We describe how information visualization techniques are used for various information retrieval tasks.
+第8回 情報視覚化とGUI[ Information visualization and graphical user interfaces ]
+メニューやスクロールバーのようなGUI(グラフィカルユーザインタフェース) 
+部品が広く利用されているが、このようなGUI部品は計算機情報の対話的視覚 
+化ツールだということもでき、様々な拡張が提案されている。計算機操作を 
+効率化するための視覚化技法について述べる。 
+
+Most of the GUI tools like menus, icons, windows, sliders, etc. are used for visualizaing the status of computers. We introduce how various GUI tools have been invented and used for visualizing various status of computers.
+第9回 Webと情報視覚化[ Web and information visualization ]
+Webは情報視覚化技術の壮大なテストベッドとなっている。情報視覚化の対象 
+となるデータのほとんどがWeb上に存在し、データを検索したり閲覧したりす 
+るための様々な情報視覚化システムがWeb上で提供されている。ブラウザを 
+使った各種のWeb情報視覚化システムの技法や実例を紹介する。
+
+We can see many information visualization techniques on the browsers, where various techniques are used to present large and complicated data on the Web to be understood by many users. Web introduce various information visualization techniques available on browsers.
+第10回 ビジュアルプログラミング[ Visual programming ]
+図形を操作する場合や並列動作を扱う場合など、プログラムで扱う対象や操作を図形的に表現することにより、テキストベースのプログラミングより作成や理解が簡単になることがある。このような「ビジュアルプログラミング」と視覚化手法との関連について述べる。 
+
+Most software are written in conventional text-based programming languages, but 'visual programming' languages are receently getting attentions, since visually represented software is more easy to understand for people than conventional text-based languages. We introduce various visual programming languages which are based on visualization techniques.
+第11回 情報視覚化とアニメーション[ Information visualization and animation ]
+ほとんどの情報視覚化システムの画面は静的で動きが無いが、画面に入りきらない情報を表示したり、情報の一部を強調したり、時間変換を表現したり、プログラムの動きを表現したりするためにアニメーションや動画を利用すると有効な場合がある。アニメーションを情報視覚化に活用する技術について述べる。
+
+Static visualization techniques have been around for many years, where large information is laid out on papers and walls. Using modern computers and high-resolution screens, larger data can be displayed using dynamic animation and visualization techniques. We show how animations can be used for showing large data and changing data.
+第12回 情報視覚化と統計処理 [ Information visualization and statistics ]
+大規模なデータの中から意味のある情報を取得するために各種の統計適計算手法が従来から利用されているが、従来型の統計処理手法と情報視覚化を組み合わせることにより対話的に効果的にデータを探索する手法が近年注目を集めている。統計的計算と視覚化を組みあわせる手法について解説する。 
+
+The combination of information visualization techniques and statistical analysis algorithms is getting attentions recently. We introduce various systems and techniques which support such combinations.
+第13回 情報視覚化と集合知 [ Information visualization and collective intelligence ]
+Web上で多数のユーザが情報を提供するSNSなどのサービスが近年急増しており、それらのユーザの行動の結果として出現する集合知を利用する方法の研究が注目を集めている。情報視覚化技術の利用により集合知を活用する手法について述べる。 
+
+Huge amount of data posted by users are accumulated on the Web, and they can be very useful if they are handled properly. We introduce visualization techniques for handling such data for taking advantage of collective intelligence.
+第14回 情報視覚化と社会 [ Information visualization and the society ]
+障害の有無や得手不得手、文化の違いなどにかかわらず誰でも使えるシステムを設計する「ユニバーサルデザイン」という考え方が普及しつつある。情報視覚化技術によりあらゆる人間が利益を得られるようにするための技術及び情報視覚化技術の社会的影響について考える。
+
+Information visualization techniques should be used by all the people in the society, and great care must be taken for making such systems universal. We discuss how we should designing information visualization systems that are truly useful for all the people in the society.
+その他
+Web上の興味深い視覚化システムについて発表を行ない履修者で情報を共有する
+
+During the class, course takers should introduce new Web pages with interesting visualization ideas so that we can share them.";

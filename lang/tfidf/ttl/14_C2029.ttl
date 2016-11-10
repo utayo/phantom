@@ -1,0 +1,71 @@
+認知科学は実験心理学とは異なる思想を持つ．自然科学的客観性を重視し過ぎるが故に認知をブラックボックスと扱った行動主義への批判と，コンピュータの出現に伴う認知への理解欲求から生まれた学問である．人間の知能は身体と言葉の相互作用により成り立つ．身体が進化すれば言葉も変わり，言葉が変われば身体も変わる．両者のインタラクションを科学的探究の俎上にのせることが認知科学の究極の目的である．そのためには過度な客観主義に縛られることなく，意識という主観的・内部観測的データにも眼を向ける必要がある．更に，現象を分析的に理解するだけではなく，認知と環境のインタラクションを構成的に創造し理解する方法論が必要である．本講義では最近の理論・実践を紹介し，新しい知能学問のあり方を議論する．
+
+If objectivity and universality is too much imposed on studies of intelligence, cognitive processes will be sort of a black-box and the studies will stumble. Cognitive science and artificial intelligence actually begin to experience difficulty of that sort, because of the conventional methodology of natural science. This lecture will clarify what the deficiency of that methodology is and how the studies on intelligence can cope with it.
+
+";
+認知科学は，意識と身体と環境の関係の上に認知がどのように成り立つかを問う学問であることを，身近な例をとりあげて学ぶ，従来の意味での自然科学的な方法論だけに固執していては上記の目的は果たせないことに関して，哲学的，科学論的観点からも議論を行う．したがって，いわゆる狭い意味での認知科学（例えば典型的な教科書が掲載する内容）だけでなく，関連する哲学（現象学や科学論）や実験心理学にも言及しながら，幅広い視点から認知科学的なパラダイムを学ぶことになる．
+
+グループディスカッションとそれに基づく発表は頻繁に行う． なるべく身近な認知プロセスを学生自らが選定し，自分で自分を観察する手法を駆使し，その観察（専門用語では内部観測と称する）を基に実践的に「認知科学」を論じることになる．
+
+If objectivity and universality is too much imposed on studies of intelligence, cognitive processes will be sort of a black-box and the studies will stumble. Cognitive science and artificial intelligence actually begin to experience difficulty of that sort, because of the conventional methodology of natural science. This lecture will clarify what the deficiency of that methodology is and how the studies on intelligence can cope with it.
+
+Group discussions will be often used. Assignments in class will also be frequent. Students are supposed to select ( think of) cognitive processes as close to daily life as possible to discuss how studies of cognitive science should be.
+
+";
+第1回 テレビドラマに見る認知科学的問題[ A problem on cognitive science that can be seen in a TV drama ]
+近年，法律や医学を扱ったテレビドラマに共通して示唆される問題に，「説明」や「解釈」という問題がある．この問題は「知の科学はどうあるべきか」という根源的な問いに深く関連し，本授業でとりあげる「認知科学的パラダイム」が従来の自然科学主義とどう融合するかの議論に大きなヒントになる．選定されたテレビドラマを視聴して議論し，本授業のトピックへの導入とする．
+
+A TV drama dealing with law or medical science will be shown to discuss a fundamental problem on cognitive science.
+第2回 認知科学の新しい潮流[ A new wave in cognitive science ]
+「生きているひと」の研究をしたい！それが認知科学のあるべき姿である．旧来の心理学的な学問は必ずしもそのことを実現していないことを，ある研究を例に挙げて議論する．この回で登場する例はその後もなんどもリフレインのように再登場し，生きているひとの研究がどうあるべきかを問う土台になる
+
+The conventional cognitive science stick to the methodology of natural science too much to discuss essential aspects of human mind and cognition.
+第3回 「生きているひと」の探究の実験提案の議論[ A proposal of cognitive experiment ]
+履修者がグループワークで，実験提案のための議論を行う．
+
+Students form a group to discuss and propose a cognitive experiment.
+第4回 「生きているひと」の探究の実験提案の発表前半[ Presentation of proposal 1 ]
+各グループの実験提案を発表する
+
+presentation of the product of #3
+第5回 「生きているひと」の探究の実験提案の発表後半[ Presentation of proposal 2 ]
+各グループの実験提案を発表する
+
+presentation of the product of #3
+第6回 観測行為と対象の相互作用[ Interaction of observation onto observed objects ]
+探究のための観測行為は，必ず観測対象に影響を与えることを説く． 
+そうであるならば，その影響は探究において支障はないのかどうかを議論する． 
+In general, the act of observation has an inevitable influence on the observed object. We will discuss its meaning in cognitive science.
+第7回 本来性：学ばせながら観測することの重要性[ Observation and learning ]
+観測行為が影響を与えることは，本来性を担保できるのであれば構わないという新しい考え方を説く．
+
+A new way of thinking that it would be no NG at all if influence of observation on the observed person let him or her learn will be introduced.
+第8回 構成的方法論[ Constructive science ]
+ここまでに議論してきた内容を総じていえば「構成的方法論」であるといえる．自然科学的方法論と構成的方法論の違いを論じ．認知科学的なものの考え方を学ぶ
+
+The methodology of constructive science will be discussed.
+第9回 方法論の挑戦：味覚感性を探究する[ A challenge to a new methodology ]
+例えば味覚感性の進化を探究するという研究例題において，生きているひとの探究であるためにはどのような方法論を採用すべきかを議論する．
+
+Taking an example of studies on the progress (learning) of "kansei" of tasting, we discuss what kind of new methodology is needed.
+第10回 学びは構成的[ Learning is a constructive process ]
+授業内で，ある課題（写真を用いたデザイン課題）を実践的に考えることを通じて，学びは構成的であるということを身をもって知り，生きているひとの探究における構成的方法論の必然性を議論する
+
+Students will be given an assignment using photo books, and are encouraged to feel as the problem of their own life that learning is a constructive process.
+第11回 自然科学vs.構成的方法論の議論その１[ Natural science vs.constructive science 1 ]
+自然科学的な方法論が扱うことを避けてきた問題を議論する．
+
+Problems that have been avoided by the methodology of natural science are discussed.
+第12回 自然科学vs.構成的方法論の議論その２[ Natural science vs.constructive science 2 ]
+自然科学的な方法論が扱うことを避けてきた問題を議論する．
+
+continued on
+第13回 総合討論[ Wrap up discussion and presentation 1 ]
+本講義で扱ってきた様々な概念や方法論について総合討論を行う．
+
+第14回 総合発表[ Wrap up discussion and presentation 2 ]
+認知を科学することをどう捉えるかに関する議論を基に，履修者がグループワークでの成果を発表する．
+
+その他
+* 総合討論* 近未来的な認知科学を切り開くための「ものの考え方」に関して総合討論を行う．
+Wrap up discussion about the scientific methodology to open up the future of cognitive science";

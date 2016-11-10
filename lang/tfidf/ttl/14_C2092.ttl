@@ -1,0 +1,55 @@
+本講義では、情報科学と脳科学の両視点からの知識処理論について学ぶ。 情報科学の視点からは、データベースなどのビッグデータからの知識獲得技術として注目されているデータマイニング（データ発掘）の方法、および、マルチメディア・データ（画像データ、動画データ、音楽データ、文書データ）を対象とし、それらのマルチメディア・データの検索、編集、統合を実現する知識ベースの構築方法を習得する。マルチメディア知識ベース化を行う具体的な応用分野（自然、社会、芸術、生命、医療、地域、科学、交通などの表現）を設定し、その分野の知識ベースを実際のシステム上に構築する。また、マルチメディア知識ベースの構成方式および知識表現モデル、データ構造、操作系について学ぶ。さらに、マルチメディア知識ベースを対象とした連想検索系、感性情報検索系について学ぶ。実際に、マルチメディア・データを対象とした意味的連想検索系、感性情報検索系の構築の実習を行う。 脳科学の視点について、近年の脳科学の発展に伴って、人間の脳内における知識処理のメカニズムが明らかになってきた。後半の講義においては、 主に視覚系や聴覚系における外界からの知識の獲得・処理機構、記憶系における知識の保持機構、マルチモーダルな知識処理に機構について、脳科学的な視点か ら学習する。同時に、解剖学的な脳の構造や伝導路を十分に理解し、末梢性・中枢性の錯覚を実際に体験して、現象から知識処理を習得する。
+
+This lecture addresses the design and creation of knowledge processing and discovery systems from two important aspects of information-science and brain-science. From the viewpoint of "Information-science," we study knowledge base systems for multimedia databases (image, video, music and text databases), data mining and emotion-based ("Kansei") multimedia knowledge processing. The first important objective of this lecture is to develop knowledge and skills for designing and creating multimedia knowledge-bases and multimedia systems with experimental practice. It is essential to study how to analyze, store, retrieve and integrate media data (image, video, music and text) in a knowledge-base system environment. An actual knowledge-base system is used to create experimental multimedia knowledge-bases and applied it to WWW system environments. We also design a meta-level multimedia system with data mining processes for new-multimedia creation. About the latter seven classes, recent advance in brain science has revealed some mechanisms of knowledge processing in a human brain. We study how the visual and auditory systems acquire and process knowledge derived from the external environment, how the memory system retains such knowledge, and how the multimodal knowledge processing is achieved, from a neuroscience point of view. In parallel, they learn anatomical brain structures and pathways, and experience peripheral and central illusions to study knowledge processing phenomenologically.
+
+";
+情報科学の視点からは、知識ベースを実現するための基礎となる知識獲得、 推論の概念、 知識分析の概念、および、データマイニングの概念を習得する。 実際に、LISP 言語あるいは拡張リレーショナルデータベース言語PostGressを用いて、 知識ベースおよびその処理系作成の実習を行う。また、巨大データベースからの知識獲得の新しい技術として最近注目されているデータマイニング (データ発掘) の概念について学ぶ。 画像、 音楽、文書を対象としたマルチメディア・データベース、 知識ベースの構成方法および知識表現モデル、 データ構造、 操作系について解説する。 さらに、マルチメディア・データベースを対象とした連想検索系、 感性情報検索系について学ぶ。 実際に、マルチメディア・データベースを対象とした意味的連想検索系、 感性情報検索系の実現に関する実習を行う。 後半の講義にについて、近年の脳科学の発展に伴って、人間の脳内における知識処理のメカニズムが明らかになってきた。後半の講義においては、 主に視覚系や聴覚系における外界からの知識の獲得・処理機構、記憶系における知識の保持機構、マルチモーダルな知識処理に機構について、脳科学的な視点か ら学習する。同時に、解剖学的な脳の構造や伝導路を十分に理解し、末梢性・中枢性の錯覚を実際に体験して、現象から知識処理を習得する。
+
+In the design of knowledge systems, one of the most important issues is how to search and analyze media data (images, music, movies and documents) with knowledge resources. We study several semantic computing methods based on correlation computing. These methods realize semantic computing for media data, reflecting professional knowledge resources. We study actual "multimedia knowledge base systems” for realizing big-data analysis and data-mining, as a new platform of multimedia computing system. About the latter seven classes,Recent advance in brain science has revealed some mechanisms of knowledge processing in a human brain. We study how the visual and auditory systems acquire and process knowledge derived from the external environment, how the memory system retains such knowledge, and how the multimodal knowledge processing is achieved, from a neuroscience point of view. In parallel, they learn anatomical brain structures and pathways, and experience peripheral and central illusions to study knowledge processing phenomenologically.
+
+";
+第1回 知識処理・知識ベースの概要（担当：清木）
+データベース、知識処理および知識ベースの技術的背景、および、基本的な概念について解説する。
+
+第2回 知識処理と知識ベース（時間、空間ベース）（担当：清木）
+データベース・システム、知識ベースシステムを構築するためのシステムについて解説する。実際に、拡張リレーショナルデータベース言語PostGressを用いて、知識ベースおよびその処理系作成環境の設定を行う。知識ベースにおける情報検索方式、および、それを実現する知識ベースシステム構成について解説する。また、時間的、空間的情報により、知識ベース間データを検索・結合する方法について解説する。
+
+第3回 マルチメディア知識処理システム（担当：清木）
+マルチメディア知識ベースに内在する情報を表現するメタデータの概念を示し、メタデータの獲得方法 およびメタデータベースの構成について解説する。拡張リレーショナルデータベース言語PostGressを用いて、知識ベースお よびその知識処理系作成の実習を行う。メタベータベースとは、文書、画像、音楽などのメディアデータを有する知識ベース群を対象とした情報獲得において、それらのデータについての抽象情報をメタデータとして蓄積することにより、メディアデータ群を対象とした情報獲得の可能性を高めること目的として構成される知識ベースである. ここでは、実際の知識ベースの実現例についても紹介する。
+
+第4回 マルチメディア知識ベース　（画像・音楽知識ベース）（担当：清木）
+画像、映像、音楽などのメディア・データを対象とするマルチメディア知識ベースの構成方法について解説する。マルチメディアを対 象とした知識ベース・システムの検索機構を構成する場合には、感性表現とメディア・データ群の間の感性的な（あるいは、意味的 な）同一性、関連性を計算する検索機能が必要となる。ここでは、画像データ、音楽データを対象とした感性データベースの構築方法 について解説する。実際に、画像、音楽、映像などを対象とした感性データベース設計を実習する。第１回のレポートの課題について説明する。
+
+第5回 知識ベースの時間・空間情報処理への応用（担当：清木）
+時間的、空間的情報を有する知識ベースを対象とした検索、意味計算などの新しい知識ベース検索を実現する知識ベースシステムについて解説し、時空間知識ベースのデザイン分野への応用、特に、モバイルコンピューティングへの応用について実習を行う。
+
+第6回 ビッグ・データ分析、データマイニングと知識発見（担当：清木）
+知識ベースシステムにおける重要な操作であるルール獲得の基本概念について述べ、ビッグデータ（大量情報）の中からそこに内在する知識あるいは ルール群を動的に発見、獲得するための方式として注目されているデータマイニングと知識発見の概念について実習を行う。
+
+第7回 マルチメディア知識処理、知識ベースの応用（担当：清木）
+マルチメディア知識処理システム、知識ベース、感性データベースの新しい応用について考察し、その構築をを実習する。それらの構築方法を復習し、それらの応用について考察する。マルチメディア知識処理、知識ベース、感性知識ベースの構築方法を復習し、それらの応用について考察する。本講義全体について復習し、基礎的な項目の知識を確認する。画像、映像、音楽などのメディア・データを対象とするマルチメディア知識ベースの構成方法について復習する。
+
+第8回 知識処理と脳科学（担当：青山）
+脳科学から見た知識処理について、基本的な概念や背景を概説する。
+
+第9回 末梢視覚系における知識の獲得と処理（担当：青山）
+人間にとって最も優位な感覚である視覚に関して、眼の構造や像の形成・光エネルギー変換・簡易な知識抽出などの一連の知識処理過程を解説す る。また盲点におけるフィリングインや色対立の実験などの錯視を実際に体験し、末梢レベルにおける視覚の知識処理がどのように行われているの かを現象から学ぶ。
+
+第10回 中枢視覚系における知識の獲得と処理（担当：青山）
+網膜・外側膝状体・視覚皮質などの中枢視覚系の視覚伝導路について概説し、末梢視覚系で処理された知識が特徴別に分散処理され再統合される知 識処理過程を解説する。またミュラーリヤー錯視などの様々な錯視を実際に体験し、中枢レベルにおける視覚の知識処理がどのように行われている のかを現象から学ぶ。
+
+第11回 聴覚系における知識の獲得と処理（担当：青山）
+鼓膜・耳小骨・蝸牛などの末梢聴覚系と腹側蝸牛神経核・上オリーブ核・下丘・内側膝状体・聴覚皮質などの中枢聴覚系の聴覚伝導路について解説 し、聴覚における知識獲得とその処理に関して学習する。
+
+第12回 記憶系における知識の保持Ⅰ（担当：青山）
+記憶の分類（陳述記憶／非陳述記憶、感覚記憶／作業記憶／短期記憶／長期記憶）に関して解説し、マジカルナンバー7、あるいはマジカルナン バー4と呼ばれる作業記憶の限界について実際に実験を行って学習する。第2回のレポートの課題について説明する。
+
+第13回 記憶系における知識の保持Ⅱ（担当：青山）
+脳内における海馬や側頭葉、前頭前野の役割と知識保持のメカニズムを解説する。また、H.M.の健忘症やラットの迷路学習の研究例から陳述記 憶と非陳述記憶の違いを学習する。
+
+第14回 マルチモーダル知識処理Ⅱ（担当：青山）
+視覚系や聴覚系以外の感覚、特に化学系と呼ばれる味覚系と嗅覚系における知識獲得とその処理に関して学習する。また、 感覚系・記憶系の知識処理を総合的に復習すると共に、複数の感覚系に跨る統合的な知識処理に関して解説する。
+
+その他
+* 講義全体のまとめ* 講義全体について復習し、知識処理システム構築方法を復習する。
+";
