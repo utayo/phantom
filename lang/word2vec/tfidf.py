@@ -22,7 +22,7 @@ tfidf_vectorizer = TfidfVectorizer(
 )
 
 print(tfidf.toarray())
-tfidf = tfidf_vectorizer.fit_transform(docs)
+
 
 for k,v in sorted(tfidf_vectorizer.vocabulary_.items(), key=lambda x:x[1]):
     print k,v
