@@ -24,6 +24,7 @@ token_dict = {}
 docs = np.array([
 
 ])
+name_list = []
 
 # 引数として、CountVectorizerとTfidfTransformerで使った双方の引数が指定できるようになっている
 #tfidf_vectorizer = TfidfVectorizer(tokenizer=tokenize,input='context', max_features=3000, token_pattern=u'(?u)\\b\\w+\\b')
@@ -36,11 +37,12 @@ tfidf_vectorizer = TfidfVectorizer(
 )
 
 # 全ファイルパスを入れた変数でfit_transform
-files = ['ttl/' + path for path in os.listdir('ttl')]
+files = [path for path in os.listdir('ttl')]
 
 ttl_length = 0
-for file in files:
-	f = codecs.open(file, 'r', 'utf-8')
+for file_name in files:
+	name_list.append(file_name.split('.')[0])
+	f = codecs.open('ttl/'+file_name, 'r', 'utf-8')
 	text = f.read()
 	wakati = tokenize(text)
 	docs = np.append(docs, wakati)
@@ -52,75 +54,51 @@ tfidf = tfidf_vectorizer.fit_transform(docs)
 tarray = tfidf.toarray()
 # feature_name一覧
 feature_names = tfidf_vectorizer.get_feature_names()
+#for k,v in sorted(tfidf_vectorizer.vocabulary_.items(), key=lambda x:x[1]):
+#    print k,v
 
-'''
-for faddr in flist:
-	f = codecs.open(faddr, 'r', 'UTF-8')
-	if(f):
-		text = f.read()
-		encode_text = text
-		token_dict[faddr] = encode_text
-	else:
-		print faddr, ' Fale'
-
-
-# 引数として、CountVectorizerとTfidfTransformerで使った双方の引数が指定できるようになっている
-#tfidf_vectorizer = TfidfVectorizer(tokenizer=tokenize,input='context', max_features=3000, token_pattern=u'(?u)\\b\\w+\\b')
-tfidf_vectorizer = TfidfVectorizer(
-    use_idf=True,
-    lowercase=False,
-	max_df=0.1,
-	max_features=10000,
-	norm='l1'
-)
-
-# 全ファイルパスを入れた変数でfit_transform
-files = ['ttl/' + path for path in os.listdir('ttl')]
-i = 0
-for file in files:
-	f = codecs.open(file, 'r', 'utf-8')
-	text = f.read()
-	wakati = tokenize(text)
-	docs = np.append(docs, wakati)
-	i=i+1
-	if(i>1000):
-		break
-
-tfidf = tfidf_vectorizer.fit_transform(docs)
-# feature_name一覧
-feature_names = tfidf_vectorizer.get_feature_names()
-
-'''
-
-for k,v in sorted(tfidf_vectorizer.vocabulary_.items(), key=lambda x:x[1]):
-    print k,v
 
 
 def make_syllabus2vec(num):
     arr = tarray[num]
     top_idx = arr.argsort()[-50:][:-1]
+
     words = [feature_names[idx] for idx in top_idx]
-
     syllabus2vec = np.array([0.0 for i in range(200)])
-    #print len(arr)
-
+    print 'make syllabus'
     for k in range(len(top_idx)):
-        #print(model[words[i]])
         tfidf_value = arr[top_idx[k]]
         try:
             a = [tfidf_value * v for v in model[words[k]]]
             syllabus2vec += a
-            print words[k]
+            #print words[k]
         except KeyError as e:
             print e
+
     return syllabus2vec
 
-print 'the number of syllabus:', 
+def compare_syllabus(s1, s2):
+    vec1 = make_syllabus2vec(s1)
+    vec2 = make_syllabus2vec(s2)
 
-s1 = make_syllabus2vec(10)
-s2 = make_syllabus2vec(11)
-s3 = make_syllabus2vec(12)
+    print files[s1].split('.')[0], '--', files[s2].split('.')[0]
+    distance = dis.cosine(vec1, vec2)
+    print distance
+    return distance
 
-print dis.cosine(s1, s2)
-print dis.cosine(s1, s3)
-print dis.cosine(s2, s3)
+def find_similar_syllabus(sNum):
+    sy_list = {}
+    for i in range(len(tarray)):
+        f = files[i].split('.')[0]
+        distance = compare_syllabus(sNum, i)
+        sy_list[f] = distance
+    return  sorted(sy_list.items(), reverse=True, key=lambda x:x[1])
+
+print 'the number of syllabus:', ttl_length
+print 'tarray:', len(tarray)
+
+
+syList = find_similar_syllabus(100)
+for k, v in syList:
+    print k, ':', v
+

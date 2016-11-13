@@ -34,8 +34,8 @@ casper.on('hoge', function(addr, num){
 			a.querySelector('.sm').remove();
 			a.querySelector('br').remove();
 			obj["ja_name"] = a.innerText;
-
 			obj["test"] = [];
+			//obj["address"] = addr;
 			//	table要素から取得したい
 			
 			table_list = document.querySelectorAll('table');
@@ -98,6 +98,7 @@ casper.on('hoge', function(addr, num){
 			"campas",
 			"course_type",
 			"homepage"
+
 		];
 
 		/*
@@ -125,20 +126,26 @@ casper.on('hoge', function(addr, num){
 		
 		this.echo(Object.keys(data));
 		*/
+		data["link"] = addr;
 		var lec =  data["lecture_id"] + '.ttl';
-	
+		/*
 		var sylb_elements = [
 			"summary",
 			"method",
 			"schedule"
 		];
-		
+		*/
+		var sylb_elements = [
+			"ja_name",
+			"lecture_id",
+			"link"
+		]
 		//var sylb_rdf_header = "@prefix sylbank: <http://example.com/syllabus:> .\n@prefix lect: <http://example.com/lecture_vocabulary:> .\n\n"
 		var sylb_rdf = "";
 //		sylb_rdf += '\tlect:lecture_id"' + data["lecture_id"] + '";\n';
 		sylb_elements.forEach(function(el){
 			if(data[el])
-				sylb_rdf += data[el] + '";\n';
+				sylb_rdf += data[el] + '\n';
 		});
 		/*
 		sylb_rdf += '\tlect:lecture_id"' + data["lecture_id"] + '";\n';
@@ -146,24 +153,27 @@ casper.on('hoge', function(addr, num){
 		sylb_rdf += '\tsylb:method "' + data["method"] + '";\n';
 		sylb_rdf += '\tsylb:schedule "' + data["schedule"] + '";\n';
 		*/
-		var syl = 'docs/' + data["lecture_id"] + '.ttl';
+		//var syl = 'docs/' + data["lecture_id"] + '.ttl';
+		var syl = 'sylb/' + data["lecture_id"] + '.txt';
+		
 		//console.log(sylb_rdf);
 		this.echo(sylb_rdf);
 		if(!list[data["lecture_id"]]){
 			files++;
 			//fs.write(lec, rdf_header + rdf, 'w');
 			fs.write(syl, sylb_rdf, 'w');
+			//this.echo(sylb_rdf);
 			list[data["lecture_id"]] = true;
 		}else{
 			//fs.write(lec, rdf, 'a');
-			fs.write(syl, sylb_rdf, 'a');
+			//fs.write(syl, sylb_rdf, 'a');
 		}
 		this.echo('aaa:'+files);
 });
 
 casper.on('get_syllabus', function(){
 	var url = arr[url_num];
-	this.echo(url_num);
+	//this.echo(url_num);
 	this.open(url).then(function(){
 		/*
 		url_num++;
