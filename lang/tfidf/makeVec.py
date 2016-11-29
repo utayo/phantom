@@ -16,10 +16,16 @@ def tokenize(text):
     wakati = MeCab.Tagger("-Owakati")
     return wakati.parse(text.encode('utf-8'))
 
-w2v_dimension = 500
+w2v_dimension = 200
 
 data = word2vec.Text8Corpus('data.txt')
-model = word2vec.Word2Vec(data, size=w2v_dimension)
+if os.path.exists("myModel.word2vec"):
+    print 'load w2v'
+    model = word2vec.Word2Vec.load("myModel.word2vec")
+else:
+    print 'make myModel.word2vec'
+    model = word2vec.Word2Vec(data, size=w2v_dimension)
+    model.save("myModel.word2vec")
 
 
 token_dict = {}
@@ -46,15 +52,20 @@ def make_syllabus2vec(num, id):
 
     words = [feature_names[idx] for idx in top_idx]
     syllabus2vec = np.array([0.0 for i in range(w2v_dimension)])
+    l = {}
     print 'make syllabus'
     for k in range(len(top_idx)):
         tfidf_value = arr[top_idx[k]]
         try:
             a = [tfidf_value * v for v in model[words[k]]]
             syllabus2vec += a
-            lec_data_list[id]["vec"][words[k]] = tfidf_value
+            #lec_data_list[id]["vec"][words[k]] = tfidf_value
+            l[words[k]] = tfidf_value
         except KeyError as e:
             print e
+    
+    lec_data_list[id]["vec"] = sorted(l.items(), reverse=True, key=lambda x:x[1])
+    
 
     return syllabus2vec
 
@@ -136,12 +147,17 @@ for i in range(len(tarray)):
     id = files[i].split('.')[0]
     print lec_data_list[id]["name"]
     similarity_list += lec_data_list[id]["name"] + '\n'
+    
+    for w in range(10):
+        d = lec_data_list[id]["vec"][w]
+        print d[0], d[1]
+    
     for k, v in syList:
         print lec_data_list[k]["name"], ':', str(v)
         hoge = lec_data_list[k]["name"]+ ':'+ str(v) + '\n'
         similarity_list += hoge
         n = n+1
-        if(n>10):
+        if(n>6):
             break
 
 out = codecs.open('similarity_list500.txt', 'w', 'utf-8')
