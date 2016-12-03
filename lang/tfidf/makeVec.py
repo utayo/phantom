@@ -19,13 +19,15 @@ def tokenize(text):
 w2v_dimension = 200
 
 data = word2vec.Text8Corpus('data.txt')
-if os.path.exists("myModel.word2vec"):
+myModelName = "myModel"+str(w2v_dimension)+".word2vec"
+print myModelName
+if os.path.exists(myModelName):
     print 'load w2v'
-    model = word2vec.Word2Vec.load("myModel.word2vec")
+    model = word2vec.Word2Vec.load(myModelName)
 else:
     print 'make myModel.word2vec'
     model = word2vec.Word2Vec(data, size=w2v_dimension)
-    model.save("myModel.word2vec")
+    model.save(myModelName)
 
 
 token_dict = {}
@@ -34,22 +36,13 @@ docs = np.array([
 ])
 name_list = []
 
-# 引数として、CountVectorizerとTfidfTransformerで使った双方の引数が指定できるようになっている
-#tfidf_vectorizer = TfidfVectorizer(tokenizer=tokenize,input='context', max_features=3000, token_pattern=u'(?u)\\b\\w+\\b')
-tfidf_vectorizer = TfidfVectorizer(
-    use_idf=True,
-    lowercase=False,
-	max_df=0.2,
-	max_features=10000,
-	norm='l2'
-)
 
+tfidf_vectorizer = TfidfVectorizer(use_idf=True,lowercase=False,max_df=0.05,max_features=10000,norm='l2')
 
 
 def make_syllabus2vec(num, id):
     arr = tarray[num]
-    top_idx = arr.argsort()[-50:][:-1]
-
+    top_idx = arr.argsort()[-100:][:-1]
     words = [feature_names[idx] for idx in top_idx]
     syllabus2vec = np.array([0.0 for i in range(w2v_dimension)])
     l = {}
@@ -59,13 +52,11 @@ def make_syllabus2vec(num, id):
         try:
             a = [tfidf_value * v for v in model[words[k]]]
             syllabus2vec += a
-            #lec_data_list[id]["vec"][words[k]] = tfidf_value
             l[words[k]] = tfidf_value
         except KeyError as e:
             print e
     
-    lec_data_list[id]["vec"] = sorted(l.items(), reverse=True, key=lambda x:x[1])
-    
+    lec_data_list[id]["vec"] = sorted(l.items(), reverse=True, key=lambda x:x[1])  
 
     return syllabus2vec
 
@@ -94,6 +85,35 @@ def find_similar_syllabus(sNum):
         distance = compare_syllabus(sNum, i)
         sy_list[f] = distance
     return  sorted(sy_list.items(), reverse=False, key=lambda x:x[1])
+
+def find_similar_syllabus_by_vec(vec):
+    sy_list = {}
+    for i in range(len(tarray)):
+        f = files[i].split('.')[0]
+        cVec = lec_data_list[f]["s2v"]
+        distance = cal_cosDistance(vec, cVec)
+        sy_list[f] = distance
+    return  sorted(sy_list.items(), reverse=False, key=lambda x:x[1])
+
+
+def cal_cosDistance(vec1, vec2):
+    if len(vec1)!=len(vec2):
+        return -1
+    l = len(vec1)
+    distance = dis.cosine(vec1, vec2)
+    return distance
+
+def cal_housdorff_distance(vec1, vec2):
+    max_distance = 0
+    for v1 in vec1:
+        for v2 in vec2:
+            print v1
+            print v2
+            d = np.linalg.norm(v1-v2)
+            if d>max_distance:
+                max_distance = d
+    print d
+
 
     # 全ファイルパスを入れた変数でfit_transform
 files = [path for path in os.listdir('ttl')]
@@ -187,3 +207,4 @@ for i in range(len(tarray)):
 
 #out = codecs.open('syllabus2vec500.csv', 'w', 'utf-8')
 #out.write(string_syllabus2vec)
+
