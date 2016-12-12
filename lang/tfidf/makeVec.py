@@ -109,19 +109,25 @@ def cal_cosDistance(vec1, vec2):
 #ハウスドルフ距離を求める
 #ベクトルの集合において一番遠い要素同士の距離を求める
 def cal_housdorff_distance(vec1, vec2):
-    max_distance = 0
+    result = 0
     
-    for v1 in vec1:
-        for v2 in vec2:
-            d = dis.cosine(v1,v2)
-            if d>max_distance:
-                max_distance = d
-            if vec2 > 30:
-                break
-        if vec1 > 30:
+    for v1 in range(len(vec1)):
+        if v1 > 20:
             break
+        min_distance = 10000
+        for v2 in range(len(vec2)):
+            if v2 > 20:
+                break
+            d = np.linalg.norm(vec1[v1]-vec2[v2])
+            if d<min_distance:
+                min_distance = d
+
+        result += min_distance
+    
+
+
     #print d
-    return max_distance
+    return result
 
 def cal_hd_syllabus(id1, id2):
     s1vec = lec_data_list[c(id1)]["vec"]
@@ -181,27 +187,38 @@ def make_simFile():
 
     for i in range(len(tarray)):
         syList = find_similar_syllabus(i)
-        n = 0
-        print '\n'
+        #print '\n'
         id = files[i].split('.')[0]
         print lec_data_list[id]["name"]
+        n = 0
+        for k, v in syList:
+            print lec_data_list[k]["name"], v
+            n = n+1
+            if n>10:
+                print '\n'
+                break
         similarity_list += lec_data_list[id]["name"] + '\n'
 
+        """
         for w in range(len(lec_data_list[id]["vec"])):
             if w == 20:
                 break
             d = lec_data_list[id]["vec"][w]
             print d[0], d[1]
-
+        
+    
+    n = 0
     for k, v in syList:
         print lec_data_list[k]["name"], ':', str(v)
         hoge = lec_data_list[k]["name"]+ ':'+ str(v) + '\n'
+        print hoge
         similarity_list += hoge
         n = n+1
         if(n>6):
             break
     #out = codecs.open('similarity_list500.txt', 'w', 'utf-8')
     #out.write(similarity_list)
+        """
 
 make_simFile()
 
