@@ -47,7 +47,7 @@ def make_syllabus2vec(num, id):
     words = [feature_names[idx] for idx in top_idx]
     syllabus2vec = np.array([0.0 for i in range(w2v_dimension)])
     l = {}
-    print 'make syllabus'
+    #print 'make syllabus'
     for k in range(len(top_idx)):
         tfidf_value = arr[top_idx[k]]
         try:
@@ -56,7 +56,8 @@ def make_syllabus2vec(num, id):
             if tfidf_value > 0.001:
                 l[words[k]] = tfidf_value
         except KeyError as e:
-            print e
+            0
+            #print e
     
     lec_data_list[id]["vec"] = sorted(l.items(), reverse=True, key=lambda x:x[1])  
 
@@ -87,7 +88,11 @@ def find_similar_syllabus(sNum):
         #distance = compare_syllabus(sNum, i)
         distance = cal_hd_syllabus(files[sNum], files[i])
         sy_list[f] = distance
-    return  sorted(sy_list.items(), reverse=False, key=lambda x:x[1])
+    #キーでソートして返すようにしてみるお
+    #sy_list = sorted(sy_list.items(), reverse=False, key=lambda x:x[1])
+    sy_list = sorted(sy_list.items(), reverse=False)
+
+    return  sy_list
 
 def find_similar_syllabus_by_vec(vec):
     sy_list = {}
@@ -108,36 +113,76 @@ def cal_cosDistance(vec1, vec2):
 
 #ハウスドルフ距離を求める
 #ベクトルの集合において一番遠い要素同士の距離を求める
-def cal_housdorff_distance(vec1, vec2):
+def cal_housdorff_distance(wList1, wList2):
     result = 0
-    
-    for v1 in range(len(vec1)):
+    sim_word = -1
+    for v1 in range(len(wList1)):
         if v1 > 20:
             break
         min_distance = 10000
-        for v2 in range(len(vec2)):
+        for v2 in range(len(wList2)):
             if v2 > 20:
                 break
-            d = np.linalg.norm(vec1[v1]-vec2[v2])
+            d = np.linalg.norm(model[wList1[v1]]-model[wList2[v2]])
             if d<min_distance:
                 min_distance = d
-
+                sim_word = v2
         result += min_distance
     
-
-
     #print d
     return result
 
 def cal_hd_syllabus(id1, id2):
     s1vec = lec_data_list[c(id1)]["vec"]
-    v1 = [model[w[0]] for w in s1vec]
+    v1 = [w[0] for w in s1vec]
     s2vec = lec_data_list[c(id2)]["vec"]
-    v2 = [model[w[0]] for w in s2vec]
+    v2 = [w[0] for w in s2vec]
     
     return cal_housdorff_distance(v1, v2)
 
+def print_similar_word(id1, id2):
+    s1vec = lec_data_list[c(id1)]["vec"]
+    w1 = [w[0] for w in s1vec]
+    s2vec = lec_data_list[c(id2)]["vec"]
+    w2 = [w[0] for w in s2vec]
 
+    for v1 in range(len(w1)):
+        if v1 > 10:
+            break
+        min_distance = 10000
+        sim_word = -1
+        for v2 in range(len(w2)):
+            if v2 > 20:
+                break
+            d = np.linalg.norm(model[w1[v1]]-model[w2[v2]])
+            if d < min_distance:
+                min_distance = d
+                sim_word = v2
+        print w1[v1], w2[sim_word], min_distance
+
+
+def compare_vec(v1, v2):
+    if len(v1)>len(v2):
+        bv = v1
+        sv = v2
+    else:
+        bv = v2
+        sv = v1
+    result = 0
+    for i in range(len(bv)):
+        if i>20:
+            break
+        min_distance = 10000
+        v = bv[i]
+        for j in range(len(sv)):
+            if j>20:
+                break
+            _v = sv[j]
+            d = np.linalg.norm(v-_v)
+            if d < min_distance:
+                min_distance = d
+        result += min_distance
+    return min_distance
 
     # 全ファイルパスを入れた変数でfit_transform
 files = [path for path in os.listdir('ttl')]
@@ -180,26 +225,50 @@ make_all_syllabus2vec()
 print 'the number of syllabus:', ttl_length
 print 'tarray:', len(tarray)
 
+def save_file(fname, string):
+    out = codecs.open(fname, 'w', 'utf-8')
+    out.write(string)
 
 
 def make_simFile():
+    distance_array = []
     similarity_list = ""
 
     for i in range(len(tarray)):
+        arr = []
+        if i>10000:
+            break
+        else:
+            print i
+        string = ""
         syList = find_similar_syllabus(i)
-        #print '\n'
+        #二次元配列になっているので、距離だけを抜き出してdis_arrayに格納
+        distance_array.append([ar[1] for ar in syList])
         id = files[i].split('.')[0]
-        print lec_data_list[id]["name"]
+        name = lec_data_list[id]["name"]
+        #string += lec_data_list[id]["name"] + '\n'
+        print i, lec_data_list[id]["name"]
         n = 0
         for k, v in syList:
-            print lec_data_list[k]["name"], v
-            n = n+1
-            if n>10:
-                print '\n'
-                break
-        similarity_list += lec_data_list[id]["name"] + '\n'
+            
+            #if n>5:
+                #print '\n'
+                #break
+                
+            if v!=0:
+                #string += id+","+k+","+ str(v)+"\n"
+                string += name + "," + lec_data_list[k]["name"] + ","+ str(v)+"\n"
+                #print_similar_word(id, k)
+                n = n+1
+            
+        similarity_list += string
+        
+    save_file('distance_list.csv', similarity_list)
+    return distance_array
+    
+        
 
-        """
+"""
         for w in range(len(lec_data_list[id]["vec"])):
             if w == 20:
                 break
@@ -218,9 +287,10 @@ def make_simFile():
             break
     #out = codecs.open('similarity_list500.txt', 'w', 'utf-8')
     #out.write(similarity_list)
-        """
+"""
 
-make_simFile()
+#make_simFile()
+
 
 
 def make_syllabus_string(num):
@@ -248,3 +318,5 @@ for i in range(len(tarray)):
 #out = codecs.open('syllabus2vec500.csv', 'w', 'utf-8')
 #out.write(string_syllabus2vec)
 
+
+print 'Finish. Please run make_simFile to make distances between syllabuses.'
