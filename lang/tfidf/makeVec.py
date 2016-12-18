@@ -250,7 +250,6 @@ def make_simFile():
         print i, lec_data_list[id]["name"]
         n = 0
         for k, v in syList:
-            
             #if n>5:
                 #print '\n'
                 #break
@@ -265,7 +264,27 @@ def make_simFile():
         
     save_file('distance_list.csv', similarity_list)
     return distance_array
-    
+
+#csvファイルを読み込んで、二次元配列に落とし込む
+def import_csv(fname):
+    f = codecs.open(fname, 'r', 'utf-8')
+    result_array = []
+    for row in f:
+        result_array.append([str(el) for el in row.split(',')])
+    return result_array
+
+#二次元配列をcsvファイルに出力する
+def output_csv(arr, fname):
+    output = ""
+    for a in arr:
+        buf = ""
+        for b in a:
+            buf += str(b) + ','
+        string = buf.rstrip(',')
+        output += string + '\n'
+    out = codecs.open(fname, 'w', 'utf-8')
+    out.write(output.rstrip('\n'))
+
         
 
 """
