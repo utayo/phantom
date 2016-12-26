@@ -8,7 +8,6 @@ var addr_list = [
 	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_3.html',
 	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_4.html',
 	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_5.html',
-
 	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_6.html',
 	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_7.html',
 	'http://vu.sfc.keio.ac.jp/course_u/data/2016/csec14_8.html',

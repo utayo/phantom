@@ -18,7 +18,7 @@ def tokenize(text):
 
 w2v_dimension = 200
 
-data = word2vec.Text8Corpus('data.txt')
+
 myModelName = "myModel"+str(w2v_dimension)+".word2vec"
 print myModelName
 if os.path.exists(myModelName):
@@ -26,6 +26,7 @@ if os.path.exists(myModelName):
     model = word2vec.Word2Vec.load(myModelName)
 else:
     print 'make myModel.word2vec'
+    data = word2vec.Text8Corpus('data.txt')
     model = word2vec.Word2Vec(data, size=w2v_dimension)
     model.save(myModelName)
 
@@ -36,10 +37,14 @@ docs = np.array([
 name_list = []
 
 
+
 tfidf_vectorizer = TfidfVectorizer(use_idf=True,lowercase=False,max_df=0.2,max_features=10000,norm='l2')
 
 def c(str):
     return str.split('.')[0]
+
+def sid(n):
+    return sorted(lec_data_list.keys())[n]
 
 def make_syllabus2vec(num, id):
     arr = tarray[num]
@@ -59,7 +64,7 @@ def make_syllabus2vec(num, id):
             0
             #print e
     
-    lec_data_list[id]["vec"] = sorted(l.items(), reverse=True, key=lambda x:x[1])  
+    lec_data_list[id]["vec"] = sorted(l.items(), reverse=True, key=lambda x:x[1])[:20]
 
     return syllabus2vec
 
@@ -116,6 +121,10 @@ def cal_cosDistance(vec1, vec2):
 def cal_housdorff_distance(wList1, wList2):
     result = 0
     sim_word = -1
+    if len(wList1)>20:
+        wList1 = wList1[:20]
+    if len(wList2)>20:
+        wList2 = wList2[:20]
     for v1 in range(len(wList1)):
         if v1 > 20:
             break
@@ -138,7 +147,7 @@ def cal_hd_syllabus(id1, id2):
     s2vec = lec_data_list[c(id2)]["vec"]
     v2 = [w[0] for w in s2vec]
     
-    return cal_housdorff_distance(v1, v2)
+    return min(cal_housdorff_distance(v1, v2),cal_housdorff_distance(v2, v1))
 
 def print_similar_word(id1, id2):
     s1vec = lec_data_list[c(id1)]["vec"]
@@ -147,7 +156,7 @@ def print_similar_word(id1, id2):
     w2 = [w[0] for w in s2vec]
 
     for v1 in range(len(w1)):
-        if v1 > 10:
+        if v1 > 20:
             break
         min_distance = 10000
         sim_word = -1
@@ -229,6 +238,8 @@ def save_file(fname, string):
     out = codecs.open(fname, 'w', 'utf-8')
     out.write(string)
 
+
+#hoge
 
 def make_simFile():
     distance_array = []
