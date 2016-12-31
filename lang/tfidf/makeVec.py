@@ -19,7 +19,11 @@ def tokenize(text):
 w2v_dimension = 200
 
 
-myModelName = "myModel"+str(w2v_dimension)+".word2vec"
+if len(sys.argv)==1:
+	myModelName = "myModel"+str(w2v_dimension)+".word2vec"
+	#myModelName = "wikiModel.word2vec"
+else:
+	myModelName = sys.argv[1]
 print myModelName
 if os.path.exists(myModelName):
     print 'load w2v'
@@ -147,13 +151,16 @@ def cal_hd_syllabus(id1, id2):
     s2vec = lec_data_list[c(id2)]["vec"]
     v2 = [w[0] for w in s2vec]
     
-    return min(cal_housdorff_distance(v1, v2),cal_housdorff_distance(v2, v1))
+    #return min(cal_housdorff_distance(v1, v2),cal_housdorff_distance(v2, v1))
+    return cal_housdorff_distance(v1, v2) + cal_housdorff_distance(v2, v1)
 
 def print_similar_word(id1, id2):
     s1vec = lec_data_list[c(id1)]["vec"]
     w1 = [w[0] for w in s1vec]
     s2vec = lec_data_list[c(id2)]["vec"]
     w2 = [w[0] for w in s2vec]
+
+    print lec_data_list[c(id1)]["name"], '--', lec_data_list[c(id2)]["name"]
 
     for v1 in range(len(w1)):
         if v1 > 20:
@@ -193,6 +200,21 @@ def compare_vec(v1, v2):
         result += min_distance
     return min_distance
 
+
+def listup(sn):
+    l = lec_data_list[sid(sn)]
+    slist = find_similar_syllabus(sn)
+    sslist = sorted(slist, reverse=False, key=lambda x:x[1])
+    print l["name"]
+    i = 0
+    for k, v in sslist:
+        print lec_data_list[k]["name"], v
+        print_similar_word(sid(sn), k)
+        i=i+1
+        if i>10:
+            break
+
+            
     # 全ファイルパスを入れた変数でfit_transform
 files = [path for path in os.listdir('ttl')]
 
@@ -267,7 +289,7 @@ def make_simFile():
                 
             if v!=0:
                 #string += id+","+k+","+ str(v)+"\n"
-                string += name + "," + lec_data_list[k]["name"] + ","+ str(v)+"\n"
+                string += name + "," + lec_data_list[k]["id"] + ","+ str(v)+"\n"
                 #print_similar_word(id, k)
                 n = n+1
             
@@ -338,15 +360,13 @@ def make_syllabus_string(num):
 
     return result
 
-"""
-string_syllabus2vec = ""
-for i in range(len(tarray)):
-    string_syllabus2vec += make_syllabus_string(i) + "\n"
-"""
+def ss():
+    string_syllabus2vec = ""
+    for i in range(len(tarray)):
+        string_syllabus2vec += make_syllabus_string(i) + "\n"
 
-
-#out = codecs.open('syllabus2vec500.csv', 'w', 'utf-8')
-#out.write(string_syllabus2vec)
+    out = codecs.open('syllabus2vec500.csv', 'w', 'utf-8')
+    out.write(string_syllabus2vec)
 
 
 print 'Finish. Please run make_simFile to make distances between syllabuses.'
