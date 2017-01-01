@@ -130,17 +130,30 @@ def cal_housdorff_distance(wList1, wList2):
     if len(wList2)>20:
         wList2 = wList2[:20]
     for v1 in range(len(wList1)):
-        if v1 > 20:
+        if v1 > 21:
             break
+        '''
         min_distance = 10000
         for v2 in range(len(wList2)):
             if v2 > 20:
                 break
-            d = np.linalg.norm(model[wList1[v1]]-model[wList2[v2]])
+            #d = np.linalg.norm(model[wList1[v1]]-model[wList2[v2]])
+            d = model.similarity(wList1[v1], wList2[v2])
             if d<min_distance:
                 min_distance = d
                 sim_word = v2
         result += min_distance
+        '''
+        max_similarity = 0
+        for v2 in range(len(wList2)):
+            if v2 > 21:
+                break
+            #d = np.linalg.norm(model[wList1[v1]]-model[wList2[v2]])
+            d = model.similarity(wList1[v1], wList2[v2])
+            if d>max_similarity:
+                max_similarity = d
+                sim_word = v2
+        result += max_similarity
     
     #print d
     return result
@@ -204,7 +217,7 @@ def compare_vec(v1, v2):
 def listup(sn):
     l = lec_data_list[sid(sn)]
     slist = find_similar_syllabus(sn)
-    sslist = sorted(slist, reverse=False, key=lambda x:x[1])
+    sslist = sorted(slist, reverse=True, key=lambda x:x[1])
     print l["name"]
     i = 0
     for k, v in sslist:
